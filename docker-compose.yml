@@ -1,0 +1,62 @@
+services:
+  db:
+    container_name: lm_db
+    image: postgres
+    volumes:
+      - ./database/data:/var/lib/postgresql
+    env_file:
+      - ./database/.env
+    ports:
+      - "8001:5432"
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "postgres"]
+      interval: 5s
+      timeout: 5s
+      retries: 2
+    networks:
+      - fast_api
+
+  airflow-webserver:
+    image: apache/airflow:2.7.3
+    container_name: airflow-webserver
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      AIRFLOW__CORE__LOAD_EXAMPLES: "false"
+      AIRFLOW__CORE__EXECUTOR: "LocalExecutor"
+      AIRFLOW__CORE__SQL_ALCHEMY_CONN: postgresql+psycopg2://postgres:password@db:5432/airflow
+      AIRFLOW__CORE__FERNET_KEY: "YOUR_FERNET_KEY"
+      AIRFLOW__WEBSERVER__RBAC: "True"
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - ./logs:/opt/airflow/logs
+      - ./plugins:/opt/airflow/plugins
+    ports:
+      - "8080:8080"
+    command: webserver
+    restart: unless-stopped
+    networks:
+      - fast_api
+
+  airflow-scheduler:
+    image: apache/airflow:2.7.3
+    container_name: airflow-scheduler
+    depends_on:
+      - airflow-webserver
+    environment:
+      AIRFLOW__CORE__SQL_ALCHEMY_CONN: postgresql+psycopg2://postgres:password@db:5432/airflow
+      AIRFLOW__CORE__FERNET_KEY: "YOUR_FERNET_KEY"
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - ./logs:/opt/airflow/logs
+      - ./plugins:/opt/airflow/plugins
+    command: scheduler
+    restart: unless-stopped
+    networks:
+      - fast_api
+
+networks:
+  fast_api:
+    driver: bridge

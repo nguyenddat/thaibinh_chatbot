@@ -1,0 +1,65 @@
+{
+    "ma_thu_tuc": "1.001731",
+    "ten_thu_tuc": "Hỗ trợ chi phí mai táng cho đối tượng bảo trợ xã hội",
+    "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã\nKhông có thông tin",
+    "linh_vuc": "Bảo trợ xã hội",
+    "trinh_tu_thuc_hien": "- Bước 1: Cá nhân, cơ quan, đơn vị chịu trách nhiệm mai táng cho đối tượng làm hồ sơ theo quy định, gửi Chủ tịch Ủy ban nhân dân cấp xã.- Bước 2: Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được Tờ khai của cá nhân, cơ quan, đơn vị tổ chức đứng ra mai táng cho đối tượng, Chủ tịch Ủy ban nhân dân cấp xã xem xét, quyết định hỗ trợ chi phí mai táng và thực hiện chi trả kinh phí hỗ trợ theo quy định.",
+    "doi_tuong_thuc_hien": "Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)",
+    "yeu_cau_dieu_kien": "Những đối tượng khi chết được hỗ trợ chi phí mai táng:- Đối tượng quy định tại Điều 5 Nghị định số 20/2021/NĐ-CP đang hưởng trợ cấp xã hội hàng tháng.- Con của người đơn thân nghèo đang nuôi con quy định tại khoản 4 Điều 5 Nghị định số 20/2021/NĐ-CP.- Người từ đủ 80 tuổi đang hưởng trợ cấp tuất bảo hiểm xã hội hàng tháng, trợ cấp hàng tháng khác.- Hộ gia đình có người chết, mất tích do thiên tai, hỏa hoạn, dịch bệnh; tai nạn giao thông, tai nạn lao động nghiêm trọng hoặc các lý do bất khả kháng khác.- Cơ quan, tổ chức, cá nhân tổ chức mai táng cho người chết quy định tại khoản 1 Điều 14 nghị định số 20/2021/NĐ-CP do không có người nhận trách nhiệm tổ chức mai táng.",
+    "can_cu_phap_ly": "",
+    "cach_thuc_thuc_hien": [
+        "Trực tiếp",
+        "Trực tuyến",
+        "Dịch vụ bưu chính"
+    ],
+    "thoi_han_giai_quyet": [
+        "3 Ngày làm việc",
+        "3 Ngày làm việc",
+        "3 Ngày làm việc"
+    ],
+    "le_phi": "",
+    "thanh_phan_ho_so": [
+        {
+            "ten_giay_to": "Tờ khai đề nghị hỗ trợ chi phí mai táng của cơ quan, tổ  chức, hộ gia đình hoặc cá nhân đứng ra tổ chức mai táng cho đối tượng (theo Mẫu số 04 ban hành kèm theo Nghị định số 20/2021/NĐ-CP);",
+            "mau_don": "Mus04.docx",
+            "ban_chinh": 1,
+            "ban_sao": 0
+        },
+        {
+            "ten_giay_to": "Bản sao giấy chứng tử hoặc giấy báo tử của đối  tượng",
+            "mau_don": "",
+            "ban_chinh": 0,
+            "ban_sao": 1
+        },
+        {
+            "ten_giay_to": "Bản sao quyết định hoặc danh sách thôi hưởng trợ  cấp bảo hiểm xã hội, trợ cấp khác của cơ quan có thẩm quyền đối với trường hợp người từ đủ 80 tuổi đang hưởng trợ cấp tuất bảo hiểm xã hội hàng tháng, trợ cấp hàng tháng khác",
+            "mau_don": "",
+            "ban_chinh": 0,
+            "ban_sao": 1
+        },
+        {
+            "ten_giay_to": "",
+            "mau_don": "",
+            "ban_chinh": 0,
+            "ban_sao": 0
+        },
+        {
+            "ten_giay_to": "",
+            "mau_don": "",
+            "ban_chinh": 0,
+            "ban_sao": 0
+        },
+        {
+            "ten_giay_to": "",
+            "mau_don": "",
+            "ban_chinh": 0,
+            "ban_sao": 0
+        },
+        {
+            "ten_giay_to": "",
+            "mau_don": "",
+            "ban_chinh": 0,
+            "ban_sao": 0
+        }
+    ]
+}

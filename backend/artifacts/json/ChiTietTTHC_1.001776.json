@@ -1,0 +1,107 @@
+{
+    "ma_thu_tuc": "1.001776",
+    "ten_thu_tuc": "Thực hiện, điều chỉnh, thôi hưởng trợ cấp xã hội hàng tháng, hỗ trợ kinh phí chăm sóc, nuôi dưỡng hàng tháng",
+    "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã\nKhông có thông tin",
+    "linh_vuc": "Bảo trợ xã hội",
+    "trinh_tu_thuc_hien": "- Bước 1: Đối tượng, người giám hộ của đối tượng hoặc tổ chức, cá nhân có liên quan làm hồ sơ theo quy định, gửi Chủ tịch Ủy ban nhân dân cấp xã. - Bước 2: Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được đề nghị của đối tượng, Chủ tịch Ủy ban nhân dân cấp xã tổ chức xem xét, thực hiện xác thực và chuẩn hóa thông tin liên quan của đối tượng với cơ sở dữ liệu quốc gia về dân cư, quyết định và thực hiện chi trả trợ cấp xã hội hằng tháng, hỗ trợ kinh phí nhận chăm sóc, nuôi dưỡng hằng tháng cho đối tượng. Thời gian hưởng từ tháng Chủ tịch Ủy ban nhân dân cấp xã ký quyết định;Trường hợp đối tượng không đủ điều kiện hưởng, điều chỉnh, Chủ tịch Ủy ban nhân dân cấp xã trả lời bằng văn bản, nêu rõ lý do;+ Trường hợp đối tượng đang hưởng trợ cấp xã hội hằng tháng, hỗ trợ kinh phí nhận chăm sóc, nuôi dưỡng hằng tháng thay đổi nơi cư trú và có đề nghị được nhận chế độ chính sách ở nơi cư trú mới, Chủ tịch Ủy ban nhân dân cấp xã nơi cư trú cũ quyết định thôi chi trả chế độ, chính sách tại địa bàn và có văn bản gửi kèm theo giấy tờ có liên quan của đối tượng đến Chủ tịch Ủy ban nhân dân cấp xã nơi cư trú mới của đối tượng;Chủ tịch Ủy ban nhân dân cấp xã nơi cư trú mới căn cứ giấy tờ liên quan của đối tượng quyết định trợ cấp xã hội hằng tháng, hỗ trợ kinh phí chăm sóc hằng tháng theo mức tương ứng áp dụng tại địa bàn từ tháng thôi chi trả tại nơi cư trú cũ;+ Trường hợp đối tượng đang hưởng trợ cấp xã hội, hỗ trợ kinh phí nhận chăm sóc, nuôi dưỡng hằng tháng bị chết, không còn đủ điều kiện hưởng hoặc thay đổi điều kiện hưởng, Chủ tịch Ủy ban nhân dân cấp xã xem xét, quyết định thôi hưởng hoặc điều chỉnh mức hưởng. Thời gian thôi hưởng hoặc điều chỉnh mức hưởng từ tháng ngay sau tháng đối tượng chết, không đủ điều kiện hưởng hoặc thay đổi điều kiện hưởng.",
+    "doi_tuong_thuc_hien": "Công dân Việt Nam",
+    "yeu_cau_dieu_kien": "Đối tượng, người giám hộ của đối tượng quy định tại Điều 5; hộ gia đình, cá nhân nhận chăm sóc, nuôi dưỡng hàng tháng tại cộng đồng theo quy định tại khoản 1 Điều 18 Nghị định số 20/2021/NĐ-CP.",
+    "can_cu_phap_ly": "",
+    "cach_thuc_thuc_hien": [
+        "Trực tiếp",
+        "Trực tuyến",
+        "Dịch vụ bưu chính"
+    ],
+    "thoi_han_giai_quyet": [
+        "10 Ngày làm việc",
+        "10 Ngày làm việc",
+        "10 Ngày làm việc"
+    ],
+    "le_phi": "",
+    "thanh_phan_ho_so": [
+        {
+            "ten_giay_to": "Giấy xác nhận thông tin về cư trú hoặc Giấy thông báo số định danh cá nhân và thông tin công dân trong Cơ sở dữ liệu quốc gia về dân cư; chứng minh thư nhân dân hoặc thẻ căn cước công dân; (Cơ quan có thẩm quyền, cán bộ, công chức, viên chức, cá nhân được giao trách nhiệm tiếp nhận, giải quyết thủ tục hành chính, cung cấp dịch vụ công phải khai thác, sử dụng thông tin về cư trú của công dân trong Cơ sở dữ liệu quốc gia về dân cư để giải quyết thủ tục hành chính, cung cấp dịch vụ công; trường hợp không thể khai thác được thông tin cư trú của công dân thì cơ quan có thẩm quyền, cán bộ, công chức, viên chức, cá nhân được giao trách nhiệm tiếp nhận, giải quyết thủ tục hành chính, cung cấp dịch vụ công có thể yêu cầu công dân nộp bản sao hoặc xuất trình một trong các giấy tờ có giá trị chứng minh thông tin về cư trú)",
+            "mau_don": "",
+            "ban_chinh": 1,
+            "ban_sao": 0
+        },
+        {
+            "ten_giay_to": "Giấy khai sinh của trẻ em đối với trường hợp xét trợ cấp xã hội đối với trẻ em, người đơn thân nghèo đang nuôi con, người khuyết tật đang nuôi con",
+            "mau_don": "",
+            "ban_chinh": 1,
+            "ban_sao": 0
+        },
+        {
+            "ten_giay_to": "Giấy tờ xác nhận bị nhiễm HIV của cơ quan y tế có thẩm quyền đối với trường hợp bị nhiễm HIV",
+            "mau_don": "",
+            "ban_chinh": 1,
+            "ban_sao": 0
+        },
+        {
+            "ten_giay_to": "Giấy tờ xác nhận đang mang thai của cơ quan y tế có thẩm quyền đối với trường hợp người khuyết tật đang mang thai",
+            "mau_don": "",
+            "ban_chinh": 1,
+            "ban_sao": 0
+        },
+        {
+            "ten_giay_to": "Giấy xác nhận khuyết tật đối với trường hợp người khuyết tật",
+            "mau_don": "",
+            "ban_chinh": 1,
+            "ban_sao": 0
+        },
+        {
+            "ten_giay_to": "Tờ khai hộ gia đình có người khuyết tật (theo Mẫu số 2a ban hành kèm theo Nghị định số 20/2021/NĐ-CP)",
+            "mau_don": "Mus2a.docx",
+            "ban_chinh": 1,
+            "ban_sao": 0
+        },
+        {
+            "ten_giay_to": "Tờ khai nhận chăm sóc, nuôi dưỡng đối tượng bảo trợ xã hội (theo Mẫu số 2b ban hành kèm theo Nghị định số 20/2021/NĐ-CP)",
+            "mau_don": "Mus2b.docx",
+            "ban_chinh": 1,
+            "ban_sao": 0
+        },
+        {
+            "ten_giay_to": "Tờ khai của đối tượng được nhận chăm sóc, nuôi dưỡng trong trường hợp đối tượng không hưởng trợ cấp xã hội hàng tháng (theo Mẫu số 03 ban hành kèm theo Nghị định số 20/2021/NĐ-CP)",
+            "mau_don": "Mus03.docx",
+            "ban_chinh": 1,
+            "ban_sao": 0
+        },
+        {
+            "ten_giay_to": "Tờ khai của đối tượng ( theo Mẫu số 1a, 1b, 1c, 1d, 1đ  ban hành kèm theo Nghị định số 20/2021/NĐ-CP).",
+            "mau_don": "Mus1d.docx\nMus1b.docx\nMus1a.docx\nMus1c.docx\nMus1.docx",
+            "ban_chinh": 1,
+            "ban_sao": 0
+        },
+        {
+            "ten_giay_to": "",
+            "mau_don": "",
+            "ban_chinh": 0,
+            "ban_sao": 0
+        },
+        {
+            "ten_giay_to": "",
+            "mau_don": "",
+            "ban_chinh": 0,
+            "ban_sao": 0
+        },
+        {
+            "ten_giay_to": "",
+            "mau_don": "",
+            "ban_chinh": 0,
+            "ban_sao": 0
+        },
+        {
+            "ten_giay_to": "",
+            "mau_don": "",
+            "ban_chinh": 0,
+            "ban_sao": 0
+        },
+        {
+            "ten_giay_to": "",
+            "mau_don": "",
+            "ban_chinh": 0,
+            "ban_sao": 0
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "ma_thu_tuc": "",
+    "ten_thu_tuc": "",
+    "co_quan_thuc_hien": "",
+    "linh_vuc": "",
+    "trinh_tu_thuc_hien": "",
+    "doi_tuong_thuc_hien": "",
+    "yeu_cau_dieu_kien": "",
+    "can_cu_phap_ly": "",
+    "cach_thuc_thuc_hien": [
+        "Trực tiếp"
+    ],
+    "thoi_han_giai_quyet": [
+        "Thời hạn thực hiện yêu cầu chứng thực phải được bảo đảm ngay trong ngày cơ quan, tổ chức tiếp nhận yêu cầu hoặc trong ngày làm việc tiếp theo, nếu tiếp nhận yêu cầu sau 15 giờ. Đối với trường hợp cùng một lúc yêu cầu chứng thực bản sao từ nhiều loại bản chính giấy tờ, văn bản; bản chính có nhiều trang; yêu cầu số lượng nhiều bản sao; nội dung giấy tờ, văn bản phức tạp khó kiểm tra, đối chiếu mà cơ quan, tổ chức thực hiện chứng thực không thể đáp ứng được thời hạn nêu trên thì thời hạn chứng thực được kéo dài thêm không quá 02 (hai) ngày làm việc hoặc có thể dài hơn theo thỏa thuận bằng văn bản với người yêu cầu chứng thực. Trường hợp trả kết quả trong ngày làm việc tiếp theo hoặc phải kéo dài thời gian theo quy định thì người tiếp nhận hồ sơ phải có phiếu hẹn ghi rõ thời gian (giờ, ngày) trả kết quả cho người yêu cầu chứng thực."
+    ],
+    "le_phi": "Phí :  Đồng (Tại Phòng Tư pháp, Tổ chức hành nghề công chứng: 2.000 đồng/trang; từ trang thứ 3 trở lên thu 1.000 đồng/trang, tối đa thu không quá 200.000 đồng/bản. Trang là căn cứ để thu phí được tính theo trang của bản chính)\nPhí :  USD (Tại cơ quan đại diện: 10 USD/bản)",
+    "thanh_phan_ho_so": [
+        {
+            "ten_giay_to": "Bản chính giấy tờ, văn bản làm cơ sở để chứng thực bản sao và bản sao cần chứng thực. Trường hợp người yêu cầu chứng thực chỉ xuất trình bản chính thì cơ quan, tổ chức tiến hành chụp từ bản chính để thực hiện chứng thực, trừ trường hợp cơ quan, tổ chức không có phương tiện để chụp. Bản sao, chụp từ bản chính để thực hiện chứng thực phải có đầy đủ các trang đã ghi thông tin của bản chính.",
+            "mau_don": "",
+            "ban_chinh": 1,
+            "ban_sao": 0
+        },
+        {
+            "ten_giay_to": "",
+            "mau_don": "",
+            "ban_chinh": 0,
+            "ban_sao": 0
+        },
+        {
+            "ten_giay_to": "",
+            "mau_don": "",
+            "ban_chinh": 0,
+            "ban_sao": 0
+        },
+        {
+            "ten_giay_to": "",
+            "mau_don": "",
+            "ban_chinh": 0,
+            "ban_sao": 0
+        },
+        {
+            "ten_giay_to": "",
+            "mau_don": "",
+            "ban_chinh": 0,
+            "ban_sao": 0
+        },
+        {
+            "ten_giay_to": "",
+            "mau_don": "",
+            "ban_chinh": 0,
+            "ban_sao": 0
+        },
+        {
+            "ten_giay_to": "",
+            "mau_don": "",
+            "ban_chinh": 0,
+            "ban_sao": 0
+        }
+    ]
+}
