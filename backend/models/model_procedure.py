@@ -1,6 +1,5 @@
-from sqlalchemy import Column, String, Boolean
-from sqlalchemy.dialects.mysql import JSONB
-from sqlalchemy.dialects.postgresql import VECTOR
+from sqlalchemy import Column, String
+from sqlalchemy.dialects.postgresql import JSONB
 
 from models.model_base import BareBaseModel
 
@@ -14,10 +13,11 @@ class Procedure(BareBaseModel):
     doi_tuong_thuc_hien = Column(String)
     yeu_cau_dieu_kien = Column(String)
     can_cu_phap_ly = Column(String)
+    can_cu_phap_ly_chi_tiet = Column(JSONB)
+
     cach_thuc_thuc_hien = Column(JSONB)
-    thoi_han_giai_quyet = Column(String)     
+    thoi_han_giai_quyet = Column(JSONB)
     le_phi = Column(JSONB)
     thanh_phan_ho_so = Column(JSONB)
 
-    vector = Column(VECTOR(1536))
-    processed = Column(Boolean, default=False)
+

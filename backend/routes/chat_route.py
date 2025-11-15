@@ -5,7 +5,7 @@ from fastapi import APIRouter, Depends, UploadFile, File, HTTPException, Form
 from sqlalchemy.orm import Session
 
 from database import get_db
-from services import ProcedureService
+from services import ProcedureService, ChatService
 
 router = APIRouter()
 
