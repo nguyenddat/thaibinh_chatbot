@@ -7,7 +7,7 @@ services:
     env_file:
       - ./database/.env
     ports:
-      - "8001:5432"
+      - "5001:5432"
     restart: unless-stopped
     healthcheck:
       test: ["CMD", "pg_isready", "-U", "postgres"]
@@ -16,6 +16,25 @@ services:
       retries: 2
     networks:
       - fast_api
+
+  backend:
+    container_name: thaibinh_backend
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    env_file:
+      - ./backend/.env
+    ports:
+      - "5003:8008"
+    restart: unless-stopped
+    command: [ "uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8008", "--reload" ]
+    volumes:
+      - .:/backend
+    networks:
+      - fast_api
+    depends_on:
+      db:
+        condition: service_healthy
 
 networks:
   fast_api:
