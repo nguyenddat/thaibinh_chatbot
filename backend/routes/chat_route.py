@@ -1,5 +1,7 @@
 from typing import List, Optional, Dict
 
+from pydantic import BaseModel
+
 from fastapi import APIRouter, Depends, UploadFile, File, HTTPException, Form, Body
 from fastapi.responses import StreamingResponse
 from sqlalchemy.orm import Session
@@ -9,26 +11,39 @@ from services import ChatService
 
 router = APIRouter()
 
+ALLOWED_MIME = {
+    "audio/webm",
+    "video/webm",   # Android
+    "audio/mp4",    # iOS Safari/Chrome
+    "audio/m4a",    # iOS/Mac
+    "audio/x-m4a",
+    "audio/aac",
+    "audio/mpeg",
+    "audio/wav",
+    "audio/mp3",
+}
+
+ALLOWED_EXT = {"webm", "mp4", "m4a", "aac"}
+
+class ChatRequestBodyModel(BaseModel):
+    text: Optional[str] = None
+    chat_history: Optional[List[Dict[str, str]]] = []
+
 @router.post("/")
 async def multi_media_chat(
-    text: Optional[str] = Form(None),
-    audio_file: Optional[UploadFile] = File(default=None),
-    chat_history: Optional[List[Dict[str, str]]] = Body(default=[]),
+    chat_request: ChatRequestBodyModel = Body(...),
     db: Session = Depends(get_db)
 ):
-    if not text and not audio_file:
-        raise HTTPException(status_code=400, detail="Phải gửi ít nhất text hoặc audio file")
-    
+    text = chat_request.text
+    chat_history = chat_request.chat_history or []
+
+    # When this route accepts JSON body (no file uploads), require `text` to be present
+    if not text:
+        raise HTTPException(status_code=400, detail="Phải gửi ít nhất text")
+
     final_texts = []
-    if text:
-        final_texts.append(text)
-    
-    if audio_file and audio_file.filename:
-        audio_bytes = await audio_file.read()
-        audio_text = ChatService.multiMediaInput(audio_file_bytes=audio_bytes)
-        print(f"{audio_file.filename} --> {audio_text}")
-        final_texts.append(audio_text)
-    
+    final_texts.append(text)
+
     crop = min(6, len(chat_history))
     chat_history_request = chat_history[-crop:]
 
@@ -51,29 +66,23 @@ async def multi_media_chat(
         },
     }
 
-@router.post("/stream")
-async def multi_media_chat_stream(
-    text: Optional[str] = Form(None),
-    audio_file: Optional[List[UploadFile]] = File(default=None),
-    chat_history: Optional[List[Dict[str, str]]] = Body(default=[]),
+
+@router.post("/stt")
+async def stt(
+    audio_file: UploadFile = File(...),
     db: Session = Depends(get_db)
 ):
-    if not text and not audio_file:
-        raise HTTPException(status_code=400, detail="Phải gửi ít nhất text hoặc audio file")
-    
-    final_texts = []
-    if text:
-        final_texts.append(text)
-    
-    if audio_file:
-        audio_bytes = await audio_file.read()
-        audio_text = ChatService.multiMediaInput(audio_file_bytes=audio_bytes)
-        final_texts.append(audio_text)
-    
-    crop = min(6, len(chat_history))
-    chat_history_request = chat_history[-crop:]
-    chat_history_format = ChatService.formatChatHistory(chat_history_request)
+    content_type = audio_file.content_type
+    ext = audio_file.filename.split(".")[-1].lower()
+    if content_type not in ALLOWED_MIME and ext not in ALLOWED_EXT:
+        raise HTTPException(status_code=400, detail=f"Unsupported audio type: {content_type}")
 
-    return StreamingResponse(
-        ChatService.generateStream(ChatService.chat("\n".join(final_texts), chat_history_format, db)), media_type="text/plain"
-    )
+    audio_bytes = await audio_file.read()
+    audio_text = ChatService.multiMediaInput(audio_file_bytes=audio_bytes)
+    print(f"{audio_file.filename} --> {audio_text}")
+
+    return {
+        "result": "successfully",
+        "status": 200,
+        "output": {"type": "text", "value": audio_text},
+    }

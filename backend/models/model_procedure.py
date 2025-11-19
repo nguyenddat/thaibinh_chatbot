@@ -6,6 +6,7 @@ from models.model_base import BareBaseModel
 class Procedure(BareBaseModel):
     ma_thu_tuc = Column(String, unique=True, nullable=False)
     ten_thu_tuc = Column(String, nullable=False)
+    duong_dan = Column(String, nullable=False)
 
     co_quan_thuc_hien = Column(String)       
     linh_vuc = Column(String)

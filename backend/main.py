@@ -4,7 +4,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
 from database import get_db
-from routes import chat_route, procedure_route
+from routes import chat_route, procedure_route, geometry_route
 from services import ProcedureService
 from utils.retriever import retriever
 
@@ -25,6 +25,7 @@ def get_application() -> FastAPI:
     # Add routes
     application.include_router(chat_route.router, prefix="/api/chat", tags=["Chat"])
     application.include_router(procedure_route.router, prefix="/api/procedure", tags=["Procedure"])
+    application.include_router(geometry_route.router, prefix="/api/geometry", tags=["Geometry"])
     return application
 
 

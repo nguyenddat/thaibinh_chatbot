@@ -1,3 +1,4 @@
+import os
 from typing import Optional
 
 import geopandas as gpd
@@ -9,8 +10,8 @@ from core import setting
 
 router = APIRouter()
 
-GEO_TINH_PATH = setting.base_dir / "artifacts" / "geotinh.geojson"
-GEO_XA_PATH = setting.base_dir / "artifacts" / "geoxa.geojson"
+GEO_TINH_PATH = os.path.join(setting.artifact_dir, "geotinh.geojson")
+GEO_XA_PATH = os.path.join(setting.artifact_dir, "geoxa.geojson")
 
 gdf_tinh: Optional[gpd.GeoDataFrame] = None
 gdf_xa: Optional[gpd.GeoDataFrame] = None

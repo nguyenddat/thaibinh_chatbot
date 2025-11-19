@@ -71,40 +71,57 @@ class ProcedureService:
     @staticmethod
     def toString(proc: Procedure, fields: list[str] = None) -> str:
         text = (
-            f"Đây là thủ tục **{proc.ten_thu_tuc}** "
-            f"thuộc lĩnh vực **{proc.linh_vuc}** "
-            f"do **{proc.co_quan_thuc_hien}** thực hiện."
+            f"# {proc.ten_thu_tuc}\n"
+            f"Lĩnh vực: {proc.linh_vuc}\n"
+            f"Cơ quan thực hiện: {proc.co_quan_thuc_hien}\n"
         )
 
         if not fields:
+            text += f"\nChi tiết thủ tục có thể xem tại: {proc.duong_dan}"
             return text
 
-        params_info = ""
+        details = ""
         for field in fields:
-            if field in ["ten_thu_tuc", "linh_vuc", "co_quan_thuc_hien"]:
+            if field in ["ten_thu_tuc", "linh_vuc", "co_quan_thuc_hien", "duong_dan"]:
                 continue
 
             display_name = atrs.get(field, field)
             value = getattr(proc, field, None)
 
-            if value is None:
-                # Nếu không có thông tin → ghi chú
-                value_str = "Chưa có thông tin cụ thể"
-            else:
-                if isinstance(value, list):
-                    clean_list = list(dict.fromkeys([str(v).strip() for v in value if v]))
-                    value_str = "\n".join(clean_list) if clean_list else "Chưa có thông tin cụ thể"
-                elif isinstance(value, dict):
-                    lines = [f"{k}: {v}" for k, v in value.items() if v is not None]
-                    value_str = "\n".join(lines) if lines else "Chưa có thông tin cụ thể"
+            if not value:
+                details += f"\n\n## {display_name}\nChưa có thông tin cụ thể."
+                continue
+
+            if isinstance(value, list):
+                if len(value) > 0 and isinstance(value[0], dict):
+                    rows = [v for v in value if any(str(x).strip() for x in v.values())]
+                    if not rows:
+                        details += f"\n\n## {display_name}\nChưa có thông tin cụ thể."
+                        continue
+                    headers = list(rows[0].keys())
+                    table = [" | ".join(headers), " | ".join(["---"]*len(headers))]
+                    for r in rows:
+                        table.append(" | ".join(str(r.get(h, "")).strip() for h in headers))
+                    details += f"\n\n## {display_name}\n" + "\n".join(table)
                 else:
-                    value_str = str(value).strip() or "Chưa có thông tin cụ thể"
+                    clean_list = [str(v).strip() for v in value if str(v).strip()]
+                    if clean_list:
+                        details += f"\n\n## {display_name}\n" + "\n".join(f"- {item}" for item in clean_list)
+                    else:
+                        details += f"\n\n## {display_name}\nChưa có thông tin cụ thể."
+                continue
 
-            params_info += f"\n\n**{display_name}**:\n{value_str}"
+            if isinstance(value, dict):
+                lines = [f"- {k}: {v}" for k, v in value.items() if v is not None and str(v).strip()]
+                details += f"\n\n## {display_name}\n" + ("\n".join(lines) if lines else "Chưa có thông tin cụ thể.")
+                continue
 
-        if params_info:
-            text += "\n\n**Thông tin bạn cần tìm kiếm như sau:**" + params_info
+            details += f"\n\n## {display_name}\n{str(value).strip() or 'Chưa có thông tin cụ thể.'}"
 
+        if details:
+            text += "\n\n# Thông tin chi tiết" + details
+
+        text += f"\n\nBạn có thể xem chi tiết thủ tục tại: {proc.duong_dan}"
         return text
     
     @staticmethod

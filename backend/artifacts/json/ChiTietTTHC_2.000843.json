@@ -1,11 +1,12 @@
 {
-    "ma_thu_tuc": "",
-    "ten_thu_tuc": "",
-    "co_quan_thuc_hien": "",
-    "linh_vuc": "",
-    "trinh_tu_thuc_hien": "",
-    "doi_tuong_thuc_hien": "",
-    "yeu_cau_dieu_kien": "",
+    "ma_thu_tuc": "2.000843",
+    "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=2.000843",
+    "ten_thu_tuc": "Thủ tục chứng thực bản sao từ bản chính giấy tờ, văn bản do cơ quan, tổ chức có thẩm quyền ở Việt Nam; cơ quan, tổ chức có thẩm quyền của nước ngoài; cơ quan, tổ chức có thẩm quyền của Việt Nam liên kết với cơ quan, tổ chức có thẩm quyền của nước ngoài cấp hoặc chứng nhận",
+    "co_quan_thuc_hien": "Phòng Tư Pháp, Tổ chức hành nghề công chứng, Cơ quan đại diện có thẩm quyền",
+    "linh_vuc": "Chứng thực",
+    "trinh_tu_thuc_hien": "+ Người yêu cầu chứng thực phải xuất trình bản chính giấy tờ, văn bản làm cơ sở để chứng thực bản sao và bản sao cần chứng thực.\n+ Trường hợp người yêu cầu chứng thực chỉ xuất trình bản chính thì cơ quan, tổ chức tiến hành chụp từ bản chính để thực hiện chứng thực, trừ trường hợp cơ quan, tổ chức không có phương tiện để chụp.\n+ Người thực hiện chứng thực kiểm tra bản chính, đối chiếu với bản sao, nếu nội dung bản sao đúng với bản chính, bản chính giấy tờ, văn bản không thuộc các trường hợp bản chính giấy tờ, văn bản không được dùng làm cơ sở để chứng thực bản sao thì thực hiện chứng thực như sau:\n* Ghi đầy đủ lời chứng chứng thực bản sao từ bản chính theo mẫu quy định;\n* Ký, ghi rõ họ tên, đóng dấu của cơ quan, tổ chức thực hiện chứng thực và ghi vào sổ chứng thực.\nĐối với bản sao có từ 02 (hai) trang trở lên thì ghi lời chứng vào trang cuối, nếu bản sao có từ 02 (hai) tờ trở lên thì phải đóng dấu giáp lai.\nMỗi bản sao được chứng thực từ một bản chính giấy tờ, văn bản hoặc nhiều bản sao được chứng thực từ một bản chính giấy tờ, văn bản trong cùng một thời điểm được ghi một số chứng thực.\n+ Người yêu cầu chứng thực nhận kết quả tại nơi nộp hồ sơ.",
+    "doi_tuong_thuc_hien": "Công dân Việt Nam, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã",
+    "yeu_cau_dieu_kien": "Bản chính giấy tờ, văn bản cần chứng thực.Bản chính giấy tờ, văn bản không được dùng làm cơ sở để chứng thực bản sao:+ Bản chính bị tẩy xóa, sửa chữa, thêm, bớt nội dung không hợp lệ.+ Bản chính bị hư hỏng, cũ nát, không xác định được nội dung.+ Bản chính đóng dấu mật của cơ quan, tổ chức có thẩm quyền hoặc không đóng dấu mật nhưng ghi rõ không được sao chụp.+ Bản chính có nội dung trái pháp luật, đạo đức xã hội; tuyên truyền, kích động chiến tranh, chống chế độ xã hội chủ nghĩa Việt Nam; xuyên tạc lịch sử của dân tộc Việt Nam; xúc phạm danh dự, nhân phẩm, uy tín của cá nhân, tổ chức; vi phạm quyền công dân.+ Bản chính do cơ quan, tổ chức có thẩm quyền của nước ngoài cấp, công chứng hoặc chứng nhận chưa được hợp pháp hóa lãnh sự theo quy định tại Khoản 1 Điều 20 Nghị định số 23/2015/NĐ-CP, trừ hộ chiếu, thẻ căn cước, thẻ thường trú, thẻ cư trú, giấy phép lái xe, bằng tốt nghiệp, chứng chỉ và bảng điểm kèm theo bằng tốt nghiệp, chứng chỉ. + Giấy tờ, văn bản do cá nhân tự lập nhưng không có xác nhận và đóng dấu của cơ quan, tổ chức có thẩm quyền.",
     "can_cu_phap_ly": "",
     "cach_thuc_thuc_hien": [
         "Trực tiếp"
