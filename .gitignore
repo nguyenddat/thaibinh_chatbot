@@ -7,3 +7,4 @@ __pycache__/
 dist
 
 database/data/backend/artifacts/*.geojson
+backend/artifacts/*.geojson
