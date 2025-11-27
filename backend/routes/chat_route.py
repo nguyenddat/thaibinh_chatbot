@@ -1,13 +1,14 @@
 from typing import List, Optional, Dict
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from pydantic import BaseModel
 
-from fastapi import APIRouter, Depends, UploadFile, File, HTTPException, Form, Body
-from fastapi.responses import StreamingResponse
 from sqlalchemy.orm import Session
+from fastapi import APIRouter, Depends, UploadFile, File, HTTPException, Body
 
 from database import get_db
-from services import ChatService
+from utils.state import Intent
+from services import ChatService, LLMService, ProcedureService
 
 router = APIRouter()
 
@@ -25,32 +26,68 @@ ALLOWED_MIME = {
 
 ALLOWED_EXT = {"webm", "mp4", "m4a", "aac"}
 
-class ChatRequestBodyModel(BaseModel):
-    text: Optional[str] = None
-    chat_history: Optional[List[Dict[str, str]]] = []
+class GuardrailRequestBody(BaseModel):
+    question: str
+    chat_history: Optional[List[Dict]] = None
+
+@router.post("/guardrail")
+def verify_question(req: GuardrailRequestBody):
+    chat_history = req.chat_history or []
+    crop = min(6, len(chat_history))    
+    chat_history = ChatService.format_chat_history(chat_history[-crop:])
+
+    response = ChatService.guardrail(req.question, chat_history)
+    response["question"] = req.question
+    return response
+
+
+class ChatRequestBody(BaseModel):
+    question: str
+    intent: Intent
+
+    tasks: Optional[List[str]] = None
+    analysis_method: Optional[str] = None
+    analysis_params: Optional[List[str]] = None
 
 @router.post("/")
-async def multi_media_chat(
-    chat_request: ChatRequestBodyModel = Body(...),
+def chat(
+    chat_request: ChatRequestBody = Body(...),
     db: Session = Depends(get_db)
 ):
-    text = chat_request.text
-    chat_history = chat_request.chat_history or []
+    intent = chat_request.intent
+    if intent == Intent.WELCOME:
+        task = "welcome"
+        params = {"question": chat_request.question,
+                  "procedure_descriptions": ProcedureService.getRandomProcedures(db)}
+        response = LLMService.get_chat_completion(task, params)
+        
+        final_response = response["response"]
+        recommendations = response["recommendations"]
 
-    # When this route accepts JSON body (no file uploads), require `text` to be present
-    if not text:
-        raise HTTPException(status_code=400, detail="Phải gửi ít nhất text")
+    else:
+        # Params cho query db
+        analysis_params = chat_request.analysis_params or []
+        default_params = ["ma_thu_tuc", "ten_thu_tuc", "duong_dan", "co_quan_thuc_hien", "le_phi", "thoi_han_giai_quyet"]
+        params = list(set(analysis_params + default_params))
 
-    final_texts = []
-    final_texts.append(text)
+        # Luồng chạy song song
+        results = []
+        with ThreadPoolExecutor(max_workers=5) as executor:
+            futures = [
+                executor.submit(ChatService.get_procedure_info, task, params, db)
+                for task in chat_request.tasks
+            ]
+            for future in as_completed(futures):
+                results.append(future.result())
+        
+        # Tổng hợp bước cuối
+        task = "aggregate"
+        params = {"question": chat_request.question, "procedures": results,  "analysis_method": chat_request.analysis_method}
+        response = LLMService.get_chat_completion(task, params)
 
-    crop = min(6, len(chat_history))
-    chat_history_request = chat_history[-crop:]
+        final_response = response["response"]
+        recommendations = []
 
-    question = "\n".join(final_texts)
-    chat_history = ChatService.formatChatHistory(chat_history_request)
-
-    response = ChatService.chat(question, chat_history, db)
     return {
         "result": "successfully",
         "status": 200,
@@ -59,8 +96,8 @@ async def multi_media_chat(
             "response": [
                 {
                     "type": "text",
-                    "content": response["response"],
-                    "recommendations": response["recommendations"],
+                    "content": final_response,
+                    "recommendations": recommendations,
                 }
             ],
         },

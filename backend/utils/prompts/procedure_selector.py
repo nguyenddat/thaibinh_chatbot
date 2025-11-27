@@ -7,20 +7,10 @@ LƯU Ý:
 
 Các trường hợp xử lý cụ thể:
 - Trường hợp 1: Có thủ tục phù hợp hoặc thủ tục rất liên quan.
-    + Trả về function_id là mã thủ tục phù hợp nhất.
-    + Trả về response là ''.
-    + Trả về recommendations là từ 2 đến 3 câu gợi ý về các trường thông tin khác của thủ tục đó.
+    + Trả về procedure_id là mã thủ tục phù hợp nhất.
 
 - Trường hợp 2: Không tìm thấy thủ tục nào phù hợp.
-    + Trả về function_id là "".
-    + Trả về response là "Chúng tôi không tìm thấy thủ tục nào phù hợp" và gợi ý một số thủ tục liên quan nhất để hỏi lại người dùng.
-    + Trả về recommendations là từ 2 đến 3 câu hỏi gợi ý các thủ tục cung cấp mà liên quan nhất đến người dùng.
-
-Lưu ý khi phản hồi:
-- recommendations là danh sách các câu hỏi gợi ý mà người dùng có thể hỏi tiếp theo, LƯU Ý: sử dụng giọng hỏi là người dùng.
-- Nếu chọn được thủ tục phù hợp, không phần phản hồi response hay recommendations.
-- Thông tin liên hệ luôn được thêm vào cuối response:
-    + Hotline hỗ trợ tại các đơn vị: https://dichvucong.gov.vn/p/home/dvc-trang-chu.html
+    + Trả về procedure_id là "".
 
 Danh sách thủ tục hành chính được cung cấp:
 {procedure_descriptions}
@@ -29,7 +19,4 @@ Thủ tục yêu cầu của người dùng:
 {question}
 
 Hãy trả về kết quả dưới dạng JSON theo schema chỉ định:
-procedure_id: str = Field(..., description="Thủ tục được chọn")
-response: str = Field(..., description="Phản hồi")
-recommendations: List[str] = Field(..., description="Gợi ý câu hỏi")
 """

@@ -1,5 +1,4 @@
 import os
-from core import embeddings
 
 import faiss
 from tqdm import tqdm
@@ -9,7 +8,7 @@ from langchain_community.document_loaders.text import TextLoader
 from langchain_community.docstore.in_memory import InMemoryDocstore
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
-from core import setting
+from core import setting, embeddings
 
 class Retriever:
     def __init__(self):
@@ -41,14 +40,20 @@ class Retriever:
 
 
     def load_txt(self):
+        if not os.path.exists(self.data_path):
+            os.makedirs(self.data_path, exist_ok=True)
+        
         data = []
-        for file in tqdm(os.listdir(self.data_path), desc = "Loading procedures for retriever"):
+        for file in tqdm(os.listdir(self.data_path), desc="Loading procedures for retriever"):
             file_path = os.path.join(self.data_path, file)
-            loader = TextLoader(file_path = file_path, encoding = "utf-8")
+            loader = TextLoader(file_path=file_path, encoding="utf-8")
             documents = loader.load()
             for doc in documents:
                 data.append(doc.page_content)
         
+        if not data:
+            data.append("Hiện tại chưa có thủ tục nào!")
+
         texts = self.text_splitter.create_documents(data)
         return texts
 

@@ -1,6 +1,7 @@
 import os
 import random
-from typing import Dict, List
+import shutil
+from typing import Dict, Optional
 
 from tqdm import tqdm
 from sqlalchemy.orm import Session
@@ -32,12 +33,30 @@ atrs = {
 
 class ProcedureService:
     @staticmethod
-    def getById(id: int, db: Session):
-        return ProcedureRepository.getById(id, db)
+    def getById(id: int, db: Optional[Session] = None) -> Procedure:
+        close_after = False
+        if db is None:
+            db = next(get_db())
+            close_after = True
+
+        proc = ProcedureRepository.getById(id, db)
+        if close_after:
+            db.close()
+
+        return proc
 
     @staticmethod
-    def create(proc: Procedure, db: Session):
-        return ProcedureRepository.create(proc, db)
+    def create(proc: Procedure, db: Optional[Session] = None):
+        close_after = False
+        if db is None:
+            db = next(get_db())
+            close_after = True
+
+        proc = ProcedureRepository.create(proc, db)
+        if close_after:
+            db.close()
+
+        return proc
 
     @staticmethod
     def createByJsonFile(data, db: Session):        
@@ -58,15 +77,23 @@ class ProcedureService:
         return proc
 
     @staticmethod
-    def getRandomProcedures(db: Session, n: int = 3) -> List[Procedure]:
-        all_procs = db.query(Procedure).all()
-        procs = random.sample(all_procs, min(n, len(all_procs)))
+    def getRandomProcedures(db: Optional[Session] = None, n: int = 3) -> str:
+        close_after = False
+        if db is None:
+            db = next(get_db())
+            close_after = True
 
-        random_procedures = "\n".join([
-            f"- {proc.id}: Đây là thủ tục **{proc.ten_thu_tuc}** thuộc lĩnh vực **{proc.linh_vuc}** do **{proc.co_quan_thuc_hien}** thực hiện." 
-            for proc in procs
+        all_procs = db.query(Procedure).all()
+        chosen = random.sample(all_procs, min(n, len(all_procs)))
+        result = "\n".join([
+            f"- {p.id}: Đây là thủ tục **{p.ten_thu_tuc}** thuộc lĩnh vực **{p.linh_vuc}** do **{p.co_quan_thuc_hien}** thực hiện."
+            for p in chosen
         ])
-        return random_procedures
+
+        if close_after:
+            db.close()
+
+        return result
     
     @staticmethod
     def toString(proc: Procedure, fields: list[str] = None) -> str:
@@ -129,7 +156,11 @@ class ProcedureService:
         db = next(get_db())
         
         dir = os.path.join(setting.artifact_dir, "procedures")
-        os.makedirs(dir, exist_ok=True)
+        if os.path.exists(dir):
+            shutil.rmtree(dir)
+            os.makedirs(dir, exist_ok=True)
+        else:
+            os.makedirs(dir, exist_ok=True)
 
         procedures = db.query(Procedure).all()
         for proc in tqdm(procedures, desc="Preloading procedures"):
