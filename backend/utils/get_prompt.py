@@ -1,12 +1,22 @@
 from langchain_core.prompts import ChatPromptTemplate
 
 from utils.parsers import welcome_parser, history_response_parser, \
-    procedure_parser, guardrail_parser, aggregate_response_parser
+    procedure_parser, guardrail_parser, aggregate_response_parser, \
+    analysis_parser
 from utils.prompts import welcome_prompt, history_prompt, \
-    procedure_selector_prompt, guardrail_prompt, aggregate_prompt
+    procedure_selector_prompt, guardrail_prompt, aggregate_prompt, \
+    analysis_prompt
 
 def get_prompt_by_task(task: str):
-    if task == "welcome":
+    if task == "guardrail":
+        parser = guardrail_parser
+        prompt_template = guardrail_prompt
+
+    elif task == "analysis":
+        parser = analysis_parser
+        prompt_template = analysis_prompt
+
+    elif task == "welcome":
         parser = welcome_parser
         prompt_template = welcome_prompt
 
@@ -18,9 +28,6 @@ def get_prompt_by_task(task: str):
         parser = history_response_parser
         prompt_template = history_prompt
     
-    elif task == "guardrail":
-        parser = guardrail_parser
-        prompt_template = guardrail_prompt
     
     elif task == "aggregate":
         parser = aggregate_response_parser

@@ -16,6 +16,18 @@ class ChatService:
         return response
     
     @staticmethod
+    def analysis(question: str, chat_history: str):
+        # Lấy danh sách các thủ tục giống tên
+        docs = retriever.retriever.invoke(question, config={"k": 5})
+        docs = "\n".join([doc.page_content for doc in docs])
+        
+        # Phân tích
+        task = "analysis"
+        params = {"question": question, "chat_history": chat_history, "procedure_descriptions": docs}
+        response = LLMService.get_chat_completion(task, params)
+        return response
+    
+    @staticmethod
     def get_procedure_info(question: str, query_params: List[str], db: Session):
         # Lấy danh sách các thủ tục giống tên
         docs = retriever.retriever.invoke(question, config={"k": 5})

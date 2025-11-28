@@ -4,3 +4,4 @@ class Intent(Enum):
     WELCOME = "welcome"
     SINGLE_PROCEDURE = "single_procedure"
     MULTI_PROCEDURE = "multi_procedure"
+    MORE_INFORMATION = "more_information"
