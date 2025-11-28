@@ -2,7 +2,6 @@ from typing import List, Optional, Dict
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from pydantic import BaseModel
-
 from sqlalchemy.orm import Session
 from fastapi import APIRouter, Depends, UploadFile, File, HTTPException, Body
 
@@ -41,10 +40,19 @@ def verify_question(req: GuardrailRequestBody):
     return response
 
 
+@router.post("/analysis")
+def analysis_question(req: GuardrailRequestBody):
+    chat_history = req.chat_history or []
+    crop = min(6, len(chat_history))
+    chat_history = ChatService.format_chat_history(chat_history[-crop:])
+
+    response = ChatService.analysis(req.question, chat_history)
+    response["question"] = req.question
+    return response
+    
 class ChatRequestBody(BaseModel):
     question: str
     intent: Intent
-
     tasks: Optional[List[str]] = None
     analysis_method: Optional[str] = None
     analysis_params: Optional[List[str]] = None
@@ -63,7 +71,7 @@ def chat(
         
         final_response = response["response"]
         recommendations = response["recommendations"]
-
+    
     else:
         # Params cho query db
         analysis_params = chat_request.analysis_params or []
