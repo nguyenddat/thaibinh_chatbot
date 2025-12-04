@@ -27,21 +27,20 @@ ALLOWED_EXT = {"webm", "mp4", "m4a", "aac"}
 
 class GuardrailRequestBody(BaseModel):
     question: str
-    chat_history: Optional[List[Dict]] = None
+
+class AnalysisRequestBody(BaseModel):
+    question: str
+    chat_history: Optional[List[Dict[str, str]]] = None
 
 @router.post("/guardrail")
 def verify_question(req: GuardrailRequestBody):
-    chat_history = req.chat_history or []
-    crop = min(6, len(chat_history))    
-    chat_history = ChatService.format_chat_history(chat_history[-crop:])
-
-    response = ChatService.guardrail(req.question, chat_history)
+    response = ChatService.guardrail(req.question)
     response["question"] = req.question
     return response
 
 
 @router.post("/analysis")
-def analysis_question(req: GuardrailRequestBody):
+def analysis_question(req: AnalysisRequestBody):
     chat_history = req.chat_history or []
     crop = min(6, len(chat_history))
     chat_history = ChatService.format_chat_history(chat_history[-crop:])
@@ -122,8 +121,8 @@ async def stt(
     if content_type not in ALLOWED_MIME and ext not in ALLOWED_EXT:
         raise HTTPException(status_code=400, detail=f"Unsupported audio type: {content_type}")
 
-    audio_bytes = await audio_file.read()
-    audio_text = ChatService.multiMediaInput(audio_file_bytes=audio_bytes)
+    audio_file_bytes = await audio_file.read()
+    audio_text = LLMService.transcribe(audio_bytes=audio_file_bytes)
     print(f"{audio_file.filename} --> {audio_text}")
 
     return {

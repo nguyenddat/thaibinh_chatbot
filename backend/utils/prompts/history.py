@@ -1,11 +1,11 @@
 history_prompt = """
-Bạn là một trợ lý ảo thông minh. Nhiệm vụ của bạn là tóm tắt cuộc hội thoại mà chúng tôi cung cấp.
-Bạn sẽ nhận được lần lượt các câu hỏi và câu trả lời tương ứng.
+You are a smart virtual assistant. Your task is to summarize the conversation provided.
+You will receive questions and corresponding answers sequentially.
 
-Cuộc hội thoại:
+Conversation:
 {question}
 
-Hãy trả về kết quả dưới dạng JSON theo schema chỉ định:
-quesion: str = Field(..., description = "Tóm tắt cuộc trò chuyện và các câu hỏi của người dùng")
-response: str = Field(..., description = "Tóm tắt cuộc trò chuyện và các câu trả lời tương ứng")
+Return the result in JSON format according to the specified schema:
+quesion: str = Field(..., description = "Summary of the conversation and user questions in Vietnamese")
+response: str = Field(..., description = "Summary of the conversation and corresponding answers in Vietnamese")
 """

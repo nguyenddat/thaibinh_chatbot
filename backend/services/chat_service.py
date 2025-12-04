@@ -9,9 +9,9 @@ from services.llm_service import LLMService
 
 class ChatService:
     @staticmethod
-    def guardrail(question: str, chat_history: str):
+    def guardrail(question: str):
         task = "guardrail"
-        params = {"question": question, "chat_history": chat_history}
+        params = {"question": question}
         response = LLMService.get_chat_completion(task, params)
         return response
     

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Thái Bình Chatbot</title>
+  <link rel="stylesheet" href="/ui/styles.css?v=1" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <div class="app-shell">
+    <header>
+      <div>
+        <h1>Trợ lý hành chính Thái Bình</h1>
+        <p>Hỏi đáp thủ tục hành chính nhanh chóng, chính xác.</p>
+      </div>
+      <button id="clear-history" type="button" title="Xóa lịch sử trò chuyện">Làm mới</button>
+    </header>
+
+    <main>
+      <section id="chat-window" aria-live="polite">
+        <!-- Chat bubbles will be appended here -->
+      </section>
+
+      <form id="chat-form">
+        <textarea id="question" name="question" rows="1" placeholder="Nhập câu hỏi của bạn tại đây..."
+          required></textarea>
+        <button type="submit" id="submit-btn">Gửi</button>
+      </form>
+    </main>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.8/dist/purify.min.js"
+    integrity="sha384-Dl+LLHRQywPOm2FMzQkfoXwfK3wxYnEud9mHaC8KsDeGeN8aBalzIsMOC5sxGgqU"
+    crossorigin="anonymous"></script>
+  <script src="/ui/app.js?v=1" type="module"></script>
+</body>
+
+</html>

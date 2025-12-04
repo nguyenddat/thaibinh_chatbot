@@ -10,7 +10,7 @@ GUARDRAIL_ENDPOINT = f"{BASE_URL}/guardrail"
 ANALYSIS_ENDPOINT = f"{BASE_URL}/analysis"
 CHAT_CORE_ENDPOINT = os.environ.get("CHAT_ENDPOINT", f"{BASE_URL}/")
 
-TIMEOUT = 10
+TIMEOUT = 20
 FIXED_BLOCKED_REPLY = {
     "result": "blocked",
     "status": 200,
