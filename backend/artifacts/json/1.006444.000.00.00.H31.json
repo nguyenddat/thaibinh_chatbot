@@ -1,0 +1,41 @@
+{
+  "ma_thu_tuc": "1.006444.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1535/QĐ-UBND",
+  "ten_thu_tuc": "Cho phép trường mẫu giáo, trường mầm non, nhà trẻ hoạt động giáo dục trở lại",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Giáo dục mầm non",
+  "trinh_tu_thuc_hien": "a) Sau thời hạn đình chỉ, nếu trường mẫu giáo, trường mầm non, nhà trẻ khắc phục được những nguyên nhân dẫn đến việc đình chỉ, trường mẫu giáo, trường mầm non, nhà trẻ gửi trực tiếp hoặc qua bưu điện 01 bộ hồ sơ đến Phòng Giáo dục và Đào tạo;\nb) Phòng Giáo dục và Đào tạo tiếp nhận và tổ chức thẩm định hồ sơ. Nếu hồ sơ chưa đúng quy định thì thông báo bằng văn bản những nội dung cần chỉnh sửa, bổ sung cho trường mẫu giáo, trường mầm non, nhà trẻ trong thời hạn 05 ngày làm việc, kể từ ngày nhận hồ sơ; nếu hồ sơ đúng quy định thì thông báo kế hoạch thẩm định thực tế tại trường mẫu giáo, trường mầm non, nhà trẻ;\nc) Trong thời hạn 15 ngày làm việc, kể từ ngày thông báo kế hoạch thẩm định thực tế, Phòng Giáo dục và Đào tạo chủ trì, phối hợp với các phòng chuyên môn có liên quan tổ chức thẩm định thực tế;\nd) Trong thời hạn 05 ngày làm việc, nếu trường mẫu giáo, trường mầm non, nhà trẻ đáp ứng các điều kiện theo quy định thì Trưởng Phòng Giáo dục và Đào tạo ra quyết định cho phép hoạt động giáo dục; nếu chưa đáp ứng các điều kiện theo quy định thì thông báo bằng văn bản cho trường mẫu giáo, trường mầm non, nhà trẻ nêu rõ lý do.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "20 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "20 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "20 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "20 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Văn bản thông báo nguyên nhân dẫn đến việc đình chỉ được khắc phục kèm theo minh chứng",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Phòng Giáo dục và Đào tạo",
+  "co_quan_co_tham_quyen": "Phòng Giáo dục và Đào tạo",
+  "dia_chi_tiep_nhan": "Bộ phận Một cửa cấp huyện",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định cho phép trường mẫu giáo, trường mầm non, nhà trẻ hoạt động giáo dục trở lại của Chủ tịch Ủy ban nhân dân cấp xã..",
+  "yeu_cau_dieu_kien": "Trong thời hạn bị đình chỉ, nếu nguyên nhân dẫn đến việc đình chỉ được khắc phục.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

@@ -1,0 +1,52 @@
+{
+  "ma_thu_tuc": "2.000693.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "672/CV-BHXH",
+  "ten_thu_tuc": "Giải quyết hưởng chế độ thai sản",
+  "cap_thuc_hien": "Cấp Tỉnh, Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Thực hiện chính sách BHXH",
+  "trinh_tu_thuc_hien": "Bước 1:\n1.1. Đối với NLĐ đang đóng BHXH: Nộp hồ sơ theo quy định cho đơn vị SDLĐ trong thời hạn không quá 45 ngày kể từ ngày trở lại làm việc.\n1.2. Đối với người sinh con, nhận con, nhận nuôi con nuôi trong thời gian bảo lưu thời gian đóng BHXH do đã thôi việc, phục viên, xuất ngũ trước thời điểm sinh con, nhận con, nhận nuôi con nuôi (áp dụng cho cả trường hợp sinh con, nhận con, nhận nuôi con nuôi trong thời gian đang đóng BHXH kể từ ngày 01/01/2018 trở đi nhưng đã thôi việc tại đơn vị mà có nguyện vọng nộp hồ sơ hưởng chế độ tại cơ quan BHXH): Nộp hồ sơ theo quy định; xuất trình sổ BHXH cho cơ quan BHXH tỉnh/huyện nơi cư trú. Trường hợp không trực tiếp đến nhận trợ cấp bằng tiền mặt thì lập giấy ủy quyền (Mẫu 13-HSB) hoặc Hợp đồng ủy quyền theo quy định.\nBước 2: Tại đơn vị SDLĐ\n- Tập hợp và lập hồ sơ: Tiếp nhận hồ sơ từ NLĐ; trong thời hạn 10 ngày kể từ ngày nhận đủ hồ sơ theo quy định, đơn vị SDLĐ lập Danh sách đề nghị giải quyết hưởng chế độ ốm đau, thai sản, DSPHSK (Mẫu 01B-HSB) và nộp cho cơ quan BHXH nơi đơn vị SDLĐ đóng BHXH.\nTrường hợp giao dịch điện tử thì lập hồ sơ điện tử, ký số và gửi lên Cổng Thông tin điện tử BHXH Việt Nam hoặc qua tổ chức I-VAN, nếu chưa chuyển đổi hồ sơ giấy sang dạng điện tử thì gửi hồ sơ giấy đến cơ quan BHXH qua dịch vụ bưu chính công ích.\n- Nhận kết quả giải quyết (Danh sách C70a-HD) và tiền trợ cấp qua tài khoản của đơn vị SDLĐ để chi trả cho NLĐ đăng ký nhận tiền mặt tại đơn vị SDLĐ.\nBước 3: Cơ quan BHXH nơi tiếp nhận hồ sơ: Tiếp nhận hồ sơ của đơn vị SDLĐ, NLĐ để xét duyệt trợ cấp và thực hiện chi trả trợ cấp cho NLĐ.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "6 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "- Tối đa 06 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định từ đơn vị SDLĐ.\n- Tối đa 03 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định từ NLĐ."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "6 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "- Tối đa 06 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định từ đơn vị SDLĐ.\n- Tối đa 03 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định từ NLĐ."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "6 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "- Tối đa 06 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định từ đơn vị SDLĐ.\n- Tối đa 03 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định từ NLĐ."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "2.2. Trường hợp nhận nuôi con nuôi dưới 06 tháng tuổi: Bản sao Giấy chứng nhận nuôi con nuôi.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "2.1. Trường hợp sinh con, nhận con: 2.1.1. Bản sao Giấy khai sinh hoặc trích lục khai sinh hoặc Bản sao Giấy chứng sinh của con. 2.1.2. Trường hợp con chết sau khi sinh: bản sao Giấy khai sinh hoặc trích lục khai sinh hoặc bản sao Giấy chứng sinh của con, bản sao Giấy chứng tử hoặc trích lục khai tử hoặc bản sao Giấy báo tử của con; trường hợp con chết ngay sau khi sinh mà chưa được cấp Giấy chứng sinh thì thay bằng trích sao hồ sơ bệnh án hoặc tóm tắt hồ sơ bệnh án hoặc Giấy ra viện của người mẹ hoặc của lao động nữ mang thai hộ thể hiện con chết. 2.1.3. Trường hợp người mẹ hoặc lao động nữ mang thai hộ chết sau khi sinh con thì có thêm bản sao Giấy chứng tử hoặc trích lục khai tử của người mẹ hoặc của lao động nữ mang thai hộ. 2.1.4. Trường hợp người mẹ sau khi sinh hoặc người mẹ nhờ mang thai hộ sau khi nhận con mà không còn đủ sức khỏe để chăm sóc con thì có thêm Biên bản GĐYK của người mẹ, người mẹ nhờ mang thai hộ. 2.1.5. Trường hợp khi mang thai phải nghỉ việc để dưỡng thai theo quy định tại khoản 3 Điều 31 Luật BHXH số 58/2014/QH13 thì có thêm một trong các giấy tờ sau: - Trường hợp điều trị nội trú: Bản sao Giấy ra viện hoặc tóm tắt hồ sơ bệnh án thể hiện việc nghỉ dưỡng thai. - Trường hợp điều trị ngoại trú: Giấy chứng nhận nghỉ việc hưởng BHXH thể hiện việc nghỉ dưỡng thai. - Trường hợp phải GĐYK: Biên bản GĐYK. - Trường hợp hồ sơ nêu trên không thể hiện việc nghỉ dưỡng thai thì có Giấy chứng nhận nghỉ dưỡng thai. 2.1.6. Trường hợp lao động nữ mang thai hộ sinh con hoặc người mẹ nhờ mang thai hộ nhận con thì có thêm bản sao bản thỏa thuận về mang thai hộ vì mục đích nhân đạo theo quy định tại Điều 96 Luật Hôn nhân và Gia đình năm 2014; văn bản xác nhận thời điểm giao đứa trẻ của bên nhờ mang thai hộ và bên mang thai hộ. 2.1.7. Trường hợp thanh toán phí GĐYK thì có thêm hóa đơn, chứng từ thu phí giám định; bảng kê các nội dung giám định của cơ sở thực hiện GĐYK.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã",
+  "co_quan_thuc_hien": "Bảo hiểm xã hội cấp huyện, Bảo hiểm xã hội cấp Tỉnh",
+  "co_quan_co_tham_quyen": "Bảo hiểm xã hội cấp Tỉnh, Công đoàn cơ quan BHXH Việt Nam",
+  "dia_chi_tiep_nhan": "Trung tâm phục vụ HCC tỉnh Hưng Yên",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Danh sách giải quyết hưởng chế độ ốm đau, thai sản, dưỡng sức, phục hồi sức khỏe., Tiền trợ cấp, Thông báo kết quả giải quyết thủ tục hành chính mẫu số 01-TB (ban hành kèm theo Quyết định số 58/QĐ-BHXH ngày 22/01/2025).",
+  "yeu_cau_dieu_kien": "Điều 31 Luật BHXH.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

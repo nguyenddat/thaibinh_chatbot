@@ -1,0 +1,47 @@
+{
+  "ma_thu_tuc": "1.012970.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1535/QĐ-UBND",
+  "ten_thu_tuc": "Cho phép trung tâm học tập cộng đồng hoạt động trở lại",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Giáo dục thường xuyên",
+  "trinh_tu_thuc_hien": "Trong thời hạn bị đình chỉ, nếu nguyên nhân dẫn đến việc đình chỉ được khắc phục thì trung tâm thông báo bằng văn bản kèm theo minh chứng cho Chủ tịch Ủy ban nhân dân cấp huyện hoặc Trưởng phòng Giáo dục và Đào tạo. Trong thời hạn 07 ngày làm việc, kể từ ngày nhận được thông báo của trung tâm, Chủ tịch Ủy ban nhân dân cấp huyện hoặc Trưởng phòng Giáo dục và Đào tạo quyết định cho phép trung tâm học tập cộng đồng hoạt động trở lại và công bố công khai trên các phương tiện thông tin đại chúng.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "7 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "07 ngày làm việc kể từ ngày nhận được thông báo của trung tâm."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "7 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "07 ngày làm việc kể từ ngày nhận được thông báo của trung tâm."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "7 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "07 ngày làm việc kể từ ngày nhận được thông báo của trung tâm."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Văn bản thông báo nguyên nhân dẫn đến việc đình chỉ hoạt động trung tâm học tập cộng đồng được khắc phục kèm theo minh chứng",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Ủy ban nhân dân cấp Huyện, Phòng Giáo dục và Đào tạo",
+  "co_quan_co_tham_quyen": "Chủ tịch Ủy ban nhân dân cấp huyện, Trưởng phòng Giáo dục và Đào tạo",
+  "dia_chi_tiep_nhan": "Bộ phận Một cửa cấp huyện",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định cho phép trung tâm học tập cộng đồng hoạt động trở lại của Chủ tịch Uỷ ban nhân dân cấp xã.",
+  "yeu_cau_dieu_kien": "Trong thời hạn bị đình chỉ, nếu nguyên nhân dẫn đến việc đình chỉ được khắc phục.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

@@ -1,0 +1,52 @@
+{
+  "ma_thu_tuc": "1.013839.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=392623",
+  "so_quyet_dinh": "1567/QĐ-UBND",
+  "ten_thu_tuc": "Hợp nhất Văn phòng công chứng theo loại hình công ty hợp danh",
+  "cap_thuc_hien": "Cấp Tỉnh",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Công chứng",
+  "trinh_tu_thuc_hien": "- Văn phòng công chứng đề nghị hợp nhất theo quy định tại khoản 1 Điều 29 của Luật Công chứng lập 01 bộ hồ sơ theo quy định, nộp trực tiếp hoặc qua dịch vụ bưu chính hoặc trực tuyến trên môi trường điện tử về Sở Tư pháp nơi đăng ký hoạt động.\n- Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp có văn bản trình Ủy ban nhân dân cấp tỉnh xem xét, quyết định; trường hợp từ chối phải thông báo bằng văn bản có nêu rõ lý do.\n- Trong thời hạn 10 ngày làm việc kể từ ngày nhận được văn bản đề nghị của Sở Tư pháp kèm theo hồ sơ hợp lệ, Ủy ban nhân dân cấp tỉnh xem xét, quyết định cho phép hợp nhất Văn phòng công chứng; trường hợp từ chối phải thông báo bằng văn bản có nêu rõ lý do.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "05 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "kể từ ngày nhận đủ hồ sơ hợp lệ; trường hợp từ chối phải thông báo bằng văn bản có nêu rõ lý do."
+    },
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "05 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "kể từ ngày nhận đủ hồ sơ hợp lệ; trường hợp từ chối phải thông báo bằng văn bản có nêu rõ lý do."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "05 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "kể từ ngày nhận đủ hồ sơ hợp lệ; trường hợp từ chối phải thông báo bằng văn bản có nêu rõ lý do."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Bản chính hoặc bản sao có chứng thực hoặc bản sao điện tử kê khai thuế, báo cáo tài chính trong 03 năm gần nhất đã được kiểm toán của các Văn phòng công chứng bị hợp nhất",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Hợp đồng hợp nhất Văn phòng công chứng, trong đó có các nội dung chủ yếu sau: Tên, địa chỉ trụ sở của các Văn phòng công chứng được hợp nhất; tên, địa chỉ trụ sở của Văn phòng công chứng hợp nhất; thời gian thực hiện hợp nhất; phương án chuyển tài sản của các Văn phòng công chứng được hợp nhất sang Văn phòng công chứng hợp nhất; phương án sử dụng lao động của Văn phòng công chứng hợp nhất; việc kế thừa toàn bộ quyền, nghĩa vụ và lợi ích hợp pháp của các Văn phòng công chứng được hợp nhất và các nội dung khác có liên quan",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Sở Tư pháp tỉnh Tây Ninh",
+  "co_quan_co_tham_quyen": "Ủy ban nhân dân cấp tỉnh",
+  "dia_chi_tiep_nhan": "Không có thông tin",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định cho phép hợp nhất văn phòng công chứng",
+  "yeu_cau_dieu_kien": "Hai hoặc một số Văn phòng công chứng có trụ sở trong cùng 01 tỉnh, thành phố trực thuộc trung ương có thể hợp nhất thành 01 Văn phòng công chứng mới bằng cách chuyển toàn bộ tài sản, quyền, nghĩa vụ và lợi ích hợp pháp sang Văn phòng công chứng hợp nhất, đồng thời chấm dứt hoạt động của các Văn phòng công chứng bị hợp nhất.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

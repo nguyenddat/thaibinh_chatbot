@@ -1,0 +1,56 @@
+{
+  "ma_thu_tuc": "2.001283.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1551/QĐ-UBND",
+  "ten_thu_tuc": "Cấp Giấy chứng nhận đủ điều kiện cửa hàng bán lẻ LPG chai",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết",
+  "linh_vuc": "Kinh doanh khí",
+  "trinh_tu_thuc_hien": "1. Thương nhân đáp ứng đầy đủ các điều kiện quy định tại Nghị định số 87/2017/NĐ-CP gửi 01 bộ hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện trực tiếp hoặc qua đường bưu điện hoặc qua mạng điện tử đến cơ quan nhà nước có thẩm quyền.\n2. Trường hợp thương nhân chưa đủ hồ sơ hợp lệ, cơ quan nhà nước có thẩm quyền có văn bản yêu cầu thương nhân bổ sung.\n3. Trong thời hạn 15 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ, cơ quan nhà nước có thẩm quyền có trách nhiệm xem xét, thẩm định và cấp Giấy chứng nhận đủ điều kiện cho thương nhân. Trường hợp từ chối cấp Giấy chứng nhận phải trả lời bằng văn bản và nêu rõ lý do.\n4. Thời hạn của Giấy chứng nhận đủ điều kiện là 10 năm kể từ ngày cấp mới.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "15 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": ""
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "15 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": ""
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện cửa hàng bán lẻ LPG chai bao gồm:",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "1. Giấy đề nghị cấp Giấy chứng nhận đủ điều kiện cửa hàng bán lẻ LPG chai theo Mẫu số 05 tại Phụ lục kèm theo Nghị định 87/2017/NĐ-CP.",
+      "mẫu đơn, tờ khai": "Mẫu số 05.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "2. Bản sao hợp đồng bán LPG chai với thương nhân có giấy chứng nhận đủ điều kiện còn hiệu lực.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "3. Tài liệu chứng minh đáp ứng các điều kiện về phòng cháy và chữa cháy.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài",
+  "co_quan_thuc_hien": "Ủy ban Nhân dân huyện, quận, thành phố trực thuộc tỉnh, thị xã.",
+  "co_quan_co_tham_quyen": "Ủy ban Nhân dân huyện, quận, thành phố trực thuộc tỉnh, thị xã.",
+  "dia_chi_tiep_nhan": "UBND huyện, thành phố trực thuộc tỉnh, thị xã",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "GIẤY CHỨNG NHẬN ĐỦ ĐIỀU KIỆN CỬA HÀNG BÁN LẺ LPG CHAI",
+  "yeu_cau_dieu_kien": "1. Là thương nhân được thành lập theo quy định của pháp luật.\n2. Có hợp đồng tối thiểu 1 năm bán LPG chai với thương nhân có giấy chứng nhận đủ điều kiện còn hiệu lực theo quy định tại Nghị định số 87/2017/NĐ-CP, trừ trường hợp cửa hàng trực thuộc của thương nhân.\n3. Đáp ứng các điều kiện về phòng cháy và chữa cháy theo quy định của pháp luật",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

@@ -1,0 +1,46 @@
+{
+  "ma_thu_tuc": "1.010825.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=301726",
+  "so_quyet_dinh": "1476/QĐ-UBND",
+  "ten_thu_tuc": "Bổ sung tình hình thân nhân trong hồ sơ liệt sĩ.",
+  "cap_thuc_hien": "Cấp Tỉnh, Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Người có công",
+  "trinh_tu_thuc_hien": "Bước 1: Cá nhân đề nghị bổ sung thân nhân trong hồ sơ liệt sĩ làm bản khai theo Mẫu số 06 Phụ lục I Nghị định số 131/2021/NĐ-CP gửi Ủy ban nhân dân cấp xã nơi thường trú kèm theo bản sao được chứng thực từ một trong các giấy tờ chứng minh mối quan hệ với liệt sĩ được quy định tại khoản 1 Điều 29 Nghị định số 131/2021/NĐ-CP.\n       Bước 2: Ủy ban nhân dân cấp xã trong thời gian 05 ngày làm việc kể từ ngày nhận đủ giấy tờ, có trách nhiệm kiểm tra, xác nhận bản khai và lập danh sách kèm các giấy tờ quy định tại khoản 1 Điều 29 Nghị định số 131/2021/NĐ- CP gửi Phòng Lao động - Thương binh và Xã hội (nay là Phòng Nội vụ).\n       Bước 3: Phòng Nội vụ trong thời gian 07 ngày làm việc kể từ ngày nhận đủ giấy tờ, có trách nhiệm kiểm tra, lập danh sách kèm giấy tờ quy định tại khoản 2 Điều 29 Nghị định số 131/2021/NĐ-CP, gửi Sở Nội vụ.\n       Bước 4: Sở Nội vụ trong thời gian 12 ngày có trách nhiệm kiểm tra, ban hành quyết định bổ sung tình hình thân nhân liệt sĩ và trợ cấp ưu đãi theo Mẫu số 56 Phụ lục I Nghị định số 131/2021/NĐ-CP và bổ sung thông tin trong hồ sơ liệt sĩ.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "24 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận đủ giấy tờ theo quy định (Thời gian cụ thể được quy định tại từng bước của quy trình thực hiện)."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "24 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận đủ giấy tờ theo quy định (Thời gian cụ thể được quy định tại từng bước của quy trình thực hiện)."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "- Bản sao được chứng thực từ một trong các giấy tờ chứng minh mối quan hệ với liệt sĩ như sau:         + Đối với đề nghị bổ sung là cha đẻ mẹ đẻ, vợ hoặc chồng liệt sĩ:         Căn cước công dân, lý lịch cán bộ, lý lịch đảng viên, lý lịch quân nhân, giấy chứng nhận đăng ký kết hôn.        Các giấy tờ, tài liệu khác do cơ quan có thẩm quyền ban hành, xác nhận.         Văn bản đồng thuận của thân nhân liệt sĩ hoặc của những người thuộc quy định tại điểm b khoản 1 Điều 651 Bộ luật Dân sự. Trường hợp những người này không còn thì phải được những người thuộc quy định tại điểm c khoản 1 Điều 651 Bộ luật Dân sự có văn bản đồng thuận.         + Đối với đề nghị bổ sung là con liệt sĩ: Giấy khai sinh, trích lục khai sinh, quyết định công nhận việc nuôi con nuôi theo quy định của pháp luật; lý lịch cán bộ, lý lịch đảng viên, lý lịch quân nhân; các giấy tờ, tài liệu khác do cơ quan có thẩm quyền ban hành, xác nhận trước ngày 01 tháng 7 năm 2021.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Đơn đề nghị theo Mẫu số 06 Phụ lục I Nghị định số 131/2021/NĐ-CP.",
+      "mẫu đơn, tờ khai": "Mauso06_ND131_2021.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam",
+  "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã, Phòng Nội vụ, Sở Nội vụ",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Bộ phận tiếp nhận hồ sơ và trả kết quả, UBND cấp xã",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định về việc bổ sung tình hình thân nhân liệt sĩ và trợ cấp ưu đãi.",
+  "yeu_cau_dieu_kien": "không",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

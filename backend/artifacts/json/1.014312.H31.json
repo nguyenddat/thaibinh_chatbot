@@ -1,0 +1,47 @@
+{
+  "ma_thu_tuc": "1.014312.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "855/QĐ-UBND",
+  "ten_thu_tuc": "Thủ tục thôi hưởng trợ cấp sinh hoạt hàng tháng, bảo hiểm y tế đối với Nghệ nhân nhân dân, Nghệ nhân ưu tú",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Di sản văn hóa",
+  "trinh_tu_thuc_hien": "- Nghệ nhân nhân dân, Nghệ nhân ưu tú thôi hưởng trợ cấp sinh hoạt hàng tháng, bảo hiểm y tế gửi trực tuyến, nộp trực tiếp hoặc qua đường bưu điện Giấy đề nghị thôi hưởng trợ cấp sinh hoạt hàng tháng, bảo hiểm y tế tới Ủy ban nhân dân cấp xã nơi đang cá nhân đang hưởng chính sách.\n- Trong thời hạn 15 ngày làm việc, kể từ ngày nhận được Giấy đề nghị thôi hưởng trợ cấp sinh hoạt hàng tháng, bảo hiểm y tế, Chủ tịch Ủy ban nhân dân cấp xã nơi cá nhân đang hưởng chính sách thực hiện việc thôi hưởng trợ cấp sinh hoạt hàng tháng, bảo hiểm y tế.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "15 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận được Giấy đề nghị thôi hưởng trợ cấp sinh hoạt hàng tháng, bảo hiểm y tế."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "15 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận được Giấy đề nghị thôi hưởng trợ cấp sinh hoạt hàng tháng, bảo hiểm y tế."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "15 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận được Giấy đề nghị thôi hưởng trợ cấp sinh hoạt hàng tháng, bảo hiểm y tế."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "(1) Giấy đề nghị thôi hưởng trợ cấp sinh hoạt hàng tháng, bảo hiểm y tế theo Mẫu số 05 tại Phụ lục I ban hành kèm theo Nghị định số 215/2025/NĐ-CP ngày 04 tháng 8 năm 2025 của Chính phủ.",
+      "mẫu đơn, tờ khai": "Mauso05.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam",
+  "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Không có thông tin",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định thôi hưởng trợ cấp sinh hoạt hàng tháng, bảo hiểm y tế đối với Nghệ nhân nhân dân, Nghệ nhân ưu tú",
+  "yeu_cau_dieu_kien": "Không quy định",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

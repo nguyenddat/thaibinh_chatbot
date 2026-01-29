@@ -1,0 +1,46 @@
+{
+  "ma_thu_tuc": "2.001255.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=183176",
+  "so_quyet_dinh": "1491/QĐ-UBND",
+  "ten_thu_tuc": "Đăng ký lại việc nuôi con nuôi trong nước",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết",
+  "linh_vuc": "Nuôi con nuôi",
+  "trinh_tu_thuc_hien": "- Bước 1.  Người có yêu cầu đăng ký lại việc nuôi con nuôi nộp hồ sơ tại Ủy ban nhân dân cấp xã nơi cha mẹ nuôi và con nuôi thường trú hoặc nơi đã đăng ký việc nuôi con nuôi trước đây\n- Bước 2. Chủ tịch Ủy ban nhân dân cấp xã ký và cấp cho người yêu cầu đăng ký lại 01 bản chính Giấy chứng nhận nuôi con nuôi. Mục ghi chú của bản chính Giấy chứng nhận nuôi con nuôi và Sổ đăng ký nuôi con nuôi ghi rõ là đăng ký lại.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "5 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ"
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "5 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Lưu ý: Khi nộp hồ sơ, trường hợp phải chứng minh nơi thường trú của cha mẹ nuôi và con nuôi, cán bộ, công chức, viên chức, cá nhân được giao trách nhiệm tiếp nhận, giải quyết hồ sơ phải khai thác, sử dụng thông tin về cư trú của công dân trong Cơ sở dữ liệu quốc gia về dân cư theo các phương thức nêu tại khoản 2 Điều 14 Nghị định số 104/2022/NĐ-CP ngày 21/12/2022 của Chính phủ.  Trường hợp không thể khai thác được thông tin cư trú của công dân theo các phương thức trên thì có thể yêu cầu người nộp hồ sơ nộp bản sao hoặc xuất trình một trong các giấy tờ chứng minh thông tin về cư trú, bao gồm: Thẻ căn cước; Giấy xác nhận thông tin về cư trú, Giấy thông báo số định danh cá nhân và thông tin công dân trong Cơ sở dữ liệu quốc gia về dân cư.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Tờ khai đăng ký  lại việc nuôi  con nuôi. Tờ khai phải có  cam đoan của người yêu cầu đăng ký lại về tính trung thực của việc đăng ký nuôi con nuôi trước đó và có chữ ký của ít nhất hai người làm chứng.",
+      "mẫu đơn, tờ khai": "7.Tkhaingklivicnuiconnui.doc",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam",
+  "co_quan_thuc_hien": "Ủy ban Nhân dân xã, phường, thị trấn.",
+  "co_quan_co_tham_quyen": "Ủy ban Nhân dân xã, phường, thị trấn.",
+  "dia_chi_tiep_nhan": "Bộ phận Tiếp nhận hồ sơ và Trả kết quả UBND cấp xã",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Giấy chứng nhận nuôi con nuôi trong nước",
+  "yeu_cau_dieu_kien": "- Sổ đăng ký nuôi con nuôi và bản chính giấy tờ đăng ký nuôi con nuôi bị mất hoặc hư hỏng không sử dụng được; \n- Cha, mẹ nuôi và con nuôi đều còn sống vào thời điểm yêu cầu đăng ký lại.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

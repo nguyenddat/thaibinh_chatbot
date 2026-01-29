@@ -1,0 +1,40 @@
+{
+  "ma_thu_tuc": "1.014193.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=414761",
+  "so_quyet_dinh": "914/QĐ-UBND",
+  "ten_thu_tuc": "Thủ tục khám bệnh, chữa bệnh bảo hiểm y tế",
+  "cap_thuc_hien": "Cơ quan khác",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Bảo hiểm y tế",
+  "trinh_tu_thuc_hien": "Bước 1: Người tham gia bảo hiểm y tế khi khám bệnh, chữa bệnh phải xuất trình thông tin về thẻ bảo hiểm y tế, giấy tờ chứng minh nhân thân và các giấy tờ liên quan theo quy định cho cơ sở khám bệnh, chữa bệnh.\nBước 2: Cơ sở khám bệnh, chữa bệnh tiếp nhận người bệnh tham gia bảo hiểm y tế vào cơ sở khám bệnh, chữa bệnh để chẩn đoán và điều trị.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "",
+      "phí, lệ phí": "",
+      "mô tả": "Giải quyết ngay sau khi xuất trình hồ sơ"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Trường hợp chuyển cơ sở khám bệnh, chữa bệnh bảo hiểm y tế theo  yêu cầu chuyên môn, cơ sở khám bệnh, chữa bệnh nơi chuyển người bệnh phải có Phiếu chuyển cơ sở khám bệnh, chữa bệnh theo mẫu quy định tại Phụ lục VI ban hành kèm theo Thông tư số 01/2025/TT-BYT bằng bản giấy hoặc bản điện tử. Phiếu chuyển cơ sở khám bệnh, chữa bệnh có giá trị sử dụng trong 10 ngày làm việc, kể từ ngày ký",
+      "mẫu đơn, tờ khai": "MuchuyncsKCB.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Người tham gia bảo hiểm y tế mắc các bệnh, nhóm bệnh và các trường hợp quy định tại Phụ lục III ban hành kèm theo Thông tư số 01/2025/TT-BYT được sử dụng Phiếu chuyển cơ sở khám bệnh, chữa bệnh có giá trị sử dụng trong 01 năm kể từ ngày ký",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Người nước ngoài, Cán bộ, công chức, viên chức",
+  "co_quan_thuc_hien": "Cơ sở khám bệnh, chữa bệnh",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Không có thông tin",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Người tham gia bảo hiểm y tế được giải quyết quyền lợi khám bệnh, chữa bệnh bảo hiểm y tế",
+  "yeu_cau_dieu_kien": "Cơ sở khám bệnh, chữa bệnh, cơ quan bảo hiểm xã hội không được quy định thêm thủ tục khám bệnh, chữa bệnh bảo hiểm y tế ngoài các thủ tục quy định tại Điều này. Trường hợp cơ sở khám bệnh, chữa bệnh, cơ quan bảo hiểm xã hội cần sao chụp thẻ bảo hiểm y tế, các giấy tờ liên quan đến khám bệnh, chữa bệnh của người bệnh để phục vụ cho công tác quản lý thì phải tự sao chụp sau khi có ý kiến đồng ý của người bệnh hoặc người giám hộ người bệnh, không được yêu cầu người bệnh sao chụp hoặc chi trả cho khoản chi phí này",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

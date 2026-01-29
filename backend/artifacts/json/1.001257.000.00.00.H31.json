@@ -1,0 +1,40 @@
+{
+  "ma_thu_tuc": "1.001257.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=129082",
+  "so_quyet_dinh": "1476/QĐ-UBND",
+  "ten_thu_tuc": "Giải quyết trợ cấp một lần đối với người có thành tích tham gia kháng chiến đã được tặng Bằng khen của Thủ tướng Chính phủ, Bằng khen của Chủ tịch Hội đồng Bộ trưởng hoặc Bằng khen của Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Bằng khen của Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương",
+  "cap_thuc_hien": "Cấp Tỉnh, Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Người có công",
+  "trinh_tu_thuc_hien": "Bước 1: Người có bằng khen hoặc đại diện thân nhân lập bản khai kèm giấy tờ quy định gửi Ủy ban nhân dân cấp xã nơi đăng ký hộ khẩu thường trú của người có bằng khen (hoặc Ủy ban nhân dân cấp xã nơi đăng ký hộ khẩu cuối cùng của người có bằng khen đã từ trần).\nBước 2: Ủy ban nhân dân cấp xã trong thời gian 05 ngày kể từ ngày nhận đủ giấy tờ hợp lệ, có trách nhiệm kiểm tra, xác nhận bản khai và lập danh sách kèm giấy tờ quy định gửi Phòng Nội vụ.\nBước 3: Phòng Nội vụ trong thời gian 07 ngày kể từ ngày nhận đủ giấy tờ, có trách nhiệm kiểm tra, lập danh sách kèm giấy tờ quy định gửi Sở Nội vụ.\nBước 4: Sở Nội vụ trong thời gian 10 ngày kể từ ngày nhận dù giấy tờ, có trách nhiệm kiểm tra và ra quyết định trợ cấp một lần.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "22 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": ""
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "+ Bản khai cá nhân của người được tặng Bằng khen của Thủ tướng Chính phủ, Bằng khen của cấp Bộ, Bằng khen của cấp tỉnh (gọi chung là người có bằng khen): Trường hợp người có bằng khen đã từ trần: Bản khai cá nhân của đại diện thân nhân kèm biên bản ủy quyền. Thân nhân của người có bằng khen từ trần là một trong những người sau: Vợ hoặc chồng; bố đẻ, mẹ đẻ; con đẻ, con nuôi của người từ trần.",
+      "mẫu đơn, tờ khai": "MubinbnuquynThngt05.docx\nMubnkhaiccnhnQ24.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "+ Bản sao một trong các giấy tờ sau: Bằng khen của Thủ tướng Chính phủ, Bằng khen của cấp Bộ, Bằng khen của cấp tỉnh hoặc Quyết định khen thưởng",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam",
+  "co_quan_thuc_hien": "Ủy ban Nhân dân xã, phường, thị trấn., Phòng Nội vụ, Sở Nội vụ",
+  "co_quan_co_tham_quyen": "Sở Nội vụ",
+  "dia_chi_tiep_nhan": "Bộ phận tiếp nhận hồ sơ và trả kết quả, UBND cấp xã",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định hưởng trợ cấp 1 lần đối với người được tặng Bằng khen",
+  "yeu_cau_dieu_kien": "Người có thành tích tham gia kháng chiến đã được tặng Bằng khen của Thủ tướng Chính phủ, Bằng khen của Chủ tịch Hội đồng Bộ trưởng (gọi chung là Bằng khen của Thủ tướng Chính phủ) hoặc Bằng khen của Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ (gọi chung là Bằng khen của cấp bộ), Bằng khen của Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương (gọi chung là Bằng khen của cấp tỉnh).",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

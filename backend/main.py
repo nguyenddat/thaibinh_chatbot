@@ -9,11 +9,9 @@ from fastapi.staticfiles import StaticFiles
 
 from database import get_db
 from routes import chat_route, procedure_route, geometry_route
-from services import ProcedureService
-from utils.retriever import retriever
 
 def get_application() -> FastAPI:
-    application = FastAPI()
+    application = FastAPI(redirect_slashes=False)
     application.add_middleware(
         CORSMiddleware,
         allow_origins=["*"],
@@ -21,10 +19,6 @@ def get_application() -> FastAPI:
         allow_methods=["*"],
         allow_headers=["*"],
     )
-
-    # Preload procedures
-    ProcedureService.preloadProcedure()
-    retriever.build()
 
     # Add routes
     application.include_router(chat_route.router, prefix="/api/chat", tags=["Chat"])

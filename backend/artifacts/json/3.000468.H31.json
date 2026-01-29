@@ -1,0 +1,66 @@
+{
+  "ma_thu_tuc": "3.000468.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1608/QĐ-UBND",
+  "ten_thu_tuc": "Chỉnh sửa nội dung văn bằng, chứng chỉ (tại cấp xã)",
+  "cap_thuc_hien": "Cấp Xã, Cơ quan khác",
+  "loai_thu_tuc": "Loại khác",
+  "linh_vuc": "Văn bằng, chứng chỉ",
+  "trinh_tu_thuc_hien": "a) Người đề nghị chỉnh sửa nội dung văn bằng, chứng chỉ nộp trực tiếp hoặc gửi qua đường bưu điện 01 (một) bộ hồ sơ theo quy định tại khoản 1 Điều này cho cơ quan có thẩm quyền chỉnh sửa nội dung văn bằng, chứng chỉ;\nb) Trong thời hạn 02 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan có thẩm quyền chỉnh sửa nội dung văn bằng, chứng chỉ xem xét quyết định việc chỉnh sửa; nếu không chỉnh sửa thì phải trả lời bằng văn bản và nêu rõ lý do;\nc) Việc chỉnh sửa nội dung văn bằng, chứng chỉ được thực hiện bằng quyết định chỉnh sửa; không chỉnh sửa trực tiếp trong văn bằng, chứng chỉ. Quyết định chỉnh sửa phải được lưu trong hồ sơ cấp văn bằng, chứng chỉ.\nd) Căn cứ quyết định chỉnh sửa, cơ quan có thẩm quyền cấp văn bằng, chứng chỉ ghi đầy đủ thông tin về văn bằng, chứng chỉ, các nội dung được chỉnh sửa của văn bằng, chứng chỉ vào phụ lục sổ gốc cấp văn bằng, chứng chỉ.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "2 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Trong thời hạn 02 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan có thẩm quyền chỉnh sửa nội dung văn bằng, chứng chỉ xem xét quyết định việc chỉnh sửa; nếu không chỉnh sửa thì phải trả lời bằng văn bản và nêu rõ lý do."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "2 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Trong thời hạn 02 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan có thẩm quyền chỉnh sửa nội dung văn bằng, chứng chỉ xem xét quyết định việc chỉnh sửa; nếu không chỉnh sửa thì phải trả lời bằng văn bản và nêu rõ lý do."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "a) Đơn đề nghị chỉnh sửa nội dung văn bằng, chứng chỉ;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "b) Văn bằng, chứng chỉ đề nghị chỉnh sửa;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "c) Trích lục hoặc quyết định thay đổi hoặc cải chính hộ tịch, xác định lại dân tộc, xác định lại giới tính đối với trường hợp chỉnh sửa văn bằng, chứng chỉ do thay đổi hoặc cải chính hộ tịch, xác định lại dân tộc, xác định lại giới tính;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "d) Giấy khai sinh đối với trường hợp chỉnh sửa văn bằng, chứng chỉ do bổ sung hộ tịch, điều chỉnh hộ tịch, đăng ký lại việc sinh, đăng ký khai sinh quá hạn;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "đ) Giấy chứng minh nhân dân hoặc căn cước công dân hoặc hộ chiếu hoặc giấy tờ tùy thân hợp pháp khác có ảnh của người được cấp văn bằng, chứng chỉ. Thông tin ghi trên các giấy tờ này phải phù hợp với đề nghị chỉnh sửa nội dung văn bằng, chứng chỉ. Các tài liệu trong hồ sơ đề nghị chỉnh sửa nội dung văn bằng, chứng chỉ quy định tại các điểm b, c, d, đ nêu trên là bản sao từ sổ gốc hoặc bản sao được chứng thực từ bản chính",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "Trong trường hợp tài liệu trong hồ sơ đề nghị chỉnh sửa nội dung văn bằng, chứng chỉ quy định tại các điểm b, c, d, đ nêu trên là bản sao không có chứng thực thì người đề nghị chỉnh sửa văn bằng, chứng chỉ phải xuất trình bản chính để người tiếp nhận hồ sơ đối chiếu; người tiếp nhận hồ sơ phải ký xác nhận, ghi rõ họ tên vào bản sao và chịu trách nhiệm về tính chính xác của bản sao so với bản chính",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Người nước ngoài",
+  "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã, Cơ sở giáo dục",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Ủy ban nhân dân cấp xã; Cơ sở giáo dục",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định chỉnh sửa nội dung văn bằng, chứng chỉ",
+  "yeu_cau_dieu_kien": "Người được cấp văn bằng, chứng chỉ có quyền yêu cầu chỉnh sửa nội dung ghi trên văn bằng, chứng chỉ trong các trường hợp sau:\na) Được cơ quan có thẩm quyền quyết định thay đổi hoặc cải chính hộ tịch;\nb) Được xác định lại dân tộc, xác định lại giới tính;\nc) Được bổ sung hộ tịch, điều chỉnh hộ tịch;\nd) Được đăng ký khai sinh quá hạn, đăng ký lại việc sinh.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

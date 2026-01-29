@@ -1,0 +1,62 @@
+{
+  "ma_thu_tuc": "1.010939.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1378/QĐ-UBND",
+  "ten_thu_tuc": "Công bố lại tổ chức, cá nhân cung cấp dịch vụ cai nghiện ma túy tự nguyện tại gia đình, cộng đồng",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Phòng, chống tệ nạn xã hội",
+  "trinh_tu_thuc_hien": "Bước 1: Nộp hồ sơ\nTổ chức, cá nhân đề nghị công bố lại đủ điều kiện cung cấp dịch vụ cai nghiện ma túy tự nguyện tại gia đình, cộng đồng gửi 01 bộ hồ sơ theo quy định tại Khoản 1 Điều 19 Nghị định số 116/2021/NĐ-CP đến Ủy ban nhân dân cấp huyện nơi tổ chức đóng trụ sở hoặc nơi cá nhân cư trú. Trường hợp gửi hồ sơ theo phương thức điện tử, tổ chức, cá nhân có trách nhiệm lưu giữ toàn bộ bản gốc của hồ sơ và chịu trách nhiệm trước pháp luật về tính chính xác, trung thực của hồ sơ.\nBước 2: Tiếp nhận hồ sơ\nỦy ban nhân dân huyện tiếp nhận hồ sơ trong giờ làm việc, nếu chưa hợp lệ phải cấp ngay phiếu hướng dẫn cho người hồ sơ.\nBước 3: Tổ chức thẩm định\nChủ tịch Ủy ban nhân dân cấp huyện có trách nhiệm tổ chức thẩm định hồ sơ, thẩm định các điều kiện công bố lại.\nBước 4: Quyết định công bố lại/ không công bố lại\nTrong thời hạn 10 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ, Chủ tịch Ủy ban nhân dân cấp huyện thẩm định và công bố lại tổ chức, cá nhân đủ điều kiện cung cấp dịch vụ cai nghiện tự nguyện tại gia đình, cộng đồng. Trường hợp không đủ điều kiện phải trả lời bằng văn bản và nêu rõ lý do.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "10 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận đủ hồ sơ hợp lệ"
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "10 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận đủ hồ sơ hợp lệ"
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "10 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận đủ hồ sơ hợp lệ"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "- Văn bản đề nghị công bố lại đủ điều kiện cung cấp dịch vụ cai nghiện ma túy tự nguyện tại gia đình, cộng đồng của tổ chức, cá nhân đề nghị theo Mẫu số 13 Phụ lục II Nghị định số 116/2021/NĐ-CP;",
+      "mẫu đơn, tờ khai": "Mau so 13.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Bản lý lịch tóm tắt của người đứng đầu hoặc người đại diện theo pháp luật của cơ sở cung cấp dịch vụ cai nghiện ma túy tự nguyện theo Mẫu số 04 Phụ lục II Nghị định số 116/2021/NĐ-CP kèm theo các văn bằng, chứng chỉ đối với trường hợp thay đổi người đại diện theo pháp luật quy định tại điểm a Khoản 1 Điều 19 Nghị định số 116/2021/NĐ-CP.",
+      "mẫu đơn, tờ khai": "Mau so 04.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Tài liệu chứng minh bảo đảm cơ sở vật chất tại địa điểm cung cấp dịch vụ mới quy định tại Khoản 2 Điều 16 Nghị định số 116/2021/NĐ-CP đối với trường hợp thay đổi địa điểm cung cấp dịch vụ quy định tại điểm a Khoản 1 Điều 19 Nghị định số 116/2021/NĐ-CP.",
+      "mẫu đơn, tờ khai": "Mau so 14.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Bản báo cáo kết quả khắc phục việc đình chỉ cung cấp dịch vụ đối với trường hợp quy định tại điểm b Khoản 1 Điều 19 Nghị định 116/2021/NĐ-CP.",
+      "mẫu đơn, tờ khai": "Mau so 17.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Ủy ban nhân dân cấp Huyện",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Ủy ban nhân dân cấp Huyện.",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định của Chủ tịch Ủy ban nhân dân cấp huyện công bố (công bố lại) cơ sở đủ điều kiện cung cấp dịch vụ cai nghiện ma túy tự nguyện tại gia đình, cộng đồng",
+  "yeu_cau_dieu_kien": "a) Thay đổi người đại diện theo pháp luật của cơ sở cung cấp dịch vụ; thay đổi địa điểm cung cấp dịch vụ;\nb) Hết thời hạn đình chỉ cung cấp dịch vụ cai nghiện ma túy tự nguyện theo quyết định của Chủ tịch Ủy ban nhân dân cấp huyện.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

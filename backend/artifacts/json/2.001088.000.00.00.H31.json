@@ -1,0 +1,46 @@
+{
+  "ma_thu_tuc": "2.001088.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "2407/QĐ-UBND",
+  "ten_thu_tuc": "Xét hưởng chính sách hỗ trợ cho đối tượng sinh con đúng chính sách dân số.",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết",
+  "linh_vuc": "Dân số, Bà mẹ - Trẻ em",
+  "trinh_tu_thuc_hien": "Bước 1 : Đối tượng hưởng chính sách hoặc người thân trực tiếp của đối tượng hưởng chính sách hỗ trợ (sau đây gọi là người đứng tên Tờ khai) lập 01 bộ hồ sơ theo quy định gửi trực tiếp hoặc qua đường bưu điện tới Ủy ban nhân dân cấp xã.\nBước 2: Khi tiếp nhận hồ sơ, người tiếp nhận có trách nhiệm kiểm tra ngay toàn bộ hồ sơ; nếu hồ sơ chưa đầy đủ thì hướng dẫn người đứng tên Tờ khai bổ sung, hoàn thiện theo quy định. Trường hợp không bổ sung, hoàn thiện được hồ sơ ngay tại thời điểm đó thì người tiếp nhận phải lập thành văn bản hướng dẫn, trong đó nêu rõ loại giấy tờ, nội dung cần bổ sung, hoàn thiện gửi người đứng tên Tờ khai. Khi nhận được yêu cầu bổ sung, hoàn thiện hồ sơ, người đứng tên Tờ khai phải bổ sung, hoàn thiện hồ sơ và gửi ngay về cơ quan tiếp nhận hồ sơ.\nNgười tiếp nhận có trách nhiệm tiếp nhận đúng, đủ hồ sơ. Trường hợp giấy tờ là bản chụp có kèm theo bản chính để đối chiếu thì người tiếp nhận có trách nhiệm kiểm tra, đối chiếu bản chụp với bản chính và ký‎ xác nhận, không được yêu cầu người đứng tên Tờ khai nộp bản sao có chứng thực. Trường hợp giấy tờ là bản sao có chứng thực thì không được yêu cầu xuất trình bản chính để đối chiếu.\nBước 3: Trong thời hạn 10 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ được ghi trên Phiếu tiếp nhận hồ sơ, Ủy ban nhân dân cấp xã xác minh các tiêu chí áp dụng cho đối tượng được hưởng chính sách hỗ trợ; ban hành quyết định hỗ trợ kinh phí; thông báo và thực hiện cấp kinh phí hỗ trợ cho đối tượng hưởng chính sách.\nTrường hợp hồ sơ không bảo đảm điều kiện hỗ trợ, trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ được ghi trên Phiếu tiếp nhận hồ sơ, Ủy ban nhân dân cấp xã có văn bản thông báo cho người đứng tên Tờ khai.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "10 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "10 ngày kể từ khi nhận được hồ sơ hợp lệ"
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "10 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "10 ngày kể từ khi nhận được hồ sơ hợp lệ"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Bản sao có chứng thực hoặc bản chụp có kèm theo bản chính để đối chiếu các giấy tờ chứng minh thuộc đối tượng hỗ trợ theo quy định tại Điều 1 của Nghị định số 39/2015/NĐ-CP: - Giấy đăng ký kết hôn đối với đối tượng hưởng chính sách là người dân tộc Kinh có chồng là người dân tộc thiểu số; - Kết luận của Hội đồng Giám định y khoa cấp tỉnh hoặc cấp Trung ương đối với trường hợp sinh con thứ ba nếu đã có hai con đẻ nhưng một hoặc cả hai con bị dị tật hoặc mắc bệnh hiểm nghèo không mang tính di truyền.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Tờ khai của đối tượng hoặc thân nhân trực tiếp của đối tượng hưởng chính sách hỗ trợ.",
+      "mẫu đơn, tờ khai": "mau so 01a, 1b tt45 -1 (2).doc",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Cán bộ, công chức, viên chức",
+  "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Không có thông tin",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định hỗ trợ kinh phí",
+  "yeu_cau_dieu_kien": "Không có thông tin",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

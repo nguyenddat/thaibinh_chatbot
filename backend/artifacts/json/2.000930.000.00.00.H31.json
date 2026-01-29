@@ -1,0 +1,52 @@
+{
+  "ma_thu_tuc": "2.000930.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "2940/QĐ-UBND",
+  "ten_thu_tuc": "Thủ tục thôi làm hòa giải viên (cấp xã)",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Hòa giải ở cơ sở",
+  "trinh_tu_thuc_hien": "Tổ trưởng tổ hòa giải đề nghị Trưởng ban công tác Mặt trận phối hợp với trưởng thôn, tổ trưởng tổ dân phố làm văn bản đề nghị Chủ tịch Ủy ban nhân dân cấp xã ra quyết định thôi làm hòa giải viên.\nTrong thời hạn 10 ngày, kể từ khi nhận được đề nghị của tổ trưởng Tổ hòa giải về việc thôi làm hòa giải viên, Trưởng ban công tác Mặt trận chủ trì, phối hợp với trưởng thôn, tổ trưởng dân phố xem xét, xác minh, làm văn bản đề nghị Chủ tịch Ủy ban nhân dân cấp xã ra quyết định thôi làm hòa giải viên (Mẫu số 08 tại Phụ lục ban hành kèm theo Nghị quyết liên tịch số 01/2014/NQLT-CP-UBTƯMTTQVN).\nĐối với trường hợp thôi làm hòa giải viên theo quy định tại Điểm b, Điểm c Khoản 1 Điều 11 của Luật hòa giải ở cơ sở, nếu Trưởng ban công tác Mặt trận, trưởng thôn, tổ trưởng tổ dân phố không đồng ý với đề nghị của tổ trưởng tổ hòa giải hoặc Trưởng ban công tác Mặt trận và trưởng thôn, tổ trưởng tổ dân phố không thống nhất được với nhau về đề nghị của tổ trưởng tổ hòa giải, thì Trưởng ban công tác Mặt trận thông báo với tổ trưởng tổ hòa giải, nêu rõ lý do không đồng ý, đồng thời báo cáo Chủ tịch Ủy ban nhân dân cấp xã xem xét, quyết định (Mẫu số 09 tại Phụ lục ban hành kèm theo Nghị quyết liên tịch số 01/2014/NQLT-CP-UBTƯMTTQVN).\nTrường hợp thôi làm hòa giải viên đối với tổ trưởng tổ hòa giải thì Trưởng ban công tác Mặt trận phối hợp với trưởng thôn, tổ trưởng tổ dân phố làm văn bản đề nghị Chủ tịch Ủy ban nhân dân cấp xã ra quyết định thôi làm hòa giải viên.\nTrong thời hạn 05 ngày làm việc, kể từ ngày nhận được văn bản đề nghị hoặc báo cáo về việc thôi làm hòa giải viên, Chủ tịch Ủy ban nhân dân cấp xã xem xét, quyết định.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "0",
+      "phí, lệ phí": "",
+      "mô tả": "Không quy định"
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "0",
+      "phí, lệ phí": "",
+      "mô tả": "Không quy định"
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "0",
+      "phí, lệ phí": "",
+      "mô tả": "Không quy định"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Văn bản đề nghị ra quyết định thôi làm hòa giải viên (Mẫu số 08 tại Phụ lục ban hành kèm theo Nghị quyết liên tịch số 01/2014/NQLT-CP-UBTƯMTTQVN",
+      "mẫu đơn, tờ khai": "Mẫu số 08.doc",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Báo cáo về việc thôi làm hòa giải viên (Mẫu số 09 tại Phụ lục ban hành kèm theo Nghị quyết liên tịch số 01/2014/NQLT-CP-UBTƯMTTQVN) trong trường hợp Trưởng ban công tác Mặt trận, trưởng thôn, tổ trưởng tổ dân phố không đồng ý với đề nghị của tổ trưởng tổ hòa giải hoặc Trưởng ban công tác Mặt trận và trưởng thôn, tổ trưởng tổ dân phố không thống nhất được với nhau về đề nghị của tổ trưởng tổ hòa giải",
+      "mẫu đơn, tờ khai": "Mẫu số 09.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Không có thông tin",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định thôi làm hòa giải viên",
+  "yeu_cau_dieu_kien": "Việc thôi làm hòa giải viên được thực hiện trong các trường hợp sau đây:\n\n- Theo nguyện vọng của hòa giải viên;\n\n- Hòa giải viên không còn đáp ứng một trong các tiêu chuẩn quy định tại Điều 7 của Luật hòa giải ở cơ sở;\n\n- Vi phạm nguyên tắc tổ chức, hoạt động hòa giải ở cơ sở theo quy định tại Điều 4 của Luật hòa giải ở cơ sở hoặc không có điều kiện tiếp tục làm hòa giải viên do bị xử lý vi phạm pháp luật.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

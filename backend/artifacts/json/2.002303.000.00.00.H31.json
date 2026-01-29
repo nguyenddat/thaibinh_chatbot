@@ -1,0 +1,47 @@
+{
+  "ma_thu_tuc": "2.002303.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "2938/QĐ-UBND",
+  "ten_thu_tuc": "Lập danh sách đối tượng tham gia bảo hiểm y tế do Bộ Lao động – Thương binh và Xã hội quản lý",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết",
+  "linh_vuc": "Bảo hiểm xã hội",
+  "trinh_tu_thuc_hien": "a) Đối với đối tượng đang được nuôi dưỡng thường xuyên trong Cơ sở nuôi dưỡng, điều dưỡng thương binh và người có công với cách mạng, Cơ sở trợ giúp xã hội (sau đây gọi là Cơ sở nuôi dưỡng):\n- Bước 1: Cơ sở nuôi dưỡng lập danh sách (theo Mẫu số 2 quy định tại Nghị định số 146/2018/NĐ-CP) gửi cơ quan bảo hiểm xã hội huyện.\n- Bước 2: Trong thời hạn 10 (mười) ngày làm việc, kể từ ngày nhận danh sách, cơ quan bảo hiểm xã hội huyện kiểm tra và thực hiện cấp thẻ bảo hiểm y tế cho đối tượng. \n- Bước 3: Cơ quan bảo hiểm xã hội huyện chuyển danh sách kèm theo thẻ bảo hiểm y tế của đối tượng cho Cơ sở nuôi dưỡng.\nb) Đối với học sinh, sinh viên đang theo học tại Cơ sở giáo dục nghề nghiệp do Bộ Lao động - Thương binh và Xã hội quản lý:\n- Bước 1: Cơ sở giáo dục nghề nghiệp lập danh sách (theo Mẫu số 2 quy định tại Nghị định số 146/2018/NĐ-CP) gửi cơ quan bảo hiểm xã hội huyện.\n- Bước 2: Trong thời hạn 10 (mười) ngày làm việc, kể từ ngày nhận danh sách, cơ quan bảo hiểm xã hội huyện kiểm tra và thực hiện cấp thẻ bảo hiểm y tế cho đối tượng.\n- Bước 3: Cơ quan bảo hiểm xã hội huyện chuyển danh sách kèm theo thẻ bảo hiểm y tế của đối tượng cho Cơ sở giáo dục nghề nghiệp để bàn giao cho đối tượng.\n* Ghi chú: Đối với đối tượng đang sinh sống tại cộng đồng, việc lập danh sách sẽ do người làm công tác Lao động - Thương binh và Xã hội cấp xã hoặc người được phân công thực hiện theo quy định tại Điều 5 Thông tư số 30/2019/TT-BLĐTBXH thực hiện.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "10 Ngày làm việc",
+      "phí, lệ phí": "Phí : Không Đồng",
+      "mô tả": ""
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "10 Ngày làm việc",
+      "phí, lệ phí": "Phí : Không Đồng",
+      "mô tả": ""
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "10 Ngày làm việc",
+      "phí, lệ phí": "Phí : Không Đồng",
+      "mô tả": ""
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Danh sách đối tượng tham gia bảo hiểm y tế (theo Mẫu số 02 ban hành kèm theo Nghị định số 146/2018/NĐ-CP).",
+      "mẫu đơn, tờ khai": "Mau so 2.doc",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Công đoàn cơ quan BHXH Việt Nam",
+  "co_quan_co_tham_quyen": "Công đoàn cơ quan BHXH Việt Nam",
+  "dia_chi_tiep_nhan": "Bảo hiểm xã hội cấp Huyện",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Thẻ bảo hiểm y tế.",
+  "yeu_cau_dieu_kien": "Đối tượng tham gia bảo hiểm y tế theo quy định tại Điều 2 Thông tư số 30/2019/TT-BLĐTBXH đang được nuôi dưỡng thường xuyên trong Cơ sở nuôi dưỡng hoặc đang theo học tại Cơ sở giáo dục nghề nghiệp do Bộ Lao động - Thương binh và Xã hội quản lý.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

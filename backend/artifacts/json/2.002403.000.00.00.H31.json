@@ -1,0 +1,35 @@
+{
+  "ma_thu_tuc": "2.002403.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1953/QĐ-UBND",
+  "ten_thu_tuc": "Thủ tục thực hiện việc giải trình",
+  "cap_thuc_hien": "Cấp Bộ, Cấp Tỉnh, Cấp Xã, Cơ quan khác",
+  "loai_thu_tuc": "TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết",
+  "linh_vuc": "Phòng, chống tham nhũng",
+  "trinh_tu_thuc_hien": "- Bước 1: Thu thập, xác minh thông tin có liên quan.\n- Bước 2: Làm việc trực tiếp với người yêu cầu giải trình để làm rõ những nội dung có liên quan khi thấy cần thiết. Nội dung làm việc được lập thành biên bản có chữ ký hoặc điểm chỉ của các bên.\n- Bước 3: Ban hành văn bản giải trình với các nội dung sau đây: Họ tên, địa chỉ người yêu cầu giải trình; nội dung yêu cầu giải trình; kết quả làm việc trực tiếp với tổ chức, cá nhân (nếu có); các căn cứ pháp lý để giải trình; nội dung giải trình cụ thể.\n- Bước 4: Gửi văn bản giải trình đến người yêu cầu giải trình.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "15 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "Thời hạn thực hiện việc giải trình không quá 15 ngày kể từ ngày ra thông báo tiếp nhận yêu cầu giải trình. Trường hợp có nội dung phức tạp thì có thể gia hạn 01 lần, thời gian gia hạn không quá 15 ngày và phải thông báo bằng văn bản đến người yêu cầu giải trình.\n- Trường hợp yêu cầu giải trình trực tiếp có nội dung đơn giản thì việc giải trình có thể thực hiện bằng hình thức trực tiếp nhưng phải được lập thành biên bản có chữ ký hoặc điểm chỉ của các bên.\n- Giải trình được thực hiện bằng ban hành văn bản giải trình."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "1. Thông tin, tài liệu liên quan đến nội dung việc giải trình;  2. Biên bản làm việc có chữ ký hoặc điểm chỉ của các bên;  3. Văn bản giải trình.  - Số lượng: 01 bộ",
+      "mẫu đơn, tờ khai": "NĐ130 kiemsoat taisan thunhap.pdf",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Cán bộ, công chức, viên chức, Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Cơ quan nhà nước có liên quan",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Không có thông tin",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Văn bản giải trình",
+  "yeu_cau_dieu_kien": "- Theo quy định tại Điều 6 Nghị định số 59/2019/NĐ-CP ngày 01/7/2019, những nội dung sau không thuộc phạm vi giải trình:\n1. Nội dung thuộc bí mật nhà nước; bí mật đời sống riêng tư, bí mật cá nhân, bí mật kinh doanh theo quy định của pháp luật\n2. Nội dung chỉ đạo, tổ chức thực hiện nhiệm vụ, công vụ trong nội bộ cơ quan, tổ chức, đơn vị mà chưa ban hành, chưa thực hiện hoặc nội dung chỉ đạo, điều hành của cơ quan cấp trên với cơ quan cấp dưới.\n- Theo quy định tại Điều 14 Nghị định số 59/2019/NĐ-CP ngày 01/7/2019, tạm đình chỉ, đình chỉ việc giải trình trong các trường hợp sau:\n1. Người yêu cầu giải trình là cá nhân đã chết mà chưa xác định được người thừa kế quyền, nghĩa vụ; cơ quan, tổ chức bị chia tách, sáp nhập, giải thể mà chưa có cá nhân, tổ chức kế thừa quyền, nghĩa vụ trong việc yêu cầu giải trình;\n2. Người yêu cầu giải trình là cá nhân mất năng lực hành vi dân sự mà chưa xác định được người đại diện theo pháp luật;\n3. Cá nhân yêu cầu giải trình bị ốm đau hoặc vì lý do khách quan khác mà người thực hiện giải trình chưa thể thực hiện được việc giải trình;\n4. Người yêu cầu giải trình là cá nhân đã chết mà không có người thừa kế quyền, nghĩa vụ; cơ quan, tổ chức bị chia tách, sáp nhập, giải thể mà không có cá nhân, tổ chức kế thừa quyền, nghĩa vụ trong việc yêu cầu giải trình;\n5. Người yêu cầu giải trình là cá nhân mất năng lực hành vi dân sự mà không có người đại diện theo pháp luật;\n6. Người yêu cầu giải trình rút toàn bộ yêu cầu giải trình.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

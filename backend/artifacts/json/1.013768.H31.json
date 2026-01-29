@@ -1,0 +1,62 @@
+{
+  "ma_thu_tuc": "1.013768.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1662/QĐ-UBND",
+  "ten_thu_tuc": "Phê duyệt phương án bảo vệ đập, hồ chứa nước trên địa bàn do Ủy ban nhân dân cấp tỉnh phân cấp",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Thủy lợi",
+  "trinh_tu_thuc_hien": "Bước 1: Tổ chức, cá nhân nộp hồ sơ đến Ủy ban nhân dân cấp xã.\nBước 2: Hoàn chỉnh hồ sơ:\nỦy ban nhân dân cấp xã trả lời ngay tính đầy đủ của hồ sơ đối với trường hợp nộp trực tiếp; trả lời tính đầy đủ của hồ sơ trong 01 ngày làm việc đối với trường hợp nộp hồ sơ qua môi trường mạng hoặc qua dịch vụ bưu chính bằng văn bản.\nBước 3: Xem xét hồ sơ và trình phê duyệt:\n- Trong thời hạn 18 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan chuyên môn về nông nghiệp và môi trường cấp xã tổ chức thẩm định và trình Chủ tịch Uỷ ban nhân dân cấp xã xem xét, quyết định;\n- Trong thời hạn 02 ngày làm việc kể từ ngày nhận được hồ sơ trình của cơ quan chuyên môn về nông nghiệp và môi trường cấp xã, Chủ tịch Ủy ban nhân dân cấp xã quyết định phê duyệt; trường hợp không phê duyệt thì có ngay văn bản thông báo và nêu rõ lý do cho tổ chức, cá nhân.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "20 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "20 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định."
+    },
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "20 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "20 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "20 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "20 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "- Dự thảo phương án bảo vệ;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Ý kiến của các cơ quan, đơn vị liên quan (nếu có);",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Các tài liệu liên quan khác kèm theo (nếu có).",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Tờ trình đề nghị phê duyệt;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Không có thông tin",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định phê duyệt phương án bảo vệ đập, hồ chứa nước",
+  "yeu_cau_dieu_kien": "Không",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

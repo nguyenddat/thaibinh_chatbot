@@ -1,19 +1,19 @@
 services:
   db:
-    container_name: lm_db
     image: ankane/pgvector:latest
-    volumes:
-      - ./database/data:/var/lib/postgresql
+    container_name: thaibinh_db
     env_file:
-      - ./database/.env
+      - ./mount-data/database/.env
+    volumes:
+      - ./mount-data/database/data:/var/lib/postgresql/data
     ports:
       - "5001:5432"
     restart: unless-stopped
     healthcheck:
-      test: ["CMD", "pg_isready", "-U", "postgres"]
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-postgres}"]
       interval: 5s
       timeout: 5s
-      retries: 2
+      retries: 5
     networks:
       - fast_api
 
@@ -27,14 +27,30 @@ services:
     ports:
       - "5003:8008"
     restart: unless-stopped
-    command: [ "uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8008", "--reload" ]
+    command: >
+      uvicorn main:app
+      --host 0.0.0.0
+      --port 8008
+      --reload
     volumes:
-      - .:/backend
-    networks:
-      - fast_api
+      - ./backend:/backend/backend
     depends_on:
       db:
         condition: service_healthy
+    networks:
+      - fast_api
+
+  qdrant:
+    image: qdrant/qdrant:latest
+    container_name: thaibinh_qdrant
+    restart: unless-stopped
+    ports:
+      - "6338:6333"
+      - "6339:6334"
+    volumes:
+      - ./mount-data/qdrant/storage:/qdrant/storage
+    networks:
+      - fast_api
 
 networks:
   fast_api:

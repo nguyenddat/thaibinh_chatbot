@@ -1,0 +1,47 @@
+{
+  "ma_thu_tuc": "1.009447.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1610/QĐ-UBND",
+  "ten_thu_tuc": "Công bố đóng cảng, bến thủy nội địa",
+  "cap_thuc_hien": "Cấp Bộ, Cấp Tỉnh, Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Hàng hải và đường thủy nội địa",
+  "trinh_tu_thuc_hien": "a) Nộp hồ sơ TTHC:\nCá nhân, tổ chức có nhu cầu công bố đóng cảng, bến thủy nội địa nộp hồ sơ đến cơ quan có thẩm quyền như sau:\n- Bộ Xây dựng: cảng thủy nội địa tiếp nhận phương tiện thủy nước ngoài;\n- Cục Hàng hải và Đường thủy Việt Nam: cảng thủy nội địa trên đường thủy nội địa quốc gia, đường thủy nội địa chuyên dùng nối với đường thủy nội địa quốc gia, cảng thủy nội địa có vùng nước, vùng đất vừa trên đường thủy nội địa quốc gia vừa trên đường thủy nội địa địa phương, cảng thủy nội địa trong vùng nước cảng biển nối với đường thủy nội địa quốc gia, \n- Sở Xây dựng, Sở Giao thông công chánh TP Hồ Chí Minh: cảng thủy nội địa trên đường thủy nội địa quốc gia, đường thủy nội địa chuyên dùng nối với đường thủy nội địa quốc gia, cảng thủy nội địa có vùng nước, vùng đất vừa trên đường thủy nội địa quốc gia vừa trên đường thủy nội địa địa phương, cảng thủy nội địa trong vùng nước cảng biển nối với đường thủy nội địa quốc gia, trừ trường thuộc thẩm quyền của Bộ Xây dựng và các trường hợp khác do Bộ Xây dựng quyết định; \n- Sở Xây dựng, Sở Giao thông công chánh TP Hồ Chí Minh, Ủy ban nhân dân thành phố, thị xã, quận huyện được Uỷ ban nhân dân cấp tỉnh phân cấp: bến khách ngang sông, bến thủy nội địa phục vụ thi công công trình chính trên địa bàn tỉnh, thành phố trực thuộc trung ương.\n\nb) Giải quyết TTHC:\nTrong thời hạn 5 ngày làm việc, kể từ ngày nhận được văn bản, đơn đề nghị của cơ quan, chủ cảng, bến thủy nội địa cơ quan có thẩm quyền ban hành quyết định công bố đóng cảng, bến thủy nội địa.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "5 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "5 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "5 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "- Đơn đề nghị đóng cảng, bến thủy nội địa của chủ cảng, bến thủy nội địa.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã",
+  "co_quan_thuc_hien": "Cục Đường thủy nội địa Việt Nam, Sở Xây dựng, Ủy ban nhân dân cấp Huyện",
+  "co_quan_co_tham_quyen": "Cục Đường thủy nội địa Việt Nam, Sở Xây dựng, Ủy ban nhân dân cấp Huyện",
+  "dia_chi_tiep_nhan": "Trung tâm Phục vụ hành chính công và Kiểm soát thủ tục hành chính, số 02 Chùa Chuông, TP. Hưng Yên, tỉnh Hưng Yên + Nộp hồ sơ: Điểm tiếp nhận hồ sơ: Sở Xây dựng + Nhận kết quả: Điểm trả kết quả tập trung",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định công bố đóng cảng",
+  "yeu_cau_dieu_kien": "Không có",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

@@ -1,0 +1,61 @@
+{
+  "ma_thu_tuc": "1.003434.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1602/QĐ-UBND",
+  "ten_thu_tuc": "Hỗ trợ dự án liên kết (cấp xã)",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Kinh tế hợp tác và Phát triển nông thôn",
+  "trinh_tu_thuc_hien": "Bước 1. Chủ đầu tư dự án liên kết gửi 01 bộ hồ sơ tới Phòng Nông nghiệp (hoặc Phòng Kinh tế, sau đây gọi chung là Phòng Nông nghiệp).\nBước 2. Sau khi nhận đủ hồ sơ theo quy định, Phòng Nông nghiệp thành lập Hội đồng thẩm định hồ sơ. Hội đồng thẩm định gồm Lãnh đạo Phòng Nông nghiệp là chủ tịch hội đồng, các thành viên là đại diện Phòng Kế hoạch, Tài chính, các đơn vị liên quan và lãnh đạo Ủy ban nhân dân các xã có liên quan.\nTrong thời hạn 15 ngày làm việc sau khi nhận được hồ sơ, Hội đồng tổ chức thẩm định, nếu hồ sơ đủ điều kiện thì Phòng Nông nghiệp có tờ trình trình Ủy ban nhân dân cấp huyện xem xét phê duyệt.\nNếu hồ sơ không đủ điều kiện thì trong vòng 10 ngày làm việc kể từ khi thẩm định, Phòng Nông nghiệp phải thông báo và nêu rõ lý do cho chủ đầu tư dự án liên kết được biết.\nBước 3. Trong thời hạn 10 ngày làm việc sau khi nhận được tờ trình của Phòng Nông nghiệp, Ủy ban nhân dân cấp huyện ra quyết định phê duyệt hỗ trợ dự án liên kết;",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "15 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "+ Trong thời hạn 15 ngày làm việc sau khi nhận được hồ sơ, Hội đồng tổ chức thẩm định, nếu hồ sơ đủ điều kiện thì Phòng Nông nghiệp có tờ trình trình Ủy ban nhân dân cấp huyện xem xét phê duyệt. \n+ Nếu hồ sơ không đủ điều kiện thì trong vòng 10 ngày làm việc kể từ khi thẩm định, Phòng Nông nghiệp phải thông báo và nêu rõ lý do cho chủ đầu tư dự án liên kết được biết. \n+ Trong thời hạn 10 ngày làm việc sau khi nhận được tờ trình của Phòng Nông nghiệp, Ủy ban nhân dân cấp huyện ra quyết định phê duyệt hỗ trợ dự án liên kết;"
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "15 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "+ Trong thời hạn 15 ngày làm việc sau khi nhận được hồ sơ, Hội đồng tổ chức thẩm định, nếu hồ sơ đủ điều kiện thì Phòng Nông nghiệp có tờ trình trình Ủy ban nhân dân cấp huyện xem xét phê duyệt. \n+ Nếu hồ sơ không đủ điều kiện thì trong vòng 10 ngày làm việc kể từ khi thẩm định, Phòng Nông nghiệp phải thông báo và nêu rõ lý do cho chủ đầu tư dự án liên kết được biết. \n+ Trong thời hạn 10 ngày làm việc sau khi nhận được tờ trình của Phòng Nông nghiệp, Ủy ban nhân dân cấp huyện ra quyết định phê duyệt hỗ trợ dự án liên kết;"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Dự án liên kết (theo Phụ lục II ban hành kèm theo Nghị định số 98/2018/NĐ-CP)",
+      "mẫu đơn, tờ khai": "PL 02.NĐ 98.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Bản thỏa thuận cử đơn vị làm chủ đầu tư dự án liên kết (theo Phụ lục III ban hành kèm theo Nghị định số 98/2018/NĐ-CP) đối với trường hợp các doanh nghiệp, hợp tác xã ký hợp đồng liên kết với nhau",
+      "mẫu đơn, tờ khai": "PL 03.NĐ 98.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Bản sao chụp các chứng nhận về tiêu chuẩn chất lượng sản phẩm, an toàn thực phẩm, an toàn dịch bệnh và bảo vệ môi trường; hoặc cam kết bảo đảm các quy định của pháp luật về tiêu chuẩn chất lượng sản phẩm, an toàn thực phẩm, an toàn dịch bệnh và bảo vệ môi trường (theo Phụ lục IV ban hành kèm theo Nghị định số 98/2018/NĐ-CP)",
+      "mẫu đơn, tờ khai": "PL 04.NĐ 98.docx",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "Bản sao chụp hợp đồng liên kết.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "Đơn đề nghị của chủ dự án (theo Phụ lục I ban hành kèm theo Nghị định số 98/2018/NĐ-CP)",
+      "mẫu đơn, tờ khai": "PL01.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã",
+  "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Bộ phận Tiếp nhận và Trả kết quả giải quyết TTHC cấp huyện",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định phê duyệt hỗ trợ dự án liên kết",
+  "yeu_cau_dieu_kien": "- Phù hợp với quy hoạch phát triển kinh tế xã hội của địa phương.\n\n- Hợp đồng liên kết được công chứng hoặc chứng thực bởi cơ quan có thẩm quyền.\n\n- Giấy chứng nhận hoặc cam kết bảo đảm các quy định của pháp luật về tiêu chuẩn chất lượng sản phẩm, an toàn thực phẩm, an toàn dịch bệnh và bảo vệ môi trường.\n\n- Liên kết đảm bảo ổn định:\n\n+ Đối với sản phẩm nông nghiệp có chu kỳ nuôi, trồng, khai thác từ 01 năm trở lên, thời gian liên kết theo dự án liên kết tối thiểu là 05 năm;\n\n+ Đối với sản phẩm nông nghiệp có chu kỳ nuôi, trồng, khai thác dưới 01 năm, thời gian liên kết theo dự án liên kết tối thiểu là 03 năm.\n\n- Dự án liên kết có sự hỗ trợ của nhà nước được cơ quan có thẩm quyền phê duyệt.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

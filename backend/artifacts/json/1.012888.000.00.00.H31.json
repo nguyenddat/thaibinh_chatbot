@@ -1,0 +1,122 @@
+{
+  "ma_thu_tuc": "1.012888.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1664/QĐ-UBND",
+  "ten_thu_tuc": "Công nhận Ban quản trị nhà chung cư",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Nhà ở và công sở",
+  "trinh_tu_thuc_hien": "- Trong thời hạn 10 ngày, kể từ ngày có biên bản bầu Ban quản trị hoặc thành viên Ban quản trị theo quy định (bao gồm trường hợp bầu Ban quản trị lần đầu, bầu Ban quản trị khi hết nhiệm kỳ, bầu Ban quản trị khi bị bãi nhiệm, miễn nhiệm, bầu Ban quản trị mới khi tách, nhập Ban quản trị), Ban quản trị có trách nhiệm nộp trực tiếp hoặc qua dịch vụ bưu chính hoặc trực tuyến 01 bộ hồ sơ đề nghị công nhận Ban quản trị nhà chung cư quy định tại Điều 22 của Quy chế Quản lý, sử dụng nhà chung cư ban hành kèm theo Thông tư số 05/2024/TT-BXD ngày 31/7/2024 của Bộ trưởng Bộ Xây dựng tại Ủy ban nhân dân cấp huyện nơi có nhà chung cư.\n- Trong thời hạn 07 ngày làm việc, kể từ ngày nhận đầy đủ hồ sơ đề nghị của Ban quản trị, Ủy ban nhân dân cấp huyện có trách nhiệm kiểm tra và ban hành quyết định công nhận Ban quản trị hoặc ủy quyền cho Ủy ban nhân dân cấp xã nơi có nhà chung cư kiểm tra hồ sơ và ban hành quyết định công nhận Ban quản trị.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "7 Ngày",
+      "phí, lệ phí": "Phí : 0 Đồng (Không quy định.)",
+      "mô tả": "Không quá 07 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "7 Ngày",
+      "phí, lệ phí": "Phí : 0 Đồng (Không quy định.)",
+      "mô tả": "Không quá 07 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "7 Ngày",
+      "phí, lệ phí": "Phí : 0 Đồng (Không quy định.)",
+      "mô tả": "Không quá 07 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Đối với Ban quản trị được bầu tại Hội nghị nhà chung cư lần đầu thì hồ sơ đề nghị công nhận Ban quản trị bao gồm:",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "- Văn bản đề nghị của chủ đầu tư, trong đó nêu rõ tên Ban quản trị đã được Hội nghị nhà chung cư thông qua; nếu thành lập Ban quản trị của tòa nhà chung cư thì tên Ban quản trị được đặt theo tên hoặc số tòa nhà; nếu thành lập Ban quản trị của cụm nhà chung cư thì tên Ban quản trị do Hội nghị nhà chung cư quyết định;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "- Biên bản họp Hội nghị nhà chung cư về việc bầu Ban quản trị;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "- Danh sách các thành viên Ban quản trị, trong đó nêu chức danh Trưởng ban, Phó ban quản trị;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "- Quy chế hoạt động của Ban quản trị đã được Hội nghị nhà chung cư thông qua.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "Trường hợp bầu lại Ban quản trị khi hết nhiệm kỳ, bầu Ban quản trị mới do bị miễn nhiệm, bãi nhiệm theo quy định hoặc bầu thay thế thành viên Ban quản trị, bầu thay thế Trưởng ban, bầu thay thế Phó ban quản trị không phải là đại diện của chủ đầu tư hoặc do chủ đầu tư không cử đại diện thay thế thì hồ sơ đề nghị công nhận Ban quản trị bao gồm:",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "- Văn bản đề nghị của Ban quản trị được bầu;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "- Bản gốc quyết định công nhận Ban quản trị;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "- Biên bản họp Hội nghị nhà chung cư về việc bầu lại, bầu thay thế Ban quản trị hoặc thành viên Ban quản trị hoặc bầu thay thế Trưởng ban, Phó ban quản trị; trường hợp bầu thay thế thành viên Ban quản trị theo hình thức xin ý kiến các chủ sở hữu căn hộ thì phải có biên bản theo quy định tại điểm b khoản 3 Điều 26 của Quy chế Quản lý, sử dụng nhà chung cư ban hành kèm theo Thông tư số 05/2024/TT-BXD ngày 31/7/2024 của Bộ trưởng Bộ Xây dựng;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "- Quy chế hoạt động của Ban quản trị đã được Hội nghị nhà chung cư thông qua (nếu có sửa đổi, bổ sung quy chế này).",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": ". Trường hợp tách Ban quản trị cụm nhà chung cư theo quy định tại khoản 2 Điều 27 của Quy chế Quản lý, sử dụng nhà chung cư ban hành kèm theo Thông tư số 05/2024/TT-BXD ngày 31/7/2024 của Bộ trưởng Bộ Xây dựng thì hồ sơ đề nghị công nhận Ban quản trị được quy định như sau:",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "- Trường hợp đề nghị công nhận Ban quản trị của tòa nhà sau khi tách khỏi cụm nhà chung cư thì hồ sơ bao gồm các giấy tờ quy định tại khoản 1 Điều 22 của Quy chế Quản lý, sử dụng nhà chung cư ban hành kèm theo Thông tư số 05/2024/TT-BXD ngày 31/7/2024 của Bộ trưởng Bộ Xây dựng kèm theo biên bản thống nhất tách khỏi cụm nhà chung cư của đại diện các chủ sở hữu nhà chung cư theo quy định tại điểm a khoản 2 Điều 27 của Quy chế Quản lý, sử dụng nhà chung cư ban hành kèm theo Thông tư số 05/2024/TT-BXD ngày 31/7/2024 của Bộ trưởng Bộ Xây dựng; trường hợp thuộc diện quy định tại điểm c khoản 2 Điều 27 của Quy chế Quản lý, sử dụng nhà chung cư ban hành kèm theo Thông tư số 05/2024/TT-BXD ngày 31/7/2024 của Bộ trưởng Bộ Xây dựng thì phải có thêm bản gốc quyết định công nhận Ban quản trị;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "- Trường hợp đề nghị công nhận Ban quản trị của cụm nhà chung cư sau khi có tòa nhà tách khỏi cụm thì hồ sơ bao gồm văn bản đề nghị của Ban quản trị cụm nhà chung cư, bản gốc quyết định công nhận Ban quản trị cụm nhà chung cư, danh sách các thành viên Ban quản trị cụm nhà chung cư còn lại (ghi rõ họ, tên và chức danh trong Ban quản trị); trường hợp phải bầu lại Trưởng ban quản trị cụm nhà chung cư theo quy định tại điểm b khoản 2 Điều 27 của Quy chế Quản lý, sử dụng nhà chung cư ban hành kèm theo Thông tư số 05/2024/TT-BXD ngày 31/7/2024 của Bộ trưởng Bộ Xây dựng thì phải kèm theo biên bản họp Hội nghị nhà chung cư về việc bầu Trưởng ban và danh sách người được bầu.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "Trường hợp nhập Ban quản trị theo quy định tại khoản 3 Điều 27 của Quy chế Quản lý, sử dụng nhà chung cư ban hành kèm theo Thông tư số 05/2024/TT-BXD ngày 31/7/2024 của Bộ trưởng Bộ Xây dựng thì hồ sơ đề nghị công nhận Ban quản trị cụm nhà chung cư được quy định như sau:",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "- Trường hợp đề nghị công nhận Ban quản trị cụm nhà chung cư sau khi nhập các Ban quản trị của các tòa nhà thì hồ sơ bao gồm các giấy tờ quy định tại khoản 1 Điều 22 của Quy chế Quản lý, sử dụng nhà chung cư ban hành kèm theo Thông tư số 05/2024/TT-BXD ngày 31/7/2024 của Bộ trưởng Bộ Xây dựng, biên bản đề nghị tập thể của đại diện các chủ sở hữu nhà chung cư theo quy định tại điểm a khoản 3 Điều 27 của Quy chế Quản lý, sử dụng nhà chung cư ban hành kèm theo Thông tư số 05/2024/TT-BXD ngày 31/7/2024 của Bộ trưởng Bộ Xây dựng và bản gốc các quyết định công nhận các Ban quản trị tòa nhà chung cư;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "- Trường hợp đề nghị công nhận Ban quản trị cụm nhà chung cư do nhập Ban quản trị của tòa nhà vào Ban quản trị của cụm nhà chung cư thì hồ sơ bao gồm văn bản đề nghị của Ban quản trị cụm nhà chung cư kèm theo các biên bản họp quy định tại điểm b khoản 3 Điều 27 của Quy chế Quản lý, sử dụng nhà chung cư ban hành kèm theo Thông tư số 05/2024/TT-BXD ngày 31/7/2024 của Bộ trưởng Bộ Xây dựng, danh sách các thành viên Ban quản trị của cụm (bao gồm cả thành viên mới của tòa nhà nhập vào cụm) và bản gốc quyết định công nhận Ban quản trị tòa nhà, cụm nhà chung cư.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã, Ủy ban nhân dân cấp Huyện",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Bộ phận Tiếp nhận và Trả kết quả UBND cấp huyện.",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định công nhận Ban quản trị nhà chung cư.",
+  "yeu_cau_dieu_kien": "Không",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

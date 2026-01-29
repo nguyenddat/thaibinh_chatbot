@@ -1,0 +1,46 @@
+{
+  "ma_thu_tuc": "1.010826.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=301727",
+  "so_quyet_dinh": "912/QĐ-UBND",
+  "ten_thu_tuc": "Sửa đổi, bổ sung thông tin cá nhân trong hồ sơ người có công",
+  "cap_thuc_hien": "Cấp Tỉnh",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Người có công",
+  "trinh_tu_thuc_hien": "Bước 1: Người có công; thân nhân liệt sĩ hoặc người hưởng trợ cấp thờ cúng liệt sĩ; thân nhân của người có công đã từ trần làm đơn đề nghị theo Mẫu số 26 Phụ lục I Nghị định số 131/2021/NĐ-CP gửi Sở Lao động - Thương binh và Xã hội (nay là Sở Nội vụ) nơi quản lý hồ sơ của người có công kèm bản sao có chứng thực từ các giấy tờ theo quy định tại điểm b khoản 3 Điều 130 Nghị định số 131/2021/NĐ-CP (đã được sửa đổi bổ sung tại khoản 4 Điều 13 Nghị định số 104/2022/NĐ-CP ngày 21/12/2022 của Chính phủ).\n       Bước 2: Sở Nội vụ trong thời gian 12 ngày kể từ ngày nhận đủ giấy tờ, có trách nhiệm kiểm tra, đối chiếu thông tin và có văn bản kèm giấy tờ quy định tại điểm b khoản 3 Điều 130 Nghị định số 131/2021/NĐ-CP (đã được sửa đổi bổ sung tại khoản 4 Điều 13 Nghị định số 104/2022/NĐ-CP ngày 21/12/2022 của Chính phủ) và bản sao giấy tờ đề nghị được sửa đổi, bổ sung thông tin gửi cơ quan có thẩm quyền giải quyết.\n      Bước 3: Sở Nội vụ trong thời gian 12 ngày kể từ ngày nhận được văn bản sửa đổi, bổ sung thông tin của cơ quan có thẩm quyền, có trách nhiệm ban hành quyết định sửa đổi, bổ sung thông tin trong hồ sơ người có công theo Mẫu số 75 Phụ lục I Nghị định số 131/2021/NĐ-CP và gửi thông báo điều chỉnh thông tin đến Bộ Lao động - Thương binh và Xã hội (nay Bộ Nội vụ).",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "24 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận đủ giấy tờ (Thời gian cụ thể được quy định tại từng bước của quy trình thực hiện)."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "24 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận đủ giấy tờ (Thời gian cụ thể được quy định tại từng bước của quy trình thực hiện)."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "- Đơn đề nghị theo Mẫu số 26 Phụ lục I Nghị định số 131/2021/NĐ-CP",
+      "mẫu đơn, tờ khai": "Mus26PhlcINghnhs131.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Bản sao có chứng thực từ các giấy tờ sau: + Đối với người có công: căn cước công dân hoặc chứng minh thư nhân dân. + Đối với thân nhân liệt sĩ hoặc người hưởng trợ cấp thờ cúng liệt sĩ, thân nhân của người có công đã từ trần: căn cước công dân hoặc chứng minh thư nhân dân.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam",
+  "co_quan_thuc_hien": "Sở Nội vụ",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Trung tâm Phục vụ hành chính công và Kiểm soát thủ tục hành chính, số 02 Chùa Chuông, TP. Hưng Yên, tỉnh Hưng Yên + Nộp hồ sơ: Điểm tiếp nhận hồ sơ: Sở Nội vụ + Nhận kết quả: Điểm trả kết quả tập trung",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định về việc sửa đổi, bổ sung thông tin trong hồ sơ người có công",
+  "yeu_cau_dieu_kien": "Trường hợp áp dụng:\n- Người có công đề nghị sửa đổi, bổ sung những thông tin sau: họ, tên, chữ đệm; ngày, tháng, năm sinh; quê quán của người có công hoặc thân nhân của họ ghi trong hồ sơ người có công để phù hợp với giấy tờ về hộ tịch.\n- Thân nhân liệt sĩ, thân nhân người có công, người hưởng trợ cấp thờ cúng liệt sĩ, người hưởng chế độ đối với vợ hoặc chồng liệt sĩ lấy chồng hoặc vợ khác đề nghị sửa đổi, bổ sung những thông tin sau của bản thân: họ, tên, chữ đệm; ngày, tháng, năm sinh; quê quán để phù hợp với giấy tờ về hộ tịch.\n- Thân nhân liệt sĩ hoặc người hưởng trợ cấp thờ cúng liệt sĩ đề nghị sửa đổi, bổ sung những thông tin sau của liệt sĩ: họ, tên, chữ đệm; ngày, tháng, năm sinh; ngày, tháng, năm hy sinh; quê quán (theo địa danh khi xác lập hồ sơ công nhận liệt sĩ); cấp bậc, chức vụ; cơ quan, đơn vị khi hy sinh; trường hợp hy sinh; nơi hy sinh.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

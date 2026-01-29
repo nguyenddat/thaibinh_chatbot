@@ -1,0 +1,45 @@
+{
+  "ma_thu_tuc": "2.002228.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1474/QĐ-UBND",
+  "ten_thu_tuc": "Thông báo chấm dứt hoạt động của tổ hợp tác",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết",
+  "linh_vuc": "Thành lập và hoạt động của tổ hợp tác",
+  "trinh_tu_thuc_hien": "Bước 2: Tiếp nhận hồ sơ\nỦy ban nhân dân cấp xã tiếp nhận hồ sơ thông báo chấm dứt hoạt động của tổ hợp tác.\nBước 3: Xử lý hồ sơ\nSau khi tiếp nhận hồ sơ thông báo chấm dứt hoạt động của tổ hợp tác, Ủy ban nhân dân cấp xã cập nhật vào Sổ theo dõi về việc thành lập và hoạt động của tổ hợp tác các thông tin có liên quan.\nBước 1: Nộp hồ sơ\nTổ trưởng tổ hợp tác hoặc người đại diện theo ủy quyền của tổ hợp tác nộp thông báo chấm dứt hoạt động của tổ hợp tác đến Ủy ban nhân dân cấp xã, nơi tổ hợp tác thành lập.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "Ngay tại thời điểm tiếp nhận hồ sơ.",
+      "phí, lệ phí": "Lệ phí :  Đồng (Không có)",
+      "mô tả": "Trực tiếp"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "(1) Giấy thông báo về việc chấm dứt hoạt động của tổ hợp tác;",
+      "mẫu đơn, tờ khai": "MausoIV.3.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "(2) Biên bản cuộc họp tổ hợp tác về việc bầu tổ trưởng;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "(3) Biên bản cuộc họp thành viên tổ hợp tác về việc chấm dứt hoạt động của tổ hợp tác.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Ủy ban Nhân dân xã, phường, thị trấn.",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "trụ sở cơ quan",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Cập nhật thông tin trong Sổ theo dõi về việc thành lập và hoạt động của tổ hợp tác",
+  "yeu_cau_dieu_kien": "- Hồ sơ thông báo có đầy đủ giấy tờ và nội dung các giấy tờ đó được kê khai đầy đủ theo quy định của pháp luật;\n- Thông tin của tổ hợp tác đã được kê khai đầy đủ vào các giấy tờ trong hồ sơ thông báo thành lập hoặc thay đổi tổ hợp tác và được cập nhật vào Sổ theo dõi thành lập và hoạt động của tổ hợp tác theo quy định của pháp luật.",
+  "tu_khoa": "Chấm dứt tổ hợp tác",
+  "mo_ta": "Không có thông tin"
+}

@@ -1,0 +1,67 @@
+{
+  "ma_thu_tuc": "1.013814.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=388474",
+  "so_quyet_dinh": "1485/QĐ-UBND",
+  "ten_thu_tuc": "Đăng ký thành lập, đăng ký thay đổi nội dung, cấp lại giấy chứng nhận đăng ký thành lập và giải thể cơ sở trợ giúp xã hội ngoài công lập",
+  "cap_thuc_hien": "Cấp Tỉnh",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Bảo trợ xã hội",
+  "trinh_tu_thuc_hien": "- Bước 1: \n+ Tổ chức, cá nhân gửi 01 bộ hồ sơ đề nghị thành lập; đề nghị đăng ký thay đổi nội dung hoặc cấp lại giấy chứng nhận đăng ký thành lập đến Uỷ ban nhân dân cấp tỉnh. \n+ Đối với trường hợp cơ sở bị thu hồi giấy chứng nhận đăng ký thành lập; Cơ sở không đủ điều kiện hoạt động theo quy định của pháp luật và có kiến nghị của Uỷ ban nhân dân cấp tỉnh và trường hợp khác theo quy định của pháp luật: cơ sở có văn bản đề nghị giải thể gửi đến Uỷ ban nhân dân cấp tỉnh. \n+ Đối với trường hợp tổ chức, cá nhân đăng ký thành lập cơ sở có đơn đề nghị giải thể: tổ chức cá nhân nộp 01 bộ hồ sơ giải thể cơ sở theo quy định đến Uỷ ban nhân dân cấp tỉnh.\n- Bước 2: \n+ Uỷ ban nhân dân cấp tỉnh xem xét hồ sơ và cấp giấy chứng nhận đăng ký thành lập; cấp giấy chứng nhận thay đổi nội dung hoặc cấp lại giấy chứng nhận đăng ký thành lập theo đề nghị của cơ sở trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ. Trường hợp cơ sở đề nghị không đủ điều kiện theo quy định thì có thông báo rõ lý do bằng văn bản cho tổ chức, cá nhân đề nghị.\n+ Trong thời hạn 10 ngày làm việc kể từ ngày nhận đủ hồ sơ, Uỷ ban nhân dân cấp tỉnh phải có quyết định giải thể. Trường hợp không đồng ý việc giải thể thì phải có văn bản trả lời và nêu rõ lý do. Cơ sở trợ giúp xã hội không được tự động giải thể khi chưa nhận được quyết định giải thể của Uỷ ban nhân dân cấp tỉnh.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "05 ngày làm việc đối với việc cấp giấy chứng nhận đăng ký thành lập và cấp giấy chứng nhận thay đổi nội dung hoặc cấp lại giấy chứng nhận đăng ký thành lập; 10 ngày đối với việc giải thể cơ sở trợ giúp xã hội.",
+      "phí, lệ phí": "",
+      "mô tả": "05 ngày làm việc đối với việc cấp giấy chứng nhận đăng ký thành lập và cấp giấy chứng nhận thay đổi nội dung hoặc cấp lại giấy chứng nhận đăng ký thành lập; 10 ngày đối với việc giải thể cơ sở trợ giúp xã hội."
+    },
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "05 ngày làm việc đối với việc cấp giấy chứng nhận đăng ký thành lập và cấp giấy chứng nhận thay đổi nội dung hoặc cấp lại giấy chứng nhận đăng ký thành lập; 10 ngày đối với việc giải thể cơ sở trợ giúp xã hội.",
+      "phí, lệ phí": "",
+      "mô tả": "05 ngày làm việc đối với việc cấp giấy chứng nhận đăng ký thành lập và cấp giấy chứng nhận thay đổi nội dung hoặc cấp lại giấy chứng nhận đăng ký thành lập; 10 ngày đối với việc giải thể cơ sở trợ giúp xã hội."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "05 ngày làm việc đối với việc cấp giấy chứng nhận đăng ký thành lập và cấp giấy chứng nhận thay đổi nội dung hoặc cấp lại giấy chứng nhận đăng ký thành lập; 10 ngày đối với việc giải thể cơ sở trợ giúp xã hội.",
+      "phí, lệ phí": "",
+      "mô tả": "05 ngày làm việc đối với việc cấp giấy chứng nhận đăng ký thành lập và cấp giấy chứng nhận thay đổi nội dung hoặc cấp lại giấy chứng nhận đăng ký thành lập; 10 ngày đối với việc giải thể cơ sở trợ giúp xã hội."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Tờ khai đăng ký thành lập theo  Mẫu số 06 tại Phụ lục ban hành kèm theo Nghị định số 103/2017/NĐ-CP",
+      "mẫu đơn, tờ khai": "Mus06.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Phương án thành lập  cơ sở",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Dự thảo Quy chế hoạt động của cơ sở theo Mẫu số 03b tại Phụ  lục ban hành kèm theo Nghị định số 103/2017/NĐ-CP",
+      "mẫu đơn, tờ khai": "Mus03b-103-2017-nd-cp.doc",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Bản sao có chứng thực đối với giấy tờ hợp pháp về quyền sử  dụng đất, quyền sở hữu nhà ở hoặc hợp đồng cho thuê, mượn đất đai, cơ sở vật chất và tài sản gắn liền với đất phục vụ cho hoạt động của cơ sở",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "- Bản sao các giấy tờ sau: + Thẻ căn cước công dân hoặc căn  cước hoặc giấy chứng minh nhân dân. Đối với sáng lập viên là cá nhân nước ngoài, hộ chiếu hoặc chứng thực cá nhân hợp pháp khác của các sáng lập viên; + Quyết định thành lập hoặc tài liệu tương đương khác của tổ chức và văn bản ủy quyền; thẻ căn cước công dân hoặc căn cước hoặc giấy chứng minh nhân dân hoặc hộ chiếu, chứng thực cá nhân hợp pháp khác của người đại diện theo ủy quyền của tổ chức. Đối với sáng lập viên là tổ chức nước ngoài thì bản sao quyết định thành lập hoặc tài liệu tương đương phải được hợp pháp hóa lãnh sự.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã",
+  "co_quan_thuc_hien": "Ủy ban nhân dân tỉnh và thành phố trực thuộc Trung ương",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Không có thông tin",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Giấy chứng nhận đăng ký thành lập; Quyết định giải thể cơ sở.",
+  "yeu_cau_dieu_kien": "1. Đăng ký thành lập:\n- Về tên của cơ sở: Cơ sở có tên gọi bằng tiếng Việt và tiếng nước ngoài, biểu tượng riêng (nếu có). Tên và biểu tượng của cơ sở phải đáp ứng các điều kiện: Không trùng lắp hoặc gây nhầm lẫn với tên hoặc biểu tượng của cơ sở khác đã được đăng ký trước đó; không vi phạm truyền thống lịch sử, văn hóa, đạo đức và thuần phong mỹ tục của dân tộc.\n- Có hồ sơ đăng ký thành lập hợp lệ theo quy định.\n2. Đăng ký thay đổi nội dung hoặc cấp lại giấy chứng nhận đăng ký thành lập: Cơ sở trợ giúp xã hội có nhu cầu thay đổi nội dung giấy chứng nhận đăng ký thành lập hoặc cấp lại giấy chứng nhận.\n3. Giải thể cơ sở trợ giúp xã hội\n- Cơ sở bị thu hồi giấy chứng nhận đăng ký thành lập.\n- Cơ sở không đủ điều kiện hoạt động theo quy định của pháp luật.\n- Tổ chức, cá nhân đăng ký thành lập cơ sở có đơn đề nghị giải thể.\n- Trường hợp khác theo quy định của pháp luật.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

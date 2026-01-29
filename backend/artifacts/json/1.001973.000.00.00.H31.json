@@ -1,0 +1,47 @@
+{
+  "ma_thu_tuc": "1.001973.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=128193",
+  "so_quyet_dinh": "1024/QĐ-UBND",
+  "ten_thu_tuc": "Tạm dừng hưởng trợ cấp thất nghiệp",
+  "cap_thuc_hien": "Cấp Tỉnh",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Việc làm",
+  "trinh_tu_thuc_hien": "Bước 1: Trong thời hạn 02 ngày làm việc kể từ ngày người lao động không đến thông báo về việc tìm kiếm việc làm hằng tháng theo quy định, trung tâm dịch vụ việc làm nơi người lao động đang hưởng trợ cấp thất nghiệp trình Giám đốc Sở Nội vụ quyết định về việc tạm dừng hưởng trợ cấp thất nghiệp của người lao động.\n- Bước 2: Giám đốc Sở Nội vụ ban hành Quyết định về việc tạm dừng hưởng trợ cấp thất nghiệp theo Mẫu số 06 ban hành kèm theo Thông tư số 15/2023/TT-BLĐTBXH.\n- Bước 3: Quyết định về việc tạm dừng hưởng trợ cấp thất nghiệp được trung tâm dịch vụ việc làm gửi: 01 bản đến Bảo hiểm xã hội cấp tỉnh để thực hiện tạm dừng chi trả trợ cấp thất nghiệp đối với người lao động; 01 đến gửi người lao động để biết và thực hiện.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "02 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Trong thời hạn 02 ngày làm việc kể từ ngày người lao động không đến thông báo về việc tìm kiếm việc làm hằng tháng theo quy định."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "2 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Trong thời hạn 02 ngày làm việc kể từ ngày người lao động không đến thông báo về việc tìm kiếm việc làm hằng tháng theo quy định."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "2 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Trong thời hạn 02 ngày làm việc kể từ ngày người lao động không đến thông báo về việc tìm kiếm việc làm hằng tháng theo quy định."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Giấy tờ chứng minh về việc không thông báo tìm kiếm việc làm hằng tháng theo quy định của người lao động đang hưởng trợ cấp thất nghiệp.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam",
+  "co_quan_thuc_hien": "Sở Nội vụ",
+  "co_quan_co_tham_quyen": "Sở Nội vụ",
+  "dia_chi_tiep_nhan": "Trung tâm Phục vụ hành chính công và Kiểm soát thủ tục hành chính, số 02 Chùa Chuông, TP. Hưng Yên, tỉnh Hưng Yên + Nộp hồ sơ: Điểm tiếp nhận hồ sơ: Sở Nội vụ  + Nhận kết quả: Điểm trả kết quả tập trung",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định về việc tạm dừng hưởng trợ cấp thất nghiệp., Quyết định về việc tạm dừng hưởng trợ cấp thất nghiệp",
+  "yeu_cau_dieu_kien": "Người lao động đang hưởng trợ cấp thất nghiệp không đến thông báo về việc tìm kiếm việc làm hằng tháng theo quy định.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

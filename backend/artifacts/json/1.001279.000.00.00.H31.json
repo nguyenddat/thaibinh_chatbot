@@ -1,0 +1,52 @@
+{
+  "ma_thu_tuc": "1.001279.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1551/QĐ-UBND",
+  "ten_thu_tuc": "Cấp lại Giấy phép sản xuất rượu thủ công nhằm mục đích kinh doanh",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết",
+  "linh_vuc": "Lưu thông hàng hóa trong nước",
+  "trinh_tu_thuc_hien": "Trường hợp cấp lại do hết thời hạn hiệu lực\nThương nhân phải nộp hồ sơ đề nghị cấp lại giấy phép trước thời hạn hết hiệu lực của giấy phép 30 ngày. Hồ sơ, thẩm quyền, thủ tục cấp lại  áp dụng như quy định đối với trường hợp cấp mới.\nTrường hợp cấp lại giấy phép do bị mất hoặc bị hỏng\nTổ chức, cá nhân sản xuất rượu thủ công nhằm mục đích kinh doanh nộp 01 bộ hồ sơ đề nghị cấp lại Giấy phép sản xuất rượu thủ công nhằm mục đích kinh doanh cho Phòng Kinh tế hoặc Kinh tế và Hạ tầng\nTrong thời hạn 07 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan có thẩm quyền xem xét và cấp lại Giấy phép sản xuất rượu thủ công nhằm mục đích kinh doanh. Trường hợp từ chối cấp, phải trả lời bằng văn bản và nêu rõ lý do.\nTrường hợp chưa đủ hồ sơ hợp lệ, trong vòng 03 ngày làm việc kể từ ngày tiếp nhận hồ sơ, Phòng Kinh tế hoặc Kinh tế và Hạ tầng có văn bản yêu cầu bổ sung.\nPhòng Kinh tế hoặc Kinh tế hạ tầng căn cứ vào hồ sơ đã lưu và hồ sơ đề nghị cấp lại của thương nhân để cấp lại giấy phép.\nThời hạn của giấy phép sẽ được giữ nguyên như cũ.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "7 Ngày làm việc",
+      "phí, lệ phí": "Mức giá : Theo quy định của Bộ Tài Chính",
+      "mô tả": ""
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "7 Ngày làm việc",
+      "phí, lệ phí": "Mức giá : Theo quy định của Bộ Tài Chính",
+      "mô tả": ""
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "7 Ngày làm việc",
+      "phí, lệ phí": "Mức giá : Theo quy định của Bộ Tài Chính",
+      "mô tả": ""
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Đơn đề nghị cấp lại theo Mẫu số 03 ban hành tại Nghị định 17/2020/NĐ-CP và bản gốc hoặc bản sao giấy phép đã cấp (nếu có);",
+      "mẫu đơn, tờ khai": "MẪU SỐ 03 RƯỢU.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Bản gốc hoặc bản sao giấy phép đã cấp",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Doanh nghiệp",
+  "co_quan_thuc_hien": "Ủy ban Nhân dân huyện, quận, thành phố trực thuộc tỉnh, thị xã.",
+  "co_quan_co_tham_quyen": "Ủy ban Nhân dân huyện, quận, thành phố trực thuộc tỉnh, thị xã.",
+  "dia_chi_tiep_nhan": "UBND huyện, thành phố trực thuộc tỉnh, thị xã",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Giấy phép sản xuất rượu thủ công nhằm mục đích kinh doanh (cấp lại)",
+  "yeu_cau_dieu_kien": "Thương nhân có Giấy phép sản xuất rượu thủ công nhằm mục đích kinh doanh",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

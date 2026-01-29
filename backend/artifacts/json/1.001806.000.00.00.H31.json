@@ -1,0 +1,51 @@
+{
+  "ma_thu_tuc": "1.001806.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=131559",
+  "so_quyet_dinh": "796/QĐ-UBND",
+  "ten_thu_tuc": "Quyết định công nhận cơ sở sản xuất, kinh doanh sử dụng từ 30% tổng số lao động trở lên là người khuyết tật",
+  "cap_thuc_hien": "Cấp Tỉnh",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Bảo trợ xã hội",
+  "trinh_tu_thuc_hien": "Bước 1: Cơ sở sản xuất, kinh doanh sử dụng từ 30% tổng số lao động trở lên là người khuyết tật lập 01 bộ hồ sơ theo quy định, gửi (trực tiếp hoặc qua đường bưu điện) đến Sở Lao động - Thương binh và Xã hội, nơi Cơ sở có trụ sở chính\nBước 2: Trong thời hạn 10 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định, Sở Lao động -Thương binh và Xã hội có trách nhiệm thẩm định và quyết định công nhận cơ sở sản xuất, kinh doanh sử dụng từ 30% tổng số lao động trở lên là người khuyết tật hoặc có văn bản thông báo lý do không đủ điều kiện để công nhận cơ sở sản xuất, kinh doanh sử dụng từ 30% tổng số lao động trở lên là người khuyết tật",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "10 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Nộp hồ sơ trực tiếp hoặc qua đường bưu điện"
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "10 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Nộp hồ sơ trực tiếp hoặc qua đường bưu điện"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Văn bản đề nghị của cơ sở sản xuất, kinh doanh trong đó nêu rõ tổng số lao động hiện có, số lao động là người khuyết tật; + Bản sao quyết định thành lập hoặc bản sao giấy phép hoạt động của cơ sở",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Danh sách lao động là người khuyết tật và bản sao giấy xác nhận khuyết tật của những người khuyết tật có trong danh sách",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Bản sao hợp đồng lao động hoặc quyết định tuyển dụng của lao động là người khuyết tật đang làm việc",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Sở Y tế",
+  "co_quan_co_tham_quyen": "Sở Y tế",
+  "dia_chi_tiep_nhan": "Trung tâm Phục vụ hành chính công và Kiểm soát TTHC tỉnh Hưng Yên, số 02, đường Chùa Chuông, phường Hiến Nam, thành phố Hưng Yên, tỉnh Hưng Yên - Nộp hồ sơ: điểm tiếp nhận hồ sơ Sở Y tế - Nhận kết quả: điểm trả kết quả tập trung",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định công nhận cơ sở sản xuất, kinh doanh sử dụng từ 30% tổng số lao động trở lên là người khuyết tật không xác định thời hạn (BYT)",
+  "yeu_cau_dieu_kien": "Không có yêu cầu, điều kiện",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

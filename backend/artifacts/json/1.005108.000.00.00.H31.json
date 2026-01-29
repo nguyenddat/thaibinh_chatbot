@@ -1,0 +1,46 @@
+{
+  "ma_thu_tuc": "1.005108.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=388511",
+  "so_quyet_dinh": "1486/QĐ-UBND",
+  "ten_thu_tuc": "Thuyên chuyển đối tượng học bổ túc trung học cơ sở",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Giáo dục trung học",
+  "trinh_tu_thuc_hien": "- Đối tượng học bổ túc THCS muốn chuyển trường cần có đơn xin chuyển trường.\n- Được phép chuyển trường khi nơi xin chuyển đến đồng ý tiếp nhận.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "không quy định",
+      "phí, lệ phí": "",
+      "mô tả": "Không quy định"
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "không quy định",
+      "phí, lệ phí": "",
+      "mô tả": "Không quy định"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Đơn xin chuyển trường.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Văn bản đồng ý của trường nơi xin chuyển đến.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài",
+  "co_quan_thuc_hien": "Trung tâm Giáo dục thường xuyên, Ủy ban nhân dân cấp xã",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Không có thông tin",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Trung tâm giáo dục thường xuyên nơi xin chuyển đến đồng ý tiếp nhận",
+  "yeu_cau_dieu_kien": "Không yêu cầu",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

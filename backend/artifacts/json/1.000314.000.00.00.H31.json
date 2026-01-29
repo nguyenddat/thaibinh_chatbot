@@ -1,0 +1,51 @@
+{
+  "ma_thu_tuc": "1.000314.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1610/QĐ-UBND",
+  "ten_thu_tuc": "Chấp thuận vị trí đấu nối tạm vào đường bộ đang khai thác",
+  "cap_thuc_hien": "Cấp Bộ, Cấp Tỉnh, Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Đường bộ",
+  "trinh_tu_thuc_hien": "a) Nộp hồ sơ TTHC:\nTổ chức, cá nhân có nhu cầu đấu nối tạm thời nộp hồ sơ đề nghị đến cơ quan có thẩm quyền:\n- Khu quản lý đường bộ đối với quốc lộ quy định tại khoản 3 Điều 8 Luật Đường bộ;\n- Sở Xây dựng đối với quốc lộ quy định tại khoản 4 Điều 8 Luật Đường bộ và quốc lộ quy định tại khoản 1 Điều 4, khoản 1 Điều 5 và khoản 1 Điều 6 của Nghị định này; đường tỉnh và đường khác được Ủy ban nhân dân cấp tỉnh giao quản lý;\n- Ủy ban nhân dân cấp huyện, Ủy ban nhân dân cấp xã thực hiện đối với đường bộ thuộc phạm vi quản lý.\nb) Giải quyết TTHC:\nCơ quan có thẩm quyền giải quyết thủ tục hành chính thực hiện tiếp nhận, kiểm tra hồ sơ và xử lý như sau: \n- Đối với trường hợp nộp trực tiếp, sau khi kiểm tra thành phần hồ sơ, nếu đúng quy định thì tiếp nhận hồ sơ và viết phiếu hẹn trả kết quả; hướng dẫn tổ chức, cá nhân hoàn thiện hồ sơ đối với trường hợp không đủ thành phần hồ sơ;\n- Đối với trường hợp nộp gián tiếp, trong phạm vi 02 ngày làm việc kể từ ngày nhận được hồ sơ, kiểm tra thành phần hồ sơ, nếu không đủ thành phần hồ sơ có văn bản thông báo đến tổ chức, cá nhân để bổ sung, hoàn thiện;\n- Trong thời hạn 07 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định, cơ quan có thẩm quyền giải quyết thủ tục hành chính tiến hành thẩm định hồ sơ, nếu đủ điều kiện thì có văn bản chấp thuận nút giao đấu nối tạm. Trường hợp không chấp thuận thì phải có văn bản trả lời và nêu rõ lý do.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "7 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "07 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định"
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "7 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "07 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Bản chính hoặc bản sao có chứng thực Văn bản chấp thuận chủ trương đầu tư hoặc quyết định phê duyệt dự án đầu tư (đối với trường hợp chủ đầu tư dự án đề nghị đấu nối tạm); hợp đồng thi công xây dựng dự án đối với trường hợp nhà thầu đề nghị đấu nối tạm",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "Bản chính hoặc bản sao có chứng thực Hồ sơ thiết kế bản vẽ thi công nút giao đấu nối tạm; phương án tổ chức giao thông của nút giao đấu nối tạm",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "Bản chính Văn bản đề nghị theo quy định",
+      "mẫu đơn, tờ khai": "Mucb.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã",
+  "co_quan_thuc_hien": "Cục Đường bộ Việt Nam, Sở Xây dựng, Ủy ban nhân dân tỉnh và thành phố trực thuộc Trung ương",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Trung tâm Phục vụ hành chính công và Kiểm soát thủ tục hành chính, số 02 Chùa Chuông, TP. Hưng Yên, tỉnh Hưng Yên + Nộp hồ sơ: Điểm tiếp nhận hồ sơ: Sở Xây dựng + Nhận kết quả: Điểm trả kết quả tập trung",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Văn bản chấp thuận vị trí nút giao đấu nối tạm vào đường bộ đang khai thác",
+  "yeu_cau_dieu_kien": "Đấu nối tạm thời vào quốc lộ, đường địa phương đang khai thác được thực hiện trong các trường hợp sau:\n- Làm đường công vụ phục vụ vận chuyển, khai thác vật liệu và vận chuyển thiết bị thi công xây dựng công trình; thời hạn đấu nối tạm không quá thời gian thực hiện dự án theo quy định của pháp luật về đầu tư công, pháp luật về xây dựng;\n- Phục vụ các nhiệm vụ về quốc phòng, an ninh, công tác phòng, chống, khắc phục hậu quả thiên tai, quản lý, khai thác, sử dụng và bảo trì công trình đê điều.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

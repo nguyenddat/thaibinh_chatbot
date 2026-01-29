@@ -1,0 +1,41 @@
+{
+  "ma_thu_tuc": "1.000502.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=127106",
+  "so_quyet_dinh": "856/QĐ-UBND",
+  "ten_thu_tuc": "Nhận lại tiền ký quỹ của doanh nghiệp đưa người lao động đi đào tạo, nâng cao trình độ, kỹ năng nghề ở nước ngoài (hợp đồng dưới 90 ngày)",
+  "cap_thuc_hien": "Cấp Tỉnh",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Quản lý lao động ngoài nước",
+  "trinh_tu_thuc_hien": "- Bước 1: Doanh nghiệp gửi hồ sơ theo quy định đến Sở Lao động - Thương binh và Xã hội.\n- Bước 2: Trong thời hạn 07 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Lao động - Thương binh và Xã hội có công văn đề nghị Ngân hàng thương mại nơi doanh nghiệp ký quỹ tất toán tài khoản ký quỹ cho doanh nghiệp.\n- Bước 3: Ngân hàng thương mại nơi doanh nghiệp ký quỹ hoàn trả tiền ký quỹ và tất toán tài khoản ký quỹ cho doanh nghiệp.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "5 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Nộp hồ sơ trực tiếp hoặc gửi qua đường bưu điện."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "5 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Nộp hồ sơ trực tiếp hoặc gửi qua đường bưu điện."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Báo cáo về việc đã thanh lý Hợp đồng đào tạo nghề ở nước ngoài với người lao động kèm theo tài liệu chứng minh.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài",
+  "co_quan_thuc_hien": "Sở Nội vụ",
+  "co_quan_co_tham_quyen": "Sở Nội vụ",
+  "dia_chi_tiep_nhan": "Trung tâm Phục vụ hành chính công và Kiểm soát thủ tục hành chính, số 02 Chùa Chuông, TP. Hưng Yên, tỉnh Hưng Yên + Nộp hồ sơ: Điểm tiếp nhận hồ sơ: Sở Nội vụ + Nhận kết quả: Điểm trả kết quả tập trung",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Văn bản đề nghị ngân hàng nhận ký quỹ trả lại tiền ký quỹ cho doanh nghiệp..",
+  "yeu_cau_dieu_kien": "Doanh nghiệp đã thanh lý Hợp đồng đào tạo nghề ở nước ngoài với người lao động.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

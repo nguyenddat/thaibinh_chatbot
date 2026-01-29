@@ -1,0 +1,35 @@
+{
+  "ma_thu_tuc": "2.000815.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1761/QĐ-UBND",
+  "ten_thu_tuc": "Chứng thực bản sao từ bản chính giấy tờ, văn bản do cơ quan, tổ chức có thẩm quyền của Việt Nam; cơ quan, tổ chức có thẩm quyền của nước ngoài; cơ quan, tổ chức có thẩm quyền của Việt Nam liên kết với cơ quan, tổ chức có thẩm quyền của nước ngoài cấp hoặc chứng nhận",
+  "cap_thuc_hien": "Cấp Xã, Cơ quan khác",
+  "loai_thu_tuc": "TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết",
+  "linh_vuc": "Chứng thực",
+  "trinh_tu_thuc_hien": "+ Người yêu cầu chứng thực nhận kết quả tại nơi nộp hồ sơ.\n+ Người yêu cầu chứng thực phải xuất trình bản chính giấy tờ, văn bản làm cơ sở để chứng thực bản sao và bản sao cần chứng thực.\n+ Trường hợp người yêu cầu chứng thực chỉ xuất trình bản chính thì cơ quan, tổ chức tiến hành chụp từ bản chính để thực hiện chứng thực, trừ trường hợp cơ quan, tổ chức không có phương tiện để chụp.\n+ Người thực hiện chứng thực kiểm tra bản chính, đối chiếu với bản sao, nếu nội dung bản sao đúng với bản chính, bản chính giấy tờ, văn bản không thuộc các trường hợp bản chính giấy tờ, văn bản không được dùng làm cơ sở để chứng thực bản sao thì thực hiện chứng thực như sau:\n* Ghi đầy đủ lời chứng chứng thực bản sao từ bản chính theo mẫu quy định;\n* Ký, ghi rõ họ tên, đóng dấu của cơ quan, tổ chức thực hiện chứng thực và ghi vào sổ chứng thực.\nĐối với bản sao có từ 02 (hai) trang trở lên thì ghi lời chứng vào trang cuối, nếu bản sao có từ 02 (hai) tờ trở lên thì phải đóng dấu giáp lai.\nMỗi bản sao được chứng thực từ một bản chính giấy tờ, văn bản hoặc nhiều bản sao được chứng thực từ một bản chính giấy tờ, văn bản trong cùng một thời điểm được ghi một số chứng thực.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "Trong ngày cơ quan, tổ chức tiếp nhận yêu cầu hoặc trong ngày làm việc tiếp theo, nếu tiếp nhận yêu cầu sau 15 giờ. Đối với trường hợp cùng một lúc yêu cầu chứng thực bản sao từ nhiều loại bản chính giấy tờ, văn bản; bản chính có nhiều trang; yêu cầu số lượng nhiều bản sao; nội dung giấy tờ, văn bản phức tạp khó kiểm tra, đối chiếu mà cơ quan, tổ chức thực hiện chứng thực không thể đáp ứng được thời hạn quy định nêu trên thì thời hạn chứng thực được kéo dài thêm không quá 02 (hai) ngày làm việc hoặc có thể dài hơn theo thỏa thuận bằng văn bản với người yêu cầu chứng thực.",
+      "phí, lệ phí": "Phí : 2000 Đồng (+ Tại Phòng Tư pháp, UBND cấp xã: 2.000 đồng/trang; từ trang thứ 3 trở lên thu 1.000 đồng/trang, tối đa thu không quá 200.000 đồng/bản. Trang là căn cứ để thu phí được tính theo trang của bản chính.)\nPhí : 2000 Đồng (+ Tại Tổ chức hành nghề công chứng: 02 nghìn đồng/trang đối với trang thứ nhất, trang thứ hai; từ trang thứ ba trở lên thu 01 nghìn đồng/trang nhưng mức thu tối đa không quá 200 nghìn đồng/bản.)",
+      "mô tả": ""
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Bản chính giấy tờ, văn bản làm cơ sở để chứng thực bản sao và bản sao cần chứng thực. Trường hợp người yêu cầu chứng thực chỉ xuất trình bản chính thì cơ quan, tổ chức tiến hành chụp từ bản chính để thực hiện chứng thực, trừ trường hợp cơ quan, tổ chức không có phương tiện để chụp. Bản sao từ bản chính để thực hiện chứng thực phải có đầy đủ các trang đã ghi thông tin của bản chính.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã",
+  "co_quan_thuc_hien": "Ủy ban Nhân dân huyện, quận, thành phố trực thuộc tỉnh, thị xã., Ủy ban Nhân dân xã, phường, thị trấn., Tổ chức hành nghề công chứng",
+  "co_quan_co_tham_quyen": "Ủy ban Nhân dân huyện, quận, thành phố trực thuộc tỉnh, thị xã., Ủy ban Nhân dân xã, phường, thị trấn., Tổ chức hành nghề công chứng",
+  "dia_chi_tiep_nhan": "Bộ phận tiếp nhận hồ sơ và trả kết quả UBND cấp huyện; cấp xã  và Tổ chức hành nghề công chứng",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Bản sao được chứng thực từ bản chính",
+  "yeu_cau_dieu_kien": "Bản chính giấy tờ, văn bản cần chứng thực.\nBản chính giấy tờ, văn bản không được dùng làm cơ sở để chứng thực bản sao:\n+ Bản chính bị tẩy xóa, sửa chữa, thêm, bớt nội dung không hợp lệ.\n+ Bản chính bị hư hỏng, cũ nát, không xác định được nội dung.\n+ Bản chính đóng dấu mật của cơ quan, tổ chức có thẩm quyền hoặc không đóng dấu mật nhưng ghi rõ không được sao chụp.\n+ Bản chính có nội dung trái pháp luật, đạo đức xã hội; tuyên truyền, kích động chiến tranh, chống chế độ xã hội chủ nghĩa Việt Nam; xuyên tạc lịch sử của dân tộc Việt Nam; xúc phạm danh dự, nhân phẩm, uy tín của cá nhân, tổ chức; vi phạm quyền công dân.\n+ Giấy tờ, văn bản do cá nhân tự lập nhưng không có xác nhận và đóng dấu của cơ quan, tổ chức có thẩm quyền.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

@@ -1,0 +1,41 @@
+{
+  "ma_thu_tuc": "2.002307.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=313187",
+  "so_quyet_dinh": "2938/QĐ-UBND",
+  "ten_thu_tuc": "Giải quyết chế độ mai táng phí đối với cựu chiến binh",
+  "cap_thuc_hien": "Cấp Tỉnh, Cấp Xã",
+  "loai_thu_tuc": "TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết",
+  "linh_vuc": "Người có công",
+  "trinh_tu_thuc_hien": "Bước 1: Đại diện thân nhân hoặc người tổ chức mai táng có trách nhiệm lập hồ sơ theo quy định, gửi Ủy ban nhân dân, cấp xã;\nBước 2: Ủy ban nhân dân cấp xã trong thời gian 05 ngày kể từ ngày nhận đủ hồ sơ có trách nhiệm xác nhận bản khai, gửi Phòng Lao động - Thương binh và Xã hội kèm các giấy tờ theo quy định;\nBước 3: Phòng Lao động - Thương binh và Xã hội trong thời gian 10 ngày kể từ ngày nhận đủ các giấy tờ, có trách nhiệm kiểm tra, lập phiếu báo giảm và tổng hợp danh sách gửi Sở Lao động - Thương binh và Xã hội;\nBước 4: Sở Lao động - Thương binh và Xã hội trong thời gian 10 ngày kể từ ngày nhận đủ các giấy tờ theo quy định có trách nhiệm đối chiếu, ghép hồ sơ người có công đang quản lý với hồ sơ đề nghị hưởng mai táng phí, trợ cấp một lần và ra quyết định.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "25 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": ""
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "25 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": ""
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "- Bản khai của đại diện thân nhân (kèm biên bản ủy quyền) hoặc người tổ chức mai táng (Mẫu TT1 Thông tư số 05/2013/TT-BLĐTBXH); - Giấy chứng tử; - Hồ sơ của người có công với cách mạng.",
+      "mẫu đơn, tờ khai": "Mau TT1.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam",
+  "co_quan_thuc_hien": "Phòng Lao động - Thương binh và Xã hội huyện, Ủy ban nhân dân cấp xã, Sở Lao động - Thương binh và Xã hội Tp.Đà Nẵng",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Ủy ban nhân dân cấp xã",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định trợ cấp mai táng phí",
+  "yeu_cau_dieu_kien": "Không",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

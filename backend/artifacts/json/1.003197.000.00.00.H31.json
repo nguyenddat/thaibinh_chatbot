@@ -1,0 +1,40 @@
+{
+  "ma_thu_tuc": "1.003197.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "672/QĐ-CTUBND",
+  "ten_thu_tuc": "Xóa đăng ký thường trú",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Đăng ký, quản lý cư trú",
+  "trinh_tu_thuc_hien": "Bước 1: Chuẩn bị hồ sơ theo quy định của pháp luật.\n\nBước 2: Công dân nộp hồ sơ tại Công an xã, thị trấn. Cán bộ tiếp nhận hồ sơ đối chiếu với các quy định của pháp luật về cư trú:\n\n+ Trường hợp hồ sơ đầy đủ, hợp lệ thì viết giấy biên nhận trao cho người nộp.\n\n+ Trường hợp hồ sơ đủ điều kiện nhưng thiếu thành phần hồ sơ hoặc biểu mẫu, giấy tờ kê khai chưa đúng, chưa đầy đủ thì cán bộ tiếp nhận hồ sơ hướng dẫn cho người đến nộp hồ sơ.\n\n+ Trường hợp hồ sơ không đủ điều kiện thì không tiếp nhận và trả lời bằng văn bản cho công dân, nêu rõ lý do không tiếp nhận.\n\n+ Thời gian tiếp nhận hồ sơ: Từ thứ 2 đến thứ 6 hàng tuần (ngày lễ nghỉ).\n\nBước 3: Trả kết quả: Người nhận kết quả đưa giấy biên nhận, cán bộ đăng ký trả Sổ hộ khẩu (đã xóa tên) và yêu cầu người nhận kết quả ký nhận vào sổ theo dõi giải quyết hộ khẩu.\n\nThời gian trả kết quả: theo ngày hẹn trên giấy biên nhận.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "3 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "Trực tiếp tại trụ sở Công an cấp xã. Thời giạn: không quá 03 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Tờ khai thay đổi thông tin cư trú (Mẫu CT01 ban hành kèm theo Thông tư số 53/2025/TT-BCA).",
+      "mẫu đơn, tờ khai": "1.MuCT01banhnhkmtheoThngts53.doc",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Thông tin chứng minh thuộc trường hợp xóa đăng ký thường trú của công dân trong Cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành và cơ sở dữ liệu khác được kết nối, chia sẻ với cơ quan đăng ký cư trú. Trường hợp thông tin chưa được kết nối, chia sẻ thì công dân xuất trình giấy tờ, tài liệu chứng minh thuộc một trong các trường hợp xóa đăng ký thường trú quy định tại Điều 24 Luật Cư trú.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Cán bộ, công chức, viên chức, Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Công an Xã",
+  "co_quan_co_tham_quyen": "Công an Xã",
+  "dia_chi_tiep_nhan": "Công an cấp xã.",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Cập nhật thông tin trong Cơ sở dữ liệu quốc gia về dân cư, Thông báo kết quả giải quyết thủ tục về cư trú, hủy bỏ thủ tục về cư trú, Cập nhật thông tin trong Cơ sở dữ liệu về cư trú",
+  "yeu_cau_dieu_kien": "- Trong thời hạn 07 ngày kể từ ngày hộ gia đình có người thuộc diện xóa đăng ký thường trú thì người thuộc diện xóa đăng ký thường trú hoặc đại diện hộ gia đình có trách nhiệm nộp hồ sơ làm thủ tục xóa đăng ký thường trú đến cơ quan đăng ký cư trú.\n- Trường hợp người thuộc diện xóa đăng ký thường trú hoặc đại diện hộ gia đình không thực hiện thủ tục xóa đăng ký thường trú thì cơ quan đăng ký cư trú có trách nhiệm kiểm tra, xác minh, lập biên bản về việc công dân, đại diện hộ gia đình không thực hiện thủ tục xóa đăng ký thường trú và thực hiện xóa đăng ký thường trú đối với công dân. \n- Cơ quan, đơn vị quản lý người học tập, công tác, làm việc trong lực lượng vũ trang nhân dân có văn bản đề nghị cơ quan đăng ký cư trú trên địa bàn đóng quân xóa đăng ký thường trú đối với người thuộc đơn vị mình quản lý. Văn bản đề nghị cần nêu rõ họ, chữ đệm và tên khai sinh; ngày, tháng, năm sinh; số định danh cá nhân hoặc chứng minh nhân dân 09 số của người thuộc trường hợp xóa đăng ký thường trú; lý do đề nghị xóa đăng ký thường trú.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

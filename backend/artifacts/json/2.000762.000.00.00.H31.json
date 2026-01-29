@@ -1,0 +1,51 @@
+{
+  "ma_thu_tuc": "2.000762.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "672/CV-BHXH",
+  "ten_thu_tuc": "Giải quyết hưởng trợ cấp hàng tháng theo Quyết định số 613/QĐ-TTg",
+  "cap_thuc_hien": "Cấp Tỉnh, Cấp Xã",
+  "loai_thu_tuc": "TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết",
+  "linh_vuc": "Thực hiện chính sách BHXH",
+  "trinh_tu_thuc_hien": "1. Bước 1: Người đề nghị nộp hồ sơ trực tiếp tại BHXH tỉnh/huyện hoặc gửi qua dịch vụ bưu chính công ích đến BHXH tỉnh.\n2. Bước 2: Cơ quan BHXH tiếp nhận hồ sơ từ người đề nghị, xử lý theo phân cấp.\n3. Bước 3:\na) BHXH tỉnh tiếp nhận hồ sơ từ người đề nghị hoặc từ BHXH huyện; giải quyết và trả hồ sơ đã giải quyết cho người nộp hoặc BHXH huyện.\nb) BHXH huyện tiếp nhận hồ sơ đã giải quyết từ BHXH tỉnh để trả cho người đề nghị.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "30 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "30 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "30 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "30 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "a) Bản chính Đơn đề nghị giải quyết trợ cấp mai táng của thân nhân đối tượng theo Mẫu số 03-QĐ613",
+      "mẫu đơn, tờ khai": "Mẫu số 03_QĐ613.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "b) Bản sao Giấy chứng tử của đối tượng hoặc  bản sao Giấy khai tử hoặc bản sao Quyết định của Tòa án tuyên bố đã chết hoặc bản chính Giấy xác nhận của UBND xã, phường, thị trấn nơi chôn cất",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "c) Bản sao Giấy chứng nhận chấp hành xong hình phạt tù đối với trường hợp đối tượng bị phạt tù nhưng không được hưởng án treo hoặc bản sao Quyết định của Tòa án tuyên bố mất tích trở về đối với trường hợp đối tượng bị Tòa án tuyên bố là mất tích trở về hoặc bản sao Quyết định trở về nước định cư hợp pháp đối với trường hợp đối tượng xuất cảnh trở về định cư hợp pháp.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam",
+  "co_quan_thuc_hien": "Bảo hiểm xã hội tỉnh",
+  "co_quan_co_tham_quyen": "Bảo hiểm xã hội tỉnh",
+  "dia_chi_tiep_nhan": "Trung tâm phục vụ HCC tỉnh Hưng Yên",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Thẻ BHYT, Quyết định về việc hưởng BHXH một lần, Quyết định hưởng trợ cấp hàng tháng, Tiền trợ cấp, Quyết định về việc hưởng chế độ tuất một lần (Mẫu số 08E-HSB), Quyết định về việc hưởng trợ cấp mai táng",
+  "yeu_cau_dieu_kien": "Điều 1 Quyết định số 613/QĐ-TTg; Điều 1 Thông tư số 16/2010/TT-BLĐTBXH",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

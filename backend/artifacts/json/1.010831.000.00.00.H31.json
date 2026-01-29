@@ -1,0 +1,41 @@
+{
+  "ma_thu_tuc": "1.010831.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=301730",
+  "so_quyet_dinh": "912/QĐ-UBND",
+  "ten_thu_tuc": "Cấp giấy xác nhận thông tin về nơi liệt sĩ hy sinh.",
+  "cap_thuc_hien": "Cấp Tỉnh",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Người có công",
+  "trinh_tu_thuc_hien": "Bước 1: Cá nhân làm đơn gửi một trong các cơ quan, đơn vị sau đây: cơ quan, đơn vị quản lý liệt sĩ trước khi hy sinh cấp tỉnh; Bộ Chỉ huy quân sự tỉnh nơi nguyên quán của liệt sĩ; Bộ Chỉ huy quân sự tỉnh nơi liệt sĩ hy sinh.\n         Bước 2: Cơ quan, đơn vị trong thời gian 15 ngày có trách nhiệm kiểm tra, xác minh, cấp giấy xác nhận thông tin về nơi liệt sĩ hy sinh.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "15 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận được đơn (Thời gian cụ thể được quy định tại từng bước của quy trình thực hiện)."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "15 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận được đơn (Thời gian cụ thể được quy định tại từng bước của quy trình thực hiện)."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Đơn đề nghị cấp giấy xác nhận thông tin về nơi liệt sĩ hy sinh",
+      "mẫu đơn, tờ khai": "Mau so 44.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam",
+  "co_quan_thuc_hien": "Bộ Chỉ huy Quân sự tỉnh",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Cơ quan, đơn vị quản lý liệt sĩ trước khi hy sinh cấp tỉnh; Bộ Chỉ huy quân sự tỉnh",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Giấy xác nhận thông tin về nơi liệt sĩ hy sinh..",
+  "yeu_cau_dieu_kien": "Cá nhân là đại diện thân nhân hoặc người hưởng trợ cấp thờ cúng liệt sĩ",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

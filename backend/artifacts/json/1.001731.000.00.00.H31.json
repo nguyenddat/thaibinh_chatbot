@@ -1,0 +1,51 @@
+{
+  "ma_thu_tuc": "1.001731.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=169539",
+  "so_quyet_dinh": "1485/QĐ-UBND",
+  "ten_thu_tuc": "Hỗ trợ chi phí mai táng cho đối tượng bảo trợ xã hội",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Bảo trợ xã hội",
+  "trinh_tu_thuc_hien": "Bước 1: Cơ quan, tổ chức, hộ gia đình hoặc cá nhân tổ chức mai táng cho đối tượng làm hồ sơ theo quy định, gửi Chủ tịch Ủy ban nhân dân cấp xã\nBước 2: Trong thời hạn 02 ngày làm việc kể từ ngày nhận đủ hồ sơ, Chủ tịch Ủy ban nhân dân cấp xã có văn bản đề nghị kèm theo hồ sơ của đối tượng gửi Phòng Lao động - Thương binh và Xã hội\nBước 3: Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được văn bản của Chủ tịch Ủy ban nhân dân cấp xã, Phòng Lao động - Thương binh và Xã hội thẩm định, trình Chủ tịch Ủy ban nhân dân cấp huyện quyết định hỗ trợ chi phí mai táng",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "05 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Nộp trực tiếp hoặc gửi hồ sơ (đơn đề nghị) qua đường bưu điện"
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "05 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Nộp trực tiếp hoặc gửi hồ sơ (đơn đề nghị) qua đường bưu điện"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Tờ khai đề nghị hỗ trợ chi phí mai táng của cơ quan, tổ  chức, hộ gia đình hoặc cá nhân đứng ra tổ chức mai táng cho đối tượng (theo Mẫu số 04 ban hành kèm theo Nghị định số 20/2021/NĐ-CP);",
+      "mẫu đơn, tờ khai": "Mus04.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Bản sao giấy chứng tử hoặc giấy báo tử của đối  tượng",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "Bản sao quyết định hoặc danh sách thôi hưởng trợ  cấp bảo hiểm xã hội, trợ cấp khác của cơ quan có thẩm quyền đối với trường hợp người từ đủ 80 tuổi đang hưởng trợ cấp tuất bảo hiểm xã hội hàng tháng, trợ cấp hàng tháng khác",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Ủy ban Nhân dân xã, phường, thị trấn.",
+  "co_quan_co_tham_quyen": "Chủ tịch Ủy ban nhân dân cấp huyện",
+  "dia_chi_tiep_nhan": "Bộ phận tiếp nhận hồ sơ và trả kết quả, Ủy ban nhân dân cấp xã",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định hỗ trợ chi phí mai táng (BYT)",
+  "yeu_cau_dieu_kien": "Những đối tượng khi chết được hỗ trợ chi phí mai táng:\n- Đối tượng quy định tại Điều 5 Nghị định số 20/2021/NĐ-CP đang hưởng trợ cấp xã hội hàng tháng.\n- Con của người đơn thân nghèo đang nuôi con quy định tại khoản 4 Điều 5 Nghị định số 20/2021/NĐ-CP.\n- Người từ đủ 80 tuổi đang hưởng trợ cấp tuất bảo hiểm xã hội hàng tháng, trợ cấp hàng tháng khác.\n- Hộ gia đình có người chết, mất tích do thiên tai, hỏa hoạn, dịch bệnh; tai nạn giao thông, tai nạn lao động nghiêm trọng hoặc các lý do bất khả kháng khác.\n- Cơ quan, tổ chức, cá nhân tổ chức mai táng cho người chết quy định tại khoản 1 Điều 14 nghị định số 20/2021/NĐ-CP do không có người nhận trách nhiệm tổ chức mai táng.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

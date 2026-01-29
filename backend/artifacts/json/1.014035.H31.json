@@ -1,0 +1,47 @@
+{
+  "ma_thu_tuc": "1.014035.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "260/QĐ-UBND",
+  "ten_thu_tuc": "Dừng thực hiện thủ tục đăng ký hộ kinh doanh",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Thành lập và hoạt động doanh nghiệp (hộ kinh doanh)",
+  "trinh_tu_thuc_hien": "* Trường hợp đăng ký qua mạng thông tin điện tử:\n- Người nộp hồ sơ kê khai thông tin, tải văn bản điện tử, ký số hồ sơ đăng ký hộ kinh doanh qua mạng thông tin điện tử và thanh toán lệ phí theo quy trình trên Hệ thống thông tin về đăng ký hộ kinh doanh.\n- Sau khi hoàn thành việc gửi hồ sơ đăng ký hộ kinh doanh, người nộp hồ sơ sẽ nhận được giấy tiếp nhận hồ sơ và hẹn trả kết quả hồ sơ đăng ký hộ kinh doanh qua mạng thông tin điện tử.\n- Các thông tin đăng ký hộ kinh doanh trên Hệ thống thông tin về đăng ký hộ kinh doanh được truyền sang Hệ thống ứng dụng đăng ký thuế để phối hợp, trao đổi thông tin giữa Cơ quan đăng ký kinh doanh cấp xã và Cơ quan thuế\n- Trường hợp hồ sơ đủ điều kiện cấp đăng ký hộ kinh doanh, Cơ quan đăng ký kinh doanh cấp xã thực hiện cấp đăng ký hộ kinh doanh và thông báo cho hộ kinh doanh về việc cấp đăng ký hộ kinh doanh. Trường hợp hồ sơ chưa đủ điều kiện cấp đăng ký hộ kinh doanh, Cơ quan đăng ký kinh doanh cấp xã gửi thông báo qua mạng thông tin điện tử cho hộ kinh doanh để yêu cầu sửa đổi, bổ sung hồ sơ.\n- Người nộp hồ sơ sử dụng tài khoản định danh điện tử để đăng nhập vào Hệ thống thông tin về đăng ký hộ kinh doanh.\n* Trường hợp đăng ký trực tiếp hoặc qua dịch vụ bưu chính:\n- Hộ kinh doanh có thể dừng thực hiện thủ tục đăng ký hộ kinh doanh khi hồ sơ đăng ký hộ kinh doanh chưa được chấp thuận trên Hệ thống thông tin về đăng ký hộ kinh doanh. Trong trường hợp này, chủ hộ kinh doanh gửi văn bản đề nghị dừng thực hiện thủ tục đăng ký hộ kinh doanh đến Cơ quan đăng ký kinh doanh cấp xã nơi hộ kinh doanh đăng ký trụ sở hoặc Cơ quan đăng ký kinh doanh cấp xã bất kỳ trong phạm vi tỉnh, thành phố trực thuộc trung ương nơi hộ kinh doanh đăng ký trụ sở.\n- Cơ quan đăng ký kinh doanh cấp xã xem xét, ra thông báo về việc dừng thực hiện thủ tục đăng ký hộ kinh doanh và hủy hồ sơ đăng ký hộ kinh doanh theo quy trình trên Hệ thống thông tin về đăng ký hộ kinh doanh trong thời hạn 03 ngày làm việc kể từ ngày nhận được văn bản đề nghị. Trường hợp từ chối dừng thực hiện thủ tục đăng ký hộ kinh doanh, Cơ quan đăng ký kinh doanh cấp xã ra thông báo bằng văn bản và nêu rõ lý do từ chối.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "Trong thời hạn 03 (ba) ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.",
+      "phí, lệ phí": "Lệ phí :  Đồng (Mức lệ phí (nếu có) theo quy định của Hội đồng nhân dân cấp tỉnh.)",
+      "mô tả": "Người thành lập hộ kinh doanh thực hiện thủ tục đăng ký hộ kinh doanh với Cơ quan đăng ký kinh doanh cấp xã theo một trong những phương thức sau đây:"
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "Trong thời hạn 03 (ba) ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.",
+      "phí, lệ phí": "Lệ phí :  Đồng (Mức lệ phí (nếu có) theo quy định của Hội đồng nhân dân cấp tỉnh.)",
+      "mô tả": "Người thành lập hộ kinh doanh thực hiện thủ tục đăng ký hộ kinh doanh với Cơ quan đăng ký kinh doanh cấp xã theo một trong những phương thức sau đây:"
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "Trong thời hạn 03 (ba) ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.",
+      "phí, lệ phí": "Lệ phí :  Đồng (Mức lệ phí (nếu có) theo quy định của Hội đồng nhân dân cấp tỉnh)",
+      "mô tả": "Người thành lập hộ kinh doanh thực hiện thủ tục đăng ký hộ kinh doanh với Cơ quan đăng ký kinh doanh cấp xã theo một trong những phương thức sau đây:"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "- Giấy đề nghị dừng thực hiện thủ tục đăng ký hộ kinh doanh.",
+      "mẫu đơn, tờ khai": "mauso6hkdGiynghdngthchinthtcngkhkinhdoanh.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Không có thông tin",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Văn bản của Cơ quan đăng ký kinh doanh cấp xã thông báo lý do từ chối, Thông báo về việc dừng thực hiện thủ tục đăng ký hộ kinh doanh và hủy hồ sơ đăng ký hộ kinh doanh theo quy trình trên Hệ thống thông tin về đăng ký hộ kinh doanh",
+  "yeu_cau_dieu_kien": "- Hộ kinh doanh có thể dừng thực hiện thủ tục đăng ký hộ kinh doanh khi hồ sơ đăng ký hộ kinh doanh chưa được chấp thuận trên Hệ thống thông tin về đăng ký hộ kinh doanh.\n- Có hồ sơ đăng ký hộ kinh doanh hợp lệ.\n* Hồ sơ đăng ký hộ kinh doanh qua mạng thông tin điện tử phải bảo đảm các yêu cầu sau:\n- Có đầy đủ các giấy tờ và nội dung các giấy tờ đó được kê khai đầy đủ theo quy định như hồ sơ bằng bản giấy và được thể hiện dưới dạng văn bản điện tử. Tên văn bản điện tử phải được đặt tương ứng với tên loại giấy tờ trong hồ sơ đăng ký hộ kinh doanh bằng bản giấy; \n- Các thông tin đăng ký hộ kinh doanh được kê khai trên Hệ thống thông tin về đăng ký hộ kinh doanh phải được nhập đầy đủ và chính xác theo các thông tin trong hồ sơ đăng ký hộ kinh doanh; \n- Có thông tin về số điện thoại, thư điện tử của người nộp hồ sơ được kê khai trên Cổng thông tin quốc gia về đăng ký doanh nghiệp;\n- Phải được ký số bởi chủ hộ kinh doanh hoặc người được chủ hộ kinh doanh ủy quyền thực hiện thủ tục đăng ký hộ kinh doanh. Trường hợp ủy quyền thực hiện thủ tục đăng ký hộ kinh doanh, hồ sơ đăng ký hộ kinh doanh qua mạng thông tin điện tử phải kèm theo các giấy tờ, tài liệu quy định tại Điều 93 Nghị định số 168/2025/NĐ-CP được thể hiện dưới dạng văn bản điện tử quy định tại khoản 9 Điều 3 Nghị định số 168/2025/NĐ-CP.",
+  "tu_khoa": "Dừng, thực hiện, thủ tục, đăng ký, hộ kinh doanh",
+  "mo_ta": "Không có thông tin"
+}

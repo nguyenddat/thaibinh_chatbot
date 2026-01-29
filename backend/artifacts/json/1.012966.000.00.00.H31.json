@@ -1,0 +1,47 @@
+{
+  "ma_thu_tuc": "1.012966.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=360732",
+  "so_quyet_dinh": "1535/QĐ-UBND",
+  "ten_thu_tuc": "Cho phép trường trung học cơ sở, trường phổ thông có nhiều cấp học có cấp học cao nhất là trung học cơ sở hoạt động giáo dục trở lại",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Giáo dục trung học",
+  "trinh_tu_thuc_hien": "Trong thời hạn bị đình chỉ, nếu nguyên nhân dẫn đến việc đình chỉ được khắc phục (không thuộc trường hợp bị đình chỉ do Người cho phép hoạt động giáo dục không đúng thẩm quyền) thì trường trung học thông báo bằng văn bản kèm theo minh chứng cho Trưởng phòng Giáo dục và Đào tạo. Trong thời hạn 07 ngày làm việc, kể từ ngày nhận được thông báo của trường trung học, Trưởng phòng Giáo dục và Đào tạo quyết định cho phép trường trung học hoạt động giáo dục trở lại và công bố công khai trên các phương tiện thông tin đại chúng.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "7 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "07 ngày làm việc, kể từ ngày nhận được thông báo của trường."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "7 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "07 ngày làm việc, kể từ ngày nhận được thông báo của trường."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "7 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "07 ngày làm việc, kể từ ngày nhận được thông báo của trường."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Văn bản thông báo nguyên nhân dẫn đến việc đình chỉ hoạt động trường trung học cơ sở, trường phổ thông có nhiều cấp học có cấp học cao nhất là trung học cơ sở được khắc phục kèm theo minh chứng",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Phòng Giáo dục và Đào tạo",
+  "co_quan_co_tham_quyen": "Trưởng phòng Giáo dục và Đào tạo",
+  "dia_chi_tiep_nhan": "Bộ phận Một cửa cấp huyện",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định cho phép trường trung học cơ sở, trường phổ thông có nhiều cấp học có cấp học cao nhất là trung học cơ sở hoạt động giáo dục trở lại của Chủ tịch Ủy ban nhân dân cấp xã.",
+  "yeu_cau_dieu_kien": "Trong thời hạn bị đình chỉ, nếu nguyên nhân dẫn đến việc đình chỉ được khắc phục.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

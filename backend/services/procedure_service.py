@@ -1,14 +1,9 @@
-import os
 import random
-import shutil
 from typing import Dict, Optional
 
-from tqdm import tqdm
 from sqlalchemy.orm import Session
 
-from core import setting
 from database import get_db
-from repositories import ProcedureRepository
 from models.model_procedure import Procedure
 
 atrs = {
@@ -18,6 +13,7 @@ atrs = {
     "cach_thuc_thuc_hien": "Cách thức thực hiện của thủ tục",
     "co_quan_thuc_hien": "Cơ quan thực hiện",
     "linh_vuc": "Lĩnh vực thực hiện của thủ tục",
+
     "trinh_tu_thuc_hien": "Trình tự thực hiện của thủ tục",
     "thoi_han_giai_quyet": "Thời hạn giải quyết của thủ tục",
     "le_phi": "Lệ phí của thủ tục",
@@ -33,29 +29,15 @@ atrs = {
 
 class ProcedureService:
     @staticmethod
-    def getById(id: int, db: Optional[Session] = None) -> Procedure:
-        close_after = False
-        if db is None:
-            db = next(get_db())
-            close_after = True
-
-        proc = ProcedureRepository.getById(id, db)
-        if close_after:
-            db.close()
-
-        return proc
+    def getById(id: int, db: Session) -> Procedure:
+        exist_proc = db.query(Procedure).filter(Procedure.id == id).first()
+        return exist_proc
 
     @staticmethod
-    def create(proc: Procedure, db: Optional[Session] = None):
-        close_after = False
-        if db is None:
-            db = next(get_db())
-            close_after = True
-
-        proc = ProcedureRepository.create(proc, db)
-        if close_after:
-            db.close()
-
+    def create(proc: Procedure, db: Session):
+        db.add(proc)
+        db.flush()
+        db.refresh(proc)
         return proc
 
     @staticmethod
@@ -63,9 +45,10 @@ class ProcedureService:
         ma_thu_tuc = data["ma_thu_tuc"]
         existing = db.query(Procedure).filter(Procedure.ma_thu_tuc == ma_thu_tuc).first()
         if existing:
-            return ProcedureService.updateById(existing, data, db)
+            return None
         else:
-            new = Procedure(**data)
+            filtered_data = {k: v for k, v in data.items() if k in Procedure.get_allowed_fields()}
+            new = Procedure(**filtered_data)
             return ProcedureService.create(new, db)
 
     @staticmethod
@@ -97,11 +80,8 @@ class ProcedureService:
     
     @staticmethod
     def toString(proc: Procedure, fields: list[str] = None) -> str:
-        text = (
-            f"# {proc.ten_thu_tuc}\n"
-            f"Lĩnh vực: {proc.linh_vuc}\n"
-            f"Cơ quan thực hiện: {proc.co_quan_thuc_hien}\n"
-        )
+        text = f"""Đây là thủ tục **{proc.ten_thu_tuc}** thuộc lĩnh vực **{proc.linh_vuc}** do **{proc.co_quan_thuc_hien}** thực hiện."""
+        text += f"\**Thông tin bạn cần tìm kiếm như sau:**"
 
         if not fields:
             text += f"\nChi tiết thủ tục có thể xem tại: {proc.duong_dan}"
@@ -113,8 +93,8 @@ class ProcedureService:
                 continue
 
             display_name = atrs.get(field, field)
+            
             value = getattr(proc, field, None)
-
             if not value:
                 details += f"\n\n## {display_name}\nChưa có thông tin cụ thể."
                 continue
@@ -150,27 +130,3 @@ class ProcedureService:
 
         text += f"\n\nBạn có thể xem chi tiết thủ tục tại: {proc.duong_dan}"
         return text
-    
-    @staticmethod
-    def preloadProcedure():
-        db = next(get_db())
-        
-        dir = os.path.join(setting.artifact_dir, "procedures")
-        if os.path.exists(dir):
-            shutil.rmtree(dir)
-            os.makedirs(dir, exist_ok=True)
-        else:
-            os.makedirs(dir, exist_ok=True)
-
-        procedures = db.query(Procedure).all()
-        for proc in tqdm(procedures, desc="Preloading procedures"):
-            proc_dir = os.path.join(dir, f"{proc.ma_thu_tuc}.txt")
-            proc_des = f"{proc.id}: Đây là thủ tục **{proc.ten_thu_tuc}** thuộc lĩnh vực **{proc.linh_vuc}** do **{proc.co_quan_thuc_hien}** thực hiện."
-
-            if os.path.exists(proc_dir):
-                continue
-            else:
-                with open(proc_dir, "w", encoding="utf-8") as file:
-                    file.write(proc_des)
-        
-        db.close()

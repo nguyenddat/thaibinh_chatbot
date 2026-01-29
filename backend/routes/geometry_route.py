@@ -44,10 +44,12 @@ def search_geometry(req: SearchGeometryRequest):
 
     if level == "tinh":
         if gdf_tinh is None:
+            print(f"failed to load geotinh.geojson: {_load_errors.get('tinh')}")
             raise HTTPException(status_code=500, detail=f"failed to load geotinh.geojson: {_load_errors.get('tinh')}")
         gdf = gdf_tinh
     else:
         if gdf_xa is None:
+            print(f"failed to load geotinh.geojson: {_load_errors.get('xa')}")
             raise HTTPException(status_code=500, detail=f"failed to load geoxa.geojson: {_load_errors.get('xa')}")
         gdf = gdf_xa
 

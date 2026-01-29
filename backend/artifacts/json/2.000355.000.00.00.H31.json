@@ -1,0 +1,46 @@
+{
+  "ma_thu_tuc": "2.000355.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=184027",
+  "so_quyet_dinh": "1485/QĐ-UBND",
+  "ten_thu_tuc": "Đăng ký hoạt động đối với cơ sở trợ giúp xã hội dưới 10 đối tượng có hoàn cảnh khó khăn",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết",
+  "linh_vuc": "Bảo trợ xã hội",
+  "trinh_tu_thuc_hien": "Bước 1: Người đứng đầu cơ sở nộp 01 bộ hồ sơ theo quy định đến Ủy ban nhân dân cấp xã nơi cơ sở có trụ sở\nBước 2: Ủy ban nhân dân cấp xã có trách nhiệm xem xét, cấp giấy chứng nhận đăng ký hoạt động trợ giúp xã hội cho cơ sở trong thời hạn 10 ngày làm việc, kể từ ngày nhận hồ sơ. Trường hợp từ chối cấp giấy chứng nhận đăng ký hoạt động trợ giúp xã hội thì phải thông báo bằng văn bản và nêu rõ lý do",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "10 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Nộp hồ sơ trực tiếp hoặc gửi qua đường bưu điện"
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "10 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Nộp hồ sơ trực tiếp hoặc gửi qua đường bưu điện"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Bản sao giấy chứng minh nhân dân hoặc thẻ căn cước công dân hoặc căn cước hoặc hộ chiếu hoặc chứng thực cá nhân hợp pháp khác của người đứng đầu, nhân viên của cơ sở",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "Tờ khai đăng ký hoạt động trợ giúp xã hội theo Mẫu số 14 tại Phụ lục ban hành kèm theo Nghị định số 103/2017/NĐ-CP.",
+      "mẫu đơn, tờ khai": "Mus14.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Ủy ban Nhân dân xã, phường, thị trấn.",
+  "co_quan_co_tham_quyen": "Ủy ban Nhân dân xã, phường, thị trấn.",
+  "dia_chi_tiep_nhan": "Bộ phận tiếp nhận hồ sơ và trả kết quả, Ủy ban nhân dân cấp xã",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Giấy chứng nhận đăng ký hoạt động (BYT)",
+  "yeu_cau_dieu_kien": "Cơ sở trợ giúp xã hội dưới 10 đối tượng có hoàn cảnh khó khăn được cấp giấy chứng nhận đăng ký hoạt động trợ giúp xã hội khi có đủ các điều kiện sau:\n- Người đứng đầu, nhân viên của cơ sở phải có năng lực hành vi dân sự đầy đủ; có phẩm chất đạo đức tốt, không mắc tệ nạn xã hội; không thuộc đối tượng bị truy cứu trách nhiệm hình sự hoặc đã bị kết án mà chưa được xóa án tích.\n- Có nhân viên trợ giúp xã hội cho đối tượng.\n- Đáp ứng các điều kiện cơ bản về nhà ở, nhà bếp, điện, nước phục vụ sinh hoạt hàng ngày cho đối tượng.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

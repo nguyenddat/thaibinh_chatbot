@@ -1,0 +1,62 @@
+{
+  "ma_thu_tuc": "2.000809.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "672/CV-BHXH",
+  "ten_thu_tuc": "Giải quyết hưởng tiếp lương hưu, trợ cấp BHXH hàng tháng đối với người chấp hành xong hình phạt tù, người xuất cảnh trái phép trở về nước định cư hợp pháp, người được Tòa án hủy quyết định tuyên bố mất tích",
+  "cap_thuc_hien": "Cấp Tỉnh, Cấp Xã",
+  "loai_thu_tuc": "TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết",
+  "linh_vuc": "Thực hiện chính sách BHXH",
+  "trinh_tu_thuc_hien": "1. Bước 1:\na) NLĐ lập hồ sơ theo quy định, nộp cho BHXH huyện hoặc BHXH tỉnh nơi chi trả lương hưu, trợ cấp BHXH hàng tháng trước khi đi tù hoặc xuất cảnh hoặc mất tích.\nb) Trường hợp giao dịch điện tử: NLĐ đăng ký nhận mã xác thực và gửi hồ sơ điện tử đến Cổng thông tin điện tử BHXH Việt Nam hoặc qua Tổ chức I-VAN, trường hợp không chuyển hồ sơ giấy sang định dạng điện tử thì gửi hồ sơ giấy cho cơ quan BHXH qua dịch vụ bưu chính công ích.\n2. Bước 2:\na) Cơ quan BHXH tiếp nhận đủ hồ sơ từ NLĐ; đối chiếu với bản chính đối với thành phần hồ sơ là bản sao không có chứng thực và trả lại bản chính cho người nộp.\nb) Giải quyết và trả kết quả giải quyết cho NLĐ; tổ chức chi trả cho người hưởng.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "5 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Tối đa 05 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "5 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Tối đa 05 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "5 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Tối đa 05 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "1. Bản chính Đơn đề nghị",
+      "mẫu đơn, tờ khai": "mus1Thngt09.2011.TT-BVHTTDL.doc",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "2. Bản sao các giấy tờ sau: Giấy chứng nhận chấp hành xong hình phạt tù hoặc Giấy đặc xá ra tù trước thời hạn hoặc Quyết định của cấp có thẩm quyền về việc miễn hoặc tạm hoãn chấp hành hình phạt tù đối với trường hợp hưởng tiếp BHXH hàng tháng do chấp hành xong hình phạt tù giam từ ngày 01/01/1995 đến trước ngày 01/01/2016;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "3. Bản sao văn bản của cơ quan có thẩm quyền về việc trở về nước định cư hợp pháp đối với người xuất cảnh trái phép trở về nước định cư hợp pháp;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "4. Bản sao Quyết định có hiệu lực pháp luật của Tòa án hủy bỏ Quyết định tuyên bố mất tích đối với người được Tòa án hủy quyết định tuyên bố mất tích.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam",
+  "co_quan_thuc_hien": "Bảo hiểm xã hội cấp huyện, Bảo hiểm xã hội cấp Tỉnh",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Trung tâm phục vụ HCC tỉnh Hưng Yên",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Thẻ BHYT, Quyết định về việc hưởng tiếp chế độ BHXH hàng tháng, Tiền trợ cấp, Thông báo về việc chi trả lương hưu, trợ cấp BHXH đối với trường hợp di chuyển hưởng chế độ  BHXH tại huyện/tỉnh khác.",
+  "yeu_cau_dieu_kien": "a) Người đang hưởng lương hưu, trợ cấp BHXH hàng tháng mà bị phạt tù, chấp hành xong hình phạt tù giam từ ngày 01/01/1995 đến trước ngày 01/01/2016.\nb) Người đang hưởng lương hưu, trợ cấp BHXH hàng tháng xuất cảnh trái phép nay trở về nước định cư hợp pháp.\nc) Người đang hưởng lương hưu, trợ cấp BHXH bị mất tích nay về được Tòa án hủy Quyết định tuyên bố mất tích.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

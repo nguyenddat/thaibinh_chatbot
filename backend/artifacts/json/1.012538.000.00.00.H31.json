@@ -1,0 +1,101 @@
+{
+  "ma_thu_tuc": "1.012538.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=353372",
+  "so_quyet_dinh": "03",
+  "ten_thu_tuc": "Giải quyết chế độ, chính sách cho người tham gia lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở chưa tham gia bảo hiểm xã hội mà bị tai nạn, chết khi thực hiện nhiệm vụ",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Chính sách",
+  "trinh_tu_thuc_hien": "- Bước 1: Cá nhân chuẩn bị hồ sơ theo quy định của pháp luật.\n- Bước 2: Nộp hồ sơ cho Ủy ban nhân dân cấp xã hoặc Ủy ban nhân dân cấp huyện.\n- Bước 3: Ủy ban nhân dân cấp xã hoặc Ủy ban nhân dân cấp huyện tổ chức tiếp nhận, kiểm tra hồ sơ. Trường hợp hồ sơ chưa hợp lệ phải có trách nhiệm hướng dẫn ngay để hoàn thiện. Trong thời hạn 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan đã tiếp nhận chuyển hồ sơ đến Phòng Lao động - Thương binh và Xã hội cấp huyện để thẩm định.\n- Bước 4: Phòng Lao động - Thương binh và Xã hội cấp huyện có trách nhiệm thẩm định hồ sơ trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ. Trường hợp hồ sơ không đủ điều kiện giải quyết thì cơ quan thẩm định phải có văn bản trả lời, nêu rõ lý do;\n- Bước 5: Trong thời hạn 02 ngày làm việc, kể từ ngày Phòng Lao động - Thương binh và Xã hội cấp huyện báo cáo hồ sơ đủ điều kiện giải quyết, Chủ tịch Ủy ban nhân dân cấp huyện ra quyết định chi trả kinh phí hỗ trợ khám bệnh, chữa bệnh cho người bị ốm đau, bị tai nạn, bị thương;\n- Bước 6: Trong thời hạn 03 ngày làm việc, kể từ ngày Chủ tịch Ủy ban nhân dân cấp huyện ra quyết định chi trả trợ cấp, Ủy ban nhân dân cấp xã có trách nhiệm thực hiện chi trả trợ cấp cho người bị tai nạn, thân nhân người đã chết; nơi không tổ chức đơn vị hành chính cấp xã do Công an huyện thực hiện chi trả; việc chi trả bằng hình thức chuyển khoản hoặc qua đường bưu chính hoặc trực tiếp nhận tại cơ quan chi trả.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "05 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "- Phòng Lao động - Thương binh và Xã hội cấp huyện: thẩm định hồ sơ trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ."
+    },
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "02 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "- Chủ tịch Ủy ban nhân dân cấp huyện: Trong thời hạn 02 ngày làm việc, kể từ ngày Phòng Lao động - Thương binh và Xã hội cấp huyện báo cáo hồ sơ đủ điều kiện giải quyết, ra quyết định chi trả kinh phí hỗ trợ khám bệnh, chữa bệnh cho người bị ốm đau, bị tai nạn, bị thương."
+    },
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "02 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "* Trực tiếp: Nộp hồ sơ trực tiếp tại Ủy ban nhân dân cấp xã hoặc Ủy ban nhân dân cấp huyện.\n\n- Ủy ban nhân dân cấp xã hoặc Ủy ban nhân dân cấp huyện tiếp nhận hồ sơ: Trong thời hạn 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ phải chuyển hồ sơ đến Phòng Lao động - Thương binh và Xã hội cấp huyện để \nthẩm định."
+    },
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "03 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "- Ủy ban nhân dân cấp xã hoặc Công an huyện nơi không có đơn vị hành chính cấp xã: thực hiện chi trả kinh phí theo quy định trong thời hạn 03 ngày làm việc, kể từ ngày Chủ tịch Ủy ban nhân dân cấp huyện ra quyết định chi trả kinh phí."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "02 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "* Trực tuyến: Nộp trực tuyến tại Cổng dịch vụ công quốc gia hoặc Hệ thống thông tin giải quyết thủ tục hành chính cấp tỉnh.\n\n- Ủy ban nhân dân cấp xã hoặc Ủy ban nhân dân cấp huyện tiếp nhận hồ sơ: Trong thời hạn 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ phải chuyển hồ sơ đến Phòng Lao động - Thương binh và Xã hội cấp huyện để \nthẩm định."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "05 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "- Phòng Lao động - Thương binh và Xã hội cấp huyện: thẩm định hồ sơ trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "02 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "- Chủ tịch Ủy ban nhân dân cấp huyện: Trong thời hạn 02 ngày làm việc, kể từ ngày Phòng Lao động - Thương binh và Xã hội cấp huyện báo cáo hồ sơ đủ điều kiện giải quyết, ra quyết định chi trả kinh phí hỗ trợ khám bệnh, chữa bệnh cho người bị ốm đau, bị tai nạn, bị thương."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "03 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "- Ủy ban nhân dân cấp xã hoặc Công an huyện nơi không có đơn vị hành chính cấp xã: thực hiện chi trả kinh phí theo quy định trong thời hạn 03 ngày làm việc, kể từ ngày Chủ tịch Ủy ban nhân dân cấp huyện ra quyết định chi trả kinh phí."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "02 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "* Dịch vụ bưu chính: Nộp hồ sơ về Ủy ban nhân dân cấp xã hoặc Ủy ban nhân dân cấp huyện qua dịch vụ bưu chính hoặc thuê dịch vụ của doanh nghiệp, cá nhân.\n\n- Ủy ban nhân dân cấp xã hoặc Ủy ban nhân dân cấp huyện tiếp nhận hồ sơ: Trong thời hạn 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ phải chuyển hồ sơ đến Phòng Lao động - Thương binh và Xã hội cấp huyện để \nthẩm định."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "05 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "- Phòng Lao động - Thương binh và Xã hội cấp huyện: thẩm định hồ sơ trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "02 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "- Chủ tịch Ủy ban nhân dân cấp huyện: Trong thời hạn 02 ngày làm việc, kể từ ngày Phòng Lao động - Thương binh và Xã hội cấp huyện báo cáo hồ sơ đủ điều kiện giải quyết, ra quyết định chi trả kinh phí hỗ trợ khám bệnh, chữa bệnh cho người bị ốm đau, bị tai nạn, bị thương."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "03 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "- Ủy ban nhân dân cấp xã hoặc Công an huyện nơi không có đơn vị hành chính cấp xã: thực hiện chi trả kinh phí theo quy định trong thời hạn 03 ngày làm việc, kể từ ngày Chủ tịch Ủy ban nhân dân cấp huyện ra quyết định chi trả kinh phí."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Khi các cơ quan quản lý nhà nước hoàn thành việc kết nối, chia sẻ dữ liệu thông tin có trong thành phần hồ sơ quy định tại khoản này thì cơ quan có thẩm quyền giải quyết thủ tục phải khai thác trực tuyến để giải quyết mà không được yêu cầu người đề nghị cung cấp hồ sơ giấy.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam",
+  "co_quan_thuc_hien": "Chủ tịch Ủy ban nhân dân cấp huyện, Công an huyện, Ủy ban nhân dân cấp xã, Ủy ban nhân dân cấp Huyện, Phòng Lao động - Thương binh vàXã hội",
+  "co_quan_co_tham_quyen": "Chủ tịch Ủy ban nhân dân cấp huyện",
+  "dia_chi_tiep_nhan": "Ủy ban nhân dân cấp xã (Hoặc Ủy ban nhân dân cấp huyện nơi không có đơn vị hành chính cấp xã)",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định chi trả trợ cấp tai nạn, trợ cấp tiền tuất, tiền mai táng phí.",
+  "yeu_cau_dieu_kien": "Người tham gia lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở bảo đảm điều kiện quy định tại khoản 1 và khoản 2 Điều 6 Nghị định số 40/2024/NĐ-CP của Chính phủ, cụ thể là:\n1. Điều kiện được hưởng chế độ, chính sách theo quy định tại khoản 3 Điều 24 Luật Lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở trong các trường hợp sau:\na) Trong thời gian thực hiện nhiệm vụ theo sự phân công, kế hoạch của cấp có thẩm quyền hoặc khi được điều động, huy động thực hiện nhiệm vụ;\nb) Trong khoảng thời gian và tuyến đường đi và về từ nơi ở đến nơi thực hiện nhiệm vụ.\n2. Các trường hợp quy định tại khoản 2 Điều 5 Nghị định này bị tai nạn, chết không được hưởng chế độ trợ cấp.",
+  "tu_khoa": "Giải quyết chế độ, chính sách cho người tham gia lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở chưa tham gia bảo hiểm xã hội mà bị tai nạn, chết khi thực hiện nhiệm vụ",
+  "mo_ta": "Không có thông tin"
+}

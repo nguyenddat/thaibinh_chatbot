@@ -1,0 +1,57 @@
+{
+  "ma_thu_tuc": "1.012531.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "267/QĐ-UBND",
+  "ten_thu_tuc": "Hỗ trợ tín dụng đầu tư trồng rừng gỗ lớn đối với chủ rừng là hộ gia đình, cá nhân",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Lâm nghiệp",
+  "trinh_tu_thuc_hien": "a) Bước 1:\nChủ rừng nộp trực tiếp hoặc qua dịch vụ bưu chính hoặc qua môi trường điện tử 01 bộ hồ sơ đến Ủy ban nhân dân cấp xã.\nTrường hợp hồ sơ không hợp lệ, Ủy ban nhân dân cấp xã có trách nhiệm trả lời bằng văn bản cho chủ rừng trong thời hạn 02 ngày làm việc kể từ ngày nhận được hồ sơ.\nb) Bước 2: \nTrong thời hạn 20 ngày, kể từ khi nhận được hồ sơ hợp lệ, Ủy ban nhân dân cấp xã chủ trì, phối hợp với các cơ quan có liên quan tổ chức xác minh hồ sơ đề nghị hỗ trợ lãi suất và lập biên bản xác minh điều kiện hỗ trợ lãi suất tín dụng, trình Ủy ban nhân dân cấp tỉnh quyết định.\nTrường hợp không hỗ trợ, Ủy ban nhân dân cấp tỉnh có văn bản trả lời và nêu rõ lý do.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "20 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "20 ngày kể từ ngày nhận được hồ sơ hợp lệ."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "20 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "20 ngày kể từ ngày nhận được hồ sơ hợp lệ."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "20 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "20 ngày kể từ ngày nhận được hồ sơ hợp lệ."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "- Văn bản đề nghị hỗ trợ lãi suất vay vốn ngân hàng theo Mẫu số 03 Phụ lục kèm theo Nghị định số 58/2024/NĐ-CP ngày 24/5/2024 của Chính phủ;",
+      "mẫu đơn, tờ khai": "Mẫu số 03.NĐ58.2024.doc",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Bản thiết kế trồng rừng, chăm sóc năm thứ nhất theo Mẫu số 04 Phụ lục kèm theo Nghị định số 58/2024/NĐ-CP ngày 24/5/2024 của Chính phủ;",
+      "mẫu đơn, tờ khai": "Mẫu số 04.NĐ58.2024.doc",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Bản sao hợp đồng tín dụng đã ký giữa chủ rừng và ngân hàng thương mại.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Cán bộ, công chức, viên chức, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã",
+  "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã",
+  "co_quan_co_tham_quyen": "Chủ tịch ủy ban nhân dân cấp tỉnh",
+  "dia_chi_tiep_nhan": "Không có thông tin",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định hỗ trợ tín dụng của Ủy ban nhân dân cấp tỉnh.",
+  "yeu_cau_dieu_kien": "- Có đất trồng rừng sản xuất được cấp có thẩm quyền giao đất, cho thuê đất hoặc được cấp giấy chứng nhận quyền sử dụng đất hoặc đã sử dụng đất ổn định theo quy định của pháp luật về đất đai, không có tranh chấp; \n- Chưa được hỗ trợ lãi suất từ ngân sách nhà nước, hỗ trợ từ các chính sách khác.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

@@ -1,0 +1,67 @@
+{
+  "ma_thu_tuc": "1.000167.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=131150",
+  "so_quyet_dinh": "1535/QĐ-UBND",
+  "ten_thu_tuc": "Cấp giấy chứng nhận đăng ký hoạt động liên kết đào tạo với nước ngoài đối với trường trung cấp, trung tâm giáo dục nghề nghiệp, trung tâm giáo dục nghề nghiệp - giáo dục thường xuyên và doanh nghiệp",
+  "cap_thuc_hien": "Cấp Tỉnh",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Giáo dục nghề nghiệp (G07-LĐ06)",
+  "trinh_tu_thuc_hien": "Bước 1:\nTrường trường trung cấp, trung tâm giáo dục nghề nghiệp và doanh nghiệp liên kết đào tạo gửi hồ sơ đến Sở Lao động - Thương binh và Xã hội.\nBước 2:\n- Trong thời hạn 15 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Lao động - Thương binh và Xã hội chủ trì, phối hợp với các cơ quan, đơn vị có liên quan tổ chức thẩm tra thực tế khả năng đáp ứng các điều kiện theo quy định tại Điều 20 Nghị định số 15/2019/NĐ-CP.\n- Căn cứ kết quả thẩm tra thực tế, Giám đốc Sở Lao động - Thương binh và Xã hội quyết định cấp giấy chứng nhận đăng ký hoạt động liên kết đào tạo.\n- Trường hợp hồ sơ đăng ký hoạt động liên kết đào tạo không hợp lệ, trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, Giám đốc Sở Lao động - Thương binh và Xã hội có văn bản trả lời và nêu rõ lý do.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "10 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Nộp hồ sơ trực tiếp hoặc qua cổng dịch vụ công trực tuyến hoặc bưu điện."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "10 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "15 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "10 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "15 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "d) Bản sao giấy chứng nhận kiểm định chất lượng giáo dục nghề nghiệp của cơ sở giáo dục, đào tạo nước ngoài hoặc giấy tờ công nhận chất lượng của cơ quan có thẩm quyền.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "đ) Bản sao thỏa thuận hợp tác hoặc hợp đồng liên kết đào tạo giữa các bên trong liên kết đào tạo.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "a) Văn bản đăng ký hoạt động liên kết đào tạo với nước ngoài theo mẫu 3A tại Phụ lục IX kèm theo Nghị định 142/2025/NĐ-CP.",
+      "mẫu đơn, tờ khai": "Mu3A_PL9.doc",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "b) Báo cáo đăng ký hoạt động liên kết đào tạo với nước ngoài theo Mẫu 3B Phụ lục IX kèm theo Nghị định 142/2025/NĐ-CP.",
+      "mẫu đơn, tờ khai": "Mu3B_PL9.doc",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "c) Bản sao quyết định thành lập hoặc cho phép thành lập hoặc giấy chứng nhận đăng ký đầu tư (nếu có) của doanh nghiệp đăng ký liên kết đào tạo với nước ngoài trình độ sơ cấp.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Sở Giáo dục và Đào tạo",
+  "co_quan_co_tham_quyen": "Sở Giáo dục và Đào tạo",
+  "dia_chi_tiep_nhan": "Trung tâm Phục vụ hành chính công và Kiểm soát thủ tục hành chính tỉnh Hưng Yên, số 02, đường Chùa Chuông, phường Hiến Nam, thành phố Hưng Yên, tỉnh Hưng Yên - Nộp hồ sơ: Điểm tiếp nhận hồ sơ Sở Giáo dục và Đào tạo - Nhận kết quả: Điểm trả kết quả tập trung",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Giấy chứng nhận đăng ký hoạt động liên kết đào tạo với nước ngoài.",
+  "yeu_cau_dieu_kien": "1. Các hình thức liên kết đào tạo với nước ngoài\na) Liên kết đào tạo với nước ngoài được thực hiện theo các chương trình đào tạo sau đây:\n- Chương trình đào tạo do hai bên xây dựng; cấp văn bằng, chứng chỉ của nước ngoài hoặc cấp văn bằng, chứng chỉ của nước ngoài và của Việt Nam;\n- Chương trình đào tạo của nước ngoài; cấp văn bằng, chứng chỉ của nước ngoài;\n- Chương trình đào tạo của nước ngoài chuyển giao; cấp văn bằng, chứng chỉ của nước ngoài hoặc cấp văn bằng, chứng chỉ của nước ngoài và của Việt Nam.\n2. Yêu cầu, điều kiện\na) Ngành, nghề và trình độ đào tạo\nTrường trung cấp, trung tâm giáo dục nghề nghiệp, trung tâm giáo dục nghề nghiệp - giáo dục thường xuyên và doanh nghiệp thực hiện liên kết đào tạo với cơ sở giáo dục, đào tạo nước ngoài theo các hình thức liên kết đào tạo theo quy định tại Điều 21 Nghị định số 15/2019/NĐ-CP (được sửa đổi, bổ sung tại Nghị định số 24/2022/NĐ-CP) được liên kết đào tạo các trình độ giáo dục nghề nghiệp thuộc các lĩnh vực theo quy định của nước ngoài và các ngành, nghề của Việt Nam, trừ ngành, nghề thuộc lĩnh vực chính trị, an ninh, quốc phòng, tôn giáo.\nb) Đối tượng tuyển sinh vào học các chương trình liên kết đào tạo\n- Trường hợp cấp văn bằng, chứng chỉ của Việt Nam thì đối tượng tuyển sinh thực hiện theo quy định của pháp luật Việt Nam;\n- Trường hợp cấp văn bằng, chứng chỉ của nước ngoài thì đối tượng tuyển sinh thực hiện theo quy định của pháp luật nước ngoài;\n- Trường hợp đồng cấp văn bằng, chứng chỉ của nước ngoài và của Việt Nam thì đối tượng tuyển sinh thực hiện theo quy định tại điểm a và điểm b khoản 2 Điều 22 Nghị định số 15/2019/NĐ-CP (được sửa đổi, bổ sung tại Nghị định số 24/2022/NĐ-CP).\nc) Cơ sở vật chất, thiết bị đào tạo\n- Có cơ sở vật chất, thiết bị đào tạo đáp ứng yêu cầu của chương trình đào tạo; pháp luật của nước cấp văn bằng, chứng chỉ và tương ứng với quy mô đào tạo;\n- Có phòng học; phòng thí nghiệm; phòng, xưởng thực hành, thực tập; cơ sở sản xuất thử nghiệm đáp ứng yêu cầu theo chương trình đào tạo trình độ sơ cấp, trình độ trung cấp, trình độ cao đẳng. Diện tích phòng học lý thuyết và phòng, xưởng thực hành bảo đảm theo quy định về cơ sở vật chất do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành. Trường hợp Bộ trưởng Bộ Lao động - Thương binh và Xã hội chưa ban hành quy định về cơ sở vật chất, thiết bị đào tạo của ngành, nghề đăng ký liên kết đào tạo với nước ngoài thì phải bảo đảm đáp ứng theo quy định của chương trình đào tạo;\n- Đối với liên kết đào tạo thực hiện một phần ở nước ngoài: Cơ sở vật chất, thiết bị đào tạo thực hiện theo quy định của pháp luật nước ngoài.\nd) Chương trình, giáo trình, tài liệu đào tạo\n- Trường trung cấp, trung tâm giáo dục nghề nghiệp, trung tâm giáo dục nghề nghiệp - giáo dục thường xuyên và doanh nghiệp thực hiện liên kết đào tạo với nước ngoài bảo đảm có đủ chương trình, giáo trình, tài liệu học tập, học liệu đào tạo phục vụ cho việc học tập của người học theo yêu cầu của từng chương trình liên kết đào tạo;\n- Chương trình đào tạo không có nội dung gây phương hại đến quốc phòng, an ninh quốc gia, lợi ích cộng đồng; không truyền bá tôn giáo, xuyên tạc lịch sử; không ảnh hưởng xấu đến văn hóa, đạo đức, thuần phong mỹ tục của Việt Nam.\n\n\nđ) Đội ngũ nhà giáo\n- Có đội ngũ nhà giáo đạt tiêu chuẩn về chuyên môn, nghiệp vụ, đủ về số lượng, đáp ứng cơ cấu chuyên môn theo yêu cầu của chương trình đào tạo và quy định pháp luật của nước cấp văn bằng, chứng chỉ;\n- Nhà giáo giảng dạy bằng ngoại ngữ trong chương trình liên kết đào tạo phải có trình độ ngoại ngữ đáp ứng yêu cầu của chương trình do các bên liên kết thỏa thuận. Nhà giáo là người nước ngoài giảng dạy ngoại ngữ tại trường trung cấp, trung tâm giáo dục nghề nghiệp phải có bằng cử nhân trở lên và có chứng chỉ giảng dạy ngoại ngữ phù hợp;\n- Nhà giáo là người nước ngoài giảng dạy các chương trình liên kết đào tạo phải đáp ứng điều kiện theo quy định của pháp luật về lao động nước ngoài làm việc tại Việt Nam.\ne) Ngôn ngữ giảng dạy và học tập\n- Ngôn ngữ sử dụng để giảng dạy, học tập các môn chuyên ngành trong chương trình liên kết đào tạo để cấp văn bằng, chứng chỉ của Việt Nam hoặc nước ngoài là tiếng Việt, tiếng nước ngoài hoặc thông qua phiên dịch;\n- Căn cứ nhu cầu của người học, các bên liên kết có thể tổ chức các khóa đào tạo, bồi dưỡng ngoại ngữ giúp người học đạt trình độ ngoại ngữ để đủ điều kiện học chương trình liên kết đào tạo do hai bên quy định.\ng) Cơ sở giáo dục, đào tạo nước ngoài có giấy chứng nhận kiểm định chất lượng giáo dục nghề nghiệp do cơ quan kiểm định nước ngoài cấp hoặc được cơ quan, tổ chức có thẩm quyền công nhận đạt kiểm định chất lượng giáo dục nghề nghiệp.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

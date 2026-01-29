@@ -1,0 +1,52 @@
+{
+  "ma_thu_tuc": "1.013734.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=384737",
+  "so_quyet_dinh": "1455/QD-UBND",
+  "ten_thu_tuc": "Đăng ký hợp đồng lao động trực tiếp giao kết .",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Quản lý lao động ngoài nước",
+  "trinh_tu_thuc_hien": "- Bước 1. Người lao động nộp 01 (một) bộ hồ sơ trực tiếp, qua dịch vụ bưu chính hoặc trực tuyến tới Uỷ ban nhân dân cấp xã nơi thường trú của người lao động;\n- Bước 2. Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Uỷ ban nhân dân cấp xã nơi thường trú của người lao động xác nhận bằng văn bản việc đăng ký hợp đồng lao động cho người lao động; trường hợp không chấp thuận phải nêu rõ lý do.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "05 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận được đầy đủ hồ sơ hợp lệ\nTrực tiếp, qua dịch vụ bưu chính hoặc trực tuyến."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "05 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận được đầy đủ hồ sơ hợp lệ\nTrực tiếp, qua dịch vụ bưu chính hoặc trực tuyến."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "05 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận được đầy đủ hồ sơ hợp lệ\nTrực tiếp, qua dịch vụ bưu chính hoặc trực tuyến."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "- Văn bản đăng ký theo Mẫu số 39 Thông tư số 08/2023/TT-BLĐTBXH",
+      "mẫu đơn, tờ khai": "Mauso39.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Bản sao hợp đồng lao động kèm theo bản dịch tiếng Việt được chứng thực",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam",
+  "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Uỷ ban nhân dân cấp xã nơi thường trú của người lao động.",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Văn bản trả lời;.",
+  "yeu_cau_dieu_kien": "Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng lao động trực tiếp giao kết đáp ứng các điều kiện:\na)  Các điều kiện quy định tại các khoản 1, 2, 3, 4 và 6 Điều 44 của Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng, cụ thể gồm: Có năng lực hành vi dân sự đầy đủ; tự nguyện đi làm việc ở nước ngoài; đủ sức khoẻ theo quy định của pháp luật Việt Nam và yêu cầu của nước tiếp nhận lao động; đáp ứng yêu cầu về trình độ ngoại ngữ, chuyên môn, trình độ, kỹ năng nghề và các điều kiện khác theo yêu cầu của nước tiếp nhận lao động; không thuộc trường hợp bị cấm xuất cảnh, không được xuất cảnh, bị tạm hoãn xuất cảnh theo quy định của pháp luật Việt Nam;\nb) Có hợp đồng lao động theo quy định tại Điều 52 của Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

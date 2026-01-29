@@ -1,0 +1,45 @@
+{
+  "ma_thu_tuc": "1.001646.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "672/CV-BHXH",
+  "ten_thu_tuc": "Giải quyết hưởng trợ cấp đối với nhà giáo đã nghỉ hưu chưa được hưởng chế độ phụ cấp thâm niên trong lương hưu theo Nghị định số 14/2020/NĐ-CP",
+  "cap_thuc_hien": "Cấp Tỉnh, Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Thực hiện chính sách BHXH",
+  "trinh_tu_thuc_hien": "1. Bước 1: NLĐ, thân nhân NLĐ nộp hồ sơ cho cơ quan BHXH\n2. Bước 2: Cơ quan BHXH tiếp nhận hồ sơ từ người đề nghị, xử lý theo phân cấp.\n3. Bước 3:\na) BHXH tỉnh giải quyết và trả hồ sơ đã giải quyết cho BHXH huyện.\nb) BHXH huyện tiếp nhận hồ sơ đã giải quyết từ BHXH tỉnh để trả cho NLĐ, thân nhân NLĐ.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "30 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "30 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "a) Bản chính Tờ khai đề nghị hưởng trợ cấp của thân nhân",
+      "mẫu đơn, tờ khai": "Mẫu số 02 _ NĐ 14.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "b) Bản sao Giấy chứng tử hoặc Giấy báo tử hoặc Quyết định của tòa án tuyên bố là đã chết (mang theo bản chính để đối chiếu)",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "c) Bản chính Văn bản ủy quyền (mẫu số 03) (trường hợp chỉ có một thân nhân thì không cần văn bản ủy quyền này).",
+      "mẫu đơn, tờ khai": "Mẫu số 03 _ NĐ 14.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam",
+  "co_quan_thuc_hien": "Bảo hiểm xã hội cấp Tỉnh",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Trung tâm phục vụ HCC tỉnh Hưng Yên",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Tiền trợ cấp., Quyết định về việc hưởng trợ cấp theo Nghị định số14/2020/NĐ-CP ngày 24/01/2020 của Chính phủ",
+  "yeu_cau_dieu_kien": "Điều 2, 3 Nghị định số 14/2020/NĐ-CP",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

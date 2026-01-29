@@ -1,0 +1,47 @@
+{
+  "ma_thu_tuc": "1.001966.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=128163",
+  "so_quyet_dinh": "1024/QĐ-UBND",
+  "ten_thu_tuc": "Tiếp tục hưởng trợ cấp thất nghiệp",
+  "cap_thuc_hien": "Cấp Tỉnh",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Việc làm",
+  "trinh_tu_thuc_hien": "- Bước 1: Trong thời hạn 02 ngày làm việc kể từ ngày người lao động tiếp tục thực hiện thông báo về việc tìm kiếm việc làm hằng tháng theo quy định đối với người lao động bị tạm dừng hưởng trợ cấp thất nghiệp nếu vẫn còn thời gian hưởng trợ cấp thất nghiệp theo quyết định của Giám đốc Sở Lao động - Thương binh và Xã hội (nay là Sở Nội vụ) thì trung tâm dịch vụ việc làm trình Giám đốc Sở Nội vụ quyết định về việc tiếp tục hưởng trợ cấp thất nghiệp cho người lao động.\n- Bước 2: Giám đốc Sở Nội vụ ban hành Quyết định về việc tiếp tục hưởng trợ cấp thất nghiệp theo Mẫu số 07 ban hành kèm theo Thông tư số 15/2023/TT-BLĐTBXH.\n- Bước 3: Quyết định về việc tiếp tục hưởng trợ cấp thất nghiệp được trung tâm dịch vụ việc làm gửi: 01 bản đến Bảo hiểm xã hội cấp tỉnh để thực hiện tiếp tục chi trả trợ cấp thất nghiệp cho người lao động; 01 bản đến người lao động để biết và thực hiện.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "Không quy định",
+      "phí, lệ phí": "",
+      "mô tả": "Người lao động phải trực tiếp đến thông báo về việc tìm kiếm việc làm với trung tâm dịch vụ việc làm"
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "không quy định",
+      "phí, lệ phí": "",
+      "mô tả": "Người lao động phải trực tiếp đến thông báo về việc tìm kiếm việc làm với trung tâm dịch vụ việc làm"
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "không quy định",
+      "phí, lệ phí": "",
+      "mô tả": "Người lao động phải trực tiếp đến thông báo về việc tìm kiếm việc làm với trung tâm dịch vụ việc làm"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Thông báo về việc tìm kiếm việc làm theo Mẫu số 16 ban hành kèm theo Thông tư số 15/2023/TT-BLĐTBXH.",
+      "mẫu đơn, tờ khai": "4.Mus16BanhnhkmtheoThngts152023.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam",
+  "co_quan_thuc_hien": "Sở Nội vụ",
+  "co_quan_co_tham_quyen": "Sở Nội vụ",
+  "dia_chi_tiep_nhan": "Trung tâm Phục vụ hành chính công và Kiểm soát thủ tục hành chính, số 02 Chùa Chuông, TP. Hưng Yên, tỉnh Hưng Yên + Nộp hồ sơ: Điểm tiếp nhận hồ sơ: Sở Nội vụ  + Nhận kết quả: Điểm trả kết quả tập trung",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định về việc tiếp tục hưởng trợ cấp thất nghiệp",
+  "yeu_cau_dieu_kien": "Người lao động tiếp tục thực hiện thông báo về việc tìm kiếm việc làm hằng tháng theo quy định khi bị tạm dừng hưởng trợ cấp thất nghiệp nếu vẫn còn thời gian hưởng trợ cấp thất nghiệp theo quyết định của Giám đốc Sở Lao động - Thương binh và Xã hội (nay là Sở Nội vụ).",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

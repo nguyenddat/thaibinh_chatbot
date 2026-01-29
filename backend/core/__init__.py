@@ -1,2 +1,3 @@
-from .llm import llm, embeddings
+from .logging import logger
 from .config import setting
+from .llm import llm, openai_embeddings

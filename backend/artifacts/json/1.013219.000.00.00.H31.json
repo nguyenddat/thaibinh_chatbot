@@ -1,0 +1,62 @@
+{
+  "ma_thu_tuc": "1.013219.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=369093",
+  "so_quyet_dinh": "1610/QĐ-UBND",
+  "ten_thu_tuc": "Cấp chuyển đổi chứng chỉ hành nghề hoạt động xây dựng",
+  "cap_thuc_hien": "Cấp Tỉnh, Cơ quan khác",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Hoạt động xây dựng",
+  "trinh_tu_thuc_hien": "- Cá nhân nộp trực tiếp, qua dịch vụ bưu chính hoặc trực tuyến 01 bộ hồ sơ đề nghị cấp chuyển đổi chứng chỉ hành nghề hoạt động xây dựng cho Bộ phận tiếp nhận và trả kết quả giải quyết TTHC (bộ phận một cửa) của Ủy ban nhân dân cấp tỉnh hoặc Bộ phận tiếp nhận và trả kết quả giải quyết TTHC của Sở Xây dựng (nếu được Ủy ban nhân dân cấp tỉnh phân cấp) đối với chứng chỉ hành nghề hạng I.\n- Cá nhân nộp trực tiếp hoặc qua dịch vụ bưu chính hoặc trực tuyến 01 bộ hồ sơ đề nghị cấp chuyển đổi chứng chỉ hành nghề hoạt động xây dựng cho Trung tâm phục vụ hành chính công của tỉnh hoặc Bộ phận tiếp nhận và trả kết quả giải quyết TTHC của Sở Xây dựng hoặc Tổ chức xã hội nghề nghiệp đủ điều kiện đối với chứng chỉ hành nghề hạng II, hạng III.\n- Trong thời hạn 05 ngày làm việc kể từ ngày tiếp nhận hồ sơ đề nghị, Ủy ban nhân dân cấp tỉnh hoặc Sở Xây dựng hoặc Tổ chức xã hội nghề nghiệp có trách nhiệm kiểm tra hồ sơ, trường hợp hồ sơ không đầy đủ hoặc không hợp lệ, Uỷ ban nhân dân cấp tỉnh hoặc Sở Xây dựng hoặc Tổ chức xã hội nghề nghiệp phải thông báo một lần bằng văn bản tới cá nhân đề nghị cấp chứng chỉ hành nghề.\n- Trong thời hạn 25 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Ủy ban nhân dân cấp tỉnh hoặc Sở Xây dựng hoặc Tổ chức xã hội nghề nghiệp thông báo kết quả đánh giá hồ sơ đủ hoặc không đủ điều kiện cấp chuyển đổi chứng chỉ hành nghề và cấp chứng chỉ chuyển đổi cho cá nhân đủ điều kiện.\n- Trong thời hạn không quá 05 ngày làm việc, kể từ ngày cấp chứng chỉ, Ủy ban nhân dân cấp tỉnh hoặc Sở Xây dựng hoặc Tổ chức xã hội nghề nghiệp có trách nhiệm đăng tải thông tin về năng lực hoạt động của cá nhân đã được cấp chứng chỉ hoạt động xây dựng lên trang thông tin điện tử do mình quản lý, đồng thời gửi thông tin đến cơ quan chuyên môn về xây dựng thuộc Bộ Xây dựng để tích hợp trên trang thông tin điện tử của Bộ Xây dựng. Trong thời hạn không quá 03 ngày làm việc, kể từ ngày nhận được thông tin của cơ quan có thẩm quyền cấp chứng chỉ, cơ quan chuyên môn về xây dựng thuộc Bộ Xây dựng có trách nhiệm tích hợp trên Trang thông tin điện tử của Bộ Xây dựng.\n- Cá nhân đề nghị cấp chuyển đổi chứng chỉ hành nghề thì không yêu cầu sát hạch.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "25 Ngày",
+      "phí, lệ phí": "Lệ phí :  Đồng (Lệ phí nộp hồ sơ theo quy định tại Tiểu mục 21.3 Mục III Bảng B Phụ lục số 01 của Luật Phí và Lệ phí năm 2015)",
+      "mô tả": "25 ngày kể từ ngày nhận đủ hồ sơ hợp lệ"
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "25 Ngày",
+      "phí, lệ phí": "Lệ phí :  Đồng (Lệ phí nộp hồ sơ theo quy định tại Tiểu mục 21.3 Mục III Bảng B Phụ lục số 01 của Luật Phí và Lệ phí năm 2015)",
+      "mô tả": "25 ngày kể từ ngày nhận đủ hồ sơ hợp lệ"
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "25 Ngày",
+      "phí, lệ phí": "Lệ phí :  Đồng (Lệ phí nộp hồ sơ theo quy định tại Tiểu mục 21.3 Mục III Bảng B Phụ lục số 01 của Luật Phí và Lệ phí năm 2015)",
+      "mô tả": "25 ngày kể từ ngày nhận đủ hồ sơ hợp lệ"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "- Đơn đề nghị cấp chuyển đổi chứng chỉ hành nghề theo Mẫu số 02 Phụ lục số IV Nghị định số 175/2024/NĐ-CP ngày 30/12/2024 là bản gốc trong trường hợp nộp trực tiếp hoặc thông qua dịch vụ bưu chính; tệp tin chụp từ bản gốc trong trường hợp nộp trực tuyến.",
+      "mẫu đơn, tờ khai": "nnghchuyni.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "- Tệp tin ảnh màu cỡ 4x6 cm có nền màu trắng chân dung của người đề nghị cấp chứng chỉ hành nghề được chụp trong thời gian không quá 06 tháng.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "- Bản sao có chứng thực hoặc tệp tin bản sao điện tử được chứng thực theo quy định: văn bằng, giấy phép năng lực hành nghề do cơ sở đào tạo nước ngoài, cơ quan, tổ chức nước ngoài cấp đã được hợp pháp hóa lãnh sự và bản dịch tiếng Việt được công chứng, chứng thực theo quy định của pháp luật Việt Nam.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "- Bản sao có chứng thực hoặc tệp tin bản sao điện tử được chứng thực theo quy định: giấy tờ hợp pháp về cư trú hoặc giấy phép lao động do cơ quan có thẩm quyền của Việt Nam cấp theo quy định.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Người Việt Nam định cư ở nước ngoài, Người nước ngoài",
+  "co_quan_thuc_hien": "Sở Xây dựng, Ủy ban nhân dân cấp tỉnh",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Trung tâm phục vụ hành chính công và Kiểm soát TTHC tỉnh Hưng Yên, số 02 đường Chùa Chuông, phường Hiến Nam, thành phố Hưng Yên, tỉnh Hưng Yên. + Nộp hồ sơ: Điểm tiếp nhận hồ sơ Sở Xây dựng  + Nhận kết quả: Điểm trả kết quả tập trung.",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Chứng chỉ hành nghề hoạt động xây dựng",
+  "yeu_cau_dieu_kien": "- Có đủ năng lực hành vi dân sự theo quy định của pháp luật; có giấy tờ về cư trú hoặc giấy phép lao động tại Việt Nam đối với người nước ngoài và người Việt Nam định cư ở nước ngoài.\n- Đã có giấy phép năng lực hành nghề do cơ quan, tổ chức nước ngoài cấp, đã hành nghề hoạt động xây dựng ở Việt Nam từ 06 tháng trở lên.\n- Có trình độ chuyên môn phù hợp theo quy định tại Phụ lục VI Nghị định số 175/2024/NĐ-CP ngày 30/12/2024, thời gian kinh nghiệm tham gia công việc phù hợp với nội dung đề nghị cấp chứng chỉ hành nghề như sau:\n+ Hạng I: Có trình độ đại học thuộc chuyên ngành hoặc chuyên môn đào tạo phù hợp, có thời gian kinh nghiệm tham gia công việc phù hợp với nội dung đề nghị cấp chứng chỉ hành nghề từ 07 năm trở lên.\n+ Hạng II: Có trình độ đại học thuộc chuyên ngành hoặc chuyên môn đào tạo phù hợp, có thời gian kinh nghiệm tham gia công việc phù hợp với nội dung đề nghị cấp chứng chỉ hành nghề từ 04 năm trở lên;\n+ Hạng III: Có chuyên ngành hoặc chuyên môn đào tạo phù hợp, có thời gian kinh nghiệm tham gia công việc phù hợp với nội dung đề nghị cấp chứng chỉ hành nghề từ 02 năm trở lên đối với cá nhân có trình độ đại học; từ 03 năm trở lên đối với cá nhân có trình độ cao đẳng.\n- Có kinh nghiệm nghề nghiệp phù hợp với hạng và lĩnh vực đề nghị cấp chứng chỉ hành nghề trong vòng 10 năm gần nhất tính đến thời điểm đề nghị cấp chứng chỉ hành nghề. Trường hợp sử dụng kinh nghiệm nghề nghiệp phù hợp nhưng quá 10 năm thì được đề nghị cấp chứng chỉ hành nghề thấp hơn 01 hạng tại cơ quan có thẩm quyền cấp chứng chỉ hành nghề.\n- Thời gian kinh nghiệm tham gia công việc phù hợp được tính từ thời điểm cá nhân tham gia hoạt động xây dựng thể hiện tại đơn đề nghị cấp/chuyển đổi chứng chỉ hành nghề hoặc hợp đồng lao động hoặc xác nhận của bên sử dụng lao động hoặc bảo hiểm xã hội hoặc các giấy tờ tương tự.\n- Đối với hội viên, thành viên của hội viên của Tổ chức xã hội nghề nghiệp  đủ điều kiện: đã được kết nạp trước thời điểm đề nghị cấp chứng chỉ tối thiểu 3 tháng.\n- Đáp ứng các yêu cầu, điều kiện chuyên môn phù hợp về khảo sát xây dựng, thiết kế quy hoạch xây dựng, thiết kế xây dựng, giám sát thi công xây dựng, định giá xây dựng và quản lý dự án đầu tư xây dựng theo quy định tại Điều 80, 81, 82, 83, 84 và 85 của Nghị định số 175/2024/NĐ-CP ngày 30/12/2024.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

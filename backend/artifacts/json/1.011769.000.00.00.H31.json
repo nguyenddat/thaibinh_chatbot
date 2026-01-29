@@ -1,0 +1,66 @@
+{
+  "ma_thu_tuc": "1.011769.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=328699",
+  "so_quyet_dinh": "2365/QĐ-UBND",
+  "ten_thu_tuc": "Giao tài sản kết cấu hạ tầng cấp nước sạch cho doanh nghiệp đang quản lý, sử dụng",
+  "cap_thuc_hien": "Cấp Tỉnh",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Quản lý công sản",
+  "trinh_tu_thuc_hien": "a1) Doanh nghiệp đang quản lý tài sản kết cấu hạ tầng cấp nước sạch lập hồ sơ đề nghị giao tài sản theo hình thức có hoàn trả giá trị tài sản cho Nhà nước gửi cơ quan chuyên môn về cấp nước sạch.\na2) Trong thời hạn 15 ngày, kể từ ngày nhận đủ hồ sơ, cơ quan chuyên môn về cấp nước sạch có văn bản kèm theo bản sao hồ sơ gửi lấy ý kiến của cơ quan tài chính cùng cấp và cơ quan có liên quan.\na3) Trong thời hạn 15 ngày, kể từ ngày nhận đủ hồ sơ, cơ quan tài chính cùng cấp và các cơ quan có liên quan có trách nhiệm cho ý kiến tham gia về việc giao tài sản.\na4) Trong thời hạn 15 ngày, kể từ ngày nhận được ý kiến tham gia của cơ quan tài chính cùng cấp và các cơ quan có liên quan, cơ quan chuyên môn về cấp nước sạch có văn bản đề nghị (kèm theo ý kiến của các cơ quan có liên quan) trình Ủy ban nhân dân cấp tỉnh xem xét, quyết định.\na5) Trong thời hạn 30 ngày, kể từ ngày nhận đủ hồ sơ, Ủy ban nhân dân cấp tỉnh xem xét, ban hành Quyết định giao tài sản kết cấu hạ tầng cấp nước sạch theo hình thức có hoàn trả giá trị tài sản cho Nhà nước hoặc có văn bản hồi đáp trong trường hợp đề nghị giao tài sản không phù hợp.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "75 Ngày",
+      "phí, lệ phí": "Phí : 0 Đồng",
+      "mô tả": ""
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "75 Ngày",
+      "phí, lệ phí": "Phí : 0 Đồng",
+      "mô tả": ""
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Hồ sơ, tài liệu liên quan đến việc đầu tư tăng thêm vào tài sản (như: văn bản, quyết định đầu tư của cấp có thẩm quyền, quyết toán)",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "Báo cáo tài chính của doanh nghiệp trong thời gian quản lý",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "Hồ sơ liên quan khác",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "Văn bản đề nghị được giao tài sản theo hình thức có hoàn trả giá trị tài sản cho Nhà nước (giải trình quá trình được giao hoặc tạm giao quản lý; thực trạng việc quản lý, sử dụng và lý do đề xuất giao theo hình thức có hoàn trả); với doanh nghiệp có vốn nhà nước có thêm ý kiến bằng văn bản của Cơ quan đại diện chủ sở hữu vốn nhà nước tại doanh nghiệp về việc lựa chọn hình thức giao tài sản có hoàn trả giá trị)",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Danh mục tài sản đề nghị được giao tài sản có hoàn trả (tên tài sản; địa chỉ; loại hình công trình; năm đưa vào sử dụng; diện tích; công suất, số hộ sử dụng nước theo thiết kế và thực tế; giá trị; tình trạng tài sản)",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Biên bản kiểm tra hiện trạng quản lý tài sản; hồ sơ, tài liệu bàn giao, tạm bàn giao tài sản cho doanh nghiệp",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Doanh nghiệp",
+  "co_quan_thuc_hien": "Ủy ban nhân dân cấp tỉnh",
+  "co_quan_co_tham_quyen": "Ủy ban nhân dân cấp tỉnh",
+  "dia_chi_tiep_nhan": "Không có thông tin",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Sở Tài chính - TP. Hải Phòng",
+  "ket_qua_thuc_hien": "Quyết định giao tài sản kết cấu hạ tầng cấp nước sạch",
+  "yeu_cau_dieu_kien": "Không",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

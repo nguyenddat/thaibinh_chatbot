@@ -1,0 +1,40 @@
+{
+  "ma_thu_tuc": "2.000794.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "2828/QĐ-UBND",
+  "ten_thu_tuc": "Thủ tục công nhận câu lạc bộ thể dục thể thao cơ sở",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết",
+  "linh_vuc": "Thể dục thể thao",
+  "trinh_tu_thuc_hien": "Ủy ban nhân dân xã tiếp nhận hồ sơ đề nghị công nhận của câu lạc bộ thể thao cơ sở.\nTrong thời hạn 07 ngày làm việc sau khi nhận đủ hồ sơ hợp lệ,\nChủ tịch Ủy ban nhân dân cấp xã ra quyết định công nhận, trường hợp không công nhận thì phải có văn bản nêu rõ lý do, nếu không đáp ứng các điều kiện thì phải trả lời bằng văn bản",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "7 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "07 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Tờ trình đề nghị công nhận câu lạc bộ thể dục thể thao cơ sở (theo mẫu số 01 tại Phụ lục kèm theo Thông tư số 16/2025/TT-BVHTTDL ngày 01/12/2025)",
+      "mẫu đơn, tờ khai": "Totrinhcongnhan.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Quy chế hoạt động của câu lạc bộ thể dục thể thao cơ sở (theo mẫu số 02 tại Phụ lục kèm theo Thông tư số 16/2025/TT-BVHTTDL ngày 01/12/2025)",
+      "mẫu đơn, tờ khai": "Quychehoatdong.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Ủy ban nhân dân các cấp",
+  "co_quan_co_tham_quyen": "Chủ tịch Ủy ban nhân dân cấp huyện",
+  "dia_chi_tiep_nhan": "Không có thông tin",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định công nhận câu lạc bộ thể thao cơ sở",
+  "yeu_cau_dieu_kien": "Không quy định.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

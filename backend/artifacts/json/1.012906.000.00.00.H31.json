@@ -1,0 +1,72 @@
+{
+  "ma_thu_tuc": "1.012906.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=356703",
+  "so_quyet_dinh": "1610/QĐ-UBND",
+  "ten_thu_tuc": "Cấp mới chứng chỉ hành nghề môi giới bất động sản.",
+  "cap_thuc_hien": "Cấp Tỉnh",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Kinh doanh bất động sản",
+  "trinh_tu_thuc_hien": "- Trước mỗi kỳ thi, thí sinh nộp trực tiếp 01 bộ hồ sơ đăng ký dự thi theo quy định tại Điều 26 và kinh phí dự thi theo quy định tại điểm a khoản 5 Điều 19 Nghị định 96/2024/NĐ-CP. Thời gian, địa điểm nộp hồ sơ theo thông báo của Ủy ban nhân dân cấp tỉnh.\n- Căn cứ Quyết định phê duyệt danh sách các cá nhân được cấp chứng chỉ, đơn vị tổ chức kỳ thi sát hạch có trách nhiệm chuyển bản photo bài thi và hồ sơ của các cá nhân đó về Ủy ban nhân dân cấp tỉnh để cấp chứng chỉ.\n- Chủ tịch Hội đồng thi báo cáo Chủ tịch Ủy ban nhân dân cấp tỉnh về quá trình tổ chức kỳ thi và phê duyệt kết quả thi.\n- Trên cơ sở báo cáo của Chủ tịch Hội đồng thi và kết quả thi do Chủ tịch Hội đồng thi phê duyệt, Chủ tịch Ủy ban nhân dân cấp tỉnh phê duyệt danh sách các cá nhân được cấp chứng chỉ (theo mẫu tại Phụ lục XXII của Nghị định này). Trong thời hạn 10 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Ủy ban nhân dân cấp tỉnh tổ chức in và ký phát hành chứng chỉ.\n- Ủy ban nhân dân cấp tỉnh có trách nhiệm lưu giữ hồ sơ của người được cấp chứng chỉ trong thời hạn 10 năm kể từ ngày cấp chứng chỉ.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "10 Ngày",
+      "phí, lệ phí": "Phí :  Đồng (Theo quy định của pháp luật về phí và lệ phí)",
+      "mô tả": "Trong thời hạn 10 ngày  kể từ công bố kết quả thi sát hạch."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "10 Ngày",
+      "phí, lệ phí": "Phí :  Đồng (Theo quy định của pháp luật về phí và lệ phí)",
+      "mô tả": "Trong thời hạn 10 ngày kể từ công bố kết quả thi sát hạch."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "10 Ngày",
+      "phí, lệ phí": "Phí :  Đồng (Theo quy định của pháp luật về phí và lệ phí)",
+      "mô tả": "Trong thời hạn 10 ngày kể từ công bố kết quả thi sát hạch."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "02 ảnh màu cỡ 4x6cm chụp trong thời gian 06 tháng tính đến ngày đăng ký dự thi, 02 phong bì có dán tem ghi rõ họ tên, số điện thoại, địa chỉ người nhận.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "Bản sao và bản dịch có chứng thực chứng chỉ do nước ngoài cấp (đối với người nước ngoài và người Việt Nam có chứng chỉ hành nghề môi giới bất động sản do nước ngoài cấp đang còn giá trị).",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "01 Đơn đăng ký dự thi có dán ảnh mầu cỡ 4x6cm chụp trong thời gian 06 tháng tính đến ngày đăng ký dự thi (theo mẫu tại Phụ lục XXI của Nghị định số 96/2024/NĐ-CP ngày 24/7/2024 của Chính phủ quy định chi tiết một số điều của Luật Kinh doanh bất động sản).",
+      "mẫu đơn, tờ khai": "MẪU ĐƠN ĐĂNG KÝ DỰ THI SÁT HẠCH.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "01 Bản sao chứng thực Giấy chứng minh nhân dân hoặc Căn cước công dân hoặc Thẻ căn cước theo quy định của pháp luật về căn cước; giấy tờ chứng minh quốc tịch Việt Nam hoặc giấy xác nhận là người gốc Việt Nam theo quy định của pháp luật quốc tịch hoặc hộ chiếu (hoặc bản sao có bản chính để đối chiếu)",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "01 Bản sao chứng thực Giấy chứng nhận đã hoàn thành khóa học về đào tạo bồi dưỡng kiến thức hành nghề môi giới bất động sản.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "Bản sao chứng thực bằng tốt nghiệp từ trung học phổ thông hoặc tương đương trở lên.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài",
+  "co_quan_thuc_hien": "Ủy ban nhân dân cấp tỉnh",
+  "co_quan_co_tham_quyen": "Ủy ban nhân dân cấp tỉnh",
+  "dia_chi_tiep_nhan": "Trung tâm phục vụ hành chính công và Kiểm soát TTHC tỉnh Hưng Yên, số 02 đường Chùa Chuông, phường Hiến Nam, thành phố Hưng Yên, tỉnh Hưng Yên + Nộp hồ sơ: Điểm tiếp nhận hồ sơ Sở Xây dựng + Nhận kết quả: Điểm trả kết quả tập trung",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Chứng chỉ hành nghề môi giới bất động sản.",
+  "yeu_cau_dieu_kien": "Không có",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

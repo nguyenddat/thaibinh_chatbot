@@ -1,0 +1,52 @@
+{
+  "ma_thu_tuc": "1.014535.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=422583",
+  "so_quyet_dinh": "2362/QĐ-UBND",
+  "ten_thu_tuc": "Quyết định miễn, giảm tiền thuê nhà cho tổ chức, cá nhân thuê nhà",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Quản lý công sản",
+  "trinh_tu_thuc_hien": "a1) Người được quyền thuê nhà thuộc đối tượng ưu tiên lập 01 bộ hồ sơ gửi tổ chức quản lý, kinh doanh nhà địa phương. \na2) Trong thời hạn 10 ngày, kể từ ngày nhận được đầy đủ hồ sơ quy định, tổ chức quản lý, kinh doanh nhà địa phương căn cứ chính sách ưu đãi (miễn, giảm) tiền thuê nhà do Ủy ban nhân dân cấp tỉnh ban hành, đơn đề nghị miễn, giảm tiền thuê nhà của tổ chức, cá nhân thuê nhà và hồ sơ, tài liệu kèm theo để xem xét, quyết định miễn, giảm tiền thuê nhà cho tổ chức, cá nhân thuê nhà.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "10 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "10 ngày kể từ ngày nhận đủ hồ sơ"
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "10 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "10 ngày kể từ ngày nhận đủ hồ sơ"
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "10 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "10 ngày kể từ ngày nhận đủ hồ sơ"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Đơn đề nghị miễn, giảm tiền thuê nhà",
+      "mẫu đơn, tờ khai": "Mau07dondenghimiengiamtienthuenha.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Các hồ sơ, tài liệu chứng minh thuộc đối tượng ưu tiên",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam",
+  "co_quan_thuc_hien": "Các cơ quan, tổ chức liên quan",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Không có thông tin",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định miễn, giảm tiền thuê nhà cho tổ chức, cá nhân thuê nhà.",
+  "yeu_cau_dieu_kien": "không có",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

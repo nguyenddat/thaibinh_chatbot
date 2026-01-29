@@ -1,0 +1,35 @@
+{
+  "ma_thu_tuc": "2.002402.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1953/QĐ-UBND",
+  "ten_thu_tuc": "Thủ tục tiếp nhận yêu cầu giải trình",
+  "cap_thuc_hien": "Cấp Bộ, Cấp Tỉnh, Cấp Xã, Cơ quan khác",
+  "loai_thu_tuc": "TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết",
+  "linh_vuc": "Phòng, chống tham nhũng",
+  "trinh_tu_thuc_hien": "- Bước 1: Người yêu cầu giải trình gửi văn bản yêu cầu giải trình hoặc trực tiếp đến cơ quan, tổ chức, cá nhân có trách nhiệm giải trình. Văn bản yêu cầu giải trình phải nêu rõ nội dung yêu cầu, ghi rõ họ tên, địa chỉ, số điện thoại hoặc địa chỉ thư tín và phải có chữ ký hoặc điểm chỉ xác nhận của người yêu cầu giải trình. Trường hợp yêu cầu trực tiếp thì người yêu cầu giải trình phải trình bày rõ nội dung yêu cầu với người được giao tiếp nhận.\n- Bước 2: Cơ quan, tổ chức đơn vị, cá nhân có có trách nhiệm giải trình tiếp nhận yêu cầu giải trình khi đáp ứng các điều kiện tại Điều 4 và Điều 5 Nghị định 59/2019/NĐ-CP ngày 01/7/2019. \n+ Trường hợp nhiều người đến yêu cầu giải trình trực tiếp về một nội dung thì phải cử người đại diện để trình bày. Việc cử người đại diện được thể hiện bằng văn bản có chữ ký hoặc điểm chỉ của những người yêu cầu giải trình.\n+ Trường hợp yêu cầu giải trình không thuộc trách nhiệm thì người tiếp nhận hướng dẫn người yêu cầu đến cơ quan có thẩm quyền theo quy định pháp luật.\n+ Trường hợp nội dung yêu cầu giải trình đã được giải trình cho người khác trước đó thì cung cấp bản sao văn bản giải trình cho người yêu cầu.\n- Bước 3: Người có trách nhiệm giải trình thông báo bằng văn bản cho người yêu cầu giải trình về việc giải quyết hoặc không giải quyết và nêu rõ lý do.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "5 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "gửi trực tiếp hoặc gửi bằng văn bản.Thời hạn ra thông báo tiếp nhận hoặc từ chối giải trình là 05 ngày làm việc kể từ ngày tiếp nhận yêu cầu giải trình"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "1. Văn bản yêu cầu giải trình của cá nhân, tổ chức 2. Thông tin, tài liệu liên quan đến yêu cầu giải trình. 3. Thông báo đồng ý hoặc từ chối giải trình của cơ quan nhà nước có trách nhiệm giải trình. - Số lượng hồ sơ: 01 bộ.",
+      "mẫu đơn, tờ khai": "NĐ130 kiemsoat taisan thunhap.pdf",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Cán bộ, công chức, viên chức, Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Cơ quan nhà nước có liên quan",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Không có thông tin",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Thông báo tiếp nhận yêu cầu giải trình hoặc từ chối yêu cầu giải trình của cơ quan, tổ chức, đơn vị, cá nhân có thẩm quyền",
+  "yeu_cau_dieu_kien": "Theo quy định tại Điều 4 Nghị định số 59/2019/NĐ-CP ngày 01/7/2019:\n1. Cá nhân yêu cầu giải trình có năng lực hành vi dân sự đầy đủ hoặc có người đại diện theo quy định của pháp luật; cơ quan, tổ chức, đơn vị yêu cầu giải trình phải có người đại diện hợp pháp của cơ quan, tổ chức, đơn vị mình.\n2. Quyết định, hành vi của cơ quan, tổ chức, đơn vị được yêu cầu giải trình tác động trực tiếp đến quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân có yêu cầu giải trình.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

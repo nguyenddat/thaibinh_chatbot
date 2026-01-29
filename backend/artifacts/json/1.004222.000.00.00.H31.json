@@ -1,0 +1,35 @@
+{
+  "ma_thu_tuc": "1.004222.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "672/QĐ-CTUBND",
+  "ten_thu_tuc": "Đăng ký thường trú",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Đăng ký, quản lý cư trú",
+  "trinh_tu_thuc_hien": "Bước 1: Chuẩn bị hồ sơ theo quy định của pháp luật.\nBước 2: Công dân nộp hồ sơ tại Công an xã, thị trấn. Cán bộ tiếp nhận hồ sơ đối chiếu với các quy định của pháp luật về cư trú:\n+ Trường hợp hồ sơ đầy đủ, hợp lệ thì viết giấy biên nhận trao cho người nộp.\n+ Trường hợp hồ sơ đủ điều kiện nhưng thiếu thành phần hồ sơ hoặc biểu mẫu, giấy tờ kê khai chưa đúng, chưa đầy đủ thì cán bộ tiếp nhận hồ sơ hướng dẫn cho người đến nộp hồ sơ.\n+ Trường hợp hồ sơ không đủ điều kiện thì không tiếp nhận và trả lời bằng văn bản cho công dân, nêu rõ lý do không tiếp nhận.\n+ Thời gian tiếp nhận hồ sơ: Từ thứ 2 đến thứ 6 hàng tuần (ngày lễ nghỉ).\nBước 3: Trả kết quả:\n+ Trường hợp được giải quyết đăng ký thường trú: Nộp lệ phí và nhận hồ sơ; kiểm tra lại giấy tờ, tài liệu, đối chiếu các thông tin được ghi trong sổ hộ khẩu,giấy tờ khác và ký nhận vào sổ theo dõi giải quyết hộ khẩu (ký, ghi rõ họ, tên và ngày, tháng, năm nhận kết quả).\n+ Trường hợp không giải quyết đăng ký thường trú: Nhận lại hồ sơ đã nộp; kiểm tra lại giấy tờ, tài liệu có trong hồ sơ; nhận văn bản về việc không giải quyết đăng ký thường trú và ký nhận (ghi rõ họ, tên và ngày, tháng, năm nhận văn bản và hồ sơ đăng ký cư trú đã nộp) vào sổ theo dõi giải quyết hộ khẩu.\n          Thời gian trả kết quả: theo ngày hẹn trên giấy biên nhận.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "15 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Trực tiếp tại trụ sở Công an cấp xã. Thời gian: không quá 15 ngày kể từ ngày nhận đủ hồ sơ theo quy định."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "*Lưu ý: - Không yêu cầu xuất trình Giấy khai sinh đối với trường hợp trẻ em mới sinh đăng ký thường trú lần đầu.  - Trong thời hạn tối đa 60 ngày kể từ ngày người chưa thành niên được đăng ký khai sinh thì phải thực hiện thủ tục đăng ký cư trú. - Trường hợp người cao tuổi, người chưa thành niên đã có thông tin về ngày, tháng, năm sinh trong Cơ sở dữ liệu quốc gia về dân cư thì không yêu cầu xuất trình giấy tờ chứng minh. - Trường hợp công dân đăng ký thường trú vào chỗ ở hợp pháp thuộc quyền sở hữu của mình mà chỗ ở hợp pháp đó có nhiều hơn một chủ sở hữu thì không cần có ý kiến đồng ý của những người đồng sở hữu. - Trường hợp đăng ký thường trú theo quy định tại điểm a khoản 2 Điều 20 Luật Cư trú mà chỗ ở hợp pháp có nhiều hơn một chủ sở hữu thì chỉ cần ý kiến đồng ý của ít nhất một chủ sở hữu. - Trường hợp đăng ký thường trú vào chỗ ở hợp pháp của chủ sở hữu là người bị mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi theo quy định của Bộ luật Dân sự, người dưới 18 tuổi, người bị tuyên bố mất tích, người đã chết thì chỉ cần lấy ý kiến đồng ý của một trong những người đại diện hợp pháp, người thừa kế của chủ sở hữu theo quy định của pháp luật. - Người có mối quan hệ với chủ sở hữu chỗ ở hợp pháp theo quy định tại điểm a khoản 2 Điều 20 Luật Cư trú mà đăng ký thường trú vào chỗ ở chưa có hộ gia đình đăng ký thường trú và không thuộc trường hợp quy định tại Điều 23 Luật Cư trú hoặc người đăng ký thường trú có mối quan hệ với chủ hộ, thành viên hộ gia đình theo quy định tại điểm a khoản 2 Điều 20 Luật Cư trú mà nơi thường trú của chủ hộ, thành viên hộ gia đình đó là chỗ ở hợp pháp do thuê, mượn, ở nhờ thì hồ sơ đăng ký thường trú thực hiện theo khoản 2 Điều 21 Luật Cư trú. - Người đăng ký thường trú theo điều kiện quy định tại điểm a khoản 2 Điều 20 Luật Cư trú mà chỗ ở đăng ký thường trú là địa điểm quy định tại Điều 23 Luật Cư trú thì hồ sơ đăng ký thường trú không cần phải có ý kiến đồng ý của chủ sở hữu chỗ ở hợp pháp đó trong trường hợp không xác định được chủ sở hữu. - Trường hợp người đăng ký thường trú là người Việt Nam định cư ở nước ngoài còn quốc tịch Việt Nam thì trong hồ sơ đăng ký thường trú phải có hộ chiếu Việt Nam còn giá trị sử dụng; trường hợp không có hộ chiếu Việt Nam còn giá trị sử dụng thì phải có giấy tờ, tài liệu chứng minh có quốc tịch Việt Nam theo quy định của pháp luật Việt Nam về quốc tịch và văn bản đồng ý cho giải quyết thường trú của cơ quan quản lý xuất nhập cảnh của Bộ Công an. - Trường hợp người nước ngoài được nhập quốc tịch Việt Nam khi đăng ký thường trú lần đầu phải có Quyết định của Chủ tịch nước về việc cho nhập quốc tịch Việt Nam. Người gốc Việt Nam được trở lại quốc tịch Việt Nam khi đăng ký thường trú lần đầu sau khi được cho trở lại quốc tịch Việt Nam phải có Quyết định của Chủ tịch nước về việc cho trở lại quốc tịch Việt Nam trừ trường hợp đã khai thác được thông tin trong Cơ sở dữ liệu quốc tịch. - Sĩ quan nghiệp vụ, hạ sĩ quan nghiệp vụ, sĩ quan chuyên môn kỹ thuật, hạ sĩ quan chuyên môn kĩ thuật, công nhân công an đã đăng ký thường trú tại đơn vị đóng quân mà chuyển đến chỗ ở hợp pháp mới ngoài đơn vị đóng quân và đủ điều kiện đăng ký thường trú, đề nghị đăng ký thường trú tại chỗ ở mới thì hồ sơ đăng ký thường trú phải kèm Giấy giới thiệu của Thủ trưởng đơn vị quản lý trực tiếp (ký tên và đóng dấu). - Sĩ quan, quân nhân chuyên nghiệp, công nhân, viên chức quốc phòng đã đăng ký thường trú vào nhà ở công vụ, đơn vị đóng quân khi chuyển đăng ký thường trú ra chỗ ở hợp pháp ngoài nơi nhà ở công vụ, nơi đơn vị đóng quân thì hồ sơ đăng ký thường trú tại chỗ ở mới phải kèm theo Giấy giới thiệu đăng ký thường trú của đơn vị đang công tác (ký tên và đóng dấu).",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Công an Xã",
+  "co_quan_co_tham_quyen": "Công an Xã",
+  "dia_chi_tiep_nhan": "Công an cấp xã.",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Cập nhật thông tin trong Cơ sở dữ liệu quốc gia về dân cư, Thông báo kết quả giải quyết thủ tục về cư trú, hủy bỏ thủ tục về cư trú, Cập nhật thông tin trong Cơ sở dữ liệu về cư trú, Phiếu từ chối tiếp nhận, giải quyết hồ sơ (lĩnh vực cư trú)",
+  "yeu_cau_dieu_kien": "Người thực hiện thủ tục đã được thu thập, cập nhật thông tin công dân vào Cơ sở dữ liệu quốc gia về dân cư, Cơ sở dữ liệu về cư trú",
+  "tu_khoa": "Đăng ký thường trú (thực hiện tại cấp xã)",
+  "mo_ta": "Không có thông tin"
+}

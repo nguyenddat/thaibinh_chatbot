@@ -1,0 +1,47 @@
+{
+  "ma_thu_tuc": "1.014028.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=406695",
+  "so_quyet_dinh": "264/QĐ-UBND",
+  "ten_thu_tuc": "Hỗ trợ chi phí mai táng đối với đối tượng hưởng trợ cấp hưu trí xã hội",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Bảo trợ xã hội",
+  "trinh_tu_thuc_hien": "- Bước 1: Tổ chức, cá nhân lo mai táng cho đối tượng có Tờ khai đề nghị hỗ trợ chi phí mai táng theo Mẫu số 02 ban hành kèm theo Nghị định số 176/2025/NĐ-CP gửi Ủy ban nhân dân xã, phường, đặc khu (sau đây gọi chung là Ủy ban nhân dân cấp xã);\n- Bước 2: Trong thời hạn 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ, Chủ tịch Ủy ban nhân dân cấp xã xem xét, quyết định hỗ trợ chi phí mai táng.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "3",
+      "phí, lệ phí": "",
+      "mô tả": "03 (ba) ngày làm việc, kể từ ngày nhận đủ hồ sơ"
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "3",
+      "phí, lệ phí": "",
+      "mô tả": "03 (ba) ngày làm việc, kể từ ngày nhận đủ hồ sơ"
+    },
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "3",
+      "phí, lệ phí": "",
+      "mô tả": "03 (ba) ngày làm việc, kể từ ngày nhận đủ hồ sơ"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Thành phần hồ sơ gồm: Tờ khai đề nghị hỗ trợ chi phí mai táng (theo Mẫu số 02 ban hành kèm theo Nghị định số 176/2025/NĐ-CP).",
+      "mẫu đơn, tờ khai": "Mau2ND176.doc",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã",
+  "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Không có thông tin",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định hỗ trợ chi phí mai táng (BYT)",
+  "yeu_cau_dieu_kien": "Tổ chức, cá nhân lo mai táng cho đối tượng được hưởng trợ cấp hưu trí xã hội hoặc người đã có văn bản đề nghị hưởng trợ cấp hưu trí xã hội, đủ điều kiện hưởng nhưng Chủ tịch Ủy ban nhân dân cấp xã chưa ban hành quyết định hưởng trợ cấp hưu trí xã hội khi chết thì được hỗ trợ chi phí mai táng.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

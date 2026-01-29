@@ -1,0 +1,47 @@
+{
+  "ma_thu_tuc": "2.002821.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=424144",
+  "so_quyet_dinh": "62/QĐ-UBND",
+  "ten_thu_tuc": "Hỗ trợ đào tạo nghề cho người lao động ở khu vực nông thôn, người lao động là thanh niên",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết",
+  "linh_vuc": "Việc làm",
+  "trinh_tu_thuc_hien": "Bước 1: Người lao động nộp hồ sơ hỗ trợ đào tạo nghề.\nBước 2: Trong thời hạn 07 ngày làm việc, kể từ ngày nhận đủ hồ sơ hỗ trợ đào tạo nghề, Ủy ban nhân dân cấp xã nơi ở hiện tại của người lao động quyết định việc hỗ trợ và thanh toán tiền hỗ trợ cho người lao động. Trường hợp không hỗ trợ thì phải thông báo bằng văn bản và nêu rõ lý do.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "7 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Trực tiếp đến Trung tâm Phục vụ hành chính công nơi ở hiện tại"
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "7 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Trực tuyến tại Cổng Dịch vụ công quốc gia"
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "7 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Thông qua dịch vụ bưu chính công ích hoặc qua thuê dịch vụ của doanh nghiệp, cá nhân hoặc qua ủy quyền đến Trung tâm Phục vụ hành chính công nơi ở hiện tại"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Giấy chứng nhận trí thức trẻ tình nguyện hoàn thành nhiệm vụ công tác tại khu kinh tế - quốc phòng (Bản sao từ sổ gốc hoặc bản sao kèm bản chính để đối chiếu hoặc bản sao có chứng thực điện tử hoặc bản sao điện tử từ sổ gốc)",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam",
+  "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã",
+  "co_quan_co_tham_quyen": "Ủy ban nhân dân cấp xã",
+  "dia_chi_tiep_nhan": "Trung tâm Phục vụ hành chính công",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định việc hỗ trợ và thanh toán tiền hỗ trợ cho người lao động, Văn bản thông báo trong trường hợp không hỗ trợ và nêu rõ lý do",
+  "yeu_cau_dieu_kien": "a) Người lao động ở khu vực nông thôn được hỗ trợ đào tạo trình độ sơ cấp, đào tạo dưới 03 tháng khi có nhu cầu.\nb) Người lao động là thanh niên thuộc một trong các trường hợp sau:\n- Thanh niên hoàn thành nghĩa vụ quân sự, nghĩa vụ tham gia Công an nhân dân;\n- Thanh niên tình nguyện hoàn thành nhiệm vụ thực hiện chương trình, dự án phát triển kinh tế - xã hội;\n- Trí thức trẻ tình nguyện sau khi hoàn thành nhiệm vụ công tác tại khu kinh tế - quốc phòng.\nVà có đủ các điều kiện sau:\n- Có nhu cầu đào tạo trong thời hạn 60 tháng, kể từ ngày hoàn thành nghĩa vụ quân sự hoặc nghĩa vụ tham gia Công an nhân dân hoặc hoàn thành nhiệm vụ thực hiện chương trình, dự án phát triển kinh tế - xã hội hoặc hoàn thành nhiệm vụ công tác tại khu kinh tế - quốc phòng;\n- Chưa được hỗ trợ đào tạo nghề từ nguồn kinh phí của ngân sách nhà nước kể từ ngày hoàn thành nghĩa vụ quân sự hoặc nghĩa vụ tham gia Công an nhân dân hoặc hoàn thành nhiệm vụ thực hiện chương trình, dự án phát triển kinh tế - xã hội hoặc hoàn thành nhiệm vụ công tác tại khu kinh tế - quốc phòng.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "a) Người lao động ở khu vực nông thôn được hỗ trợ đào tạo trình độ sơ cấp, đào tạo dưới 03 tháng khi có nhu cầu.\nb) Người lao động là thanh niên thuộc một trong các trường hợp sau:\n- Thanh niên hoàn thành nghĩa vụ quân sự, nghĩa vụ tham gia Công an nhân dân;\n- Thanh niên tình nguyện hoàn thành nhiệm vụ thực hiện chương trình, dự án phát triển kinh tế - xã hội;\n- Trí thức trẻ tình nguyện sau khi hoàn thành nhiệm vụ công tác tại khu kinh tế - quốc phòng.\nVà có đủ các điều kiện sau:\n- Có nhu cầu đào tạo trong thời hạn 60 tháng, kể từ ngày hoàn thành nghĩa vụ quân sự hoặc nghĩa vụ tham gia Công an nhân dân hoặc hoàn thành nhiệm vụ thực hiện chương trình, dự án phát triển kinh tế - xã hội hoặc hoàn thành nhiệm vụ công tác tại khu kinh tế - quốc phòng;\n- Chưa được hỗ trợ đào tạo nghề từ nguồn kinh phí của ngân sách nhà nước kể từ ngày hoàn thành nghĩa vụ quân sự hoặc nghĩa vụ tham gia Công an nhân dân hoặc hoàn thành nhiệm vụ thực hiện chương trình, dự án phát triển kinh tế - xã hội hoặc hoàn thành nhiệm vụ công tác tại khu kinh tế - quốc phòng."
+}

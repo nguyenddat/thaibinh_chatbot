@@ -1,0 +1,72 @@
+{
+  "ma_thu_tuc": "1.013717.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1475/QĐ-UBND",
+  "ten_thu_tuc": "Quỹ tự giải thể",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Quản lý nhà nước về hội, quỹ",
+  "trinh_tu_thuc_hien": "- Bước 1: Hội đồng quản lý quỹ gửi hồ sơ đến Ủy ban nhân dân cấp xã đề nghị tự giải thể quỹ.\n- Bước 2: Cán bộ tiếp nhận hồ sơ xem xét hồ sơ và đề nghị bổ sung trong trường hợp hồ sơ chưa đầy đủ và hợp pháp. Trường hợp từ chối tiếp nhận, giải quyết hồ sơ phải nêu rõ lý do.\n- Bước 3: Cán bộ nghiên cứu, thẩm định hồ sơ, thực hiện quy trình lấy ý kiến các cơ quan có liên quan; tổng hợp các ý kiến góp ý đề nghị bổ sung thêm hồ sơ theo ý kiến góp ý (nếu có).\n- Bước 4: Chủ tịch Ủy ban nhân dân cấp xã quyết định quyết định giải thể và thu hồi giấy phép thành lập và công nhận điều lệ quỹ.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "60 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày kết thúc thời hạn ghi trong thông báo thanh toán nợ và thanh lý tài sản, tài chính của quỹ khi quỹ tự giải thể mà không có đơn khiếu nại\nNộp hồ sơ trực tiếp tại Ủy ban nhân dân cấp xã qua dịch vụ bưu chính hoặc qua Cổng Dịch vụ công trực tuyến. Hồ sơ phải có xác nhận văn bản đến của cơ quan có thẩm quyền giải quyết. Nếu gửi qua dịch vụ bưu chính, ngày tiếp nhận hồ sơ được tính theo ngày ghi trên dấu công văn đến"
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "60 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày kết thúc thời hạn ghi trong thông báo thanh toán nợ và thanh lý tài sản, tài chính của quỹ khi quỹ tự giải thể mà không có đơn khiếu nại\nNộp hồ sơ trực tiếp tại Ủy ban nhân dân cấp xã qua dịch vụ bưu chính hoặc qua Cổng Dịch vụ công trực tuyến. Hồ sơ phải có xác nhận văn bản đến của cơ quan có thẩm quyền giải quyết. Nếu gửi qua dịch vụ bưu chính, ngày tiếp nhận hồ sơ được tính theo ngày ghi trên dấu công văn đến"
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "60 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày kết thúc thời hạn ghi trong thông báo thanh toán nợ và thanh lý tài sản, tài chính của quỹ khi quỹ tự giải thể mà không có đơn khiếu nại\nNộp hồ sơ trực tiếp tại Ủy ban nhân dân cấp xã qua dịch vụ bưu chính hoặc qua Cổng Dịch vụ công trực tuyến. Hồ sơ phải có xác nhận văn bản đến của cơ quan có thẩm quyền giải quyết. Nếu gửi qua dịch vụ bưu chính, ngày tiếp nhận hồ sơ được tính theo ngày ghi trên dấu công văn đến"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "- Đơn đề nghị giải thể quỹ (theo mẫu)",
+      "mẫu đơn, tờ khai": "Mauso10.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Nghị quyết của Hội đồng quản lý quỹ về tự giải thể, trong đó nêu rõ lý do giải thể quỹ",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Bản kiểm kê tài sản, tài chính của quỹ có chữ ký của Chủ tịch Hội đồng quản lý quỹ, Trưởng Ban Kiểm tra, Giám đốc và phụ trách kế toán",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Dự kiến phương thức xử lý tài sản, tài chính, lao động và thời hạn thanh toán các khoản nợ",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Thông báo thời hạn thanh toán nợ (nếu có) cho các tổ chức và cá nhân có liên quan theo quy định của pháp luật và thông báo liên tiếp trên 03 số báo viết hoặc báo điện tử ở địa phương",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Các tài liệu chứng minh việc hoàn thành nghĩa vụ tài sản, tài chính của quỹ",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Ủy ban nhân dân cấp xã.",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định giải thể và thu hồi giấy phép thành lập và công nhận điều lệ quỹ",
+  "yeu_cau_dieu_kien": "Quỹ chấm dứt hoạt động kể từ ngày quyết định giải thể quỹ của cơ quan nhà nước có thẩm quyền có hiệu lực.\nQuỹ hoạt động phạm vi xã khi có sự thay đổi về địa giới hành chính do chia, tách, sáp nhập, hợp nhất, Hội đồng quản lý quỹ xem xét, quyết định giải thể cho phù hợp với đơn vị hành chính mới, gửi hồ sơ về cơ quan nhà nước có thẩm quyền của đơn vị hành chính mới theo quy định tại khoản 8 Điều 1 Nghị định số 136/2024/NĐ-CP.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

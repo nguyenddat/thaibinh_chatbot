@@ -1,0 +1,57 @@
+{
+  "ma_thu_tuc": "1.013894.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=399703",
+  "so_quyet_dinh": "1675/QĐ-UBND",
+  "ten_thu_tuc": "Cấp lại Giấy Tiếp nhận bản công bố hợp quy đối với thuốc lá",
+  "cap_thuc_hien": "Cấp Tỉnh",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Phòng bệnh",
+  "trinh_tu_thuc_hien": "1. Hồ sơ đăng ký lại bản công bố hợp quy, cấp lại giấy tiếp nhận bản công bố hợp quy đối với thuốc lá thực hiện theo quy định tại khoản 3 Điều 8 Thông tư số 49/2015/TT-BYT.\n2. Trình tự tiếp nhận hồ sơ đăng ký lại bản công bố hợp quy, cấp lại giấy tiếp nhận bản công bố hợp quy đối với thuốc lá thực hiện như sau:\na) Trong thời hạn 07 (bảy) ngày làm việc, kể từ ngày nhận được đủ hồ sơ đề nghị theo dấu văn bản đến, cơ quan chuyên môn về y tế thuộc Ủy ban nhân dân cấp tỉnh (sau đây gọi tắt là cơ quan tiếp nhận hồ sơ) có trách nhiệm cấp lại giấy tiếp nhận theo quy định tại Mẫu số 09 ban hành kèm theo Thông tư số 49/2015/TT-BYT hoặc giấy xác nhận theo quy định tại Mẫu số 10 ban hành kèm theo Thông tư số 49/2015/TT-BYT. Trường hợp không cấp lại phải trả lời bằng văn bản và nêu rõ lý do.\nb) Khi có bất kỳ sự thay đổi nào trong quá trình sản xuất, chế biến làm ảnh hưởng đến các chỉ tiêu chất lượng và vi phạm các mức giới hạn an toàn so với công bố, tổ chức, cá nhân sản xuất, kinh doanh thuốc lá phải thực hiện lại việc công bố hợp quy hoặc công bố phù hợp quy định theo quy định tại các Điều 4, 5, 6 Thông tư số 49/2015/TT-BYT.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "7 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "không quá 07 ngày làm việc kể từ ngày nhận đủ hồ sơ đề nghị theo dấu văn bản đến."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "7 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "không quá 07 ngày làm việc kể từ ngày nhận đủ hồ sơ đề nghị theo dấu văn bản đến."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "7 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "không quá 07 ngày làm việc kể từ ngày nhận đủ hồ sơ đề nghị theo dấu văn bản đến."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Giấy Tiếp nhận hoặc Giấy Xác nhận lần gần  nhất (bản sao);",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "Kết quả kiểm nghiệm về thuốc lá định kỳ  do phòng kiểm nghiệm được chỉ định hoặc được công nhận (bản gốc hoặc bản sao chứng thực hoặc được hợp pháp hóa lãnh sự hoặc bản chụp có kèm theo bản chính để đối chiếu).",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "Đơn đề nghị cấp lại Giấy Tiếp nhận hoặc Giấy  Xác nhận theo quy định tại mẫu số 08 ban hành kèm theo Thông tư số 49/2015/TT-BYT;",
+      "mẫu đơn, tờ khai": "Mus08.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã",
+  "co_quan_thuc_hien": "Ủy ban nhân dân tỉnh và thành phố trực thuộc Trung ương",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Không có thông tin",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Giấy Tiếp nhận bản công bố hợp quy hoặc Giấy Xác nhận công bố phù hợp quy định",
+  "yeu_cau_dieu_kien": "không",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

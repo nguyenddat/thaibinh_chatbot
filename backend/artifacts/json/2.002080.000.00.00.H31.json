@@ -1,0 +1,36 @@
+{
+  "ma_thu_tuc": "2.002080.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "2940/QĐ-UBND",
+  "ten_thu_tuc": "Thủ tục thanh toán thù lao cho hòa giải viên",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết",
+  "linh_vuc": "Hòa giải ở cơ sở",
+  "trinh_tu_thuc_hien": "Tổ trưởng tổ hòa giải lập hồ sơ đề nghị thanh toán thù lao cho hòa giải viên.\nTrong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Ủy ban nhân dân cấp xã xem xét, quyết định và trả thù lao cho hòa giải viên thông qua tổ hòa giải; trường hợp quyết định không thanh toán cho hòa giải viên thì phải trả lời bằng văn bản và nêu rõ lý do.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "5 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định.\n\nTổ hòa giải thực hiện trả thù lao cho hòa giải viên theo quyết định của Ủy ban nhân dân cấp xã trong thời hạn 03 ngày, kể từ ngày nhận được thù lao."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Giấy đề nghị thanh toán thù lao của hòa giải viên có ghi rõ họ, tên, địa chỉ của hòa giải viên; tên, địa chỉ tổ hòa giải; số tiền đề nghị thanh toán; nội dung thanh toán (có danh sách các vụ, việc trong trường hợp đề nghị thanh toán thù lao cho nhiều vụ, việc); chữ ký của hòa giải viên; chữ ký xác nhận của tổ trưởng tổ hòa giải. Xuất trình Sổ theo dõi hoạt động hòa giải ở cơ sở để đối chiếu khi cần thiết.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài",
+  "co_quan_thuc_hien": "Ủy ban Nhân dân xã, phường, thị trấn.",
+  "co_quan_co_tham_quyen": "Ủy ban Nhân dân xã, phường, thị trấn.",
+  "dia_chi_tiep_nhan": "Không có thông tin",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định thanh toán thù lao cho hòa giải viên, Văn bản trả lời trong trường hợp quyết định không thanh toán thù lao cho hòa giải viên",
+  "can_cu_phap_ly": "Không có thông tin",
+  "yeu_cau_dieu_kien": "Điều kiện được hưởng thù lao theo vụ, việc của hòa giải viên:\n- Vụ, việc được tiến hành hòa giải và đã kết thúc trong trường hợp:\n\n+ Các bên đạt được thỏa thuận;\n\n+ Một bên hoặc các bên yêu cầu chấm dứt hòa giải;\n\n+ Hòa giải viên quyết định kết thúc hòa giải khi các bên không thể đạt được thỏa thuận và việc tiếp tục hòa giải cũng không thể đạt được kết quả.\n\n- Hòa giải viên không vi phạm nghĩa vụ sau:\n\n+ Thực hiện hòa giải khi có căn cứ theo quy định tại Điều 16 của Luật hòa giải ở cơ sở.\n\n+ Tuân thủ các nguyên tắc quy định tại Điều 4 của Luật hòa giải ở cơ sở.\n\n+ Từ chối tiến hành hòa giải nếu bản thân có quyền lợi và nghĩa vụ liên quan đến vụ, việc hòa giải hoặc vì lý do khác dẫn đến không thể bảo đảm khách quan, công bằng trong hòa giải.\n\n+ Thông báo kịp thời cho tổ trưởng tổ hòa giải để báo cáo Chủ tịch Ủy ban nhân dân cấp xã có biện pháp phòng ngừa trong trường hợp thấy mâu thuẫn, tranh chấp nghiêm trọng có thể dẫn đến hành vi bạo lực gây ảnh hưởng đến sức khoẻ, tính mạng của các bên hoặc gây mất trật tự công cộng.\n\n+ Thông báo kịp thời cho tổ trưởng tổ hòa giải để báo cáo cơ quan có thẩm quyền xử lý trong trường hợp phát hiện mâu thuẫn, tranh chấp có dấu hiệu vi phạm pháp luật về xử lý vi phạm hành chính hoặc pháp luật về hình sự.\n- Vụ, việc được tiến hành hòa giải và đã kết thúc trong trường hợp:\n\n+ Các bên đạt được thỏa thuận;\n\n+ Một bên hoặc các bên yêu cầu chấm dứt hòa giải;\n\n+ Hòa giải viên quyết định kết thúc hòa giải khi các bên không thể đạt được thỏa thuận và việc tiếp tục hòa giải cũng không thể đạt được kết quả.\n\n- Hòa giải viên không vi phạm nghĩa vụ sau:\n\n+ Thực hiện hòa giải khi có căn cứ theo quy định tại Điều 16 của Luật hòa giải ở cơ sở.\n\n+ Tuân thủ các nguyên tắc quy định tại Điều 4 của Luật hòa giải ở cơ sở.\n\n+ Từ chối tiến hành hòa giải nếu bản thân có quyền lợi và nghĩa vụ liên quan đến vụ, việc hòa giải hoặc vì lý do khác dẫn đến không thể bảo đảm khách quan, công bằng trong hòa giải.\n\n+ Thông báo kịp thời cho tổ trưởng tổ hòa giải để báo cáo Chủ tịch Ủy ban nhân dân cấp xã có biện pháp phòng ngừa trong trường hợp thấy mâu thuẫn, tranh chấp nghiêm trọng có thể dẫn đến hành vi bạo lực gây ảnh hưởng đến sức khoẻ, tính mạng của các bên hoặc gây mất trật tự công cộng.\n\n+ Thông báo kịp thời cho tổ trưởng tổ hòa giải để báo cáo cơ quan có thẩm quyền xử lý trong trường hợp phát hiện mâu thuẫn, tranh chấp có dấu hiệu vi phạm pháp luật về xử lý vi phạm hành chính hoặc pháp luật về hình sự.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

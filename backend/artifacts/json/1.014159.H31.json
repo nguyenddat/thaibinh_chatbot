@@ -1,0 +1,47 @@
+{
+  "ma_thu_tuc": "1.014159.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "715/QĐ-UBND",
+  "ten_thu_tuc": "Cung cấp thông tin quy hoạch đô thị và nông thôn",
+  "cap_thuc_hien": "Cấp Tỉnh, Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Quy hoạch đô thị và nông thôn",
+  "trinh_tu_thuc_hien": "-\tCác cơ quan, tổ chức, cá nhân có nhu cầu cung cấp thông tin về hồ sơ cắm mốc, thông tin quy hoạch đô thị và nông thôn gửi văn bản đề nghị qua mạng trực tuyến hoặc qua đường bưu điện hoặc nộp trực tiếp đến Trung tâm phục vụ hành chính công cấp tỉnh hoặc cấp xã.\n-\tBộ phận tiếp nhận và trả kết quả kiểm tra hồ sơ:\n+ Trường hợp hồ sơ đầy đủ, hợp lệ thì viết giấy hẹn trao cho người nộp.\n \n+ Trường hợp hồ sơ thiếu hoặc không hợp lệ thì công chức tiếp nhận hồ sơ hướng dẫn đầy đủ một lần để người nộp hoàn thiện hồ sơ.\n-\tCơ quan giải quyết thủ tục hành chính có trách nhiệm rà soát thông tin về vị trí, địa điểm lô đất, hồ sơ cắm mốc, các thông tin khác liên quan đến quy hoạch đô thị và nông thôn và cung cấp cho cơ quan, tổ chức, cá nhân có yêu cầu.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "-\tĐối với việc cung cấp thông tin trực tiếp tại trụ sở cơ quan cung cấp thông tin: tối đa không quá 10 ngày làm việc; -\tĐối với việc cung cấp thông tin qua mạng điện tử: 03 ngày làm việc kể từ ngày nhận được yêu cầu hợp lệ; -\tĐối với việc cung cấp thông tin qua dịch vụ bưu chính, fax: là 05 ngày làm việc kể từ ngày nhận được yêu cầu hợp lệ.",
+      "phí, lệ phí": "Phí :  Đồng (Theo quy định của Bộ Tài chính)",
+      "mô tả": "Nộp trực tuyến hoặc qua dịch vụ bưu chính\nhoặc nộp trực tiếp tại Trung tâm phục vụ hành chính công cấp tỉnh hoặc cấp xã."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "-\tĐối với việc cung cấp thông tin trực tiếp tại trụ sở cơ quan cung cấp thông tin: tối đa không quá 10 ngày làm việc; -\tĐối với việc cung cấp thông tin qua mạng điện tử: 03 ngày làm việc kể từ ngày nhận được yêu cầu hợp lệ; -\tĐối với việc cung cấp thông tin qua dịch vụ bưu chính, fax: là 05 ngày làm việc kể từ ngày nhận được yêu cầu hợp lệ.",
+      "phí, lệ phí": "Phí :  Đồng (Theo quy định của Bộ Tài chính)",
+      "mô tả": "Nộp trực tuyến hoặc qua dịch vụ bưu chính\nhoặc nộp trực tiếp tại Trung tâm phục vụ hành chính công cấp tỉnh hoặc cấp xã."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "-\tĐối với việc cung cấp thông tin trực tiếp tại trụ sở cơ quan cung cấp thông tin: tối đa không quá 10 ngày làm việc; -\tĐối với việc cung cấp thông tin qua mạng điện tử: 03 ngày làm việc kể từ ngày nhận được yêu cầu hợp lệ; -\tĐối với việc cung cấp thông tin qua dịch vụ bưu chính, fax: là 05 ngày làm việc kể từ ngày nhận được yêu cầu hợp lệ.",
+      "phí, lệ phí": "Phí :  Đồng (Theo quy định của Bộ Tài chính)",
+      "mô tả": "Nộp trực tuyến hoặc qua dịch vụ bưu chính\nhoặc nộp trực tiếp tại Trung tâm phục vụ hành chính công cấp tỉnh hoặc cấp xã."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Văn bản đề nghị cung cấp thông tin về quy hoạch đô thị và nông thôn, ghi rõ thông tin của tổ chức hoặc cá nhân, mục đích đề nghị cung cấp thông tin, vị trí, địa điểm cụ thể của lô đất và các nội dung liên quan bảo đảm việc cung cấp thông tin theo yêu cầu.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã",
+  "co_quan_thuc_hien": "Cơ quan chức năng do Ủy ban nhân dân cấp tỉnh chỉ định, Ủy ban nhân dân cấp xã",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Không có thông tin",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Văn bản cung cấp thông tin về quy hoạch đô thị và nông thôn theo yêu cầu.",
+  "yeu_cau_dieu_kien": "Không.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

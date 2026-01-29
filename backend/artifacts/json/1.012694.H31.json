@@ -1,0 +1,67 @@
+{
+  "ma_thu_tuc": "1.012694.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1669/QĐ-UBND",
+  "ten_thu_tuc": "Quyết định chuyển mục đích sử dụng rừng sang mục đích khác đối với cá nhân",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Kiểm lâm",
+  "trinh_tu_thuc_hien": "a) Bước 1: Nộp, tiếp nhận hồ sơ\nCá nhân có dự án nộp 01 bộ hồ sơ đề nghị chuyển mục đích sử dụng rừng sang mục đích khác đến Ủy ban nhân dân cấp xã bằng hình thức trực tiếp hoặc môi trường mạng hoặc qua dịch vụ bưu chính.\nỦy ban nhân dân cấp xã trả lời ngay tính đầy đủ của hồ sơ đối với trường hợp nộp trực tiếp; 01 ngày làm việc đối với trường hợp nộp hồ sơ qua môi trường mạng hoặc qua dịch vụ bưu chính bằng văn bản.\nb) Bước 2: Thẩm định hồ sơ\nTrong thời gian 10 ngày làm việc kể từ ngày nhận được đầy đủ hồ sơ hợp lệ, cơ quan chuyên môn về nông nghiệp và môi trường cấp xã tổ chức thẩm định và trình Chủ tịch Ủy ban nhân dân cấp xã xem xét, quyết định.\nc) Bước 3: Quyết định chuyển mục đích sử dụng rừng\nTrong thời gian 02 ngày làm việc kể từ ngày nhận được hồ sơ trình của cơ quan chuyên môn về nông nghiệp và môi trường cấp xã, Chủ tịch Ủy ban nhân cấp xã quyết định chuyển mục đích sử dụng rừng sang mục đích khác; trường hợp quyết định không chuyển mục đích sử dụng rừng sang mục đích khác thì có ngay văn bản thông báo và nêu rõ lý do cho tổ chức, cá nhân.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "12 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "12 ngày, kể từ ngày nhận được hồ sơ hợp lệ."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "12 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "12 ngày, kể từ ngày nhận được hồ sơ hợp lệ."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "12 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "12 ngày, kể từ ngày nhận được hồ sơ hợp lệ."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "- Tờ trình đề nghị quyết định chuyển mục đích sử dụng rừng sang mục đích khác theo Mẫu số 03 Phụ lục I ban hành kèm theo Thông tư số 16/2025/TT-BNNMT ngày 19/6/2025 của Bộ Nông nghiệp và Môi trường...",
+      "mẫu đơn, tờ khai": "Mus03.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Văn bản đề nghị chuyển mục đích sử dụng rừng sang mục đích khác theo Mẫu số 02 Phụ lục I ban hành kèm theo Thông tư số 16/2025/TT-BNNMT ngày 19/6/2025 của Bộ Nông nghiệp và Môi trường...",
+      "mẫu đơn, tờ khai": "Mus02.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Bản sao quyết định chủ trương chuyển mục đích sử dụng rừng sang mục đích khác của cấp có thẩm quyền hoặc bản sao quyết định chủ trương chuyển mục đích sử dụng rừng sang mục đích khác của cấp có thẩm quyền hoặc bản sao văn bản chấp thuận, quyết định chủ trương đầu tư đối với dự án quy định tại điểm a khoản 4 Điều 41 Nghị định số 156/2018/NĐ-CP được sửa đổi, bổ sung tại khoản 21 Điều 1 Nghị định số 91/2024/NĐ-CP...",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "- Phương án trồng rừng thay thế được cấp có thẩm quyền phê duyệt hoặc thông báo hoàn thành nghĩa vụ nộp tiền trồng rừng thay thế đối với diện tích đề nghị chuyển mục đích sử dụng rừng sang mục đích khác...",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "- Báo cáo thuyết minh hiện trạng rừng và bản đồ hiện trạng rừng khu vực đề nghị chuyển mục đích sử dụng rừng sang mục đích khác do chủ dự án lập trong thời gian 6 tháng trước ngày nộp hồ sơ. Báo cáo thuyết minh thể hiện rõ thông tin về vị trí (tiểu khu, khoảnh, lô, địa danh hành chính khu rừng), diện tích rừng theo: loại rừng (rừng đặc dụng, rừng phòng hộ, rừng sản xuất), nguồn gốc hình thành (rừng tự nhiên, rừng trồng) và được thể hiện trên bản đồ hiện trạng rừng tỷ lệ 1/5.000 đối với dự án có diện tích chuyển mục đích sử dụng rừng dưới 500 ha, tỷ lệ 1/10.000 đối với dự án có diện tích chuyển mục đích sử dụng rừng từ 500 ha trở lên và dự án dạng tuyến...",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Cán bộ, công chức, viên chức, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã",
+  "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã",
+  "co_quan_co_tham_quyen": "Chủ tịch Ủy ban nhân dân xã",
+  "dia_chi_tiep_nhan": "Không có thông tin",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định chuyển mục đích sử dụng rừng sang mục đích khác theo Mẫu số 04 Phụ lục I ban hành kèm theo Thông tư số 16/2025/TT-BNNMT ngày 19/6/2025 của Bộ Nông nghiệp và Môi trường.",
+  "yeu_cau_dieu_kien": "Không",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

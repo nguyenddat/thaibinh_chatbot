@@ -1,0 +1,51 @@
+{
+  "ma_thu_tuc": "1.013748.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=387091",
+  "so_quyet_dinh": "1476/QĐ-UBND",
+  "ten_thu_tuc": "Khám giám định lại tỷ lệ tổn thương cơ thể đối với thương binh không công tác trong quân đội, công an, người hưởng chính sách như thương binh có vết thương đặc biệt tái phát và điều chỉnh chế độ.",
+  "cap_thuc_hien": "Cấp Tỉnh",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Người có công",
+  "trinh_tu_thuc_hien": "Bước 1: Cá nhân làm đơn đề nghị Mẫu số 33 Phụ lục I Nghị định số 131/2021/NĐ-CP kèm bản tóm tắt bệnh án điều trị vết thương tái phát của Bệnh viện hoặc Trung tâm Y tế khu vực (bao gồm cả bệnh viện quân đội, công an), phiếu phẫu thuật nếu đã phẫu thuật gửi Sở Nội vụ nơi thường trú.\n       Bước 2: Sở Nội vụ trong thời gian 12 ngày kể từ ngày nhận đủ các giấy tờ nêu trên có trách nhiệm đối chiếu hồ sơ lưu tại Sở, nếu đủ điều kiện thì cấp giấy giới thiệu theo Mẫu số 38 Phụ lục I Nghị định số 131/2021/NĐ-CP gửi đến Hội đồng giám định y khoa có thẩm quyền theo quy định tại Điều 161 Nghị định số 131/2021/NĐ-CP. Trường hợp không đủ điều kiện thì trả lại hồ sơ và nêu rõ lý do. \n       Bước 3: Hội đồng giám định y khoa trong thời gian 60 ngày kể từ ngày nhận đủ giấy tờ, có trách nhiệm tổ chức khám giám định, ban hành biên bản giám định y khoa Mẫu số 78 Phụ lục I Nghị định số 131/2021/NĐ-CP gửi Sở Nội vụ. Trường hợp chưa ban hành biên bản phải có văn bản thông báo và nêu rõ lý do.\n       Bước 4: Sở Nội vụ trong thời gian 12 ngày kể từ ngày tiếp nhận biên bản giám định y khoa, có trách nhiệm ban hành quyết định điều chỉnh trợ cấp, phụ cấp ưu đãi Mẫu số 60 Phụ lục I Nghị định số 131/2021/NĐ-CP.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "84 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận đủ hồ sơ (Thời gian cụ thể được quy định tại từng bước của quy trình thực hiện).\nQua dịch vụ bưu chính công ích hoặc trực tiếp"
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "84 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận đủ hồ sơ (Thời gian cụ thể được quy định tại từng bước của quy trình thực hiện).\nQua dịch vụ bưu chính công ích hoặc trực tiếp"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "- Đơn đề nghị theo Mẫu số 33 Phụ lục I Nghị định số 131/2021/NĐ-CP",
+      "mẫu đơn, tờ khai": "Mauso33_ND131_2021.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Bản tóm tắt bệnh án điều trị vết thương tái phát của Bệnh viện hoặc Trung tâm Y tế khu vực (bao gồm cả bệnh viện quân đội, công an).",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Phiếu phẫu thuật nếu đã phẫu thuật.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam",
+  "co_quan_thuc_hien": "Sở Nội vụ",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "sở Nội vụ",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định điều chỉnh trợ cấp, phụ cấp ưu đãi",
+  "yeu_cau_dieu_kien": "Không có",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

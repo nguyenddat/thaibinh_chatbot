@@ -1,0 +1,62 @@
+{
+  "ma_thu_tuc": "1.013702.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1475/QĐ-UBND",
+  "ten_thu_tuc": "Công nhận ban vận động thành lập hội",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Quản lý nhà nước về hội, quỹ",
+  "trinh_tu_thuc_hien": "- Bước 1: Những người sáng lập gửi hồ sơ đề nghị công nhận Ban vận động thành lập hội có phạm vi hoạt động trong trong xã đến Chủ tịch Ủy ban nhân dân cấp xã.\n- Bước 2: Cán bộ tiếp nhận hồ sơ xem xét hồ sơ và đề nghị bổ sung trong trường hợp hồ sơ chưa đầy đủ và hợp pháp. Trường hợp từ chối tiếp nhận, giải quyết hồ sơ phải nêu rõ lý do.\n- Bước 3: Kể từ ngày nhận hồ sơ đầy đủ và hợp pháp, cán bộ tiếp nhận hồ sơ nghiên cứu, thẩm định hồ sơ và thực hiện quy trình lấy ý kiến các cơ quan có liên quan, tổng hợp các ý kiến góp ý, đề nghị bổ sung hồ sơ (nếu có).\n- Bước 4: Chủ tịch Ủy ban nhân dân cấp xã xem xét, quyết định công nhận Ban vận động thành lập hội. Trường hợp không đồng ý phải có văn bản trả lời và nêu rõ lý do.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "30 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày Ủy ban nhân dân cấp xã nhận hồ sơ đầy đủ và hợp pháp.\nNộp hồ sơ trực tiếp tại đơn vị, tổ chức do Chủ tịch Ủy ban nhân dân cấp xã phân công; qua dịch vụ bưu chính công ích hoặc qua Cổng Dịch vụ công trực tuyến. Hồ sơ phải có xác nhận văn bản đến của cơ quan có thẩm quyền. Nếu gửi qua dịch vụ bưu chính công ích, ngày tiếp nhận hồ sơ được tính theo ngày ghi trên dấu công văn đến."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "30 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày Ủy ban nhân dân cấp xã nhận hồ sơ đầy đủ và hợp pháp.\nNộp hồ sơ trực tiếp tại đơn vị, tổ chức do Chủ tịch Ủy ban nhân dân cấp xã phân công; qua dịch vụ bưu chính công ích hoặc qua Cổng Dịch vụ công trực tuyến. Hồ sơ phải có xác nhận văn bản đến của cơ quan có thẩm quyền. Nếu gửi qua dịch vụ bưu chính công ích, ngày tiếp nhận hồ sơ được tính theo ngày ghi trên dấu công văn đến."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "30 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày Ủy ban nhân dân cấp xã nhận hồ sơ đầy đủ và hợp pháp.\nNộp hồ sơ trực tiếp tại đơn vị, tổ chức do Chủ tịch Ủy ban nhân dân cấp xã phân công; qua dịch vụ bưu chính công ích hoặc qua Cổng Dịch vụ công trực tuyến. Hồ sơ phải có xác nhận văn bản đến của cơ quan có thẩm quyền. Nếu gửi qua dịch vụ bưu chính công ích, ngày tiếp nhận hồ sơ được tính theo ngày ghi trên dấu công văn đến."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "- Đơn đề nghị công nhận ban vận động thành lập hội (theo mẫu)",
+      "mẫu đơn, tờ khai": "Mauso03.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Danh sách và trích ngang (bản gốc) của những người dự kiến trong ban vận động thành lập hội và tài liệu liên quan (bản chính)",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Sơ yếu lý lịch cá nhân (theo mẫu) và Phiếu lý lịch tư pháp số 1 (bản chính) của các thành viên ban vận động thành lập hội không quá 06 tháng tính đến ngày nộp hồ sơ; nếu thành viên ban vận động thành lập hội là cán bộ, công chức, viên chức được cơ quan có thẩm quyền đồng ý cho tham gia ban vận động thành lập hội bằng văn bản theo quy định về phân cấp quản lý cán bộ thì không phải nộp Phiếu lý lịch tư pháp số 1",
+      "mẫu đơn, tờ khai": "Mauso17.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Ý kiến đồng ý của cơ quan có thẩm quyền theo quy định về phân cấp quản lý cán bộ đối với cán bộ, công chức, viên chức tham gia ban vận động thành lập hội (bản chính)",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Ủy ban nhân dân cấp xã.",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định công nhận ban vận động thành lập hội",
+  "yeu_cau_dieu_kien": "a) Trưởng ban vận động thành lập hội là người có phẩm chất chính trị, đạo đức tốt, có kinh nghiệm, có uy tín, am hiểu trong lĩnh vực hội dự kiến hoạt động và sống thường trú tại Việt Nam;\nThành viên ban vận động thành lập hội là cán bộ, công chức, viên chức phải được sự đồng ý cho tham gia ban vận động thành lập hội bằng văn bản của cơ quan có thẩm quyền theo quy định về phân cấp quản lý cán bộ.\nThành viên ban vận động thành lập hội là tổ chức, công dân Việt Nam tâm huyết, trách nhiệm, hoạt động trong lĩnh vực hội dự kiến hoạt động hoặc có liên quan đến lĩnh vực hội dự kiến hoạt động. Các thành viên ban vận động thành lập hội phải đảm bảo các điều kiện sau:\n- Đối với tổ chức:\nĐược thành lập hợp pháp, có điều lệ hoặc văn bản quy định chức năng, nhiệm vụ của tổ chức; có đơn tham gia ban vận động thành lập hội.\nCó nghị quyết của tập thể lãnh đạo hoặc quyết định của người đứng đầu có thẩm quyền về việc tham gia ban vận động thành lập hội và cử người đại diện tham gia thành viên ban vận động thành lập hội. Người được cử làm đại diện là công dân Việt Nam, có đầy đủ năng lực hành vi dân sự, đảm bảo sức khỏe và không có án tích.\n- Đối với công dân: có đơn tham gia ban vận động thành lập hội, có đầy đủ năng lực hành vi dân sự, đảm bảo sức khỏe và không có án tích. \nb) Đối với hội có phạm vi hoạt động trong xã, ban vận động thành lập hội phải có ít nhất ba thành viên.\nc) Ban vận động thành lập hội tự giải thể khi đại hội bầu ra Ban chấp hành của hội.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

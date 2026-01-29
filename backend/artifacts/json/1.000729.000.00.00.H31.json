@@ -1,0 +1,71 @@
+{
+  "ma_thu_tuc": "1.000729.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=168612",
+  "so_quyet_dinh": "1687/QĐ-UBND",
+  "ten_thu_tuc": "Xếp hạng Trung tâm giáo dục thường xuyên",
+  "cap_thuc_hien": "Cấp Tỉnh",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Giáo dục và Đào tạo thuộc hệ thống giáo dục quốc dân",
+  "trinh_tu_thuc_hien": "Giám đốc Trung tâm giáo dục thường xuyên hoàn tất hồ sơ và họp tổ chức tự đánh giá xếp hạng;\nSở giáo dục và đào tạo tiếp nhận hồ sơ đề nghị xếp hạng của trung tâm giáo dục thường xuyên, chủ trì phối hợp với sở nội vụ tổ chức thẩm định; trình Chủ tịch Uỷ ban nhân dân cấp tỉnh quyết định xếp hạng trung tâm giáo dục thường xuyên.\nTrong thời hạn 30 ngày làm việc kể từ ngày nhận hồ sơ hợp lệ của trung tâm giáo dục thường xuyên, sở giáo dục và đào tạo phải hoàn tất các thủ tục trình Chủ tịch Uỷ ban nhân dân cấp tỉnh quyết định xếp hạng trung tâm giáo dục thường xuyên.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "30 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "Trong thời hạn 30 ngày làm việc kể từ ngày nhận hồ sơ hợp lệ"
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "30 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "Trong thời hạn 30 ngày làm việc kể từ ngày nhận hồ sơ hợp lệ"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Tờ trình đề nghị xếp hạng của trung tâm giáo dục thường xuyên;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Quyết định thành lập trung tâm giáo dục thường xuyên;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Bản báo cáo kết quả hoạt động và hiệu quả hoạt động của trung tâm giáo dục thường xuyên trong thời gian 3 năm liên tục tính đến thời điểm đề nghị xếp hạng;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Bảng tự đánh giá tính điểm theo tiêu chí xếp hạng của trung tâm giáo dục thường xuyên (trung tâm giáo dục thường xuyên cấp tỉnh theo Phụ lục I, trung tâm giáo dục thường xuyên cấp huyện theo Phụ lục II);",
+      "mẫu đơn, tờ khai": "Phuluc.doc",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Số liệu thống kê số lượng học viên theo học các chương trình trong 3 năm liên tục tính đến thời điểm đề nghị xếp hạng;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Danh sách cán bộ, giáo viên, viên chức trong biên chế và giáo viên hợp đồng kèm theo trình độ đào tạo, trình độ ngoại ngữ-tin học;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Số liệu thống kê chi tiết về diện tích đất đai, cơ sở vật chất, thiết bị dạy học",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Sở Giáo dục và Đào tạo",
+  "co_quan_co_tham_quyen": "Chủ tịch ủy ban nhân dân cấp tỉnh",
+  "dia_chi_tiep_nhan": "Sở giáo dục và đào tạo",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Sở Nội vụ",
+  "ket_qua_thuc_hien": "Quyết định xếp hạng trung tâm giáo dục thường xuyên",
+  "yeu_cau_dieu_kien": "Việc xếp hạng trung tâm giáo dục thường xuyên căn cứ theo các nhóm tiêu chí sau:\n- Quy mô người học;\n- Cơ cấu tổ chức và đội ngũ cán bộ, giáo viên;\n- Cơ sở vật chất, thiết bị dạy học;\n- Chất lượng giáo dục, đào tạo và hiệu quả hoạt động.\nTiêu chí cụ thể và bảng tính điểm được quy định như sau:\nTIÊU CHÍ VÀ BẢNG ĐIỂM XẾP HẠNG\nTRUNG TÂM GIÁO DỤC THƯỜNG XUYÊN CẤP TỈNH \nMục\nTên tiêu chí\nĐiểm tối đa\nA.\nNhóm tiêu chí I: Quy mô học viên (HV) theo học các chương trình giáo dục thường xuyên\n40 điểm\n1.\nQuy mô HV của các chương trình liên kết đào tạo lấy văn bằng tốt nghiệp đại học, cao đẳng, trung cấp chuyên nghiệp:\nTối thiểu có 200 HV được tính 01 điểm; tiếp theo, cứ thêm 50 HV được cộng thêm 01 điểm.\n10 điểm\n2\nQuy mô HV Bổ túc trung học phổ thông:\nTối thiểu có 200 HV được tính 01 điểm; tiếp theo, cứ thêm 100 HV được cộng thêm 01 điểm.\n5 điểm\n3\nQuy mô HV học các lớp bồi dưỡng chuyên môn nghiệp vụ, chuyển giao khoa học kỹ thuật, dạy nghề ngắn hạn, bồi dưỡng văn  hoá:\nTối thiểu có 300 lượt HV được tính 01 điểm; tiếp theo, cứ thêm 100 lượt HV được cộng thêm 01 điểm.\n15 điểm\n4\nQuy mô HV học ngoại ngữ, tin học, công nghệ thông tin truyền thông, tiếng dân tộc thiểu số:\nTối thiểu có 100 HV được tính 01 điểm; tiếp theo, cứ thêm 50 HV được cộng thêm 01 điểm.\n10 điểm\nB.\nNhóm tiêu chí II: Cơ cấu tổ chức và đội ngũ cán bộ, giáo viên\n20 điểm\n1.\nCơ cấu tổ chức bộ máy:\n- Ban giám đốc chỉ có 1 người được tính 01 điểm. Ban giám đốc có 2 người trở lên được tính 02 điểm.\n- Tối thiểu có 2 phòng chuyên môn, nghiệp vụ và tương đương được tính 01 điểm. Có từ 3 phòng chuyên môn, nghiệp vụ và tương đương trở lên được tính 02 điểm.\n4 điểm\n2.\nĐội ngũ cán bộ, giáo viên:\n- Số cán bộ, giáo viên cơ hữu và hợp đồng dài hạn: (06 điểm)\n Tối thiểu có 15 người được tính 01 điểm; tiếp theo, cứ thêm 2 người được cộng thêm 01 điểm.\n12 điểm\n- Cơ cấu đội ngũ giáo viên: (03 điểm)\nCó giáo viên của 4-6 môn học bắt buộc của Chương trình giáo dục thường xuyên cấp trung học phổ thông: 01 điểm. Có giáo viên của 7 môn học bắt buộc: 02 điểm. Có giáo viên ngoại ngữ, tin học, công nghệ thông tin được cộng thêm 01 điểm.\n- Trình độ chuyên môn của đội ngũ cán bộ, giáo viên: (03 điểm) Tối thiểu có 80% cỏn bộ quản lý, giáo viên cú trình độ từ đại học trở lên được tính 01 điểm; tiếp theo, cứ thêm 5% thì được cộng thêm 0,5 điểm.\n 3\nTrình độ ngoại ngữ:\n- Dưới 40% cán bộ quản lý, giáo viên có trình độ ngoại ngữ A trở lên: 0 điểm.\n- Có từ 40%-69% cán bộ quản lý, giáo viên có trình độ ngoại ngữ A trở lên được tính 01 điểm.\n- Có từ 70% trở lên cán bộ quản lý, giáo viên có trình độ ngoại ngữ A trở lên được tính 02 điểm.\n2 điểm\n4\nTrình độ tin học:\n- Dưới 50% cán bộ quản lý, giáo viên có trình độ tin học A trở lên: 0 điểm. \n- Có từ 50%-79% cán bộ quản lý, giáo viên có trình độ tin học A trở lên được tính 01 điểm.\n- Có từ 80% trở lên cán bộ quản lý, giáo viên có trình độ tin học A trở lên được tính 02 điểm. \n2 điểm\nC.\nNhóm tiêu chí III: Cơ sở vật chất, thiết bị dạy học\n25 điểm\n1\n Diện tích đất sử dụng:\nCó tối thiểu 1500 m2 được tính 01 điểm; tiếp theo, cứ thêm\n500 m2 được cộng thêm 01 điểm.\n7 điểm\n2\n Phòng học:\n- Tối thiểu có 7 phòng học kiên cố được tính 01 điểm; tiếp theo, cứ thêm 1 phòng học kiên cố được cộng thêm 01 điểm.\n- Trường hợp không có phòng học kiên cố thì cách tính điểm như sau:\nTối thiểu có 10 phòng học không kiên cố được tính 01 điểm; tiếp theo, cứ thêm 1 phòng ọc không kiên cố được tính 01 điểm; tối đa không quá 04 điểm.\n 10 điểm\n3\nNhà điều hành:\n- Có phòng họp Hội đồng: 01 điểm.\n- Có phòng làm việc của Giám đốc, Phó Giám đốc: 01 điểm.\n- Có phòng làm việc của kế toán, thủ quỹ, văn thư: 01 điểm.\n3 điểm\n4\nPhòng thí nghiệm và thiết bị dạy học:\n- Có phòng thí nghiệm hoặc phòng học tin học: 01 điểm.\n- Có thiết bị dạy học của các lớp 10, 11, 12: 01 điểm.\n- Có thiết bị dạy nghề phổ thông, nghề ngắn hạn: 01điểm\n3 điểm\n5\nPhòng thư viện:\n- Có phòng thư viện với diện tích tối thiểu 50 m2 : 01 điểm.\n- Có 1000 đầu sách các loại trở lên: 01 điểm.\n2 điểm\nD.\nNhóm tiêu chí IV: Chất lượng giáo dục đào tạo và hiệu quả hoạt động\n15 điểm\n1\nChất lượng giáo dục, đào tạo:\nĐược địa phương đánh giá:\n- Tốt: 10 điểm.\n- Khá: 07 điểm.\n- Trung bình: 05 điểm.\n- Yếu: 0 điểm.\n10 điểm\n2\nĐa dạng hoá nội dung chương trình giáo dục và hình thức học, đáp ứng nhu cầu học tập đa dạng của mọi tầng lớp nhân dân trong địa bàn, góp phần đào tạo nguồn nhân lực phục vụ kế hoạch phát triển kinh tế-xã hội của địa phương.\nĐược địa phương đánh giá:\n- Tốt: 05  điểm.\n- Khá: 04 điểm.\n- Trung bình: 02 điểm.\n- Yếu: 0 điểm.\n5 điểm\nTIÊU CHÍ VÀ BẢNG ĐIỂM XẾP HẠNG\nTRUNG TÂM GIÁO DỤC THƯỜNG XUYÊN CẤP HUYỆN\nMục\nTên tiêu chí\nĐiểm tối đa\nA.\nNhóm tiêu chí I: Quy mô học viên (HV) theo học các chương trình giỏo dục thường xuyên\n40 điểm\n1.\nQuy mô HV của các chương trình liên kết đào tạo lấy bằng tốt nghiệp trung cấp chuyên nghiệp:\n Cứ 50 HV được tính 01 điểm.\n5 điểm\n2\nQuy mô của các lớp Bổ túc trung học cơ sở, Bổ túc trung học phổ thông:\nTối thiểu có 300 HV được tính 01 điểm; tiếp theo, cứ thêm 100 HV được cộng thêm 01 điểm.\n10 điểm\n3\nQuy mô HV các lớp bồi dưỡng, cập nhật kiến thức kỹ năng, chuyển giao khoa học kỹ thuật, dạy nghề ngắn hạn, bồi dưỡng văn hoá:\nTối thiểu có 500 lượt HV được tính 01 điểm; tiếp theo, cứ thêm 100 lượt HV được cộng thêm 01 điểm.\n15 điểm\n4\nQuy mô HV của các lớp xoá mù chữ và giáo dục tiếp tục sau khi biết chữ:\nTối thiểu có 20 HV được tính 01 điểm; tiếp theo, cứ thêm 10 HV được cộng thêm 01 điểm.\n5 điểm\n5\nQuy mô HV học ngoại ngữ, tin học, công nghệ thông tin truyền thông, tiếng dân tộc thiểu số:\nTối thiểu có 100 HV được tính 01 điểm; tiếp theo, cứ thêm 50 HV được cộng thêm 01 điểm.\n5 điểm\nB.\nNhóm tiêu chí II: Cơ cấu tổ chức và đội ngũ cán bộ, giáo viên\n20 điểm\n1\nCơ cấu tổ chức bộ máy:\n- Ban giám đốc chỉ có 1 người được tính 01 điểm. Ban giám đốc có 2 người trở lên được tính 02 điểm.\n- Tối thiểu có 2 phòng chuyên môn, nghiệp vụ và tương đương được tính 01 điểm. Có từ 3 phòng chuyên môn, nghiệp vụ và tương đương  trở  lên được tính 02 điểm.\n4 điểm\n2\nĐội ngũ cán bộ, giáo viên:\n- Số cán bộ, giáo viên cơ hữu và hợp đồng dài hạn: (06 điểm)\nTối thiểu có 10 người được tính 01 điểm; tiếp theo, cứ thêm 2 người được cộng thêm 01 điểm.\n- Cơ cấu đội ngũ giáo viên: (03 điểm)\n Có giáo viên của 4-6 môn học bắt buộc của Chương trình giáo dục thường xuyên cấp trung học phổ thông: 01 điểm. Có giáo\nviên của 7 môn học bắt buộc: 02 điểm. Có giáo viên ngoại ngữ, tin học, công nghệ thông tin: 01 điểm.\n-Trình độ chuyên môn của đội ngũ cỏn bộ, giáo viên: (03 điểm)\n Tối thiểu có 60% cán bộ quản lý, giáo viên có trình độ từ đại học trở lên được tính 01 điểm; tiếp theo, cứ thêm 10% được cộng thêm 0,5 điểm.\n12 điểm \n3\nTrình độ ngoại ngữ:\n- Dưới 30% cán bộ quản lý, giáo viên có trình độ ngoại ngữ A trở lên: 0 điểm.\n- Có từ 30%-49% cán bộ quản lý, giáo viên có trình độ ngoại ngữ A trở lên được tính 01 điểm.\n- Có từ 50% trở lên cán bộ quản lý, giáo viên có trình độ ngoại ngữ A trở lên được tính 02 điểm.\n2 điểm\n4\nTrình độ tin học:\n- Dưới 40% cán bộ quản lý, giáo viên có trình độ tin học A trở lên: 0 điểm. \n- Có từ 40%-69% cán bộ quản lý, giáo viên có trình độ tin học A trở lên được tính 01 điểm.\n- Có từ 70%  trở lên cán bộ quản lý, giáo viên có trình độ tin học A trở lên được tính 02 điểm.\n2 điểm\nC.\nNhóm tiêu chí III: Cơ sở vật chất, thiết bị dạy học\n25 điểm\n1\n Diện tích đất sử dụng:\nCó tối thiểu 1000 m2 được tính 01 điểm; tiếp theo, cứ thêm 300 m2 được cộng thêm 01 điểm.\n7 điểm\n2\n Phũng học:\n- Tối thiểu có 5 phòng học kiên cố được tính 01 điểm; tiếp theo, cứ thêm 1 phòng học kiên cố được cộng thêm 01 điểm.\n- Trường hợp không có phòng học kiên cố thì cách tính điểm như sau:\nTối thiểu có 8 phòng học không kiên cố được tính 01 điểm; tiếp theo, cứ thêm 1 phòng học không kiên cố được tính 01 điểm; tối đa không quá 04 điểm.\n10 điểm\n3\nNhà điều hành:\n- Có phòng họp Hội đồng: 01 điểm.\n- Có phòng làm việc của Giám đốc, Phó Giám đốc: 01 điểm.\n- Có phòng làm việc của kế toán, thủ quỹ, văn thư: 01 điểm.\n3 điểm\n4\nPhòng thí nghiệm và thiết bị dạy học:\n- Có phòng thí nghiệm hoặc phòng học tin học: 01 điểm.\n- Có thiết bị dạy học của các lớp 10, 11, 12: 01 điểm.\n- Có thiết bị dạy nghề phổ thông, nghề ngắn hạn: 01 điểm\n3 điểm\n5\nPhòng thư viện:\n- Có phòng thư viện với diện tích tối thiểu 50 m2: 01 điểm.\n- Có 500 đầu sách các loại trở lên: 01 điểm.\n2 điểm\nD.\nNhóm tiêu chí IV: Chất lượng giáo dục, đào tạo và hiệu quả hoạt động\n15 điểm\n1\nChất lượng giáo dục, đào tạo:\nĐược địa phương đánh giá:\n- Tốt: 07 điểm.\n- Khá: 05 điểm.\n- Trung bình: 03 điểm.\n- Yếu: 0 điểm.\n7 điểm\n2\nĐa dạng hoá nội dung chương trình giáo dục, hình thức học, đáp ứng nhu cầu học tập đa dạng của mọi tầng lớp nhân dân trong địa bàn, góp phần đào tạo nguồn nhân lực phục vụ kế hoạch phát triển kinh tế-xã hội của địa phương.\nĐược địa phương đánh giá:\n- Tốt: 05 điểm.\n- Khá: 04 điểm.\n- Trung bình: 02 điểm.\n- Yếu: 0 điểm.\n5 điểm\n3\nHỗ trợ có hiệu quả hoạt động của trung tâm học tập cộng đồng được: 03 điểm\n3 điểm\nThang điểm xếp hạng trung tâm giáo dục thường xuyên: 100 điểm. Điểm của từng tiêu chí được làm tròn đến hàng đơn vị.\nĐối với trung tâm giáo dục thường xuyên cấp tỉnh:\n- Hạng ba: đạt số điểm từ 90 điểm trở lên.\n- Hạng bèn: đạt số điểm từ 70 đến 89 điểm.\n- Hạng năm: dưới 70 điểm.\nĐối với trung tâm giáo dục thường xuyên cấp huyện:\n- Hạng năm: đạt số điểm từ 90 điểm trở lên.\n- Hạng sáu: đạt số điểm từ 70 đến 89 điểm.\n- Hạng bảy: dưới 70 điểm.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

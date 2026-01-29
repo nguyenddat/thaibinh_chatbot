@@ -1,0 +1,67 @@
+{
+  "ma_thu_tuc": "1.013061.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1660/QĐ-UBND",
+  "ten_thu_tuc": "Cấp giấy phép thi công công trình trên đường bộ đang khai thác",
+  "cap_thuc_hien": "Cấp Bộ, Cấp Tỉnh, Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Đường bộ",
+  "trinh_tu_thuc_hien": "a) Nộp hồ sơ TTHC:\n- Chủ đầu tư dự án xây dựng công trình trên đường bộ đang khai thác gửi hồ sơ đề nghị đến cơ quan có thẩm quyền (Khu Quản lý đường bộ, Sở Xây dựng Uỷ ban nhân dân cấp huyện, Uỷ ban nhân dân cấp xã thuộc phạm vi quản lý).\nb) Giải quyết TTHC:\n- Đối với hồ sơ nộp trực tiếp, cơ quan có thẩm quyền thực hiện kiểm tra thành phần hồ sơ, nếu đủ thì tiếp nhận và viết phiếu hẹn trả kết quả, nếu không đủ thì hướng dẫn chủ đầu tư hoàn thiện hồ sơ theo quy định;\n- Đối với hồ sơ nộp gián tiếp, trong thời hạn 02 ngày làm việc kể từ ngày nhận được hồ sơ, cơ quan có thẩm quyền kiểm tra thành phần hồ sơ, nếu đủ thì tiếp nhận, nếu không đủ, có văn bản thông báo đến tổ chức, cá nhân để bổ sung, hoàn thiện;\n- Trong thời hạn 07 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định, cơ quan có thẩm quyền tiến hành xem xét hồ sơ, nếu đủ điều kiện thì cấp giấy phép thi công, trường hợp không cấp phép thì phải có văn bản trả lời và nêu rõ lý do.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "07 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Trong thời hạn 07 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định"
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "07 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Trong thời hạn 07 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định"
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "07 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Trong thời hạn 07 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Bản vẽ thiết kế thi công có các thông tin về vị trí và lý trình công trình đường bộ, bản vẽ phải thể hiện: diện tích, kích thước công trình trên mặt bằng công trình đường bộ và trong phạm vi đất dành cho đường bộ; mặt đứng và khoảng cách theo phương thẳng đứng từ công trình bên trên hoặc bên dưới đến bề mặt công trình đường bộ, khoảng cách theo phương ngang từ cột, tuyến đường dây, đường ống, bộ phận khác của công trình đề nghị cấp phép đến mép ngoài rãnh thoát nước dọc, mép mặt đường xe chạy hoặc mép ngoài cùng của mặt đường bộ; bộ phận công trình đường bộ phải đào, khoan khi xây dựng công trình",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Đối với công trình đề nghị cấp giấy phép thi công trong phạm vi dải phân cách giữa của đường bộ, ngoài Bản vẽ thiết kế thi công phải có thông tin về khoảng cách theo phương thẳng đứng, phương ngang từ mép công trình đề nghị cấp phép đến bề mặt và mép ngoài dải phân cách giữa",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Đối với công trình đề nghị cấp giấy phép thi công lắp đặt vào cầu, hầm hoặc các công trình đường bộ có kết cấu phức tạp khác thì ngoài Bản vẽ thiết kế thi công phải có báo cáo kết quả thẩm tra thiết kế và kết quả tính toán khả năng chịu lực của công trình đường bộ do tổ chức tư vấn đủ năng lực theo quy định của pháp luật về xây dựng thực hiện",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Bản vẽ thiết kế hoàn trả công trình đường bộ bị ảnh hưởng; bản vẽ và thuyết minh: biện pháp tổ chức thi công, biện pháp bảo đảm giao thông trong thời gian thi công trên đường bộ đang khai thác",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Đơn đề nghị cấp phép thi công công trình trên đường bộ đang khai thác",
+      "mẫu đơn, tờ khai": "Mu.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Khu Quản lý đường bộ, Sở Xây dựng, Ủy ban nhân dân cấp xã, Ủy ban nhân dân cấp Huyện",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Trung tâm Phục vụ hành chính công và Kiểm soát thủ tục hành chính, số 02 Chùa Chuông, TP. Hưng Yên, tỉnh Hưng Yên + Nộp hồ sơ: Điểm tiếp nhận hồ sơ: Sở Xây dựng + Nhận kết quả: Điểm trả kết quả tập trung",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Giấy phép thi công công trình trên đường bộ đang khai thác",
+  "yeu_cau_dieu_kien": "- Đảm bảo các yêu cầu về kỹ thuật, an toàn giao thông và không thuộc các trường hợp không phải cấp giấy phép thi công theo quy định tại khoản 3 Điều 32 Thông tư số 41/2024/TT-BGTVT ngày 15/11/2024 của Bộ trưởng Bộ Giao thông vận tải quy định về quản lý, vận hành, khai thác và bảo trì kết cấu hạ tầng đường bộ.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

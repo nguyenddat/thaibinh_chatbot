@@ -1,0 +1,62 @@
+{
+  "ma_thu_tuc": "1.013708.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1475/QĐ-UBND",
+  "ten_thu_tuc": "Hội tự giải thể",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Quản lý nhà nước về hội, quỹ",
+  "trinh_tu_thuc_hien": "- Bước 1: Ban chấp hành hội gửi hồ sơ xin giải thể hội đến Ủy ban nhân dân cấp xã.\n- Bước 2: Cán bộ tiếp nhận hồ sơ xem xét hồ sơ và đề nghị bổ sung trong trường hợp hồ sơ chưa đầy đủ và hợp pháp. Trường hợp từ chối tiếp nhận, giải quyết hồ sơ phải nêu rõ lý do.\n- Bước 3: Kể từ ngày nhận hồ sơ đầy đủ và hợp pháp, cán bộ tiếp nhận hồ sơ nghiên cứu, thẩm định hồ sơ và thực hiện quy trình lấy ý kiến các cơ quan có liên quan, tổng hợp các ý kiến góp ý, đề nghị bổ sung hồ sơ (nếu có).\n- Bước 4: Chủ tịch Ủy ban nhân dân cấp xã xem xét, quyết định việc giải thể hội. Trường hợp không đồng ý phải có văn bản trả lời và nêu rõ lý do.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "45 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày Ủy ban nhân dân cấp xã nhận hồ sơ đầy đủ và hợp pháp.\nNộp hồ sơ trực tiếp tại Ủy ban nhân dân cấp xã; qua dịch vụ bưu chính công ích hoặc qua Cổng Dịch vụ công trực tuyến trực tuyến. Hồ sơ phải có xác nhận văn bản đến của cơ quan có thẩm quyền. Nếu gửi qua dịch vụ bưu chính công ích, ngày tiếp nhận hồ sơ được tính theo ngày ghi trên dấu công văn đến."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "45 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày Ủy ban nhân dân cấp xã nhận hồ sơ đầy đủ và hợp pháp.\nNộp hồ sơ trực tiếp tại Ủy ban nhân dân cấp xã; qua dịch vụ bưu chính công ích hoặc qua Cổng Dịch vụ công trực tuyến trực tuyến. Hồ sơ phải có xác nhận văn bản đến của cơ quan có thẩm quyền. Nếu gửi qua dịch vụ bưu chính công ích, ngày tiếp nhận hồ sơ được tính theo ngày ghi trên dấu công văn đến."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "45 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày Ủy ban nhân dân cấp xã nhận hồ sơ đầy đủ và hợp pháp.\nNộp hồ sơ trực tiếp tại Ủy ban nhân dân cấp xã; qua dịch vụ bưu chính công ích hoặc qua Cổng Dịch vụ công trực tuyến trực tuyến. Hồ sơ phải có xác nhận văn bản đến của cơ quan có thẩm quyền. Nếu gửi qua dịch vụ bưu chính công ích, ngày tiếp nhận hồ sơ được tính theo ngày ghi trên dấu công văn đến."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "- Đơn đề nghị giải thể hội (theo mẫu),",
+      "mẫu đơn, tờ khai": "Mauso14.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Biên bản có chữ ký của trên 1/2 tổng số hội viên chính thức hoặc nghị quyết của ban chấp hành hội về việc giải thể hội,",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Bản kê tài sản, tài chính,",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Dự kiến phương thức xử lý tài sản, tài chính và thời hạn thanh toán các khoản nợ,",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Ủy ban nhân dân cấp xã.",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định giải thể hội",
+  "yeu_cau_dieu_kien": "a) Hội thông báo thời hạn thanh toán nợ (nếu có) cho các tổ chức, cá nhân có liên quan theo quy định của pháp luật tại trụ sở của hội, văn phòng đại diện (nếu có) trong thời gian 30 ngày làm việc.\nb) Hoàn thành thanh toán nợ và thanh lý tài sản, tài chính ghi trong thông báo của hội khi xin giải thể mà không có đơn khiếu nại.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

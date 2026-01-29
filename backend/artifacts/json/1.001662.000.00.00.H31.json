@@ -1,0 +1,40 @@
+{
+  "ma_thu_tuc": "1.001662.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1605/QĐ-UBND",
+  "ten_thu_tuc": "Đăng ký khai thác nước dưới đất",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Tài nguyên nước",
+  "trinh_tu_thuc_hien": "- Bước 1: Nộp hồ sơ:\nTổ chức, cá nhân nộp 02 tờ khai cho Ủy ban nhân dân cấp huyện hoặc Ủy ban nhân dân cấp xã. Trường hợp tổ chức, cá nhân nộp cho Ủy ban nhân dân cấp xã thì Ủy ban nhân dân cấp xã có trách nhiệm nộp tờ khai cho Ủy ban nhân dân cấp huyện. \nTrường hợp chưa có công trình khai thác nước dưới đất, tổ chức, cá nhân phải thực hiện việc đăng ký trước khi xây dựng công trình.\n- Bước 2: Kiểm tra, xác nhận tờ khai:\nKể từ ngày nhận được tờ khai của tổ chức, cá nhân, Ủy ban nhân dân cấp huyện có trách nhiệm kiểm tra nội dung thông tin, xác nhận vào tờ khai và gửi 01 bản cho tổ chức, cá nhân.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "14 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "Tổ chức, cá nhân nộp 02 tờ khai cho Ủy ban nhân dân cấp huyện hoặc Ủy ban nhân dân cấp xã."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Tờ khai đăng ký công trình khai thác nước dưới đất (đối với trường hợp sử dụng nước dưới đất tự chảy trong moong khai thác khoáng sát để tuyển quặng, bơm hút nước để tháo khô mỏ) theo Mẫu 14 tại Phụ lục I kèm theo Nghị định số 23/2026/NĐ-CP",
+      "mẫu đơn, tờ khai": "Mau14.doc",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Tờ khai đăng ký công trình khai thác nước dưới đất (đối với trường hợp khai thác cho các mục đích với quy mô không vượt quá 10m3/ngày đêm, trừ hộ gia đình khia thác nước dưới đất để dùng cho sinh hoạt của mình) theo Mẫu 13 tại Phụ lục I kèm theo Nghị định số 23/2026/NĐ-CP",
+      "mẫu đơn, tờ khai": "Mu13.doc",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Ủy ban nhân dân cấp Huyện",
+  "co_quan_co_tham_quyen": "Ủy ban nhân dân cấp Huyện",
+  "dia_chi_tiep_nhan": "Bộ phận tiếp nhận và trả kết quả giải quyết TTHC cấp huyện",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Kết quả của thủ tục Đăng ký khai thác nước dưới đất theo Mẫu 34a và Mẫu 34b tại Phụ lục I kèm theo Nghị định số 23/2026/NĐ-CP.",
+  "yeu_cau_dieu_kien": "Không quy định",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

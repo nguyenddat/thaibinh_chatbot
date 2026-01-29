@@ -1,0 +1,52 @@
+{
+  "ma_thu_tuc": "1.013836.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=392543",
+  "so_quyet_dinh": "1567/QĐ-UBND",
+  "ten_thu_tuc": "Thay đổi nội dung đăng ký hoạt động của Văn phòng công chứng",
+  "cap_thuc_hien": "Cấp Tỉnh",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Công chứng",
+  "trinh_tu_thuc_hien": "- Văn phòng công chứng thuộc trường hợp quy định tại khoản 1 Điều 26 của Luật Công chứng lập 01 bộ hồ sơ theo quy định, nộp trực tiếp hoặc qua dịch vụ bưu chính hoặc trực tuyến trên môi trường điện tử về Sở Tư pháp nơi đăng ký hoạt động.\n- Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp ghi nhận nội dung thay đổi vào giấy đăng ký hoạt động của Văn phòng công chứng; trường hợp từ chối phải thông báo bằng văn bản có nêu rõ lý do.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "05 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "kể từ ngày nhận đủ hồ sơ hợp lệ; trường hợp từ chối phải thông báo bằng văn bản có nêu rõ lý do."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "05 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "kể từ ngày nhận đủ hồ sơ hợp lệ; trường hợp từ chối phải thông báo bằng văn bản có nêu rõ lý do."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "05 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "kể từ ngày nhận đủ hồ sơ hợp lệ; trường hợp từ chối phải thông báo bằng văn bản có nêu rõ lý do."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Đơn đề nghị thay đổi nội dung đăng ký hoạt động theo mẫu do Bộ trưởng Bộ Tư pháp quy định",
+      "mẫu đơn, tờ khai": "07.DondenghithaydoinoidungDKHDvacapTheCCV.doc",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Bản chính hoặc bản sao có chứng thực hoặc bản sao điện tử giấy tờ chứng minh nội dung đề nghị thay đổi; trường hợp bổ sung công chứng viên hợp danh thì phải có giấy tờ chứng minh đã nộp đủ số vốn góp theo thoả thuận và 02 ảnh 2cm x 3 cm của công chứng viên được bổ sung",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Sở Tư pháp",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Không có thông tin",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Giấy đăng ký hoạt động Văn phòng công chứng được cấp lại hoặc được ghi nhận nội dung thay đổi",
+  "yeu_cau_dieu_kien": "Không",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

@@ -1,0 +1,57 @@
+{
+  "ma_thu_tuc": "1.000138.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=131013",
+  "so_quyet_dinh": "1535/QĐ-UBND",
+  "ten_thu_tuc": "Chia, tách, sáp nhập trường trung cấp, trung tâm giáo dục nghề nghiệp có vốn đầu tư nước ngoài",
+  "cap_thuc_hien": "Cấp Tỉnh",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Giáo dục nghề nghiệp (G07-LĐ06)",
+  "trinh_tu_thuc_hien": "Bước 1:\n\nTổ chức, cá nhân đề nghị chia, tách, sáp nhập trường trung cấp, trung tâm giáo dục nghề nghiệp có vốn đầu tư nước ngoài gửi hồ sơ đề nghị chia, tách, sáp nhập trường trung cấp, trung tâm giáo dục nghề nghiệp có vốn đầu tư nước ngoài đến Sở Lao động - Thương binh và Xã hội.\nBước 2:\n\n- Trong thời hạn 10 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Lao động - Thương binh và Xã hội thẩm tra hồ sơ và trình Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định chia, tách, sáp nhập trường trung cấp, trung tâm giáo dục nghề nghiệp có vốn đầu tư nước ngoài.\n\n- Trường hợp hồ sơ đề nghị không hợp lệ, trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, Sở Lao động - Thương binh và Xã hội có văn bản trả lời tổ chức, cá nhân đề nghị chia, tách, sáp nhập trường trung cấp, trung tâm giáo dục nghề nghiệp và nêu rõ lý do.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "10 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Nộp hồ sơ trực tiếp hoặc qua cổng dịch vụ công trực tuyến hoặc bưu điện."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "10 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Nộp hồ sơ trực tiếp hoặc qua cổng dịch vụ công trực tuyến hoặc bưu điện."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "10 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Nộp hồ sơ trực tiếp hoặc qua cổng dịch vụ công trực tuyến hoặc bưu điện."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "a) Văn bản đề nghị chia, tách, sáp nhập cơ sở giáo dục nghề nghiệp có vốn đầu tư nước ngoài của tổ chức, cá nhân sở hữu hoặc đại diện hợp pháp của những người góp vốn thành lập theo Mẫu 2C Phụ lục IX kèm theo Nghị định 142/2025/NĐ-CP;",
+      "mẫu đơn, tờ khai": "Mu2C_PL9.doc",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "c) Biên bản họp của các bên góp vốn hoặc liên doanh về việc chia, tách, sáp nhập cơ sở giáo dục nghề nghiệp có vốn đầu tư nước ngoài;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "d) Hợp đồng sáp nhập do người đại diện theo pháp luật của các cơ sở giáo dục nghề nghiệp có vốn đầu tư nước ngoài cùng ký kết. Hợp đồng phải có nội dung chủ yếu sau: Thông tin về cơ sở giáo dục nghề nghiệp sáp nhập, bị sáp nhập, thủ tục và điều kiện sáp nhập; phương án đối với người học, nhà giáo, cán bộ quản lý, nhân viên và người lao động; thời hạn, thủ tục và điều kiện chuyển đổi tài sản, chuyển đổi phần vốn góp của cơ sở giáo dục nghề nghiệp bị sáp nhập thành phần vốn góp của cơ sở giáo dục nghề nghiệp nhận sáp nhập; thời hạn thực hiện sáp nhập.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Cơ quan chức năng do Ủy ban nhân dân cấp tỉnh chỉ định",
+  "co_quan_co_tham_quyen": "Sở Giáo dục và Đào tạo",
+  "dia_chi_tiep_nhan": "Trung tâm Phục vụ hành chính công và Kiểm soát thủ tục hành chính tỉnh Hưng Yên, số 02, đường Chùa Chuông, phường Hiến Nam, thành phố Hưng Yên, tỉnh Hưng Yên - Nộp hồ sơ: Điểm tiếp nhận hồ sơ Sở Giáo dục và Đào tạo - Nhận kết quả: Điểm trả kết quả tập trung",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định cho phép chia, tách, sáp nhập trường trung cấp; trung tâm giáo dục nghề nghiệp có vốn đầu tư nước ngoài",
+  "yeu_cau_dieu_kien": "Việc chia, tách, sáp nhập trường trung cấp, trung tâm giáo dục nghề nghiệp có vốn đầu tư nước ngoài phải đảm bảo các nguyên tắc sau:\na) Phù hợp với quy hoạch mạng lưới cơ sở giáo dục nghề nghiệp đã được cơ quan quản lý nhà nước có thẩm quyền phê duyệt.\nb) Bảo đảm quyền lợi của người học, giáo viên, giảng viên, cán bộ quản lý, nhân viên và người lao động.\nc) Cơ sở giáo dục nghề nghiệp mới được hình thành sau quá trình chia, tách, sáp nhập phải đáp ứng đầy đủ các điều kiện quy định tại khoản 1 Điều 64 Phụ lục I kèm theo Nghị định 142/2025/NĐ-CP.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

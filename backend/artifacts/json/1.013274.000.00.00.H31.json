@@ -1,0 +1,70 @@
+{
+  "ma_thu_tuc": "1.013274.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1610/QĐ-UBND",
+  "ten_thu_tuc": "Cấp phép sử dụng tạm thời lòng đường, vỉa hè vào mục đích khác",
+  "cap_thuc_hien": "Cấp Bộ, Cấp Tỉnh, Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Đường bộ",
+  "trinh_tu_thuc_hien": "a) Nộp hồ sơ TTHC:\nTổ chức, cá nhân sử dụng tạm thời lòng đường, vỉa hè vào mục đích khác nộp hồ sơ đề nghị đến cơ quan có thẩm quyền:\n- Khu Quản lý đường bộ thực hiện đối với quốc lộ được giao quản lý, trừ trường hợp thuộc thẩm quyền của Sở Xây dựng;\n- Sở Giao thông vận tải thực hiện đối với đường được giao quản lý, trừ trường hợp thuộc thẩm quyền của Sở Xây dựng;\n- Ủy ban nhân dân cấp huyện, Ủy ban nhân dân cấp xã thực hiện đối với đường được giao quản lý, trừ trường hợp thuộc thẩm quyền của Sở Xây dựng;\n- Sở Xây dựng đối với vỉa hè trong đô thị thuộc phạm vi được giao quản lý.\nb) Giải quyết TTHC:\nCơ quan có thẩm quyền giải quyết thủ tục hành chính thực hiện tiếp nhận, kiểm tra hồ sơ và xử lý như sau:\n- Đối với trường hợp nộp trực tiếp, sau khi kiểm tra thành phần hồ sơ, nếu đúng quy định thì tiếp nhận hồ sơ và viết phiếu hẹn trả kết quả; hướng dẫn tổ chức, cá nhân hoàn thiện hồ sơ đối với trường hợp không đủ thành phần hồ sơ;\n- Đối với trường hợp nộp gián tiếp, trong ngày tiếp nhận hồ sơ đối với đám tang và trong phạm vi 02 ngày làm việc đối với các trường hợp khác kể từ ngày nhận được hồ sơ, kiểm tra thành phần hồ sơ, nếu không đủ thành phần hồ sơ có văn bản thông báo đến tổ chức, cá nhân để bổ sung, hoàn thiện;\n- Trong thời hạn không quá 01 ngày đối với đám tang, không quá 05 ngày làm việc đối với các trường hợp khác, cơ quan có thẩm quyền giải quyết thủ tục hành chính tiến hành kiểm tra nếu đủ điều kiện thì có văn bản cấp phép sử dụng tạm thời lòng đường, vỉa hè vào mục đích khác. Trường hợp không cấp phép thì phải có văn bản trả lời và nêu rõ lý do.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "1 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "01 ngày đối với đám tang"
+    },
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "5 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "05 ngày làm việc đối với các trường hợp khác kể từ khi tiếp nhận hồ sơ"
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "1 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "01 ngày đối với đám tang"
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "5 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "05 ngày làm việc đối với các trường hợp khác kể từ khi tiếp nhận hồ sơ"
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "1 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "01 ngày đối với đám tang"
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "5 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "05 ngày làm việc đối với các trường hợp khác kể từ khi tiếp nhận hồ sơ"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Văn bản đề nghị cấp phép sử dụng tạm thời lòng đường, vỉa hè vào mục đích khác (bản chính) theo mẫu",
+      "mẫu đơn, tờ khai": "Mucb.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Phương án sử dụng tạm thời lòng đường vỉa hè vào mục đích khác, phương án tổ chức giao thông (bản chính hoặc bản sao có chứng thực)",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã",
+  "co_quan_thuc_hien": "Khu Quản lý đường bộ, Sở Xây dựng, Ủy ban nhân dân cấp xã, Ủy ban nhân dân cấp Huyện",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Trung tâm Phục vụ hành chính công và Kiểm soát thủ tục hành chính, số 02 Chùa Chuông, TP. Hưng Yên, tỉnh Hưng Yên + Nộp hồ sơ: Điểm tiếp nhận hồ sơ: Sở Xây dựng + Nhận kết quả: Điểm trả kết quả tập trung",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Giấy phép sử dụng tạm thời lòng đường, vỉa hè phố vào mục đích khác",
+  "yeu_cau_dieu_kien": "Đáp ứng điều kiện quy định tại khoản 1, khoản 2 Điều 21 Nghị định số 165/2024/NĐ-CP ngày 26/12/2024 của Chính phủ quy định chi tiết, hướng dẫn thi hành một số điều của Luật Đường bộ và Điều 77 Luật Trật tự, an toàn giao thông đường bộ",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

@@ -1,0 +1,51 @@
+{
+  "ma_thu_tuc": "1.004941.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=184136",
+  "so_quyet_dinh": "1578/QĐ-UBND",
+  "ten_thu_tuc": "Đăng ký nhận chăm sóc thay thế cho trẻ em đối với cá nhân, người đại diện gia đình nhận chăm sóc thay thế không phải là người thân thích của trẻ em",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Trẻ em",
+  "trinh_tu_thuc_hien": "Cá nhân, người đại diện gia đình có nguyện vọng và đủ điều kiện nhận chăm sóc thay thế làm hồ sơ theo quy định, gửi Ủy ban nhân dân cấp xã nơi cư trú để lập danh sách đăng ký nhận chăm sóc thay thế.\nỦy ban nhân dân cấp xã có trách nhiệm tiếp nhận, lập, lưu trữ danh sách cá nhân, gia đình có nguyện vọng nhận chăm sóc thay thế; hằng quý cập nhật danh sách gửi cơ quan lao động - thương binh và xã hội cấp huyện để thực hiện trách nhiệm điều phối việc lựa chọn cá nhân, gia đình nhận chăm sóc thay thế.\nNgười làm công tác bảo vệ trẻ em cấp xã có trách nhiệm lựa chọn hình thức, cá nhân, gia đình chăm sóc thay thế phù hợp với trẻ em; xác minh điều kiện của cá nhân, gia đình nhận chăm sóc thay thế; cung cấp thông tin về cá nhân, gia đình nhận chăm sóc thay thế cho trẻ em và lấy ý kiến của trẻ em từ đủ 07 tuổi trở lên; lựa chọn, thông báo, cung cấp thông tin, hồ sơ của trẻ em cần chăm sóc thay thế cho cá nhân, gia đình nhận chăm sóc thay thế.\nỦy ban nhân dân cấp xã nơi cư trú của cá nhân, gia đình nhận chăm sóc thay thế có trách nhiệm ban hành quyết định giao, nhận trẻ em cho cá nhân, gia đình nhận chăm sóc thay thế; tổ chức việc giao, nhận trẻ em giữa Ủy ban nhân dân cấp xã và cá nhân, gia đình nhận chăm sóc thay thế trong thời hạn 15 ngày làm việc kể từ ngày ban hành quyết định.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "15 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Trực tiếp hoặc qua đường bưu điện.\t\nTrong thời hạn 15 ngày làm việc kể từ ngày ban hành quyết định, Ủy ban nhân dân cấp xã tổ chức việc giao, nhận trẻ em cho cá nhân, gia đình nhận chăm sóc thay thế."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "15 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Trực tiếp hoặc qua đường bưu điện.\t\nTrong thời hạn 15 ngày làm việc kể từ ngày ban hành quyết định, Ủy ban nhân dân cấp xã tổ chức việc giao, nhận trẻ em cho cá nhân, gia đình nhận chăm sóc thay thế."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Giấy khám sức khỏe trong thời gian 06 tháng tính  đến ngày nộp hồ sơ do cơ quan y tế cấp theo quy định của pháp luật",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Lý lịch tư pháp do cơ quan  có thẩm quyền cấp (đối  với cá nhân, người đại diện gia đình chăm sóc, thay thế là người nước ngoài)",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Đơn đăng ký nhận  chăm sóc  thay thế",
+      "mẫu đơn, tờ khai": "Mus08.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam",
+  "co_quan_thuc_hien": "Ủy ban Nhân dân xã, phường, thị trấn.",
+  "co_quan_co_tham_quyen": "Ủy ban Nhân dân xã, phường, thị trấn.",
+  "dia_chi_tiep_nhan": "Bộ phận tiếp nhận hồ sơ và trả kết quả, Ủy ban nhân dân cấp xã",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định của Chủ tịch Ủy ban nhân dân cấp xã giao, nhận trẻ em cho cá nhân, gia đình nhận chăm sóc thay thế (BYT)",
+  "yeu_cau_dieu_kien": "- Cá nhân, người đại diện gia đình là người cư trú tại Việt Nam; có sức khỏe và có năng lực hành vi dân sự đầy đủ; có tư cách đạo đức tốt; không bị hạn chế một số quyền của cha, mẹ đối với con chưa thành niên; không bị truy cứu trách nhiệm hình sự, xử lý vi phạm hành chính về các hành vi xâm hại trẻ em; không bị kết án về một trong các tội cố ý xâm phạm tính mạng, sức khỏe, nhân phẩm, danh dự của người khác, ngược đãi hoặc hành hạ ông bà, cha mẹ, vợ chồng, con, cháu, người có công nuôi dưỡng mình, dụ dỗ, ép buộc hoặc chứa chấp người chưa thành niên vi phạm pháp luật, mua, bán, đánh tráo, chiếm đoạt trẻ em.\n- Có chỗ ở và điều kiện kinh tế phù hợp, bảo đảm chăm sóc, nuôi dưỡng, giáo dục trẻ em.\n- Tự nguyện nhận chăm sóc trẻ em; có sự đồng thuận giữa các thành viên trong gia đình về việc nhận chăm sóc trẻ em; các thành viên trong gia đình không bị truy cứu trách nhiệm hình sự, xử lý vi phạm hành chính về các hành vi xâm hại trẻ em.\n- Người thân thích nhận trẻ em chăm sóc thay thế phải là người thành niên; các trường hợp khác phải hơn trẻ em từ 20 tuổi trở lên.\n- Cá nhân, người đại diện gia đình là người nước ngoài phải cư trú tại Việt Nam ít nhất 06 tháng và còn thời hạn cư trú tại Việt Nam ít nhất 12 tháng vào thời điểm đăng ký.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

@@ -1,0 +1,41 @@
+{
+  "ma_thu_tuc": "1.010813.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=301710",
+  "so_quyet_dinh": "912/QĐ-UBND",
+  "ten_thu_tuc": "Đưa người có công đối với trường hợp đang được nuôi dưỡng tại cơ sở nuôi dưỡng, điều dưỡng người có công do tỉnh quản lý về nuôi dưỡng tại gia đình",
+  "cap_thuc_hien": "Cấp Tỉnh",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Người có công",
+  "trinh_tu_thuc_hien": "Bước 1: Cá nhân làm đơn đề nghị theo Mẫu số 23 Phụ lục I Nghị định số 131/2021/NĐ-CP ngày 30/12/2021 của Chính phủ gửi Giám đốc cơ sở nuôi dưỡng, điều dưỡng người có công.\n       Bước 2: Giám đốc cơ sở nuôi dưỡng, điều dưỡng người có công trong 05 ngày làm việc có văn bản gửi Sở Nội vụ\n       Bước 3: Sở Nội vụ trong 05 ngày làm việc kể từ ngày nhận đủ giấy tờ, có trách nhiệm ban hành quyết định đưa người có công về gia đình theo Mẫu số 71 Phụ lục I Nghị định số 131/2021/NĐ-CP ngày 30/12/2021 của Chính phủ đối với người có công thuộc Sở quản lý.\n        Trường hợp gia đình người có công ở địa phương khác thì Sở Nội vụ thực hiện di chuyển hồ sơ người có công theo quy định; chỉ đạo cơ sở nuôi dưỡng, điều dưỡng người có công chuyển quyết định và tổ chức đưa người có công về gia đình.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "10 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận đủ hồ sơ theo quy định."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "10 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận đủ hồ sơ theo quy định."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Đơn đề nghị chuyển từ cơ sở nuôi dưỡng người có công về gia đình theo Mẫu số 23 Phụ lục I Nghị định số 131/2021/NĐ-CP.",
+      "mẫu đơn, tờ khai": "Mau so 23.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam",
+  "co_quan_thuc_hien": "Sở Nội vụ",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Cơ sở nuôi dưỡng, điều dưỡng người có công",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định đưa người có công về nuôi dưỡng tại gia đình",
+  "yeu_cau_dieu_kien": "Đưa người có công về nuôi dưỡng tại gia đình đối với những trường hợp đang được nuôi dưỡng tại cơ sở nuôi dưỡng, điều dưỡng người có công do tỉnh quản lý.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

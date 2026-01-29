@@ -21,4 +21,7 @@ class Procedure(BareBaseModel):
     le_phi = Column(JSONB)
     thanh_phan_ho_so = Column(JSONB)
 
+    @staticmethod
+    def get_allowed_fields():
+        return {col.name for col in Procedure.__table__.columns}
 

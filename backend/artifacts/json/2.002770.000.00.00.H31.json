@@ -1,0 +1,57 @@
+{
+  "ma_thu_tuc": "2.002770.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=379961",
+  "so_quyet_dinh": "1100/QĐ-UBND",
+  "ten_thu_tuc": "Xét duyệt học sinh bán trú, học viên bán trú hỗ trợ kinh phí, hỗ trợ gạo",
+  "cap_thuc_hien": "Cấp Xã, Cơ quan khác",
+  "loai_thu_tuc": "TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết",
+  "linh_vuc": "Giáo dục và Đào tạo thuộc hệ thống giáo dục quốc dân",
+  "trinh_tu_thuc_hien": "- Vào đầu năm học, các trường phổ thông dân tộc bán trú, trường phổ thông có học sinh bán trú và cơ sở giáo dục thường xuyên có học viên bán trú tổ chức phổ biến, thông báo rộng rãi, hướng dẫn cho bố, mẹ (hoặc người giám hộ) và học sinh, học viên thuộc đối tượng được hưởng chính sách chuẩn bị hồ sơ theo quy định tại khoản 1 Điều này;\n- Trong thời hạn 15 ngày kể từ ngày trường phổ thông dân tộc bán trú, trường phổ thông có học sinh bán trú và cơ sở giáo dục thường xuyên thông báo, mỗi đối tượng đề nghị được hưởng chính sách nộp 01 bộ hồ sơ theo quy định tại khoản 1 Điều này qua cổng dịch vụ công trực tuyến hoặc bưu chính hoặc trực tiếp cho cơ sở giáo dục (nộp 01 bộ hồ sơ cho 01 lần đầu đề nghị xét hưởng chính sách cho cả cấp học). Trường hợp thuộc hộ nghèo phải nộp bổ sung giấy tờ chứng minh hộ nghèo theo từng năm trong trường hợp cơ quan, tổ chức không thể khai thác được thông tin cư trú của công dân trong Cơ sở dữ liệu quốc gia về dân cư.\n- Cơ sở giáo dục tiếp nhận, kiểm tra thành phần hồ sơ, nếu thành phần hồ sơ nộp là bản chụp chưa có chứng thực của cấp có thẩm quyền, người nhận hồ sơ có trách nhiệm đối chiếu với bản chính, ký xác nhận vào bản chụp để đưa vào hồ sơ. Nếu hồ sơ chưa đầy đủ hoặc chưa đúng quy định thì yêu cầu bổ sung. Trường hợp hồ sơ không bảo đảm yêu cầu, trong thời hạn 05 ngày làm việc kể từ ngày nhận hồ sơ, cơ sở giáo dục gửi thông báo không tiếp nhận hồ sơ và nêu rõ lý do.\n- Sau ngày hết hạn nhận hồ sơ, trong thời hạn 07 ngày làm việc cơ sở giáo dục tổ chức xét duyệt các hồ sơ đủ điều kiện được hưởng chính sách học sinh bán trú, học viên bán trú theo quy định tại khoản 2, khoản 3 Điều 4 Nghị định này. Ngay sau khi có kết quả xét duyệt, cơ sở giáo dục lập và thông báo công khai danh sách học sinh bán trú, học viên bán trú theo Mẫu số 06 quy định tại Phụ lục kèm theo Nghị định này tại trụ sở làm việc trong thời hạn 03 ngày làm việc.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "07 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Nộp hồ sơ trực tiếp, trực tuyến hoặc qua dịch vụ bưu chính công ích."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "07 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Nộp hồ sơ trực tiếp, trực tuyến hoặc qua dịch vụ bưu chính công ích."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "07 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Nộp hồ sơ trực tiếp, trực tuyến hoặc qua dịch vụ bưu chính công ích."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Học sinh, học viên thuộc đối tượng quy định tại khoản 2, khoản 3 Điều 4 Nghị định này nộp Đơn đề nghị hưởng chính sách học sinh bán trú (theo Mẫu số 04)",
+      "mẫu đơn, tờ khai": "Mu04.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Đơn đề nghị hưởng chính sách học viên bán trú (theo Mẫu số 05) quy định tại Phụ lục kèm theo Nghị định này",
+      "mẫu đơn, tờ khai": "Mu05.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Trường hợp học sinh, học viên thuộc hộ nghèo phải nộp bản chụp kèm bản chính để đối chiếu hoặc bản sao có chứng thực Giấy chứng nhận hoặc Giấy xác nhận hộ nghèo do Ủy ban nhân dân cấp xã cấp trong trường hợp cơ quan, tổ chức không thể khai thác được thông tin cư trú của công dân trong Cơ sở dữ liệu quốc gia về dân cư.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam",
+  "co_quan_thuc_hien": "Cơ sở giáo dục",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Cơ sở giáo dục (nhận hồ sơ qua cổng dịch vụ công trực tuyến, dịch vụ bưu chính công ích hoặc bưu chính hoặc trực tiếp tại cơ sở giáo dục) - Nộp hồ sơ: Cơ sở giáo dục - Nhận kết quả: Cơ sở giáo dục",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Thông báo công khai danh sách học sinh bán trú, học viên bán trú",
+  "yeu_cau_dieu_kien": "1. Học sinh bán trú phải đảm bảo một trong các điều kiện sau:\na) Học sinh tiểu học và học sinh trung học cơ sở đang học tại cơ sở giáo dục phổ thông (hoặc điểm trường) thuộc xã khu vực III, khu vực II, khu vực I, xã có thôn đặc biệt khó khăn vùng đồng bào dân tộc thiểu số và miền núi, các xã đặc biệt khó khăn vùng bãi ngang, ven biển và hải đảo, nhà ở xa trường từ 4 km trở lên đối với học sinh tiểu học và từ 7 km trở lên đối với học sinh trung học cơ sở, hoặc địa hình cách trở, giao thông đi lại khó khăn phải qua biển, hồ, sông, suối, qua đèo, núi cao, qua vùng sạt lở đất, đá, thuộc một trong các trường hợp sau:\nBản thân và bố hoặc mẹ hoặc người giám hộ thường trú tại xã, thôn đặc biệt khó khăn;\n\tNgười dân tộc thiểu số thuộc hộ nghèo theo chuẩn nghèo đa chiều theo quy định của Chính phủ mà bản thân và bố hoặc mẹ hoặc người giám hộ thường trú tại xã khu vực II, khu vực I vùng đồng bào dân tộc thiểu số và miền núi.\nb) Học sinh trung học phổ thông đang học tại cơ sở giáo dục phổ thông, nhà ở xa trường từ 10 km trở lên hoặc địa hình cách trở, giao thông đi lại khó khăn phải qua biển, hồ, sông, suối, qua đèo, núi cao, qua vùng sạt lở đất, đá, thuộc một trong các trường hợp sau:\nNgười dân tộc thiểu số mà bản thân và bố hoặc mẹ hoặc người giám hộ thường trú tại xã, thôn đặc biệt khó khăn;\nNgười dân tộc Kinh thuộc hộ nghèo theo chuẩn nghèo đa chiều theo quy định của Chính phủ mà bản thân và bố hoặc mẹ hoặc người giám hộ thường trú tại xã, thôn đặc biệt khó khăn;\nNgười dân tộc thiểu số thuộc hộ nghèo theo chuẩn nghèo đa chiều theo quy định của Chính phủ mà bản thân và bố hoặc mẹ hoặc người giám hộ thường trú tại xã khu vực II, khu vực I vùng đồng bào dân tộc thiểu số và miền núi. \n2. Học viên bán trú đang học tại cơ sở giáo dục thường xuyên mà bản thân và bố hoặc mẹ hoặc người giám hộ thường trú tại xã, thôn đặc biệt khó khăn, nhà ở xa nơi học tập từ 7 km trở lên đối với học viên học chương trình giáo dục thường xuyên cấp trung học cơ sở, 10 km trở lên đối với học viên học chương trình giáo dục thường xuyên cấp trung học phổ thông; hoặc địa hình cách trở, giao thông đi lại khó khăn phải qua biển, hồ, sông, suối, qua đèo, núi cao, qua vùng sạt lở đất, đá thuộc một trong các trường hợp sau: \nLà người dân tộc thiểu số;\nLà người dân tộc Kinh thuộc hộ nghèo theo chuẩn nghèo đa chiều theo quy định của Chính phủ.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

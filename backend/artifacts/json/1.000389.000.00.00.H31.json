@@ -1,0 +1,70 @@
+{
+  "ma_thu_tuc": "1.000389.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=130645",
+  "so_quyet_dinh": "1535/QĐ-UBND",
+  "ten_thu_tuc": "Cấp giấy chứng nhận đăng ký bổ sung hoạt động giáo dục nghề nghiệp đối với trường trung cấp, trung tâm giáo dục nghề nghiệp, trung tâm giáo dục nghề nghiệp - giáo dục thường xuyên và doanh nghiệp",
+  "cap_thuc_hien": "Cấp Tỉnh",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Giáo dục nghề nghiệp (G07-LĐ06)",
+  "trinh_tu_thuc_hien": "Bước 1: Trung tâm giáo dục nghề nghiệp, trường trung cấp, doanh nghiệp gửi hồ sơ đăng ký bổ sung hoạt động giáo dục nghề nghiệp tới Sở Lao động - Thương binh và Xã hội.\nBước 2: Trong thời hạn 10 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Lao động - Thương binh và Xã hội tổ chức kiểm tra các điều kiện bảo đảm hoạt động giáo dục nghề nghiệp.\n\nTrong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ đối với trường hợp đăng ký bổ sung do đổi tên doanh nghiệp, Sở Lao động - Thương binh và Xã hội cấp giấy chứng nhận đăng ký bổ sung cho cơ sở giáo dục đại học.\nBước 3: Sở Lao động - Thương binh và Xã hội cấp giấy chứng nhận đăng ký bổ sung hoạt động giáo dục nghề nghiệp.\n\nTrường hợp không cấp giấy chứng nhận thì trong thời hạn 05 ngày làm việc phải trả lời văn bản và nêu rõ lý do; đối với trường hợp đăng ký bổ sung do đổi tên doanh nghiệp thì trong thời hạn 02 ngày làm việc phải trả lời bằng văn bản và nêu rõ lý do.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "10 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": ""
+    },
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "3 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": ""
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "10 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": ""
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "3 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": ""
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "10 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": ""
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "3 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": ""
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "+ Văn bản đăng ký bổ sung hoạt động giáo dục nghề nghiệp theo Mẫu số 07 Phụ lục VII kèm theo Nghị định 142/2025/NĐ-CP;",
+      "mẫu đơn, tờ khai": "Mus07_PL7.doc",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "-+ Bản sao văn bản của cơ quan có thẩm quyền về việc đổi tên doanh nghiệp.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Sở Lao động - Thương binh và Xã hội - Tỉnh Hưng Yên",
+  "co_quan_co_tham_quyen": "Sở Lao động - Thương binh và Xã hội - Tỉnh Hưng Yên",
+  "dia_chi_tiep_nhan": "Trung tâm Phục vụ hành chính công và Kiểm soát thủ tục hành chính tỉnh Hưng Yên, số 02, đường Chùa Chuông, phường Hiến Nam, thành phố Hưng Yên, tỉnh Hưng Yên - Nộp hồ sơ: Điểm tiếp nhận hồ sơ Sở Giáo dục và Đào tạo - Nhận kết quả: Điểm trả kết quả tập trung",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Giấy chứng nhận đăng ký bổ sung hoạt động giáo dục nghề nghiệp.",
+  "yeu_cau_dieu_kien": "2.10.1. Các trường hợp đăng ký bổ sung hoạt động giáo dục nghề nghiệp\na) Bổ sung ngành, nghề, trình độ đào tạo mới (trừ trường hợp tự chủ quyết định mở ngành, nghề đào tạo theo quy định tại điểm c khoản 1 Điều 61 Phụ lục I kèm theo Nghị định 142/2025/NĐ-CP);\nb) Vượt quá 10% tổng quy mô tuyển sinh/năm của các ngành, nghề trong cùng nhóm ngành, nghề tại từng địa điểm được cấp trong giấy chứng nhận đăng ký hoạt động giáo dục nghề nghiệp, giấy chứng nhận đăng ký bổ sung hoạt động giáo dục nghề nghiệp;\nc) Chia, tách, sáp nhập cơ sở giáo dục nghề nghiệp, trung tâm giáo dục nghề nghiệp - giáo dục thường xuyên và doanh nghiệp;\nd) Thành lập phân hiệu có tổ chức hoạt động đào tạo hoặc bổ sung địa điểm đào tạo ngoài địa điểm đào tạo được cấp trong giấy chứng nhận đăng ký hoạt động giáo dục nghề nghiệp, giấy chứng nhận đăng ký bổ sung hoạt động giáo dục nghề nghiệp;\nđ) Chuyển trụ sở chính hoặc phân hiệu hoặc địa điểm đào tạo đến nơi khác, mà phân hiệu hoặc địa điểm đào tạo là nơi trực tiếp tổ chức đào tạo;\ne) Đổi tên doanh nghiệp.\n2.10.2. Yêu cầu, điều kiện thực hiện thủ tục hành chính\na) Đối với đào tạo trình độ sơ cấp\n- Có cơ sở vật chất, thiết bị đào tạo phù hợp với nghề, quy mô, trình độ đào tạo sơ cấp. Diện tích phòng học lý thuyết, phòng, xưởng thực hành dùng cho học tập, giảng dạy bảo đảm ở mức bình quân ít nhất là 04 m2/chỗ học; \n- Có đủ chương trình, giáo trình đào tạo của từng nghề đăng ký hoạt động và phải được xây dựng, thẩm định, ban hành theo quy định của Bộ trưởng Giáo dục và Đào tạo; \n- Có đội ngũ giáo viên đạt tiêu chuẩn, trình độ chuyên môn, kỹ năng nghề và nghiệp vụ sư phạm theo quy định của pháp luật; bảo đảm tỷ lệ học sinh quy đổi trên giáo viên quy đổi tối đa là 25 học sinh/giáo viên; có giáo viên cơ hữu cho nghề tổ chức đào tạo.\nb) Đối với đào tạo trình độ trung cấp\nTrường trung cấp được cấp giấy chứng nhận đăng ký hoạt động giáo dục nghề nghiệp trình độ trung cấp khi có đủ các điều kiện sau đây:\nCác ngành, nghề đăng ký hoạt động giáo dục nghề nghiệp có trong danh mục ngành, nghề đào tạo trình độ trung cấp do Bộ trưởng Giáo dục và Đào tạo ban hành; phù hợp với cơ cấu ngành, nghề, trình độ đào tạo và quy hoạch phát triển kinh tế - xã hội của địa phương. Trường hợp tên ngành, nghề đào tạo chưa có trong danh mục ngành, nghề đào tạo trình độ trung cấp do Bộ trưởng Giáo dục và Đào tạo ban hành, trường trung cấp phải trình bày luận cứ khoa học về ngành, nghề đào tạo mới; xây dựng bản mô tả ngành, nghề và phân tích công việc của ngành, nghề đó theo Mẫu số 01 Phụ lục VII kèm theo Nghị định này.\nCó cơ sở vật chất, thiết bị đào tạo phù hợp với ngành, nghề, quy mô và trình độ đào tạo, cụ thể: Có phòng học; phòng thí nghiệm; phòng, xưởng thực hành, thực tập; cơ sở sản xuất thử nghiệm đáp ứng yêu cầu giảng dạy, học tập và nghiên cứu khoa học theo chương trình đào tạo, quy mô đào tạo của từng ngành, nghề. Diện tích phòng học lý thuyết; phòng, xưởng thực hành, thực tập dùng cho học tập, giảng dạy bảo đảm ở mức bình quân ít nhất là 5,5 m2/chỗ học; có đủ thiết bị đào tạo của từng ngành, nghề đào tạo đáp ứng theo danh mục và tiêu chuẩn thiết bị tối thiểu do Bộ trưởng Giáo dục và Đào tạo quy định. Trường hợp Bộ trưởng Giáo dục và Đào tạo chưa ban hành danh mục và tiêu chuẩn thiết bị tối thiểu của ngành, nghề đăng ký hoạt động giáo dục nghề nghiệp thì phải bảo đảm đủ thiết bị đào tạo theo quy định trong chương trình đào tạo và tương ứng với quy mô đào tạo của ngành, nghề đăng ký hoạt động; có thư viện với các phần mềm và trang thiết bị phục vụ cho việc mượn, tra cứu, nghiên cứu tài liệu; có đủ nguồn thông tin tư liệu như sách, giáo trình, bài giảng của các mô đun, tín chỉ, học phần, môn học, các tài liệu liên quan đáp ứng yêu cầu giảng dạy, học tập; có đủ phòng làm việc, khu hành chính và khu hiệu bộ, bảo đảm đáp ứng cơ cấu tổ chức phòng, khoa, bộ môn chuyên môn, bảo đảm diện tích ít nhất là 06 m2/người đối với đào tạo trình độ trung cấp; có các công trình xây dựng phục vụ hoạt động văn hóa, thể thao, giải trí và các công trình y tế, dịch vụ để phục vụ cán bộ quản lý, giáo viên, giảng viên và học sinh, sinh viên; có đủ chương trình, giáo trình đào tạo của từng ngành, nghề đăng ký hoạt động được xây dựng, thẩm định, ban hành theo quy định của Bộ trưởng Giáo dục và Đào tạo; \nCó đội ngũ giáo viên, giảng viên, cán bộ quản lý đủ về số lượng, phù hợp với cơ cấu ngành, nghề và trình độ đào tạo; đạt tiêu chuẩn, trình độ chuyên môn, kỹ năng nghề và nghiệp vụ sư phạm theo quy định của pháp luật; bảo đảm thực hiện mục tiêu, chương trình đào tạo (trong đó: Tỷ lệ học sinh, sinh viên/giáo viên, giảng viên tối đa là 25. có số lượng giáo viên, giảng viên cơ hữu đảm nhận tối thiểu 60% khối lượng chương trình của mỗi ngành, nghề đào tạo); giáo viên, giảng viên là người nước ngoài giảng dạy tại các trường trung cấp, trường cao đẳng phải đáp ứng các quy định về lao động nước ngoài làm việc tại Việt Nam theo quy định của pháp luật Việt Nam.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

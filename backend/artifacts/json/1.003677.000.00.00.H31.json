@@ -1,0 +1,35 @@
+{
+  "ma_thu_tuc": "1.003677.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "672/QĐ-CTUBND",
+  "ten_thu_tuc": "Khai báo tạm vắng",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Đăng ký, quản lý cư trú",
+  "trinh_tu_thuc_hien": "Bước 1: Những người sau đây khi đi khỏi nơi cư trú phải đến trụ sở Công an xã, phường, thị trấn khai báo tạm vắng:\n+ Bị can, bị cáo đang tại ngoại; người bị kết án phạt tù nhưng chưa có quyết định thi hành án hoặc được hoãn, tạm đình chỉ chấp hành hình phạt tù; người bị kết án phạt tù được hưởng án treo; người bị phạt cải tạo không giam giữ; người đang bị quản chế; người đang chấp hành biện pháp giáo dục tại xã, phường, thị trấn; người bị áp dụng biện pháp đưa vào cơ sở giáo dục, cơ sở chữa bệnh, trường giáo dưỡng nhưng đang được hoãn chấp hành hoặc tạm đình chỉ thi hành khi đi khỏi nơi cư trú từ 01 ngày trở lên.\n+ Người trong độ tuổi nghĩa vụ quân sự, dự bị động viên đi khỏi huyện, quận, thị xã, thành phố thuộc tỉnh nơi mình cư trú từ 3 tháng trở lên.\nBước 2: Cán bộ tiếp nhận kiểm tra, hướng dẫn nội dung khai báo, ký xác nhận vào phần phiếu cấp cho người khai báo tạm vắng.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "1 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Trực tiếp tại trụ sở Công an cấp xã. Thời gian: 01 ngày làm việc (trường hợp đặc biệt thì được phép kéo dài thời gian giải quyết, nhưng tối đa không quá 02 ngày làm việc)."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Nội dung khai báo tạm vắng gồm: họ và tên, số định danh cá nhân hoặc số Chứng minh nhân dân, số hộ chiếu của người khai báo tạm vắng; lý do tạm vắng; thời gian tạm vắng; địa chỉ nơi đến.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Cán bộ, công chức, viên chức, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã",
+  "co_quan_thuc_hien": "Công an Xã",
+  "co_quan_co_tham_quyen": "Công an Xã",
+  "dia_chi_tiep_nhan": "Công an cấp xã",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Phiếu khai báo tạm vắng (CT03), Thông báo kết quả giải quyết thủ tục về cư trú, hủy bỏ thủ tục về cư trú, Cập nhật thông tin trong Cơ sở dữ liệu về cư trú",
+  "yeu_cau_dieu_kien": "- Trường hợp người quy định tại điểm d khoản 1 Điều 31 Luật Cư trú  là người chưa thành niên thì người thực hiện khai báo là cha, mẹ hoặc người giám hộ.\n- Nội dung khai báo tạm vắng bao gồm họ và tên, số định danh cá nhân hoặc số Chứng minh nhân dân, số hộ chiếu của người khai báo tạm vắng; lý do tạm vắng; thời gian tạm vắng; địa chỉ nơi đến.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

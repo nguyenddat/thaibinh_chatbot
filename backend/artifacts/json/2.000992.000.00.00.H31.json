@@ -1,0 +1,35 @@
+{
+  "ma_thu_tuc": "2.000992.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1761/QĐ-UBND",
+  "ten_thu_tuc": "Chứng thực chữ ký người dịch mà người dịch là cộng tác viên dịch thuật của Ủy ban nhân dân cấp xã, tổ chức hành nghề công chứng",
+  "cap_thuc_hien": "Cấp Xã, Cơ quan khác",
+  "loai_thu_tuc": "TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết",
+  "linh_vuc": "Chứng thực",
+  "trinh_tu_thuc_hien": "+ Người yêu cầu chứng thực chữ ký người dịch phải xuất trình các giấy tờ phục vụ việc chứng thực chữ ký người dịch.\n+ Người thực hiện chứng thực kiểm tra giấy tờ do người yêu cầu chứng thực xuất trình, nếu thấy đủ giấy tờ theo quy định và giấy tờ, văn bản được dịch không thuộc các trường hợp giấy tờ, văn bản không được dịch để chứng thực chữ ký người dịch thì thực hiện chứng thực như sau:\n\n\n\n* Khi thực hiện chứng thực, người thực hiện chứng thực phải đối chiếu chữ ký của người dịch trên bản dịch với chữ ký mẫu trước khi thực hiện chứng thực; trường hợp nghi ngờ chữ ký trên bản dịch so với chữ ký mẫu thì yêu cầu người dịch ký trước mặt.\n\n\n\n* Ghi đầy đủ lời chứng chứng thực chữ ký người dịch theo mẫu quy định;\n\n\n\n* Ký, ghi rõ họ tên, đóng dấu của cơ quan, tổ chức thực hiện chứng thực và ghi vào sổ chứng thực.\nĐối với bản dịch giấy tờ, văn bản có từ 02 (hai) trang trở lên thì ghi lời chứng vào trang cuối, nếu giấy tờ, văn bản có từ 02 (hai) tờ trở lên thì phải đóng dấu giáp lai.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "1 Ngày làm việc",
+      "phí, lệ phí": "Phí : 10000 Đồng (10.000 đồng/trường hợp)",
+      "mô tả": "Trong ngày cơ quan, tổ chức tiếp nhận yêu cầu hoặc trong ngày làm việc tiếp theo, nếu tiếp nhận yêu cầu sau 15 giờ hoặc có thể kéo dài hơn theo thỏa thuận bằng văn bản với người yêu cầu chứng thực."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Bản dịch và giấy tờ, văn bản cần dịch.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam",
+  "co_quan_thuc_hien": "Ủy ban Nhân dân huyện, quận, thành phố trực thuộc tỉnh, thị xã.",
+  "co_quan_co_tham_quyen": "Ủy ban Nhân dân huyện, quận, thành phố trực thuộc tỉnh, thị xã.",
+  "dia_chi_tiep_nhan": "UBND cấp Huyện",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Giấy tờ, văn bản được chứng thực chữ ký người dịch",
+  "yeu_cau_dieu_kien": "Giấy tờ, văn bản không được dịch để chứng thực chữ ký người dịch:\n+ Giấy tờ, văn bản đã bị tẩy xóa, sửa chữa; thêm, bớt nội dung không hợp lệ.\n+ Giấy tờ, văn bản bị hư hỏng, cũ nát không xác định được nội dung.\n+ Giấy tờ, văn bản đóng dấu mật của cơ quan, tổ chức có thẩm quyền hoặc không đóng dấu mật nhưng ghi rõ không được dịch.\n+ Giấy tờ, văn bản có nội dung quy định tại Khoản 4 Điều 22 của Nghị định số 23/2015/NĐ-CP.\n+ Giấy tờ, văn bản do cơ quan, tổ chức có thẩm quyền của nước ngoài cấp, công chứng hoặc chứng nhận chưa được hợp pháp hóa lãnh sự theo quy định tại Khoản 1 Điều 20 của Nghị định số 23/2015/NĐ-CP, trừ giấy hộ chiếu, thẻ căn cước, thẻ cư trú, giấy phép lái xe, bằng tốt nghiệp, chứng chỉ và bảng điểm kèm theo bằng tốt nghiệp, chứng chỉ.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

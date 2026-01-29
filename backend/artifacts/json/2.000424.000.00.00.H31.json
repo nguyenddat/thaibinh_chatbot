@@ -1,0 +1,61 @@
+{
+  "ma_thu_tuc": "2.000424.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "64/QĐ-UBND",
+  "ten_thu_tuc": "Thủ tục thực hiện hỗ trợ khi hòa giải viên gặp tai nạn hoặc rủi ro ảnh hưởng đến sức khỏe, tính mạng trong khi thực hiện hoạt động hòa giải",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết",
+  "linh_vuc": "Hòa giải ở cơ sở",
+  "trinh_tu_thuc_hien": "- Trong trường hợp hòa giải viên gặp tai nạn hoặc rủi ro ảnh hưởng đến sức khỏe, tính mạng trong khi thực hiện hoạt động hòa giải ở cơ sở, hòa giải viên hoặc gia đình hòa giải viên bị thiệt hại về tính mạng nộp hồ sơ đề nghị hỗ trợ đến Ủy ban nhân dân cấp xã nơi đã ra quyết định công nhận hòa giải viên.\n- Trong thời hạn 03 ngày làm việc, Ủy ban nhân dân cấp xã nơi đã ra quyết định công nhận hòa giải viên xem xét, có văn bản đề nghị Ủy ban nhân dân cấp huyện kèm theo hồ sơ đề nghị hỗ trợ cho hòa giải viên gặp tai nạn hoặc rủi ro ảnh hưởng đến tính mạng, sức khỏe trong khi thực hiện hoạt động hòa giải.\nTrong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Chủ tịch Ủy ban nhân dân cấp huyện xem xét, ra quyết định hỗ trợ; trường hợp không hỗ trợ thì phải trả lời bằng văn bản và nêu rõ lý do.\n- Chậm nhất sau 03 ngày làm việc, kể từ ngày nhận được quyết định của Ủy ban nhân dân cấp huyện, Ủy ban nhân dân cấp xã thực hiện việc chi tiền hỗ trợ.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "Theo mô tả",
+      "phí, lệ phí": "",
+      "mô tả": "- Thời hạn UBND cấp xã xem xét, đề nghị UBND cấp huyện giải quyết hồ sơ: 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ;\n\n- Thời hạn Chủ tịch UBND cấp huyện xem xét, quyết định hỗ trợ: 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ;\n\n- Thời hạn UBND cấp xã chi tiền hỗ trợ: 03 ngày làm việc, kể từ ngày nhận được Quyết định của UBND cấp huyện."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "Theo mô tả",
+      "phí, lệ phí": "",
+      "mô tả": "- Thời hạn UBND cấp xã xem xét, đề nghị UBND cấp huyện giải quyết hồ sơ: 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ;\n\n- Thời hạn Chủ tịch UBND cấp huyện xem xét, quyết định hỗ trợ: 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ;\n\n- Thời hạn UBND cấp xã chi tiền hỗ trợ: 03 ngày làm việc, kể từ ngày nhận được Quyết định của UBND cấp huyện."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Giấy đề nghị hỗ trợ của hòa giải viên hoặc gia đình hòa giải viên trong trường hợp hòa giải viên bị thiệt hại về tính mạng có xác nhận của tổ trưởng tổ hòa giải hoặc Trưởng ban công tác Mặt trận trong trường hợp hòa giải viên bị thiệt hại là tổ trưởng tổ hòa giải. Giấy đề nghị hỗ trợ phải ghi rõ họ tên, địa chỉ của người yêu cầu hỗ trợ; lý do yêu cầu hỗ trợ",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "Bản chính hoặc bản sao có chứng thực hoặc bản sao kèm theo bản chính để đối chiếu hoặc bản sao điện tử Biên bản xác nhận tình trạng của hòa giải viên bị tai nạn có xác nhận của Ủy ban nhân dân cấp xã nơi xảy ra tai nạn hoặc cơ quan công an nơi xảy ra tai nạn",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "Bản chính hoặc bản sao có chứng thực hoặc bản sao kèm theo bản chính để đối chiếu hoặc bản sao điện tử Giấy ra viện, hóa đơn thanh toán chi phí khám bệnh, chữa bệnh",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "Bản chính hoặc bản sao có chứng thực hoặc bản sao kèm theo bản chính để đối chiếu hoặc bản sao điện tử văn bản, giấy tờ hợp lệ về thu nhập thực tế theo tiền lương, tiền công hằng tháng của người bị tai nạn có xác nhận của tổ chức hoặc cá nhân sử dụng lao động để cơ quan nhà nước có thẩm quyền xác định thu nhập thực tế bị mất hoặc giảm sút, bao gồm: Hợp đồng lao động, quyết định nâng lương của tổ chức hoặc cá nhân sử dụng lao động hoặc bản kê có thu nhập thực tế của hòa giải viên bị tai nạn và các giấy tờ chứng minh thu nhập thực tế hợp pháp khác (nếu có)",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "Bản chính hoặc bản sao có chứng thực hoặc bản sao kèm theo bản chính để đối chiếu hoặc bản sao điện tử Giấy chứng tử trong trường hợp hòa giải viên bị thiệt hại về tính mạng (Việc nộp bản chính hoặc bản sao có chứng thực hoặc bản sao điện tử Giấy chứng tử chỉ thực hiện trong trường hợp cơ quan tiếp nhận không thể khai thác được thông tin trong Cơ sở dữ liệu hộ tịch điện tử hoặc thông tin khai thác được không đầy đủ, không chính xác)",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài",
+  "co_quan_thuc_hien": "Ủy ban Nhân dân xã, phường, thị trấn.",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Không có thông tin",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định hỗ trợ hòa giải viên gặp tai nạn hoặc rủi ro ảnh hưởng đến sức khỏe, tính mạng trong khi thực hiện hoạt động hòa giải, Văn bản trả lời trong trường hợp không hỗ trợ hòa giải viên gặp tai nạn hoặc rủi ro ảnh hưởng đến sức khỏe, tính mạng trong khi thực hiện hoạt động hòa giải",
+  "yeu_cau_dieu_kien": "Hòa giải viên gặp tai nạn hoặc rủi ro ảnh hưởng đến sức khỏe, tính mạng trong khi thực hiện hoạt động hòa giải ở cơ sở",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

@@ -3,42 +3,88 @@ from typing import List, Dict
 from sqlalchemy.orm import Session
 from langchain_core.messages import HumanMessage, AIMessage
 
-from utils.retriever import retriever
+from core import logger
 from services import ProcedureService
-from services.llm_service import LLMService
+from services.qdrant import qdrant_service
+from services.llm.srv_llm import LLMService
 
 class ChatService:
     @staticmethod
-    def guardrail(question: str):
-        task = "guardrail"
-        params = {"question": question}
+    def welcome(question: str, procedures: str):
+        logger.info(f"[Welcome] question: {question}")
+        
+        task = "welcome"
+        params = {"question": question, "procedure_descriptions": procedures}
         response = LLMService.get_chat_completion(task, params)
+        
+        logger.info(f"\t--> {response['response']}")
         return response
     
     @staticmethod
-    def analysis(question: str, chat_history: str):
+    def ask_again(question: str, procedures: str):
+        logger.info(f"[AskAgain] question: {question}")
+        
+        task = "ask_again"
+        params = {"question": question, "procedure_descriptions": procedures}
+        response = LLMService.get_chat_completion(task, params)
+        
+        logger.info(f"\t--> {response['response']}")
+        return response
+    
+    @staticmethod
+    def rewrite_with_history(question: str, chat_history: str):
+        logger.info(f"[Rewrite] question: {question}")
+        
+        task = "rewrite_with_history"
+        params = {"question": question, "chat_history": chat_history}
+        response = LLMService.get_chat_completion(task, params)
+        
+        logger.info(f"\t--> {response['response']}")
+        return response
+    
+    @staticmethod
+    def guardrail(question: str, chat_history: str):
+        logger.info(f"[Guardrail] question: {question}")
+        
+        task = "guardrail"
+        params = {"question": question, "chat_history": chat_history}
+        response = LLMService.get_chat_completion(task, params)
+        
+        logger.info(f"\t--> {response['verified']}")
+        return response
+    
+    @staticmethod
+    def analysis(question: str):
+        logger.info(f"[Analysis] question: {question}")
+        
         # Lấy danh sách các thủ tục giống tên
-        docs = retriever.retriever.invoke(question, config={"k": 5})
-        docs = "\n".join([doc.page_content for doc in docs])
+        docs = qdrant_service.search(question, top_k=5)
+        docs = "\n".join([doc["content"] for doc in docs])
         
         # Phân tích
         task = "analysis"
-        params = {"question": question, "chat_history": chat_history, "procedure_descriptions": docs}
+        params = {"question": question, "procedure_descriptions": docs}
         response = LLMService.get_chat_completion(task, params)
+        
+        logger.info(f"\t--> {response['intent']}")
         return response
     
     @staticmethod
     def get_procedure_info(question: str, query_params: List[str], db: Session):
+        logger.info(f"[GetProcedureInfo] question: {question}, query_params: {query_params}")
+        
         # Lấy danh sách các thủ tục giống tên
-        docs = retriever.retriever.invoke(question, config={"k": 5})
-        docs = "\n".join([doc.page_content for doc in docs])
-
+        docs = qdrant_service.search(question, top_k=5)
+        docs = "\n".join([doc['content'] for doc in docs])
+        logger.info(f"--> docs: \n{docs}")
+        
         # Chọn thủ tục
         task = "procedure_select"
         params = {"procedure_descriptions": docs, "question": question}
         response = LLMService.get_chat_completion(task, params)
         procedure_id = response["procedure_id"]
 
+        logger.info(f"\t--> {procedure_id}")
         # Nếu không có:
         if procedure_id == "":
             return f"Chúng tôi không tìm thấy thủ tục phù hợp với {question}."

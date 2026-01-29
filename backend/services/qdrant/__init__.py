@@ -1,0 +1,1 @@
+from .srv_qdrant import qdrant_service

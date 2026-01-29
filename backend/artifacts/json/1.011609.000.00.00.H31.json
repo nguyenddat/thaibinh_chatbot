@@ -1,0 +1,35 @@
+{
+  "ma_thu_tuc": "1.011609.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "974/QĐ-UBND",
+  "ten_thu_tuc": "Công nhận hộ làm nông nghiệp, lâm nghiệp, ngư nghiệp và diêm nghiệp có mức sống trung bình",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Giảm nghèo",
+  "trinh_tu_thuc_hien": "a) Bước 1: Hộ gia đình có Giấy đề nghị xác định hộ có mức sống trung bình theo Mẫu số 01 tại Phụ lục ban hành kèm theo Quyết định số 24/2021/QĐ-TTg gửi Ủy ban nhân dân cấp xã.\nb) Bước 2: Chủ tịch Ủy ban nhân dân cấp xã chỉ đạo Ban Chỉ đạo rà soát cấp xã tổ chức xác định thu nhập thông tin, tính điểm của hộ gia đình.\nc) Bước 3: Niêm yết, thông báo công khai kết quả tại trụ sở xã trong thời gian 05 ngày làm việc, tổ chức phúc tra trong thời gian 03 ngày làm việc (nếu có khiếu nại).\nd) Bước 4: Chủ tịch Ủy ban nhân dân cấp xã quyết định công nhận hộ làm nông nghiệp, lâm nghiệp, ngư nghiệp và diêm nghiệp có mức sống trung bình. Trường hợp không đủ điều kiện theo quy định, Chủ tịch Ủy ban nhân dân cấp xã trả lời bằng văn bản và nêu rõ lý do.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "15 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "15 ngày kể từ ngày bắt đầu rà soát (rà soát từ ngày 15 hằng tháng)."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Giấy đề nghị xác định hộ có mức sống trung bình theo Mẫu số 01 tại Phụ lục ban hành kèm theo Quyết định số 24/2021/QĐ-TTg",
+      "mẫu đơn, tờ khai": "Mau so 1.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam",
+  "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Bộ phận Tiếp nhận và Trả kết quả giải quyết TTHC cấp xã",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định công nhận hộ làm nông nghiệp, lâm nghiệp, ngư nghiệp và diêm nghiệp có mức sống trung bình",
+  "yeu_cau_dieu_kien": "Không quy định",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

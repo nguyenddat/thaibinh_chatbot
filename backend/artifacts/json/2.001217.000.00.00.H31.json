@@ -1,0 +1,47 @@
+{
+  "ma_thu_tuc": "2.001217.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1610/QĐ-UBND",
+  "ten_thu_tuc": "Đóng, không cho phép hoạt động tại vùng nước khác không thuộc vùng nước trên tuyến đường thủy nội địa, vùng nước cảng biển hoặc khu vực hàng hải, được đánh dấu, xác định vị trí bằng phao hoặc cờ hiệu có màu sắc dễ quan sát",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết",
+  "linh_vuc": "Hàng hải và đường thủy nội địa",
+  "trinh_tu_thuc_hien": "Nộp hồ sơ TTHC:\nTổ chức, cá nhân gửi hồ sơ đề nghị đóng, không cho phép hoạt động tại vùng nước khác không thuộc vùng vùng nước trên tuyến đường thủy nội địa, vùng nước cảng biển hoặc khu vực hàng hải, được đánh dấu, xác định vị trí bằng phao\nhoặc cờ hiệu có màu sắc dễ quan sát đến Sở Giao thông vận tải.\nGiải quyết TTHC:\nChậm nhất 02 ngày làm việc, kể từ ngày nhận được đơn đề nghị, Sở Giao thông vận tải kiểm tra thông tin và báo cáo Ủy ban nhân dân cấp tỉnh xem xét công bố đóng vùng hoạt động;\nChậm nhất 02 ngày làm việc, kể từ ngày nhận được báo cáo của Sở Giao thông vận tải, Ủy ban nhân dân cấp tỉnh ra quyết định công bố đóng vùng hoạt động.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "2 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Nộp hồ sơ và trả kết quả trực tiếp hoặc qua hệ thống bưu chính hoặc hình thức phù hợp khác.\nChậm nhất 02 ngày làm việc, kể từ ngày nhận được báo cáo của Sở Giao thông vận tải, Ủy ban nhân dân cấp tỉnh ra quyết định công bố đóng vùng hoạt động."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "2 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": ""
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "2 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Nộp hồ sơ và trả kết quả trực tiếp hoặc qua hệ thống bưu chính hoặc hình thức phù hợp khác.\nChậm nhất 02 ngày làm việc, kể từ ngày nhận được báo cáo của Sở Giao thông vận tải, Ủy ban nhân dân cấp tỉnh ra quyết định công bố đóng vùng hoạt động."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "-  Đơn đề nghị theo Mẫu.",
+      "mẫu đơn, tờ khai": "Mẫu đơn đề nghị Về công bố đóng vùng hoạt động vui chơi giải trí dưới nước.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã",
+  "co_quan_thuc_hien": "Sở Giao thông vận tải, Ủy ban Nhân dân tỉnh và thành phố trực thuộc trung ương.",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Bộ phận Một cửa cấp huyện",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định công bố đóng, không cho phép hoạt động vui chơi giải trí tại vùng 2",
+  "yeu_cau_dieu_kien": "Không có.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

@@ -1,0 +1,62 @@
+{
+  "ma_thu_tuc": "1.013817.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=388319",
+  "so_quyet_dinh": "1485/QĐ-UBND",
+  "ten_thu_tuc": "Cấp, cấp lại giấy chứng nhận đăng ký hành nghề công tác xã hội",
+  "cap_thuc_hien": "Cấp Tỉnh",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Bảo trợ xã hội",
+  "trinh_tu_thuc_hien": "- Bước 1. Người đề nghị cấp, cấp lại giấy chứng nhận đăng ký hành nghề công tác xã hội làm 01 (một) bộ hồ sơ theo quy định gửi đến Ủy ban nhân dân cấp tỉnh (trên địa bàn có trụ sở của các đơn vị, cơ sở có cung cấp dịch vụ công tác xã hội, cơ sở đào tạo, cơ sở giáo dục nghề nghiệp nơi người đăng ký hành nghề công tác xã hội làm việc, người hành nghề công tác xã hội độc lập). \n- Bước 2. Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định, Chủ tịch Uỷ ban nhân dân cấp tỉnh có trách nhiệm xem xét và quyết định cấp, cấp lại giấy chứng nhận đăng ký hành nghề công tác xã hội (theo Mẫu số 06 tại Phụ lục ban hành kèm theo Nghị định số 110/2024/NĐ-CP); trường hợp hồ sơ không hợp lệ, trong thời hạn không quá 03 ngày làm việc phải có văn bản trả lời, nêu rõ lý do.\nChủ tịch Uỷ ban nhân dân cấp tỉnh phải công bố, công khai danh sách người hành nghề công tác xã hội trên Cổng thông tin điện tử của Ủy ban nhân dân cấp tỉnh nơi cấp chứng nhận đăng ký hành nghề công tác xã hội.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "5 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Năm (05) ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "5 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Năm (05) ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "5 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Năm (05) ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Giấy đề nghị cấp lại giấy chứng nhận đăng ký hành nghề công tác xã hội (theo Mẫu số 08 tại Phụ lục ban hành kèm theo Nghị định số 110/2024/NĐ-CP)",
+      "mẫu đơn, tờ khai": "Mus08.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Bản chính giấy chứng nhận đăng ký hành nghề công tác xã hội đối với trường hợp bị hư hỏng, thay đổi thông tin hoặc sai sót thông tin",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Bản sao văn bằng, chứng chỉ, chứng nhận chuyên môn phù hợp với nội dung hành nghề đề nghị thay đổi đối với trường hợp thay đổi thông tin quy định tại điểm b khoản 3 Điều 38 của Nghị định số 110/2024/NĐ-CP",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "Giấy chứng nhận cập nhật kiến thức công tác xã hội tương đương 120 tiết học trong thời gian 05 năm đối với trường hợp giấy chứng nhận đăng ký hành nghề công tác xã hội hết thời hạn",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam",
+  "co_quan_thuc_hien": "Ủy ban nhân dân tỉnh và thành phố trực thuộc Trung ương",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Không có thông tin",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Giấy chứng nhận đăng ký hành nghề công tác xã hội hoặc giấy chứng nhận được cấp lại",
+  "yeu_cau_dieu_kien": "1. Giấy chứng nhận đăng ký hành nghề công tác xã hội được cấp lại đối với một trong các trường hợp sau đây:\n- Giấy chứng nhận đăng ký hành nghề công tác xã hội bị mất hoặc hư hỏng.\n- Thay đổi thông tin hoặc có sai sót thông tin quy định tại các điểm a, b, c khoản 3 Điều 38 của Nghị định số 110/2024/NĐ-CP (gồm: (i) Họ và tên; ngày, tháng, năm sinh; quốc tịch; số định danh cá nhân hoặc số căn cước, số hộ chiếu; (ii) Nội dung hành nghề công tác xã hội; (iii) Thời hạn của giấy chứng nhận đăng ký hành nghề công tác xã hội).\n- Giấy chứng nhận đăng ký hành nghề công tác xã hội hết thời hạn (thời hạn hiệu lực của giấy chứng nhận đăng ký hành nghề công tác xã hội là 5 năm). \n2. Người hành nghề công tác xã hội phải thực hiện thủ tục cấp lại giấy chứng nhận đăng ký hành nghề trước ít nhất 15 ngày làm việc trước thời điểm giấy chứng nhận đăng ký hành nghề hết hạn.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

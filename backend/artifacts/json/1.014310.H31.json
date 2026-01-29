@@ -1,0 +1,47 @@
+{
+  "ma_thu_tuc": "1.014310.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "855/QĐ-UBND",
+  "ten_thu_tuc": "Thủ tục hưởng trợ cấp sinh hoạt hàng tháng đối với Nghệ nhân nhân dân, Nghệ nhân ưu tú",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Di sản văn hóa",
+  "trinh_tu_thuc_hien": "- Nghệ nhân nhân dân, Nghệ nhân ưu tú gửi trực tuyến, nộp trực tiếp hoặc qua đường bưu điện 01 bộ hồ sơ tới Ủy ban nhân dân cấp xã nơi đăng ký thường trú.\n- Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được hồ sơ, Ủy ban nhân dân cấp xã có trách nhiệm kiểm tra hồ sơ và thông báo bằng văn bản cho cá nhân đề nghị nếu hồ sơ không đầy đủ hoặc không hợp lệ. Văn bản thông báo phải nêu rõ lý do và yêu cầu bổ sung hoặc chỉnh sửa hồ sơ liên quan.\n- Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đầy đủ hồ sơ hợp lệ, Ủy ban nhân dân cấp xã có trách nhiệm kiểm tra, đối chiếu với bản gốc các giấy tờ quy định tại Nghị định số 215/2025/NĐ-CP ngày 04 tháng 8 năm 2025 của Chính phủ; lập danh sách và hồ sơ của từng đối tượng đủ điều kiện hưởng trợ cấp sinh hoạt hàng tháng theo Mẫu số 06 tại Phụ lục I ban hành kèm theo Nghị định số 215/2025/NĐ-CP ngày 04 tháng 8 năm 2025 của Chính phủ.\n- Chủ tịch Ủy ban nhân dân cấp xã xem xét, ra quyết định hưởng trợ cấp sinh hoạt hàng tháng đối với đối tượng đủ điều kiện hưởng.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "05 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận được hồ sơ hợp lệ."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "05 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận được hồ sơ hợp lệ."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "05 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận được hồ sơ hợp lệ."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "(1) Tờ khai của người đề nghị hưởng trợ cấp sinh hoạt hàng tháng theo Mẫu số 04 tại Phụ lục I ban hành kèm theo Nghị định số 215/2025/NĐ-CP ngày 04 tháng 8 năm 2025 của Chính phủ.",
+      "mẫu đơn, tờ khai": "Mauso04.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam",
+  "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Không có thông tin",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định hưởng trợ cấp sinh hoạt hàng tháng đối với Nghệ nhân nhân dân, Nghệ nhân ưu tú",
+  "yeu_cau_dieu_kien": "Không quy định",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

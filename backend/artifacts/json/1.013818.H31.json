@@ -1,0 +1,57 @@
+{
+  "ma_thu_tuc": "1.013818.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=400949",
+  "so_quyet_dinh": "1567/QĐ-UBND",
+  "ten_thu_tuc": "Đăng ký tham dự kiểm tra  kết quả tập sự hành nghề công chứng",
+  "cap_thuc_hien": "Cấp Tỉnh",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Công chứng",
+  "trinh_tu_thuc_hien": "Người đăng ký tham dự kiểm tra kết quả tập sự lập 01 bộ hồ sơ đăng ký tham dự kiểm tra, nộp trực tiếp hoặc qua dịch vụ bưu chính hoặc trực tuyến trên môi trường điện tử đến Sở Tư pháp nơi đăng ký tập sự. \nTrong thời hạn 15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp thông báo bằng văn bản cho người đăng ký tham dự kiểm tra về việc đủ điều kiện đề nghị Bộ Tư pháp cho tham dự kiểm tra; trường hợp từ chối thì phải thông báo bằng văn bản có nêu rõ lý do.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "15 Ngày",
+      "phí, lệ phí": "Phí : 3.500.000 Đồng",
+      "mô tả": "kể từ ngày nhận đủ hồ sơ hợp lệ"
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "15 Ngày",
+      "phí, lệ phí": "Phí : 3.500.000 Đồng",
+      "mô tả": "kể từ ngày nhận đủ hồ sơ hợp lệ"
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "15 Ngày",
+      "phí, lệ phí": "Phí : 3.500.000 Đồng",
+      "mô tả": "kể từ ngày nhận đủ hồ sơ hợp lệ"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Giấy đăng ký tham dự kiểm tra kết quả tập sự hành nghề công chứng (Mẫu TP-TSCC-10 ban hành kèm theo Thông tư số 06/2025/TT-BTP)",
+      "mẫu đơn, tờ khai": "Giykthamdktquktratpscc_Mu10TT06.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Bản chính hoặc bản sao có chứng thực hoặc bản sao điện tử Quyết định công nhận hoàn thành tập sự",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Bản chính hoặc bản sao có chứng thực hoặc bản sao điện tử giấy tờ chứng minh đã nộp phí thẩm định tiêu chuẩn, điều kiện hành nghề công chứng",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam",
+  "co_quan_thuc_hien": "Sở Tư pháp",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Không có thông tin",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Sở Tư pháp thông báo bằng văn bản cho người đăng ký tham dự kiểm tra về việc đủ điều kiện đề nghị Bộ Tư pháp cho tham dự kiểm tra; trường hợp từ chối thì phải thông báo bằng văn bản có nêu rõ lý do.",
+  "yeu_cau_dieu_kien": "1. Những người sau đây được đăng ký tham dự kiểm tra:\na) Đã được công nhận hoàn thành tập sự theo quy định tại Điều 11 của Thông tư số 06/2025/TT-BTP;\nb) Đã tham dự nhưng không đạt yêu cầu trong kỳ kiểm tra trước, trừ trường hợp không đạt yêu cầu trong 03 kỳ kiểm tra trước mà chưa tập sự lại.\n2. Những người sau đây không được đăng ký tham dự kiểm tra:\na) Đã được công nhận hoàn thành tập sự nhưng bị hủy bỏ kết quả đã được công nhận;  \nb) Sao chép Báo cáo kết quả tập sự, Sổ nhật ký tập sự của người khác hoặc có hành vi gian dối, không trung thực khác để được đăng ký tham dự kiểm tra;\nc) Đã tham dự nhưng không đạt yêu cầu trong 03 kỳ kiểm tra kết quả tập sự mà chưa tập sự lại.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

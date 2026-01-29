@@ -1,0 +1,46 @@
+{
+  "ma_thu_tuc": "1.010822.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=301717",
+  "so_quyet_dinh": "912/QĐ-UBND",
+  "ten_thu_tuc": "Giải quyết phụ cấp đặc biệt hằng tháng đối với thương binh có tỷ lệ tổn thương cơ thể từ 81% trở lên, bệnh binh có tỷ lệ tổn thương cơ thể từ 81% trở lên",
+  "cap_thuc_hien": "Cấp Tỉnh",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Người có công",
+  "trinh_tu_thuc_hien": "Bước 1: Cá nhân làm đơn đề nghị gửi Sở Nội vụ nơi thường trú kèm bản tóm tắt bệnh án điều trị thể hiện cụt hoặc liệt hoàn toàn hai chi trở lên; mù hoàn toàn hai mắt; tâm thần nặng dẫn đến không tự lực được trong sinh hoạt của bệnh viện tuyến huyện hoặc trung tâm y tế cấp huyện hoặc tương đương trở lên (bao gồm cả bệnh viện quân đội, công an).\n       Bước 2: Sở Nội vụ trong thời gian 12 ngày kể từ ngày nhận đủ các giấy tờ nêu trên, có trách nhiệm kiểm tra, đối chiếu hồ sơ đang lưu tại Sở, thẩm định hồ sơ, ban hành quyết định điều chỉnh trợ cấp, phụ cấp ưu đãi theo Mẫu số 60 Phụ lục I Nghị định số 131/2021/NĐ-CP và thực hiện chi trả trợ cấp, phụ cấp đặc biệt hằng tháng.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "12 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận đủ hồ sơ theo quy định (Thời gian cụ thể được quy định tại từng bước của quy trình thực hiện)."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "12 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận đủ hồ sơ theo quy định (Thời gian cụ thể được quy định tại từng bước của quy trình thực hiện)."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "- Bản tóm tắt bệnh án điều trị thể hiện cụt hoặc liệt hoàn toàn hai chi trở lên; mù hoàn toàn hai mắt; tâm thần nặng dẫn đến không tự lực được trong sinh hoạt của bệnh viện tuyến huyện hoặc trung tâm y tế cấp huyện hoặc tương đương trở lên (bao gồm cả bệnh viện quân đội, công an).",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Đơn đề nghị theo Mẫu số 24 Phụ lục I Nghị định số 131/2021/NĐ-CP.",
+      "mẫu đơn, tờ khai": "Mau so 24.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam",
+  "co_quan_thuc_hien": "Sở Nội vụ",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Trung tâm Phục vụ hành chính công và Kiểm soát thủ tục hành chính, số 02 Chùa Chuông, TP. Hưng Yên, tỉnh Hưng Yên + Nộp hồ sơ: Điểm tiếp nhận hồ sơ: Sở Nội vụ + Nhận kết quả: Điểm trả kết quả tập trung",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định điều chỉnh trợ cấp, phụ cấp ưu đãi",
+  "yeu_cau_dieu_kien": "không",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

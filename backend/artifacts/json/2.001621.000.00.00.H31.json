@@ -1,0 +1,57 @@
+{
+  "ma_thu_tuc": "2.001621.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "933/QĐ-UBND",
+  "ten_thu_tuc": "Hỗ trợ đầu tư xây dựng phát triển thủy lợi nhỏ, thuỷ lợi nội đồng và tưới tiên tiến, tiết kiệm nước (Đối với nguồn vốn hỗ trợ trực tiếp, ngân sách địa phương và nguồn vốn hợp pháp khác của địa phương phân bổ dự toán cho UBND cấp xã thực hiện)",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết",
+  "linh_vuc": "Thủy lợi",
+  "trinh_tu_thuc_hien": "Bước 1: Nộp hồ sơ: Tổ chức, cá nhân đề nghị hỗ trợ gửi hồ sơ đến UBND cấp xã để thực hiện xem xét thanh toán, giải ngân.\nBước 2: Đối với hồ sơ chưa đầy đủ hợp lệ, UBND cấp xã đề nghị tổ chức, cá nhân bổ sung hồ sơ hoặc từ chối thực hiện nếu hồ sơ không hợp lệ.\nBước 3: Xem xét hồ sơ và trình phê duyệt UBND cấp xã thanh toán nguồn vốn hỗ trợ cho người đề nghị hỗ trợ trong thời gian 07 ngày làm việc kể từ khi nhận đủ hồ sơ hợp lệ.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "7 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": ""
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "7 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": ""
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "7 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": ""
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "- Đơn đề nghị hỗ trợ theo mẫu quy định tại Phụ lục ban hành kèm theo Nghị định 77/2018/NĐ-CP ngày 16/5/2018;",
+      "mẫu đơn, tờ khai": "Phụ lục NĐ77.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Hồ sơ được phê duyệt;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Biên bản nghiệm thu giai đoạn hoặc nghiệm thu hoàn thành công trình đưa vào sử dụng.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Bộ phận Tiếp nhận và Trả kết quả giải quyết TTHC cấp xã",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Thanh toán giải ngân vốn hỗ trợ",
+  "yeu_cau_dieu_kien": "- Đối với Hỗ trợ đầu tư xây dựng công trình tích trữ nước:\n+ Phù hợp với quy hoạch chung xây dựng xã;\n+ Đảm bảo cấp nước, tưới phục vụ sản xuất nông nghiệp cho tối thiểu 3 thành viên của tổ chức thủy lợi cơ sở; được tất cả các thành viên hưởng lợi đồng thuận đóng góp phần kinh phí còn lại; tổ chức thủy lợi cơ sở tự quản lý, khai thác công trình sau đầu tư.\n\n- Hỗ trợ tưới tiên tiến, tiết kiệm nước:\n+ Đối với cá nhân: Quy mô khu tưới phải đạt từ 0,3 ha trở lên; riêng khu vực miền núi từ 0,1 ha trở lên; việc hỗ trợ cho cá nhân được thông qua tổ chức thủy lợi cơ sở.\n+ Đối với tổ chức thủy lợi cơ sở: Quy mô khu tưới phải đạt từ 02 ha trở lên; riêng khu vực miền núi từ 01 ha trở lên và phải có hợp đồng liên kết với hộ gia đình hoặc cá nhân trực tiếp sản xuất;\n+ Hệ thống tưới tiên tiến, tiết kiệm nước tưới phục vụ các loại cây trồng là cây trồng chủ lực của quốc gia, địa phương, có lợi thế, phù hợp với nhu cầu thị trường và thích ứng với biến đổi khí hậu từng vùng, miền.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

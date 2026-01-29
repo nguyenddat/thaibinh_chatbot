@@ -1,0 +1,47 @@
+{
+  "ma_thu_tuc": "1.001742.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "672/CV-BHXH",
+  "ten_thu_tuc": "Giải quyết chuyển hưởng sang địa bàn khác đối với người đang hưởng lương hưu, trợ cấp BHXH hàng tháng và người chờ hưởng lương hưu, trợ cấp hàng tháng",
+  "cap_thuc_hien": "Cấp Tỉnh, Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Thực hiện chính sách BHXH",
+  "trinh_tu_thuc_hien": "3. Bước 3\n3.1. Đối với người bắt đầu hưởng lương hưu, trợ cấp BHXH hàng tháng, người hưởng chế độ TNLĐ, BNN một lần, chế độ tử tuất một lần tại nơi cư trú do BHXH tỉnh/huyện khác, BHXH Bộ Quốc phòng, BHXH CAND giải quyết: Đến nhận lương hưu, trợ cấp BHXH hàng tháng và thẻ BHYT (nếu thuộc đối tượng có trách nhiệm tham gia BHYT) theo thời gian và địa điểm ghi trong Thông báo (Mẫu số 23-HSB);\n\n3.2 Người đang hưởng lương hưu, trợ cấp BHXH hàng tháng đến nhận lương hưu, trợ cấp BHXH hàng tháng, thẻ BHYT (nếu thuộc đối tượng có trách nhiệm tham gia BHYT) theo thời gian và địa điểm ghi trong Thông báo (Mẫu số 23-HSB);\n3.3 Người chờ hưởng lương hưu, trợ cấp hàng tháng: nhận thông báo về việc đã tiếp nhận hồ sơ chờ hưởng lương hưu/trợ cấp hàng tháng (Mẫu số 15B-HSB).\nBước 1:\n1.1. Người đang hưởng lương hưu, trợ cấp BHXH hàng tháng: nộp đơn đề nghị chuyển nơi nhận lương hưu, trợ cấp BHXH hàng tháng cho BHXH huyện hoặc BHXH tỉnh nơi đang chi trả lương hưu, trợ cấp hàng tháng\n1.2. Người đang chờ hưởng lương hưu, trợ cấp BHXH hàng tháng: nộp đơn đề nghị chuyển hồ sơ chờ hưởng lương hưu, trợ cấp BHXH hàng tháng cho BHXH tỉnh/huyện nơi đang quản lý hồ sơ chờ\n1.3.Trường hợp giao dịch điện tử: NLĐ đăng ký nhận mã xác thực và gửi hồ sơ điện tử đến Cổng thông tin điện tử BHXH Việt Nam hoặc qua Tổ chức I-VAN, trường hợp không chuyển hồ sơ giấy sang định dạng điện tử thì gửi hồ sơ giấy cho cơ quan BHXH qua dịch vụ bưu chính công ích.\n2. Bước 2:\n2.1 BHXH tỉnh/huyện nơi chuyển đi:\na) Đối với người bắt đầu hưởng lương hưu, trợ cấp BHXH ở địa bàn khác khi giải quyết xong chế độ thì thực hiện ngay việc chuyển hưởng đến địa bàn khác.\nb) Đối với người đang hưởng lương hưu, trợ cấp BHXH hàng tháng: Tiếp nhận hồ sơ từ người hưởng, lập Thông báo theo mẫu số 23-HSB trả người hưởng;\n2.2. BHXH tỉnh/huyện nơi chuyển đến:\na) Đối với chuyển hưởng lương hưu, trợ cấp BHXH hàng tháng, chế độ TNLĐ, BNN một lần, chế độ tử tuất một lần: Khi nhận được Thông báo chuyển hưởng, cập nhật ngay vào danh sách chi trả và tổ chức chi trả cho người hưởng tại địa điểm nơi người hưởng đăng ký; đồng thời cơ quan BHXH nhắn tin đến người hưởng về thời gian, địa điểm chi trả lương hưu, trợ cấp BHXH hàng tháng\nb) Đối với di chuyển hồ sơ chờ hưởng lương hưu, trợ cấp hàng tháng: Khi nhận được hồ sơ di chuyển hưởng, Thông báo cho người chờ hưởng chế độ biết về việc đã tiếp nhận hồ sơ chờ hưởng lương hưu, trợ cấp BHXH hàng tháng.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "1 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "Thực hiện ngay khi tiếp nhận hồ sơ"
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "1 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "Thực hiện ngay khi tiếp nhận hồ sơ"
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "1 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "Thực hiện ngay khi tiếp nhận hồ sơ"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Bản chính Đơn đề nghị",
+      "mẫu đơn, tờ khai": "14-HSB.doc",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam",
+  "co_quan_thuc_hien": "Bảo hiểm xã hội cấp huyện, Bảo hiểm xã hội cấp Tỉnh",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Trung tâm phục vụ HCC tỉnh Hưng Yên",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Thông báo về việc chi trả lương hưu, trợ cấp BHXH, Thông báo về việc tiếp nhận hồ sơ chờ hưởng lương hưu/trợ cấp hàng tháng",
+  "yeu_cau_dieu_kien": "a) Người hưởng có yêu cầu chuyển nơi hưởng lương hưu hoặc trợ cấp BHXH hàng tháng.\nb) Người chờ hưởng lương hưu, trợ cấp BHXH hàng tháng có yêu cầu chuyển hồ sơ chờ hưởng lương hưu, trợ cấp BHXH hàng tháng đến nơi cư trú tại địa bàn khác.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

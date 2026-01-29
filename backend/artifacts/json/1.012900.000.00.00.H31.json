@@ -1,0 +1,67 @@
+{
+  "ma_thu_tuc": "1.012900.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=356561",
+  "so_quyet_dinh": "2241/QĐ-UBND",
+  "ten_thu_tuc": "Cấp giấy phép hoạt động của Sàn giao dịch bất động sản",
+  "cap_thuc_hien": "Cấp Tỉnh",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Kinh doanh bất động sản",
+  "trinh_tu_thuc_hien": "- Tổ chức, cá nhân thành lập sàn giao dịch bất động sản nộp 01 bộ hồ sơ đề nghị cấp giấy phép hoạt động của sàn giao dịch bất động sản đến Trung tâm hành chính công của tỉnh hoặc Bộ phận tiếp nhận và trả kết quả giải quyết thủ tục hành chính của Sở Xây dựng.\n- Trong thời hạn 15 ngày làm việc, kể từ ngày nhận đủ hồ sơ, Sở Xây dựng có trách nhiệm kiểm tra hồ sơ, cấp Giấy phép hoạt động cho sàn giao dịch bất động sản; trong trường hợp từ chối thì phải thông báo bằng văn bản và nêu rõ lý do. Sau khi cấp Giấy phép hoạt động, Sở Xây dựng báo cáo về Bộ Xây dựng để đưa thông tin của sàn giao dịch bất động sản lên trang thông tin điện tử của Bộ Xây dựng. Thông tin của sàn giao dịch bất động sản gồm: Tên sàn giao dịch bất động sản; tên doanh nghiệp thành lập sàn giao dịch bất động sản; họ tên của người quản lý điều hành sàn giao dịch bất động sản; địa chỉ và số điện thoại liên hệ của sàn giao dịch bất động sản.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "15 Ngày làm việc",
+      "phí, lệ phí": "Phí : 0 Đồng (Không)",
+      "mô tả": "15 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ"
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "15 Ngày làm việc",
+      "phí, lệ phí": "Phí : 0 Đồng (Không)",
+      "mô tả": "15 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ"
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "15 Ngày làm việc",
+      "phí, lệ phí": "Phí : 0 Đồng (Không)",
+      "mô tả": "15 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "- Đơn đăng ký hoạt động của sàn giao dịch bất động sản (theo mẫu tại Phụ lục XVII Nghị định số 96/2024/NĐ-CP ngày 24/7/2024 của Chính phủ quy định chi tiết một số điều của Luật Kinh doanh bất động sản);",
+      "mẫu đơn, tờ khai": "ĐƠN ĐĂNG KÝ HOẠT ĐỘNG CỦA SÀN GIAO DỊCH BẤT ĐỘNG SẢN.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "- Giấy chứng nhận đăng ký doanh nghiệp theo quy định tại khoản 5 Điều 9 Luật Kinh doanh bất động sản;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "- Giấy tờ chứng minh quyền sử dụng đối với trụ sở sàn giao dịch bất động sản;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "- Bản sao giấy chứng nhận hoàn thành khóa học quản lý, điều hành sàn giao dịch bất động sản của người quản lý điều hành sàn giao dịch bất động sản;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "- Danh sách các môi giới bất động sản đã được cấp chứng chỉ hành nghề môi giới bất động sản.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Sở Xây dựng",
+  "co_quan_co_tham_quyen": "Sở Xây dựng",
+  "dia_chi_tiep_nhan": "Trung tâm phục vụ hành chính công và Kiểm soát TTHC tỉnh Hưng Yên, số 02 đường Chùa Chuông, phường Hiến Nam, thành phố Hưng Yên, tỉnh Hưng Yên + Nộp hồ sơ: Điểm tiếp nhận hồ sơ Sở Xây dựng + Nhận kết quả: Điểm trả kết quả tập trung",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Giấy phép hoạt động của Sàn giao dịch bất động sản",
+  "yeu_cau_dieu_kien": "Không có yêu cầu, điều kiện",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

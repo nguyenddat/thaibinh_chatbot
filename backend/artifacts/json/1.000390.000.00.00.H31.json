@@ -1,0 +1,51 @@
+{
+  "ma_thu_tuc": "1.000390.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=180759",
+  "so_quyet_dinh": "1619/QĐ-UBND",
+  "ten_thu_tuc": "Cấp lại thẻ tư vấn viên pháp luật",
+  "cap_thuc_hien": "Cấp Tỉnh",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Tư vấn pháp luật",
+  "trinh_tu_thuc_hien": "- Trong trường hợp Thẻ tư vấn viên pháp luật bị mất hoặc bị hư hỏng không thể tiếp tục sử dụng được tư vấn viên pháp luật nộp cho Trung tâm tư vấn pháp luật hoặc Chi nhánh nơi mình làm việc 01 bộ hồ sơ đề nghị cấp lại Thẻ tư vấn viên pháp luật.\n- Trung tâm tư vấn pháp luật, Chi nhánh có trách nhiệm gửi hồ sơ đề nghị cấp lại Thẻ tư vấn viên pháp luật cho Sở Tư pháp.\n- Trong thời hạn bảy ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp có trách nhiệm cấp lại Thẻ tư vấn viên pháp luật cho người có yêu cầu.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "7 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "Trong thời hạn bảy ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ"
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "7 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "Trong thời hạn bảy ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Thẻ tư vấn viên pháp luật cũ (trong trường hợp Thẻ bị hư hỏng)",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Giấy đề nghị cấp Thẻ tư vấn viên pháp luật, trong đó có xác nhận của Trung tâm tư vấn pháp luật hoặc Chi nhánh về tình trạng của Thẻ tư vấn viên pháp luật",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Hai ảnh chân dung cỡ 2 cm x 3 cm",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 2\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Cán bộ, công chức, viên chức, Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Sở Tư pháp",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Không có thông tin",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Thẻ tư vấn viên pháp luật",
+  "yeu_cau_dieu_kien": "Không",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

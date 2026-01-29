@@ -1,0 +1,52 @@
+{
+  "ma_thu_tuc": "1.001939.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "672/CV-BHXH",
+  "ten_thu_tuc": "Đăng ký đóng, cấp thẻ BHYT đối với người chỉ tham gia BHYT",
+  "cap_thuc_hien": "Cấp Bộ, Cấp Tỉnh, Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Thu BHXH, BHYT, BHTN, BH tai nạn lao động, BNN",
+  "trinh_tu_thuc_hien": "Bước 1. Người tham gia chuẩn bị hồ sơ và nộp hồ sơ theo quy định tại Mục 3.5 và Mục 3.6\n1. Đối với người tham gia được ngân sách nhà nước đóng BHYT\nNộp hồ sơ đã kê khai theo quy định cho UBND cấp xã. Trường hợp người tham gia đã hiến bộ phận cơ thể người: nộp hồ sơ cho cơ quan BHXH\n2. Đối với người tham gia được tổ chức BHXH đóng BHYT\nĐăng ký nơi khám bệnh, chữa bệnh ban đầu với cơ quan BHXH, nộp giấy tờ chứng minh được hưởng quyền lợi BHYT cao hơn (nếu có).\n\n- Tiếp nhận hồ sơ, thẩm định xác định điều kiện để tổ chức thực hiện chế độ khám bệnh, chữa bệnh BHYT của cơ sở khám bệnh, chữa bệnh.\n\n-  Nếu đủ điều kiện thì tổ chức ký hợp đồng KCB BHYT (theo mẫu hợp đồng khám bệnh, chữa bệnh BHYT tại Phụ lục số 03 ban hành kèm theo Thông tư liên tịch số 41/2014/TTLT/BYT-BTC ngày 24/11/2014 của liên Bộ Y tế - Bộ Tài chính); trường hợp cơ sở khám bệnh, chữa bệnh không đủ điều kiện để ký hợp đồng khám bệnh, chữa bệnh BHYT thì cơ quan Bảo hiểm xã hội có văn bản trả lời nêu rõ lý do.\n3. Đối với người được ngân sách nhà nước hỗ trợ một phần mức đóng hoặc tham gia BHYT theo hộ gia đình\nNộp hồ sơ đã kê khai theo quy định và nộp tiền theo phương thức đã đăng ký cho cho Đại lý thu hoặc cơ quan BHXH\nBước 2. Đóng tiền\nNgười tham gia BHYT theo hộ gia đình, người được ngân sách hỗ trợ một phần mức đóng BHYT: nộp tiền cho Đại lý thu hoặc nộp trực tiếp cho cơ quan BHXH\nHọc sinh, sinh viên: nộp tiền cho nhà trường\nBước 3:\nNhận kết quả từ Cơ sở trợ giúp xã hội, Cơ sở nuôi dưỡng, điều dưỡng thương binh và người có công; Cơ sở giáo dục nghề nghiệp thuộc ngành lao động, thương binh và xã hội; Đại lý thu/nhà trường.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "Không quá 05 ngày; riêng đối với người hưởng trợ cấp thất nghiệp không quá 02 ngày kể từ ngày nhận đủ hồ sơ theo quy định",
+      "phí, lệ phí": "",
+      "mô tả": "Bước 1. Nộp hồ sơ\n- Người tham gia nộp hồ sơ cho UBND cấp xã, Đại lý thu/nhà trường hoặc nộp trực tiếp tại cơ quan BHXH.\n- Trường hợp người tham gia BHYT hộ gia đình nộp hồ sơ trực tiếp cho cơ quan BHXH có thể lựa chọn nộp hồ sơ Trực tiếp tại cơ quan BHXH.\nTrường hợp nộp hồ sơ giấy:\n- UBND cấp xã, Đại lý thu/nhà trường: lập Danh sách người chỉ tham gia BHYT (Mẫu D03-TS), thu tiền đóng BHYT của người tham gia BHYT hộ gia đình; tiền đóng BHYT phần thuộc trách nhiệm đóng của người tham gia BHYT; Nộp số tiền đã thu của người tham gia cho cơ quan BHXH theo quy định.\nBước 2. Nhận kết quả giải quyết:\n- Trường hợp người tham gia BHYT hộ gia đình nộp hồ sơ trực tiếp cho cơ quan BHXH nhận kết quả do cơ quan BHXH đã giải quyết theo các hình thức đăng ký.\n- Đối với người nộp hồ sơ cho UBND cấp xã, Đại lý thu/nhà trường nhận kết quả do cơ quan BHXH đã giải quyết qua UBND cấp xã, Đại lý thu/nhà trường"
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "Không quá 05 ngày; riêng đối với người hưởng trợ cấp thất nghiệp không quá 02 ngày kể từ ngày nhận đủ hồ sơ theo quy định",
+      "phí, lệ phí": "",
+      "mô tả": "Bước 1. Nộp hồ sơ\n- Trường hợp người tham gia BHYT hộ gia đình nộp hồ sơ trực tiếp cho cơ quan BHXH có thể lựa chọn nộp hồ sơ Qua giao dịch điện tử.\nTrường hợp giao dịch điện tử:\n\n- Lập và gửi hồ sơ điện tử trên phần mềm kê khai hoặc kê khai trực tuyến tại Cổng thông tin điện tử BHXH Việt Nam hoặc qua Tổ chức I-VAN; Ký điện tử trên hồ sơ và gửi đến Cổng thông tin điện tử BHXH Việt Nam hoặc qua Tổ chức I-VAN; nộp tiền đóng thông qua tài khoản ngân hàng\nBước 2. Nhận kết quả giải quyết"
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "Không quá 05 ngày; riêng đối với người hưởng trợ cấp thất nghiệp không quá 02 ngày kể từ ngày nhận đủ hồ sơ theo quy định",
+      "phí, lệ phí": "",
+      "mô tả": "Bước 1. Nộp hồ sơ\n- Trường hợp người tham gia BHYT hộ gia đình nộp hồ sơ trực tiếp cho cơ quan BHXH có thể lựa chọn nộp hồ sơ Qua dịch vụ bưu chính công ích.\nBước 2. Nhận kết quả giải quyết"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "a) Đối với người tham gia: - Tờ khai tham gia, điều chỉnh thông tin BHXH, BHYT (Mẫu TK1-TS). - Văn bản chứng thực hoặc bản chụp kèm theo bản chính Giấy chứng tử đối với trường hợp chết",
+      "mẫu đơn, tờ khai": "Mẫu TK1-TS.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "b) Đối với Tổ chức dịch vụ/Cơ sở giáo dục: Trường hợp hoàn trả tiền đóng BHYT cho nhiều người trong cùng đối tượng, lập danh sách đề nghị hoàn trả theo mẫu D03-TS.",
+      "mẫu đơn, tờ khai": "Mẫu D03-TS.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Bảo hiểm xã hội cấp huyện, Bảo hiểm xã hội tỉnh",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Trung tâm phục vụ HCC tỉnh Hưng Yên",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định về việc hoàn trả tiền thu BHXH, BHYT, BHTN, BHTNLĐ, BNN, Thẻ BHYT, Quyết định hoàn trả (mẫu C16-TS) và Tiền hoàn trả",
+  "yeu_cau_dieu_kien": "Không có yêu cầu điều kiện",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

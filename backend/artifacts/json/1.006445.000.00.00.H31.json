@@ -1,0 +1,51 @@
+{
+  "ma_thu_tuc": "1.006445.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1535/QĐ-UBND",
+  "ten_thu_tuc": "Sáp nhập, chia, tách trường mẫu giáo, trường mầm non, nhà trẻ",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Giáo dục mầm non",
+  "trinh_tu_thuc_hien": "a) Ủy ban nhân dân cấp xã (nếu sáp nhập, chia, tách trường mẫu giáo, trường mầm non, nhà trẻ công lập); tổ chức, cá nhân (nếu sáp nhập, chia, tách trường mẫu giáo, trường mầm non, nhà trẻ dân lập, tư thục) gửi trực tiếp hoặc qua bưu điện 01 bộ hồ sơ đến Ủy ban nhân dân cấp huyện;\nb) Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Ủy ban nhân dân cấp huyện có trách nhiệm chỉ đạo Phòng Giáo dục và Đào tạo tổ chức thẩm định hồ sơ và thẩm định thực tế các điều kiện sáp nhập, chia, tách trường mẫu giáo, trường mầm non, nhà trẻ; trong thời hạn 10 ngày làm việc, Phòng Giáo dục và Đào tạo chủ trì, phối hợp với các phòng chuyên môn có liên quan thẩm định, trình Chủ tịch Ủy ban nhân dân cấp huyện;\nc) Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được ý kiến thẩm định bằng văn bản của Phòng Giáo dục và Đào tạo và các phòng chuyên môn có liên quan, nếu đáp ứng các điều kiện theo quy định thì Chủ tịch Ủy ban nhân dân cấp huyện ra quyết định sáp nhập, chia, tách; nếu không đáp ứng các điều kiện theo quy định thì có văn bản trả lời nêu rõ lý do.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "20 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "20 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ"
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "20 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "20 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Tờ trình đề nghị sáp nhập, chia, tách trường mầm non (theo Mẫu số 04 Phụ lục II kèm theo Nghị định số 142/2025/NĐ-CP)",
+      "mẫu đơn, tờ khai": "Mus04_PL2.doc",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Đề án sáp nhập, chia, tách trường mầm non (theo Mẫu số 05 Phụ lục II kèm theo Nghị định số 142/2025/NĐ-CP)",
+      "mẫu đơn, tờ khai": "Mus05_PL2.doc",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Ý kiến đồng thuận của nhà đầu tư đại diện ít nhất 75% tổng số vốn góp đối với việc sáp nhập, chia, tách trường mầm non tư thục.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Phòng Giáo dục và Đào tạo",
+  "co_quan_co_tham_quyen": "Chủ tịch Ủy ban nhân dân cấp huyện",
+  "dia_chi_tiep_nhan": "Bộ phận Một cửa cấp huyện",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định sáp nhập, chia, tách trường mầm non của Chủ tịch Ủy ban nhân dân cấp xã., Quyết định cho phép hoạt động giáo dục đối với trường mầm non sau khi sáp nhập, chia, tách của của Chủ tịch Ủy ban nhân dân cấp xã",
+  "yeu_cau_dieu_kien": "Nhà trường sáp nhập, chia, tách phải bảo đảm các yêu cầu theo quy định tại khoản 1 Điều 51 Luật Giáo dục:\na) Phù hợp với quy hoạch phát triển kinh tế - xã hội và quy hoạch mạng lưới cơ sở giáo dục theo quy định của Luật Quy hoạch.\nb) Đáp ứng nhu cầu phát triển kinh tế - xã hội.\nc) Bảo đảm quyền, lợi ích của nhà giáo và người học.\nd) Góp phần nâng cao chất lượng và hiệu quả giáo dục.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

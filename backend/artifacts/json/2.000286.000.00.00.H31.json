@@ -1,0 +1,61 @@
+{
+  "ma_thu_tuc": "2.000286.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=131702",
+  "so_quyet_dinh": "1485/QĐ-UBND",
+  "ten_thu_tuc": "Tiếp nhận đối tượng bảo trợ xã hội có hoàn cảnh đặc biệt khó khăn vào cơ sở trợ giúp xã hội",
+  "cap_thuc_hien": "Cấp Tỉnh, Cấp Xã, Cơ quan khác",
+  "loai_thu_tuc": "TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết",
+  "linh_vuc": "Bảo trợ xã hội",
+  "trinh_tu_thuc_hien": "- Bước 1: Đối tượng hoặc người giám hộ chuẩn bị hồ sơ theo quy định gửi Chủ tịch Ủy ban nhân dân cấp xã.\n- Bước 2: Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được giấy tờ của đối tượng, Chủ tịch Ủy ban nhân dân cấp xã chỉ đạo tổ chức xem xét, thực hiện xác thực và chuẩn hóa thông tin liên quan của đối tượng với cơ sở dữ liệu quốc gia về dân cư, quyết định tiếp nhận đối tượng vào cơ sở trợ giúp xã hội thuộc phạm vi quản lý hoặc có văn bản đề nghị (gửi kèm theo giấy tờ liên quan của người đề nghị) gửi cơ sở trợ giúp xã hội thuộc phạm vi Ủy ban nhân dân cấp tỉnh quản lý.\n- Bước 3: Trong thời hạn 05 ngày làm việc, kể từ khi nhận được văn bản đề nghị của Chủ tịch Ủy ban nhân dân cấp xã, người đứng đầu cơ sở trợ giúp xã hội xem xét, quyết định tiếp nhận đối tượng vào nuôi dưỡng, chăm sóc tại cơ sở hoặc cung cấp dịch vụ chăm sóc tại cộng đồng.\nTrường hợp đối tượng không đủ điều kiện tiếp nhận nuôi dưỡng, chăm sóc trong cơ sở trợ giúp xã hội, cơ quan giải quyết thủ tục phải trả lời bằng văn bản và nêu rõ lý do.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "34 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": ""
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "34 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": ""
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Tờ khai của đối tượng hoặc người giám hộ (theo Mẫu số 07 ban hành kèm theo Nghị định số 20/2021/NĐ-CP);",
+      "mẫu đơn, tờ khai": "Mus07.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Bản sao giấy khai sinh đối với trẻ em, trường hợp trẻ em bị bỏ rơi phải làm thủ tục đăng ký khai sinh theo quy định của pháp luật về đăng ký hộ tịch",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "Bản sao Giấy xác nhận khuyết tật đối với trường hợp là người khuyết tật",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "Xác nhận của cơ quan y tế có thẩm quyền đối với trường hợp nhiễm HIV",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Giấy tờ liên quan khác (nếu có)",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam",
+  "co_quan_thuc_hien": "Sở Y tế",
+  "co_quan_co_tham_quyen": "Sở Y tế",
+  "dia_chi_tiep_nhan": "Bộ phận tiếp nhận hồ sơ và trả kết quả, Ủy ban nhân dân cấp xã",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định tiếp nhận đối tượng vào cơ sở trợ giúp xã hội (BYT)",
+  "yeu_cau_dieu_kien": "Đối tượng bảo trợ xã hội có hoàn cảnh đặc biệt khó khăn theo quy định tại  Nghị định số 20/2021/NĐ-CP (khoản 1 Điều 24), cụ thể:\n- Đối tượng quy định tại các khoản 1 và 3 Điều 5 của Nghị định số 20/2021/NĐ-CP thuộc diện khó khăn không tự lo được cuộc sống và không có người nhận chăm sóc, nuôi dưỡng tại cộng đồng;\n- Người cao tuổi thuộc diện được chăm sóc, nuôi dưỡng trong cơ sở trợ giúp xã hội theo quy định của pháp luật về người cao tuổi;\n- Trẻ em khuyết tật, người khuyết tật thuộc diện được chăm sóc, nuôi dưỡng trong cơ sở trợ giúp xã hội theo quy định của pháp luật về người khuyết tật.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

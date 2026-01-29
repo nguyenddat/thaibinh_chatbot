@@ -1,0 +1,46 @@
+{
+  "ma_thu_tuc": "1.010833.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=301731",
+  "so_quyet_dinh": "912/QĐ-UBND",
+  "ten_thu_tuc": "Cấp giấy xác nhận thân nhân của người có công",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Người có công",
+  "trinh_tu_thuc_hien": "Bước 1: Người có công hoặc thân nhân người có công làm đơn đề nghị cấp giấy xác nhận thân nhân của người có công gửi Ủy ban nhân dân cấp xã nơi thường trú kèm bản sao được chứng thực từ một trong các giấy tờ theo quy định tại khoản 1 Điều 116 Nghị định số 131/2021/NĐ-CP (đã được sửa đổi bổ sung tại khoản 4 Điều 13 Nghị định số 104/2022/NĐ-CP ngày 21/12/2022 của Chính phủ).\n2.\tỦy ban nhân cấp xã nơi thường trú trong thời gian 05 ngày làm việc kể từ ngày tiếp nhận đủ giấy tờ, có trách nhiệm cấp giấy xác nhận thân nhân của người có công theo Mẫu số 45 Phụ lục I Nghị định số 131/2021/NĐ-CP.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "05 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận đủ hồ sơ theo quy định."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "05 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận đủ hồ sơ theo quy định."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "- Đơn đề nghị cấp giấy xác nhận thân nhân của người có công.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Bản sao được chứng thực từ một trong các giấy tờ sau: + Giấy chứng nhận người có công hoặc Kỷ niệm chương người hoạt động cách mạng, kháng chiến, bảo vệ Tổ quốc, làm nghĩa vụ quốc tế bị địch bắt tù, đày; Huân chương, Huy chương kháng chiến; Huân chương, Huy chương chiến thắng; kỷ niệm chương “Tổ quốc ghi công”; bằng “Có công với nước”. + Giấy tờ do cơ quan có thẩm quyền ban hành, xác nhận mối quan hệ với người có công gồm: căn cước công dân.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam",
+  "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Bộ phận tiếp nhận hồ sơ và trả kết quả, UBND cấp xã",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Giấy xác nhận thân nhân của người có công",
+  "yeu_cau_dieu_kien": "không",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

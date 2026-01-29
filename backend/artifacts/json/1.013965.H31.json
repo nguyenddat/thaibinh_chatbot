@@ -1,0 +1,101 @@
+{
+  "ma_thu_tuc": "1.013965.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=399854",
+  "so_quyet_dinh": "857/QĐ-UBND",
+  "ten_thu_tuc": "Sử dụng đất kết hợp đa mục đích, gia hạn phương án sử dụng đất kết hợp đa mục đích.",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Đất đai",
+  "trinh_tu_thuc_hien": "a) Trường hợp sử dụng đất kết hợp vào mục đích thương mại, dịch vụ\nBước 1: Người có nhu cầu nộp hồ sơ đến Trung tâm Phục vụ hành chính công hoặc cơ quan có chức năng quản lý đất đai cấp xã.\nKhi nộp hồ sơ, người sử dụng đất được lựa chọn nộp bản sao giấy tờ và xuất trình bản chính để cán bộ tiếp nhận hồ sơ kiểm tra, đối chiếu hoặc nộp bản chính giấy tờ hoặc nộp bản sao giấy tờ đã có công chứng hoặc chứng thực theo quy định của pháp luật về công chứng, chứng thực. Trường hợp nộp hồ sơ theo hình thức trực tuyến thì hồ sơ nộp phải được số hóa từ bản chính hoặc bản sao giấy tờ đã được công chứng, chứng thực. \nTrường hợp Trung tâm Phục vụ hành chính công tiếp nhận hồ sơ thì chuyển hồ sơ đến cơ quan có chức năng quản lý đất đai cấp xã.\nBước 2: Cơ quan có chức năng quản lý đất đai cấp xã chủ trì, phối hợp với các phòng, ban có liên quan thẩm định phương án sử dụng đất kết hợp trình Chủ tịch Ủy ban nhân dân cấp xã. \nBước 3: Chủ tịch Ủy ban nhân dân cấp xã chấp thuận hoặc không chấp thuận phương án sử dụng đất kết hợp; gửi cơ quan tiếp nhận hồ sơ để trả cho người có yêu cầu; trường hợp không chấp thuận thì có văn bản trả lời và nêu rõ lý do.\nb) Trường hợp gia hạn phương án sử dụng đất kết hợp vào mục đích thương mại, dịch vụ\nBước 1: Người có yêu cầu gia hạn gửi văn bản đề nghị đến Trung tâm Phục vụ hành chính công hoặc cơ quan có chức năng quản lý đất đai cấp xã trước khi hết thời gian sử dụng đất kết hợp 30 ngày.\nTrường hợp Trung tâm Phục vụ hành chính công tiếp nhận hồ sơ thì chuyển hồ sơ đến cơ quan có chức năng quản lý đất đai cấp xã.\nBước 2: Cơ quan có chức năng quản lý đất đai cấp xã chủ trì, phối hợp với các phòng, ban có liên quan thẩm định gia hạn phương án sử dụng đất kết hợp trình Chủ tịch Ủy ban nhân dân cấp xã. \nBước 3: Chủ tịch Ủy ban nhân dân cấp xã chấp thuận hoặc không chấp thuận gia hạn phương án sử dụng đất kết hợp; gửi cơ quan tiếp nhận hồ sơ để trả cho người có yêu cầu; trường hợp không chấp thuận thì có văn bản trả lời và nêu rõ lý do.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "15 Ngày",
+      "phí, lệ phí": "Phí :  Đồng (Không quy định.)",
+      "mô tả": "Thời gian thực hiện thủ tục phê duyệt phương án sử dụng đất kết hợp không quá 15 ngày"
+    },
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "25 Ngày",
+      "phí, lệ phí": "Phí :  Đồng (Không quy định.)",
+      "mô tả": "Đối với các xã miền núi, hải đảo, vùng sâu, vùng xa, vùng có điều kiện kinh tế - xã hội khó khăn, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn thì thời gian thực hiện không quá 25 ngày."
+    },
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "07 Ngày làm việc",
+      "phí, lệ phí": "Phí :  Đồng (Không quy định.)",
+      "mô tả": "Thời gian gia hạn phương án sử dụng đất kết hợp là không quá 07 ngày làm việc."
+    },
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "17 Ngày làm việc",
+      "phí, lệ phí": "Phí :  Đồng (Không quy định.)",
+      "mô tả": "Đối với các xã miền núi, biên giới; đảo; vùng có điều kiện kinh tế - xã hội khó khăn; vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn thì thời gian thực hiện không quá 17 ngày làm việc."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "15 Ngày",
+      "phí, lệ phí": "Phí :  Đồng (Không quy định.)",
+      "mô tả": "Thời gian thực hiện thủ tục phê duyệt phương án sử dụng đất kết hợp không quá 15 ngày"
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "25 Ngày",
+      "phí, lệ phí": "Phí :  Đồng (Không quy định.)",
+      "mô tả": "Đối với các xã miền núi, hải đảo, vùng sâu, vùng xa, vùng có điều kiện kinh tế - xã hội khó khăn, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn thì thời gian thực hiện không quá 25 ngày."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "07 Ngày làm việc",
+      "phí, lệ phí": "Phí :  Đồng (Không quy định.)",
+      "mô tả": "Thời gian gia hạn phương án sử dụng đất kết hợp là không quá 07 ngày làm việc."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "17 Ngày làm việc",
+      "phí, lệ phí": "Phí :  Đồng (Không quy định.)",
+      "mô tả": "Đối với các xã miền núi, biên giới; đảo; vùng có điều kiện kinh tế - xã hội khó khăn; vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn thì thời gian thực hiện không quá 17 ngày làm việc."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "15 Ngày",
+      "phí, lệ phí": "Phí :  Đồng (Không quy định.)",
+      "mô tả": "Thời gian thực hiện thủ tục phê duyệt phương án sử dụng đất kết hợp không quá 15 ngày"
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "25 Ngày",
+      "phí, lệ phí": "Phí :  Đồng (Không quy định.)",
+      "mô tả": "Đối với các xã miền núi, hải đảo, vùng sâu, vùng xa, vùng có điều kiện kinh tế - xã hội khó khăn, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn thì thời gian thực hiện không quá 25 ngày."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "07 Ngày làm việc",
+      "phí, lệ phí": "Phí :  Đồng (Không quy định.)",
+      "mô tả": "Thời gian gia hạn phương án sử dụng đất kết hợp là không quá 07 ngày làm việc."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "17 Ngày làm việc",
+      "phí, lệ phí": "Phí :  Đồng (Không quy định.)",
+      "mô tả": "Đối với các xã miền núi, biên giới; đảo; vùng có điều kiện kinh tế - xã hội khó khăn; vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn thì thời gian thực hiện không quá 17 ngày làm việc."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Văn bản đề nghị gia hạn phương án sử dụng đất kết hợp.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam",
+  "co_quan_thuc_hien": "Chủ tịch Ủy ban nhân dân xã",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Không có thông tin",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Phương án sử dụng đất kết hợp đối với trường hợp phê duyệt lần đầu, Văn bản trả lời đối với trường hợp không chấp thuận phương án sử dụng đất kết hợp, Phương án sử dụng đất kết hợp được gia hạn đối với trường hợp xin gia hạn, Văn bản trả lời đối với trường hợp không chấp thuận gia hạn phương án sử dụng đất kết hợp",
+  "yeu_cau_dieu_kien": "a) Điều kiện về các loại đất được sử dụng kết hợp đa mục đích:\n- Đất nông nghiệp được sử dụng kết hợp với mục đích thương mại, dịch vụ, chăn nuôi, trồng cây dược liệu.\n- Đất sử dụng vào mục đích công cộng được kết hợp với mục đích thương mại, dịch vụ.\n- Đất xây dựng công trình sự nghiệp được sử dụng kết hợp với mục đích thương mại, dịch vụ.\n- Đất ở được sử dụng kết hợp với mục đích nông nghiệp, thương mại, dịch vụ, công trình sự nghiệp có mục đích kinh doanh.\n- Đất có mặt nước là ao, hồ, đầm; đất có mặt nước ven biển; đất có mặt nước chuyên dùng và đất sông ngòi, kênh, rạch, suối được sử dụng kết hợp đa mục đích.\n- Đất tôn giáo, đất tín ngưỡng được sử dụng kết hợp với mục đích thương mại, dịch vụ.\n- Đất thuộc nhóm đất nông nghiệp, đất thuộc nhóm đất phi nông nghiệp  được sử dụng kết hợp mục đích nông nghiệp, xây dựng công trình hạ tầng bưu chính, viễn thông, công nghệ, thông tin, quảng cáo ngoài trời, điện mặt trời.\nb) Yêu cầu về việc sử dụng đất kết hợp đa mục đích:\n- Không làm thay đổi loại đất theo phân loại đất quy định và đã được xác định loại đất tại giấy tờ về quyền sử dụng đất theo quy định.\n- Không làm mất đi điều kiện cần thiết để trở lại sử dụng đất vào mục đích chính;\n- Không ảnh hưởng đến quốc phòng, an ninh.\n- Hạn chế ảnh hưởng đến bảo tồn hệ sinh thái tự nhiên, đa dạng sinh học, cảnh quan môi trường.\n- Không làm ảnh hưởng đến việc sử dụng đất của các thửa đất liền kề.\n- Thực hiện đầy đủ nghĩa vụ tài chính theo quy định.\n- Tuân thủ pháp luật có liên quan.\nc) Yêu cầu về phạm vi sử dụng đất kết hợp đa mục đích:\n- Sử dụng đất vào mục đích kết hợp không thuộc trường hợp chuyển mục đích sử dụng đất.\n- Diện tích đất sử dụng vào mục đích kết hợp không quá 50% diện tích đất sử dụng vào mục đích chính, trừ diện tích đất ở sử dụng kết hợp đa mục đích.\n- Công trình xây dựng trên đất nông nghiệp để sử dụng đất kết hợp đa mục đích phải có quy mô, tính chất phù hợp, dễ dàng tháo dỡ. Diện tích đất xây dựng công trình để sử dụng vào mục đích kết hợp trên đất trồng lúa, đất lâm nghiệp thực hiện theo quy định của Nghị định quy định chi tiết về đất trồng lúa và pháp luật về lâm nghiệp. Đất có mặt nước không được san lấp làm thay đổi dòng chảy, diện tích bề mặt nước, chiều sâu tầng nước.\n- Việc xây dựng, cải tạo công trình để sử dụng vào mục đích kết hợp phải phù hợp với quy định của pháp luật về xây dựng và pháp luật khác có liên quan;\n- Thời gian sử dụng đất vào mục đích kết hợp không vượt quá thời hạn sử dụng đất còn lại của mục đích chính.\nd) Đối với trường hợp đã có nội dung sử dụng đất lâm nghiệp kết hợp để xây dựng công trình phục vụ du lịch sinh thái, nghỉ dưỡng, giải trí theo quy định của pháp luật về lâm nghiệp cá nhân sử dụng đất lâm nghiệp có trách nhiệm thực hiện theo quy định của pháp luật về đất đai và pháp luật về lâm nghiệp.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

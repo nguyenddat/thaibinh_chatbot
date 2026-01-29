@@ -1,0 +1,57 @@
+{
+  "ma_thu_tuc": "1.013830.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=392564",
+  "so_quyet_dinh": "1567/QĐ-UBND",
+  "ten_thu_tuc": "Cấp lại Thẻ công chứng viên",
+  "cap_thuc_hien": "Cấp Tỉnh",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Công chứng",
+  "trinh_tu_thuc_hien": "- Công chứng viên thuộc trường hợp cấp lại thẻ công chứng viên lập 01 bộ hồ sơ đề nghị cấp lại thẻ công chứng viên, nộp trực tiếp hoặc qua dịch vụ bưu chính hoặc trực tuyến trên môi trường điện tử đến Sở Tư pháp nơi cấp thẻ công chứng viên. Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp quyết định cấp lại thẻ cho công chứng viên; trường hợp từ chối phải thông báo bằng văn bản có nêu rõ lý do. \n- Trường hợp Văn phòng công chứng thay đổi tên thì việc cấp lại thẻ cho công chứng viên được thực hiện đồng thời với thủ tục thay đổi nội dung đăng ký hoạt động của Văn phòng công chứng.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "05 Ngày làm việc",
+      "phí, lệ phí": "Lệ phí : 100.000 Đồng",
+      "mô tả": "kể từ ngày nhận đủ hồ sơ hợp lệ"
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "05 Ngày làm việc",
+      "phí, lệ phí": "Lệ phí : 100.000 Đồng",
+      "mô tả": "kể từ ngày nhận đủ hồ sơ hợp lệ"
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "05 Ngày làm việc",
+      "phí, lệ phí": "Lệ phí : 100.000 Đồng",
+      "mô tả": "kể từ ngày nhận đủ hồ sơ hợp lệ"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Đơn đề nghị cấp lại thẻ công chứng viên theo Mẫu TP-CC-08 ban hành kèm theo Thông tư số 05/2025/TT-BTP",
+      "mẫu đơn, tờ khai": "nnghcplith_Mu08TT05.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "02 ảnh chân dung cỡ 2cm x 3cm (ảnh chụp không quá 06 tháng trước ngày nộp hồ sơ)",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Thẻ công chứng viên đang sử dụng (trong trường hợp Thẻ bị hỏng)",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam",
+  "co_quan_thuc_hien": "Sở Tư pháp",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Không có thông tin",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Thẻ công chứng viên",
+  "yeu_cau_dieu_kien": "Thẻ công chứng viên được cấp lại trong trường hợp thẻ đã được cấp bị mất, bị hỏng hoặc tổ chức hành nghề công chứng thay đổi tên.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

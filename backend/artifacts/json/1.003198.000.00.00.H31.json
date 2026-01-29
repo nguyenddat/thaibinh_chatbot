@@ -1,0 +1,57 @@
+{
+  "ma_thu_tuc": "1.003198.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=388648",
+  "so_quyet_dinh": "1491/QĐ-UBND",
+  "ten_thu_tuc": "Cấp giấy xác nhận công dân Việt Nam ở trong nước đủ điều kiện nhận trẻ em nước ngoài làm con nuôi",
+  "cap_thuc_hien": "Cấp Tỉnh",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Nuôi con nuôi",
+  "trinh_tu_thuc_hien": "- Công dân Việt Nam ở trong nước nộp hồ sơ cho Sở Tư pháp nơi công dân Việt Nam cư trú để được xem xét, cấp giấy xác nhận đủ điều kiện nhận trẻ em nước ngoài làm con nuôi;\n- Sở Tư pháp xem xét, trình Chủ tịch Ủy ban nhân dân cấp tỉnh cấp giấy xác nhận người nhận con nuôi có đủ điều kiện nuôi con nuôi theo quy định của pháp luật Việt Nam.\nTrong quá trình xem xét, cơ quan thực hiện thủ tục hành chính có trách nhiệm yêu cầu cơ quan quản lý dữ liệu lý lịch tư pháp cung cấp thông tin lý lịch tư pháp. \nCơ quan quản lý cơ sở dữ liệu lý lịch tư pháp có trách nhiệm cung cấp thông tin cho cơ quan yêu cầu trong thời hạn không quá 03 ngày làm việc kể từ ngày nhận được yêu cầu. Thời gian phối hợp cung cấp thông tin lý lịch tư pháp không tính vào thời gian giải quyết thủ tục hành chính.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "Theo mô tả",
+      "phí, lệ phí": "",
+      "mô tả": "Cách thức thực hiện : Gửi hồ sơ trực tiếp hoặc qua dịch vụ bưu chính đến Sở Tư pháp nơi công dân Việt Nam cư trú hoặc trực tuyến trên Cổng dịch vụ công quốc gia.\nThời hạn giải quyết : Trong thời hạn 15 ngày, kể từ ngày nhận được đủ hồ sơ hợp lệ. Trường hợp cần xác minh thì thời hạn có thể kéo dài nhưng không quá 30 ngày."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "Theo mô tả",
+      "phí, lệ phí": "",
+      "mô tả": "Cách thức thực hiện : Gửi hồ sơ trực tiếp hoặc qua dịch vụ bưu chính đến Sở Tư pháp nơi công dân Việt Nam cư trú hoặc trực tuyến trên Cổng dịch vụ công quốc gia.\nThời hạn giải quyết : Trong thời hạn 15 ngày, kể từ ngày nhận được đủ hồ sơ hợp lệ. Trường hợp cần xác minh thì thời hạn có thể kéo dài nhưng không quá 30 ngày."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "Theo mô tả",
+      "phí, lệ phí": "",
+      "mô tả": "Cách thức thực hiện : Gửi hồ sơ trực tiếp hoặc qua dịch vụ bưu chính đến Sở Tư pháp nơi công dân Việt Nam cư trú hoặc trực tuyến trên Cổng dịch vụ công quốc gia.\nThời hạn giải quyết : Trong thời hạn 15 ngày, kể từ ngày nhận được đủ hồ sơ hợp lệ. Trường hợp cần xác minh thì thời hạn có thể kéo dài nhưng không quá 30 ngày."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "- Đơn xin nhận  con  nuôi;",
+      "mẫu đơn, tờ khai": "1.nxinnhnconnui.doc",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Bản chính hoặc bản điện tử Giấy khám sức khỏe do Bệnh viện đa khoa hoặc Phòng khám đa khoa hoặc Trung tâm y tế khu vực cấp có giá trị sử dụng nếu được cấp chưa quá 06 tháng, tính đến ngày nộp hồ sơ tại cơ quan có thẩm quyền;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Bản chính hoặc bản sao có chứng thực hoặc bản sao điện tử văn bản xác nhận hoàn cảnh gia đình, tình trạng chỗ ở, điều kiện kinh tế do UBND cấp xã nơi người nhận con nuôi thường trú cấp có giá trị sử dụng nếu được cấp chưa quá 06 tháng, tính đến ngày nộp hồ sơ tại cơ quan có thẩm quyền, trừ trường hợp cha dượng nhận con riêng của vợ, mẹ kế nhận con riêng của chồng làm con nuôi hoặc cô, cậu, dì, chú, bác ruột nhận cháu làm con nuôi.",
+      "mẫu đơn, tờ khai": "2.Vnbnxcnhnhoncnhgianhchiukinkinht.doc",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam",
+  "co_quan_thuc_hien": "Ủy ban nhân dân cấp tỉnh",
+  "co_quan_co_tham_quyen": "Chủ tịch ủy ban nhân dân cấp tỉnh",
+  "dia_chi_tiep_nhan": "Trụ sở Bộ Tư pháp, 60 Trần Phú, Ba Đình, Hà Nội",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Sở Tư pháp",
+  "ket_qua_thuc_hien": "Giấy xác nhận đủ điều kiện nhận trẻ em nước ngoài làm con nuôi",
+  "yeu_cau_dieu_kien": "Người xin nhận con nuôi phải có đủ các điều kiện sau đây:\n     \t- Có năng lực hành vi dân sự đầy đủ;\n      \t- Hơn con nuôi từ 20 tuổi trở lên – không áp dụng đối với trường hợp cha dượng nhận con riêng của vợ, mẹ kế nhận con riêng của chồng làm con nuôi hoặc cô, cậu, dì, chú bác ruột nhận cháu làm con nuôi;\n      \t- Có điều kiện về sức khỏe, kinh tế, chỗ ở bảo đảm việc chăm sóc, nuôi dưỡng, giáo dục con nuôi - không áp dụng đối với trường hợp cha dượng nhận con riêng của vợ, mẹ kế nhận con riêng của chồng làm con nuôi hoặc cô, cậu,dì, chú bác ruột nhận cháu làm con nuôi;\n      \t-  Có tư cách đạo đức tốt.\nCác trường hợp không được nhận con nuôi\n- Đang bị hạn chế một số quyền của cha, mẹ đối với con chưa thành niên;\n- Đang chấp hành quyết định xử lý hành chính tại cơ sở giáo dục, cơ sở chữa bệnh;\n- Đang chấp hành hình phạt tù;\n- Chưa được xóa án tích về một trong các tội cố ý xâm phạm tính mạng, sức khoẻ, nhân phẩm, danh dự của người khác; ngược đãi hoặc hành hạ ông bà, cha mẹ, vợ chồng, con, cháu, người có công nuôi dưỡng mình; dụ dỗ, ép buộc hoặc chứa chấp người chưa thành niên vi phạm pháp luật; mua bán, đánh tráo, chiếm đoạt trẻ em.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

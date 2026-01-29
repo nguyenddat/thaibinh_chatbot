@@ -1,0 +1,47 @@
+{
+  "ma_thu_tuc": "1.003622.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "2828/QĐ-UBND",
+  "ten_thu_tuc": "Thủ tục thông báo tổ chức lễ hội cấp xã",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Văn hóa",
+  "trinh_tu_thuc_hien": "Đơn vị tổ chức lễ hội truyền thống, lễ hội văn hóa, lễ hội ngành nghề cấp xã được tổ chức hàng năm phải gửi văn bản thông báo đến Ủy ban nhân dân cấp xã (trực tiếp, qua bưu điện hoặc nộp trực tuyến) trước ngày dự kiến tổ chức lễ hội ít nhất 20 ngày.\nTrong thời hạn 15 ngày, kể từ ngày Ủy ban nhân dân cấp xã nhận được thông báo, nếu không có ý kiến trả lời thì đơn vị gửi thông báo được tổ chức lễ hội theo nội dung thông báo. Trường hợp không đồng ý với nội dung thông báo, cơ quan tiếp nhận phải trả lời bằng văn bản và nêu rõ lý do.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "15 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "Trong thời hạn 15 ngày, kể từ ngày Ủy ban nhân dân cấp xã nhận được thông báo, nếu không có ý kiến trả lời thì đơn vị gửi thông báo được tổ chức lễ hội theo nội dung thông báo."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "15 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "Trong thời hạn 15 ngày, kể từ ngày Ủy ban nhân dân cấp xã nhận được thông báo, nếu không có ý kiến trả lời thì đơn vị gửi thông báo được tổ chức lễ hội theo nội dung thông báo."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "15 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "Trong thời hạn 15 ngày, kể từ ngày Ủy ban nhân dân cấp xã nhận được thông báo, nếu không có ý kiến trả lời thì đơn vị gửi thông báo được tổ chức lễ hội theo nội dung thông báo."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Văn bản thông báo tổ chức lễ hội gồm những nội dung: (1) Tên lễ hội, sự cần thiết về việc tổ chức lễ hội;  (2) Thời gian, địa điểm, quy mô và các hoạt động của lễ hội; (3) Dự kiến thành phần, số lượng khách mời; (4) Dự kiến thành phần Ban tổ chức lễ hội; (5) Phương án bảo đảm an ninh trật tự, an toàn xã hội, phòng chống cháy nổ, bảo vệ môi trường.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Ủy ban nhân dân cấp Huyện",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Không có thông tin",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Văn bản trả lời về việc thông báo tổ chức lễ hội (nếu không đồng ý)",
+  "yeu_cau_dieu_kien": "Không có",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

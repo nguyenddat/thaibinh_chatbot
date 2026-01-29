@@ -1,0 +1,52 @@
+{
+  "ma_thu_tuc": "1.002693.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1498/QĐ-UBND",
+  "ten_thu_tuc": "Cấp giấy phép chặt hạ, dịch chuyển cây xanh",
+  "cap_thuc_hien": "Cấp Tỉnh, Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Hạ tầng kỹ thuật",
+  "trinh_tu_thuc_hien": "1. Gửi hồ sơ xin cấp phép:  Gửi hồ sơ đề nghị cấp giấy phép chặt hạ, dịch chuyển cây xanh tới cơ quan được phân cấp quản lý cây xanh theo quy định của Uỷ ban nhân dân cấp tỉnh.\n2. Xem xét và cấp giấy phép: Sau khi nhận đủ hồ sơ hợp lệ cơ quan được phân cấp quản lý cây xanh cấp giấy phép theo quy định.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "15 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "Không quá 15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ"
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "15 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "Không quá 15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ"
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "15 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "Không quá 15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Đơn đề nghị cấp giấy phép chặt hạ, dịch chuyển cây xanh đô thị; nêu rõ vị trí chặt hạ, dịch chuyển, kích thước loại cây và lý do cần chặt hạ, dịch chuyển cây xanh đô thị",
+      "mẫu đơn, tờ khai": "MuPhlc.docx",
+      "số lượng": "Bản chính: 0\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Ảnh chụp hiện trạng cây xanh đô thị cần chặt hạ, dịch chuyển",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã",
+  "co_quan_thuc_hien": "Ủy ban Nhân dân xã, phường, thị trấn.",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Không có thông tin",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Giấy phép chặt hạ, di dời cây xanh",
+  "yeu_cau_dieu_kien": "1. Cây xanh đã chết, đã đổ gãy hoặc có nguy cơ gãy đổ gây nguy hiểm;\n2. Cây xanh chết do bị bệnh hoặc đến tuổi già cỗi không bảo đảm an toàn;\n3. Cây xanh trong các khu vực thực hiện dự án đầu tư xây dựng công trình.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

@@ -1,0 +1,77 @@
+{
+  "ma_thu_tuc": "1.009454.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1610/QĐ-UBND",
+  "ten_thu_tuc": "Công bố hoạt động bến thủy nội địa",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Hàng hải và đường thủy nội địa",
+  "trinh_tu_thuc_hien": "b) Giải quyết TTHC:\nTrong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định, Sở Giao thông vận tải ban hành quyết định công bố hoạt động bến thủy nội địa.\na) Nộp hồ sơ TTHC:\nCá nhân, tổ chức có nhu cầu công bố hoạt động bến thủy nội địa nộp hồ sơ đến Sở Giao thông vận tải.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "5 Ngày làm việc",
+      "phí, lệ phí": "Phí : 100000 Đồng (100.000 đồng/lần)",
+      "mô tả": "Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "5 Ngày làm việc",
+      "phí, lệ phí": "Phí : 100000 Đồng (100.000 đồng/lần)",
+      "mô tả": "Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "5 Ngày làm việc",
+      "phí, lệ phí": "Phí : 100000 Đồng (100.000 đồng/lần)",
+      "mô tả": "Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "- Bản sao có chứng thực quyết định phê duyệt dự án đầu tư xây dựng bến thủy nội địa của cơ quan có thẩm quyền hoặc bản sao và xuất trình bản chính để đối chiếu đối với bến thủy nội địa có dự án đầu tư xây dựng;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "- Bản sao có chứng thực giấy tờ về sử dụng đất để xây dựng bến thủy nội địa hoặc bản sao và xuất trình bản chính để đối chiếu, trừ trường hợp là bến phao;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "- Bản sao có chứng thực quyết định phê duyệt báo cáo kinh tế - kỹ thuật của chủ đầu tư (đối với bến thủy nội địa có dự án đầu tư xây dựng) hoặc phương án khai thác bến thủy nội địa;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "- Biên bản nghiệm thu hoàn thành công trình, bản vẽ hoàn công mặt bằng, mặt chiếu đứng, mặt cắt ngang công trình đối với bến thủy nội địa có dự án đầu tư xây dựng;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Bản sao giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường của kết cấu nổi, phương tiện, pông-tông hoặc phao neo thuộc diện phải đăng kiểm (nếu sử dụng kết cấu nổi, phương tiện, pông-tông làm cầu bến hoặc bến phao).",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "(Trường hợp gửi hồ sơ trực tuyến, thành phần hồ sơ là bản chính hoặc bản sao điện tử các thành phần hồ sơ tương ứng theo quy định)..",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Đơn đề nghị công bố hoạt động bến thủy nội địa theo mẫu;",
+      "mẫu đơn, tờ khai": "22.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã",
+  "co_quan_thuc_hien": "Sở Giao thông vận tải TP.Đà Nẵng",
+  "co_quan_co_tham_quyen": "Sở Giao thông vận tải TP.Đà Nẵng",
+  "dia_chi_tiep_nhan": "Bộ phận Một cửa cấp huyện",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định công bố hoạt động bến thủy nội địa.",
+  "yeu_cau_dieu_kien": "Không có",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

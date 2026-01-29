@@ -1,0 +1,47 @@
+{
+  "ma_thu_tuc": "1.013037.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=423641",
+  "so_quyet_dinh": "63/QĐ-UBND",
+  "ten_thu_tuc": "Hủy hồ sơ công bố đủ điều kiện điều trị nghiện các chất dạng thuốc phiện bằng thuốc thay thế",
+  "cap_thuc_hien": "Cấp Tỉnh",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Phòng bệnh",
+  "trinh_tu_thuc_hien": "Trường hợp 1: Hủy hồ sơ công bố đủ điều kiện đối với cơ sở điều trị bị đình chỉ sau khi hết thời hạn bị đình chỉ\nBước 1: Trong thời hạn 05 ngày làm việc, trước ngày hết thời hạn bị đình chỉ theo quyết định xử phạt vi phạm hành chính, cơ sở điều trị bị đình chỉ gửi hồ sơ khắc phục vi phạm về Sở Y tế.\nBước 2: Trong thời hạn 05 ngày làm việc, kể từ ngày tiếp nhận đủ hồ sơ khắc phục vi phạm của cơ sở điều trị bị đình chỉ, Sở Y tế có trách nhiệm xem xét hồ sơ khắc phục vi phạm:\nTrường hợp cơ sở điều trị bị đình chỉ không khắc phục các vi phạm hoặc việc khắc phục các vi phạm không đáp ứng các quy định tại Điều 16 hoặc Điều 17 hoặc Điều 18 Nghị định số 141/2024/NĐ-CP, Sở Y tế thực hiện việc hủy hồ sơ công bố của cơ sở điều trị bị đình chỉ trên Trang thông tin điện tử của Sở Y tế.\nTrường hợp 2: Hủy hồ sơ công bố đủ điều kiện đối với cơ sở điều trị đề nghị dừng hoạt động\nBước 1: Trong thời hạn 30 ngày trước ngày chấm dứt hoạt động, cơ sở điều trị đề nghị hủy hồ sơ công bố có trách nhiệm thông báo bằng văn bản về Sở Y tế nơi đã công bố hồ sơ của cơ sở điều trị. \nBước 2: Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được văn bản thông báo của cơ sở điều trị, Sở Y tế thực hiện thủ tục hủy hồ sơ công bố của cơ sở điều trị trên Trang thông tin điện tử của Sở Y tế.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "5 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": ""
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "5 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": ""
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "5 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": ""
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Văn bản thông báo đề nghị hủy hồ sơ công bố của cơ sở điều trị",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã",
+  "co_quan_thuc_hien": "Sở Y tế",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Không có thông tin",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Hồ sơ của cơ sở điều trị đã công bố trên Trang thông tin điện tử của Sở Y tế được hủy bỏ",
+  "yeu_cau_dieu_kien": "*) Trường hợp 1: Hủy hồ sơ công bố đủ điều kiện đối với cơ sở điều trị bị đình chỉ sau khi hết thời hạn bị đình chỉ\nHồ sơ khắc phục vi phạm của cơ sở điều trị bị đình chỉ không đáp ứng các quy định tại Điều 16 hoặc Điều 17 hoặc Điều 18 Nghị định số 141/2024/NĐ-CP. \n*) Trường hợp 2: Hủy hồ sơ công bố đủ điều kiện đối với cơ sở điều trị đề nghị dừng hoạt động\nKhông quy định.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

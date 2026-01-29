@@ -1,0 +1,52 @@
+{
+  "ma_thu_tuc": "1.012956.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=360699",
+  "so_quyet_dinh": "1535/QĐ-UBND",
+  "ten_thu_tuc": "Giải thể trường trung học phổ thông, trường phổ thông có nhiều cấp học có cấp học cao nhất là trung học phổ thông (theo đề nghị của cá nhân, tổ chức thành lập trường)",
+  "cap_thuc_hien": "Cấp Tỉnh",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Giáo dục trung học",
+  "trinh_tu_thuc_hien": "a) Cơ quan, tổ chức, cá nhân gửi 01 bộ hồ sơ quy định tại điểm b khoản 3 Điều 31 Nghị định số 125/2024/NĐ-CP qua cổng dịch vụ công trực tuyến hoặc bưu chính hoặc trực tiếp đến Ủy ban nhân dân cấp tỉnh.\nb) Trong thời hạn 20 ngày, kể từ ngày nhận được hồ sơ đề nghị giải thể trường, Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định việc giải thể trường trung học phổ thông, trường phổ thông có nhiều cấp học có cấp học cao nhất là trung học phổ thông; nếu chưa quyết định giải thể thì thông báo bằng văn bản cho cơ quan, tổ chức, cá nhân đề nghị giải thể và nêu rõ lý do.\nQuyết định giải thể trường trung học phổ thông được công bố công khai trên các phương tiện thông tin đại chúng.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "20 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "20 ngày, kể từ ngày nhận được hồ sơ đề nghị giải thể trường"
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "20 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "20 ngày, kể từ ngày nhận được hồ sơ đề nghị giải thể trường"
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "20 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "20 ngày, kể từ ngày nhận được hồ sơ đề nghị giải thể trường"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Tờ trình đề nghị giải thể của cơ quan, tổ chức, cá nhân thành lập trường (theo Mẫu số 06 Phụ lục II kèm theo Nghị định 142/2025/NĐ-CP).",
+      "mẫu đơn, tờ khai": "Mus06PLII.doc",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "Đề án giải thể trường trung học (theo Mẫu số 07 Phụ lục II kèm theo Nghị định 142/2025/NĐ-CP).",
+      "mẫu đơn, tờ khai": "Mus07PLII.doc",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Ủy ban nhân dân cấp tỉnh",
+  "co_quan_co_tham_quyen": "Chủ tịch ủy ban nhân dân cấp tỉnh",
+  "dia_chi_tiep_nhan": "Trung tâm Phục vụ hành chính công và Kiểm soát TTHC tỉnh Hưng Yên, số 02 đường Chùa Chuông, phường Hiến Nam, thành phố Hưng Yên, tỉnh Hưng Yên + Nộp hồ sơ: điểm tiếp nhận hồ sơ Sở Giáo dục và Đào tạo + Nhận kết quả: điểm trả kết quả tập trung",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định giải thể trường trung học phổ thông, trường phổ thông có nhiều cấp học có cấp học cao nhất là trung học phổ thông của Ủy ban nhân dân cấp tỉnh",
+  "yeu_cau_dieu_kien": "Không.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

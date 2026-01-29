@@ -1,0 +1,61 @@
+{
+  "ma_thu_tuc": "2.001191.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=125324",
+  "so_quyet_dinh": "2745/QĐ-UBND",
+  "ten_thu_tuc": "Kiểm tra nhà nước về an toàn thực phẩm đối với thực phẩm nhập khẩu theo phương thức kiểm tra chặt",
+  "cap_thuc_hien": "Cơ quan khác",
+  "loai_thu_tuc": "TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết",
+  "linh_vuc": "An toàn thực phẩm",
+  "trinh_tu_thuc_hien": "Bước 3:\nChủ hàng có trách nhiệm nộp Thông báo kết quả xác nhận thực phẩm đạt yêu cầu nhập khẩu cho cơ quan hải quan để thông quan hàng hóa\nTrường hợp ra Thông báo kết quả xác nhận thực phẩm không đạt yêu cầu nhập khẩu theo quy định tại điểm b khoản 2, điểm b khoản 3 Điều 19 Nghị định số 15/2018/NĐ-CP, cơ quan kiểm tra nhà nước quyết định các biện pháp xử lý theo các hình thức quy định tại khoản 3 Điều 55 Luật an toàn thực phẩm và báo cáo kết quả xử lý thực phẩm không đạt yêu cầu nhập khẩu với Bộ quản lý chuyên ngành\nBước 1:\nThực hiện quy định tại điểm a khoản 2 Điều 18 Nghị định số 15/2018/NĐ-CP;\nBước 2:\n Trong thời hạn 07 (bảy) ngày làm việc, kể từ ngày nhận hồ sơ, cơ quan kiểm tra nhà nước có trách nhiệm kiểm tra hồ sơ, tiến hành lấy mẫu, kiểm nghiệm các chỉ tiêu an toàn thực phẩm theo yêu cầu và ra thông báo thực phẩm đạt hoặc không đạt yêu cầu nhập khẩu theo Mẫu số 05 Phụ lục I ban hành kèm theo Nghị định số 15/2018/NĐ-CP của Chính phủ. Trường hợp yêu cầu bổ sung hồ sơ thì phải nêu rõ lý do và căn cứ pháp lý của việc yêu cầu;",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "7 Ngày làm việc",
+      "phí, lệ phí": "Phí : 1.500.000 đồng/lô hàng + (số mặt hàng x 100.000 nghìn đồng), tối đa 10.000.000 đồng/lô hàng  Đồng",
+      "mô tả": "Nộp hồ sơ đến cơ quan kiểm tra nhà nước"
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "7 Ngày làm việc",
+      "phí, lệ phí": "Phí : 1.500.000 đồng/lô hàng + (số mặt hàng x 100.000 nghìn đồng), tối đa 10.000.000 đồng/lô hàng  Đồng",
+      "mô tả": "Cổng thông tin một cửa quốc gia"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Bản tự công bố sản phẩm theo quy định;",
+      "mẫu đơn, tờ khai": "Phu luc I mau 02 ND15.2018.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "03 (ba) Thông báo kết quả xác nhận thực phẩm đạt yêu cầu nhập khẩu liên tiếp theo phương thức kiểm tra chặt đối với các lô hàng, mặt hàng được chuyển đổi phương thức từ kiểm tra chặt sang kiểm tra thông thường (bản chính);",
+      "mẫu đơn, tờ khai": "Phu luc 1 mau 05 ND15.2018.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Bản sao Danh mục hàng hóa (Packing list);",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "Trong trường hợp sản phẩm quy định tại Điều 14 Nghị định số 15/2018/NĐ-CP của Chính phủ thì phải có giấy chứng nhận đáp ứng các quy định về an toàn thực phẩm do cơ quan có thẩm quyền của nước xuất khẩu cấp (bản chính), trừ trường hợp thủy sản do tàu cá nước ngoài thực hiện đánh bắt, chế biến trên biến bán trực tiếp cho Việt Nam.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Giấy đăng ký kiểm tra thực phẩm nhập khẩu theo quy định tại Mẫu số 04 Phụ lục I ban hành kèm theo Nghị định số 15/2018/NĐ-CP của Chính phủ;",
+      "mẫu đơn, tờ khai": "Phu luc I mau 04 ND15.2018.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã",
+  "co_quan_thuc_hien": "Sở Y tế - Tỉnh Hưng Yên",
+  "co_quan_co_tham_quyen": "Sở Y tế - Tỉnh Hưng Yên",
+  "dia_chi_tiep_nhan": "Trung tâm phục vụ HCC tỉnh Hưng Yên",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Giấy thông báo thực phẩm đạt hoặc không đạt yêu cầu nhập khẩu",
+  "yeu_cau_dieu_kien": "Điều 17. Áp dụng phương thức kiểm tra\n\nKiểm tra chặt áp dụng đối với lô hàng, mặt hàng nhập khẩu thuộc một trong các trường hợp sau đây:\n\na) Lô hàng, mặt hàng không đạt yêu cầu nhập khẩu tại lần kiểm tra trước đó;\n\nb) Lô hàng, mặt hàng không đạt yêu cầu trong các lần thanh tra, kiểm tra (nếu có);\n\nc) Có cảnh báo của Bộ Y tế, Bộ Nông nghiệp và Phát triển nông thôn, Bộ Công Thương, Ủy ban nhân dân cấp tỉnh hoặc của cơ quan có thẩm quyền tại nước ngoài hoặc của nhà sản xuất",
+  "tu_khoa": "An toàn thực phẩm và Dinh dưỡng",
+  "mo_ta": "Không có thông tin"
+}

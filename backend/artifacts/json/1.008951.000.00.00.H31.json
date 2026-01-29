@@ -1,0 +1,52 @@
+{
+  "ma_thu_tuc": "1.008951.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=265938",
+  "so_quyet_dinh": "281/QĐ-UBND",
+  "ten_thu_tuc": "Hỗ trợ đối với giáo viên mầm non làm việc tại cơ sở giáo dục mầm non dân lập, tư thục ở địa bàn có khu công nghiệp",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Giáo dục và Đào tạo thuộc hệ thống giáo dục quốc dân",
+  "trinh_tu_thuc_hien": "Tháng 8 hằng năm, người đại diện theo pháp luật của cơ sở giáo dục mầm non dân lập, tư thục gửi 01 bộ hồ sơ theo quy định, trực tiếp hoặc qua bưu điện hoặc trực tuyến đến phòng giáo dục và đào tạo\nTrong vòng 10 ngày làm việc, kể từ khi nhận được hồ sơ của cơ sở giáo dục mầm non, phòng giáo dục và đào tạo tổ chức thẩm định hồ sơ, tổng hợp danh sách giáo viên được hưởng chính sách gửi cơ quan tài chính cùng cấp thẩm định, báo cáo cơ quan có thẩm quyền phê duyệt theo quy định của Luật Ngân sách nhà nước\nTrong vòng 07 ngày làm việc, kể từ khi nhận được hồ sơ của phòng giáo dục và đào tạo, Ủy ban nhân dân cấp huyện phê duyệt danh sách giáo viên được hưởng chính sách và thông báo kết quả cho cơ sở giáo dục mầm non\nSau khi được cấp có thẩm quyền phê duyệt, cơ sở giáo dục mầm non thông báo công khai danh sách giáo viên được hưởng chính sách\nPhương thức thực hiện\nCơ sở giáo dục mầm non chịu trách nhiệm tiếp nhận kinh phí và chi trả kinh phí hỗ trợ trực tiếp bằng tiền mặt hoặc chuyển khoản cho giáo viên;\nThời gian chi trả thực hiện 2 lần trong năm học: lần 1 chi trả vào tháng 12 hằng năm; lần 2 chi trả đủ các tháng còn lại vào tháng 5 hằng năm;\nTrường hợp giáo viên chưa nhận được kinh phí hỗ trợ theo thời hạn quy định thì được truy lĩnh trong kỳ chi trả tiếp theo;\nTrường hợp giáo viên nghỉ việc, cơ sở giáo dục mầm non có trách nhiệm báo cáo phòng giáo dục và đào tạo, phòng giáo dục và đào tạo trình Ủy ban nhân dân cấp huyện dừng thực hiện chi trả chính sách.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "17 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Tối đa 17 ngày làm việc kể từ ngày nhận được hồ sơ của cơ sở giáo dục mầm non dân lập, tư thục"
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "17 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Tối đa 17 ngày làm việc kể từ ngày nhận được hồ sơ của cơ sở giáo dục mầm non dân lập, tư thục"
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "17 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Tối đa 17 ngày làm việc kể từ ngày nhận được hồ sơ của cơ sở giáo dục mầm non dân lập, tư thục"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Danh sách giáo viên được hưởng chính sách (Mẫu số 05 quy định tại Phụ lục kèm theo Nghị định 105/2020/NĐ-CP)",
+      "mẫu đơn, tờ khai": "Mẫu số 05_ND105.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Bản sao kèm bản chính để đối chiếu hoặc bản sao có chứng thực Hợp đồng lao động của giáo viên được hưởng chính sách",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Phòng Giáo dục và Đào tạo",
+  "co_quan_co_tham_quyen": "UBND cấp huyện",
+  "dia_chi_tiep_nhan": "Phòng Giáo dục và Đào tạo",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Cơ sở giáo dục mầm non công lập, ngoài công lập",
+  "ket_qua_thuc_hien": "Danh sách giáo viên được hưởng chính sách",
+  "yeu_cau_dieu_kien": "Đối tượng hưởng chính sách: Giáo viên mầm non đang làm việc tại cơ sở giáo dục mầm non thuộc loại hình dân lập, tư thục đã được cơ quan có thẩm quyền cấp phép thành lập và hoạt động theo quy định ở địa bàn có khu công nghiệp bảo đảm những điều kiện sau:\n- Có trình độ chuẩn đào tạo chức danh giáo viên mầm non theo quy định;\n- Có hợp đồng lao động với người đại diện theo pháp luật của cơ sở giáo dục mầm non dân lập, tư thục;\n- Trực tiếp chăm sóc, giáo dục trẻ tại nhóm trẻ/lớp mẫu giáo có từ 30% trẻ em là con công nhân, người lao động làm việc tại khu công nghiệp.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

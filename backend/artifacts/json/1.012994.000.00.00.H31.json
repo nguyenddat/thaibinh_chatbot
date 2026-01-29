@@ -1,0 +1,62 @@
+{
+  "ma_thu_tuc": "1.012994.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1600/QĐ-UBND",
+  "ten_thu_tuc": "Khấu trừ kinh phí bồi thường, hỗ trợ, tái định cư",
+  "cap_thuc_hien": "Cấp Tỉnh, Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Tài chính đất đai",
+  "trinh_tu_thuc_hien": "a1)  Người sử dụng đất phối hợp với đơn vị, Tổ chức làm nhiệm vụ bồi thường, hỗ trợ, tái định cư lập và nộp Hồ sơ đề nghị khấu trừ kinh phí bồi thường, hỗ trợ, tái định cư cùng với hồ sơ xác định nghĩa vụ tài chính về tiền sử dụng đất, tiền thuê đất tại Văn phòng đăng ký đất đai hoặc cơ quan có chức năng quản lý đất đai hoặc bộ phận một cửa liên thông. \na2) Văn phòng đăng ký đất đai hoặc cơ quan có chức năng quản lý đất đai hoặc bộ phận một cửa liên thông chuyển các hồ sơ quy định tại điểm a khoản 2 Điều 16 Nghị định số 103/2024/NĐ-CP ngày 31/7/2024 của Chính phủ cho Ủy ban nhân dân cấp xã.\na3) Căn cứ vào chứng từ, hồ sơ quy định tại điểm b khoản 2 Điều 16 Nghị định số 103/2024/NĐ-CP ngày 31/7/2024 của Chính phủ, Ủy ban nhân dân cấp xã thực hiện rà soát và có văn bản xác nhận số tiền bồi thường, hỗ trợ, tái định cư được trừ vào tiền sử dụng đất, tiền thuê đất gửi cho cơ quan thuế thực hiện việc trừ số tiền ứng trước vào tiền sử dụng đất, tiền thuê đất.\nTrường hợp giải phóng mặt bằng trên địa bàn từ 02 xã trở lên thì Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định việc giao cơ quan thuộc Ủy ban nhân dân cấp tỉnh hoặc Ủy ban nhân dân cấp xã xác nhận số tiền bồi thường, hỗ trợ, tái định cư được trừ vào tiền sử dụng đất, tiền thuê đất phải nộp.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "30 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "30 ngày kể từ ngày nhận đủ hồ sơ"
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "30 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "nộp điện tử trong trường hợp đã có chữ ký số"
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "30 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "30 ngày kể từ ngày nhận đủ hồ sơ"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Phương án bồi thường, hỗ trợ, tái định cư được cơ quan nhà nước có thẩm quyền phê duyệt",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "Chứng từ chuyển tiền của người thực hiện dự án cho đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "Bảng kê thanh toán kinh phí bồi thường, hỗ trợ, tái định cư do đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư lập; trong đó có các nội dung về số tiền đã chi trả, số chứng từ chi trả, ngày, tháng chi tiền, người nhận tiề",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Văn bản của người thực hiện dự án đề nghị được khấu trừ kinh phí bồi thường, hỗ trợ, tái định cư",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã",
+  "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã, Ủy ban nhân dân cấp tỉnh",
+  "co_quan_co_tham_quyen": "Ủy ban nhân dân cấp xã, Ủy ban nhân dân cấp tỉnh",
+  "dia_chi_tiep_nhan": "Không có thông tin",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Văn bản xác nhận số tiền bồi thường, hỗ trợ, tái định cư được trừ vào tiền sử dụng đất, tiền thuê đất của Ủy ban nhân dân cấp huyện gửi cho cơ quan thuế thực hiện việc trừ số tiền ứng trước vào tiền sử dụng đất, tiền thuê đất.",
+  "yeu_cau_dieu_kien": "Người thực hiện dự án tự nguyện ứng trước kinh phí bồi thường, hỗ trợ, tái định cư theo phương án bồi thường, hỗ trợ, tái định cư đã được cơ quan có thẩm quyền phê duyệt.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

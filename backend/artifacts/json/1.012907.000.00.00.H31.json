@@ -1,0 +1,57 @@
+{
+  "ma_thu_tuc": "1.012907.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=356704",
+  "so_quyet_dinh": "1610/QĐ-UBND",
+  "ten_thu_tuc": "Cấp lại chứng chỉ hành nghề môi giới bất động sản (trong trường hợp chứng chỉ bị cháy, bị mất, bị rách, bị hủy hoại do thiên tai hoặc lý do bất khả kháng khác)",
+  "cap_thuc_hien": "Cấp Tỉnh",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Kinh doanh bất động sản",
+  "trinh_tu_thuc_hien": "- Người có chứng chỉ bị mất, bị rách, bị cháy, bị hủy hoại chứng chỉ do thiên tai hoặc lý do bất khả kháng khác thì nộp 01 bộ hồ sơ trực tiếp đến UBND cấp tỉnh. Số chứng chỉ là số chứng chỉ cũ. Thời hạn chứng chỉ là 05 năm kể từ ngày cấp chứng chỉ lần đầu. Người xin cấp lại chứng chỉ nộp kinh phí theo quy định của pháp luật về phí và lệ phí cho Ủy ban nhân dân cấp tỉnh để chuẩn bị cho việc cấp lại chứng chỉ.\n- Trong thời hạn 10 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định tại khoản 9 Điều 31 Nghị định 96/2024/NĐ-CP ngày 24/7/2024 của Chính phủ quy định chi tiết một số điều của Luật Kinh doanh bất động sản, Ủy ban nhân dân cấp tỉnh đã cấp chứng chỉ có trách nhiệm kiểm tra lại hồ sơ và cấp lại chứng chỉ.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "10 Ngày",
+      "phí, lệ phí": "Phí :  Đồng (theo quy định của pháp luật về phí và lệ phí)",
+      "mô tả": "trong thời hạn 10 ngày  kể từ ngày nhận hồ sơ nhận đủ hồ sơ hợp lệ."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "10 Ngày",
+      "phí, lệ phí": "Phí :  Đồng (theo quy định của pháp luật về phí và lệ phí)",
+      "mô tả": "trong thời hạn 10 ngày  kể từ ngày nhận hồ sơ nhận đủ hồ sơ hợp lệ."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "10 Ngày",
+      "phí, lệ phí": "Phí :  Đồng (theo quy định của pháp luật về phí và lệ phí)",
+      "mô tả": "trong thời hạn 10 ngày  kể từ ngày nhận hồ sơ nhận đủ hồ sơ hợp lệ."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "02 ảnh cỡ 4x6cm chụp trong thời gian 06 tháng tính đến ngày nộp hồ sơ;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "Chứng chỉ cũ (nếu có).",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "Đơn xin cấp lại chứng chỉ có dán ảnh (theo mẫu tại Phụ lục XXVII Nghị định số 96/2024/NĐ-CP ngày 24/7/2024 của Chính phủ quy định chi tiết một số điều của Luật Kinh doanh bất động sản);",
+      "mẫu đơn, tờ khai": "MẪU ĐƠN XIN CẤP LẠI CHỨNG CHỈ HÀNH NGHỀ.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài",
+  "co_quan_thuc_hien": "Ủy ban nhân dân cấp tỉnh",
+  "co_quan_co_tham_quyen": "Ủy ban nhân dân cấp tỉnh",
+  "dia_chi_tiep_nhan": "Trung tâm phục vụ hành chính công và Kiểm soát TTHC tỉnh Hưng Yên, số 02 đường Chùa Chuông, phường Hiến Nam, thành phố Hưng Yên, tỉnh Hưng Yên + Nộp hồ sơ: Điểm tiếp nhận hồ sơ Sở Xây dựng + Nhận kết quả: Điểm trả kết quả tập trung",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Chứng chỉ hành nghề môi giới bất động sản.",
+  "yeu_cau_dieu_kien": "Không có",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

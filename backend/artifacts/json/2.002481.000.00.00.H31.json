@@ -1,0 +1,57 @@
+{
+  "ma_thu_tuc": "2.002481.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=298906",
+  "so_quyet_dinh": "1673/QĐ-UBND",
+  "ten_thu_tuc": "Chuyển trường đối với học sinh trung học cơ sở.",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết",
+  "linh_vuc": "Giáo dục trung học",
+  "trinh_tu_thuc_hien": "a) Chuyển trường trong cùng tỉnh, thành phố: Hiệu trưởng nhà trường nơi đến tiếp nhận hồ sơ và xem xét, giải quyết theo quy định của Giám đốc Sở Giáo dục và Đào tạo.\nb) Chuyển trường đến từ tỉnh, thành phố khác: Phòng Giáo dục và Đào tạo nơi đến tiếp nhận và giới thiệu về trường theo nơi cư trú, kèm theo hồ sơ đã được kiểm tra.\nViệc chuyển trường được thực hiện khi kết thúc học kỳ I của năm học hoặc trong thời gian hè trước khi khai giảng năm học mới. Trường hợp ngoại lệ về thời gian do Trưởng phòng Giáo dục và Đào tạo (đối với cấp trung học cơ sở) nơi đến xem xét, quyết định.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "Không quy định",
+      "phí, lệ phí": "",
+      "mô tả": ""
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "Không quy định",
+      "phí, lệ phí": "",
+      "mô tả": ""
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "Không quy định",
+      "phí, lệ phí": "",
+      "mô tả": ""
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Học bạ (bản chính).",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Giấy giới thiệu chuyển trường do Hiệu trưởng nhà trường nơi đi cấp",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Đơn xin chuyển trường do cha hoặc mẹ hoặc người giám hộ kí",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam",
+  "co_quan_thuc_hien": "Phòng Giáo dục & Đào tạo",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Không có thông tin",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Học sinh được tiếp nhận, xếp vào lớp",
+  "yeu_cau_dieu_kien": "Không yêu cầu",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

@@ -1,0 +1,55 @@
+{
+  "ma_thu_tuc": "1.010091.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1604/QĐ-UBND",
+  "ten_thu_tuc": "Hỗ trợ khám chữa bệnh, trợ cấp tai nạn cho lực lượng xung kích phòng chống thiên tai cấp xã trong trường hợp chưa tham gia bảo hiểm y tế, bảo hiểm xã hội",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Quản lý Đê điều và Phòng, chống thiên tai",
+  "trinh_tu_thuc_hien": "Bước 1: Người tham gia lực lượng xung kích phòng chống thiên tai cấp xã hoặc người đại diện hợp pháp lập 01 bộ hồ sơ gửi Ủy ban nhân dân xã.\nBước 2: Trong thời hạn 10 ngày làm việc, kể từ ngày nhận đơn đề nghị, Ủy ban nhân dân cấp xã lập 01 bộ hồ sơ trình Chủ tịch Ủy ban nhân dân cấp huyện.\nBước 3: Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ do Chủ tịch Ủy ban nhân dân cấp xã trình, Chủ tịch Ủy ban nhân dân cấp huyện quyết định hỗ trợ kinh phí khám bệnh, chữa bệnh cho người tham gia lực lượng xung kích phòng chống thiên tai cấp xã\nBước 4: Trong thời hạn 10 ngày làm việc, kể từ ngày có quyết định trợ cấp, Ủy ban nhân dân cấp xã có trách nhiệm thực hiện chi trả kinh phí khám chữa bệnh cho đối tượng được hưởng; việc chi trả bằng hình thức chuyển khoản hoặc qua đường bưu chính hoặc trực tiếp nhận ở cấp xã\nĐối với trường hợp không đủ điều kiện, hóa đơn, giấy tờ theo quy định hoặc không hợp lệ, trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ đề nghị, cơ quan cấp huyện, xã phải có văn bản hướng dẫn gửi người nộp đơn để bổ sung, hoàn thiện.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "25 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "25 ngày làm việc, kể từ ngày nhận được đơn, hồ sơ theo quy định, cụ thể:\n- 10 ngày làm việc đối với Ủy ban nhân dân cấp xã;\n- 05 ngày làm việc đối với Chủ tịch Ủy ban nhân dân cấp huyện;\n- UBND cấp xã chi trả kinh phí khám chữa bệnh cho đối tượng được hưởng: 10 ngày làm việc kể từ ngày có quyết định trợ cấp.\nĐối với các trường hợp không đủ điều kiện, hóa đơn, giấy tờ theo quy định hoặc không hợp lệ, trong thời hạn 03 ngày làm việc kể từ ngày nhận được đơn đề nghị, cơ quan cấp huyện, cấp xã phải có văn bản hướng dẫn gửi người nộp đơn để bổ sung, hoàn thiện."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Người tham gia lực lượng xung kích phòng chống thiên tai cấp xã hoặc người đại diện hợp pháp gửi hồ sơ về UBND cấp xã, thành phần hồ sơ gồm:",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: \nBản sao:"
+    },
+    {
+      "tên giấy tờ": "- Đơn đề nghị trợ cấp tai nạn tại mẫu số 02 Phụ lục ban hành kèm theo Thông tư số 18/2025/TT-BNNMT ngày 19/6/2025 của Bộ Nông nghiệp và Môi trường;",
+      "mẫu đơn, tờ khai": "Mus02Phulc.doc",
+      "số lượng": "Bản chính: 1\nBản sao:"
+    },
+    {
+      "tên giấy tờ": "- Giấy ra viện;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao:"
+    },
+    {
+      "tên giấy tờ": "- Trích sao hồ sơ bệnh án hoặc bản sao giấy chứng nhận thương tích do cơ sở y tế nơi đã cấp cứu, điều trị;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: \nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "- Biên bản điều tra của cơ quan công an (trường hợp bị tai nạn giao thông).",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao:"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam",
+  "co_quan_thuc_hien": "Uỷ ban Nhân dân cấp xã, phường, thị trấn",
+  "co_quan_co_tham_quyen": "Uỷ ban nhân dân huyện",
+  "dia_chi_tiep_nhan": "Bộ phận tiếp nhận và trả kết quả giải quyết TTHC cấp xã",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định hỗ trợ chi phí khám bệnh, chữa bệnh, trợ cấp tai nạn cho đối tượng được hưởng",
+  "yeu_cau_dieu_kien": "- Lực lượng xung kích phòng chống thiên tai cấp xã bị ốm đau, tai nạn, bị thương trong thời gian thực hiện các nhiệm vụ phòng, chống thiên tai, tham gia huấn luyện, diễn tập phòng chống thiên tai và các nhiệm vụ khác theo sự điều động của cấp có thẩm quyền được khám bệnh, chữa bệnh tại các cơ sở khám bệnh, chữa bệnh theo quy định tại khoản 2, Điều 35, Nghị định số 66/2021/NĐ- CP ngày 06/7/2021 của Chính phủ;\n- Lực lượng xung kích phòng chống thiên tai cấp xã bị ốm đau, bị thương do cố ý tự hủy hoại sức khỏe của bản thân, sử dụng các chất kích thích, chất ma\ntúy, chất gây nghiện thì không được hưởng chế độ theo quy định tại khoản 2, Điều 35, Nghị định số 66/2021/NĐ-CP ngày 06/7/2021 của Chính phủ.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

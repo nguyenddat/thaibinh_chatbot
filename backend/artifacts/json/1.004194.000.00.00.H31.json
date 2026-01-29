@@ -1,0 +1,35 @@
+{
+  "ma_thu_tuc": "1.004194.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "672/QĐ-CTUBND",
+  "ten_thu_tuc": "Đăng ký tạm trú",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Đăng ký, quản lý cư trú",
+  "trinh_tu_thuc_hien": "Bước 1: Chuẩn bị hồ sơ theo quy định của pháp luật.\nBước 2: Công dân nộp hồ sơ tại Công an phường, xã, thị trấn. Cán bộ tiếp nhận hồ sơ đối chiếu với các quy định của pháp luật về cư trú:\n+ Trường hợp hồ sơ đầy đủ, hợp lệ thì viết giấy biên nhận trao cho người nộp.\n+ Trường hợp hồ sơ đủ điều kiện nhưng thiếu thành phần hồ sơ hoặc biểu mẫu, giấy tờ kê khai chưa đúng, chưa đầy đủ thì cán bộ tiếp nhận hồ sơ hướng dẫn cho người đến nộp hồ sơ.\n+ Trường hợp hồ sơ không đủ điều kiện thì không tiếp nhận và trả lời bằng văn bản cho công dân, nêu rõ lý do không tiếp nhận.\nBước 3: Nhận kết quả: Nộp giấy biên nhận.\n+ Trường hợp được giải quyết đăng ký tạm trú: Nộp lệ phí và nhận hồ sơ; kiểm tra lại giấy tờ, tài liệu, đối chiếu các thông tin được ghi trong sổ tạm trú, giấy tờ khác và ký nhận vào sổ theo dõi giải quyết hộ khẩu (ký, ghi rõ họ, tên và ngày, tháng, năm nhận kết quả).\n+ Trường hợp không giải quyết đăng ký tạm trú: Nhận lại hồ sơ đã nộp; kiểm tra lại giấy tờ, tài liệu có trong hồ sơ; nhận văn bản về việc không giải quyết đăng ký tạm trú và ký nhận (ghi rõ họ, tên và ngày, tháng, năm nhận văn bản và hồ sơ đăng ký cư trú đã nộp) vào sổ theo dõi giải quyết hộ khẩu.\nThời gian trả kết quả: theo ngày hẹn trên giấy biên nhận.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "3 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Trực tiếp tại trụ sở Công an cấp xã.. Thời gian: Không quá 03 ngày kể từ ngày nhận đủ hồ sơ theo quy định."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "*Lưu ý: - Trường hợp giấy tờ, tài liệu chứng minh chỗ ở hợp pháp để đăng ký tạm trú là văn bản cho thuê, cho mượn, cho ở nhờ nhà ở, nhà khác của cá nhân, tổ chức thì văn bản đó không bắt buộc phải công chứng hoặc chứng thực. - Người nước ngoài được nhập quốc tịch Việt Nam khi đăng ký tạm trú lần đầu phải có Quyết định của Chủ tịch nước về việc cho nhập quốc tịch Việt Nam. Người gốc Việt Nam được trở lại quốc tịch Việt Nam khi đăng ký tạm trú lần đầu sau khi được cho trở lại quốc tịch Việt Nam phải có Quyết định của Chủ tịch nước về việc cho trở lại quốc tịch Việt Nam trừ trường hợp đã khai thác được thông tin trong Cơ sở dữ liệu quốc tịch. - Công dân đăng ký tạm trú về với hộ gia đình thuộc trường hợp quy định tại khoản 2 Điều 20 Luật Cư trú khi chủ hộ, chủ sở hữu chỗ ở hợp pháp đồng ý và không phải xuất trình, cung cấp giấy tờ chứng minh chỗ ở hợp pháp. - Trong thời hạn tối đa 60 ngày kể từ ngày người chưa thành niên được đăng ký khai sinh thì phải thực hiện thủ tục đăng ký cư trú.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã",
+  "co_quan_thuc_hien": "Công an Xã",
+  "co_quan_co_tham_quyen": "Công an Xã",
+  "dia_chi_tiep_nhan": "Công an cấp xã",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Cập nhật thông tin trong Cơ sở dữ liệu quốc gia về dân cư, Thông báo kết quả giải quyết thủ tục về cư trú, hủy bỏ thủ tục về cư trú, Cập nhật thông tin trong Cơ sở dữ liệu về cư trú, Phiếu từ chối tiếp nhận, giải quyết hồ sơ (lĩnh vực cư trú)",
+  "yeu_cau_dieu_kien": "Không",
+  "tu_khoa": "Đăng ký tạm trú tại Công an cấp xã",
+  "mo_ta": "Không có thông tin"
+}

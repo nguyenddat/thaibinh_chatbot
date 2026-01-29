@@ -1,0 +1,68 @@
+{
+  "ma_thu_tuc": "1.010802.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=301556",
+  "so_quyet_dinh": "912/QĐ-UBND",
+  "ten_thu_tuc": "Giải quyết chế độ ưu đãi đối với vợ hoặc chồng liệt sĩ lấy chồng hoặc vợ khác",
+  "cap_thuc_hien": "Cấp Tỉnh, Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Người có công",
+  "trinh_tu_thuc_hien": "Bước 1: Cá nhân làm đơn đề nghị theo Mẫu số 17 Phụ lục I Nghị định số 131/2021/NĐ-CP gửi Sở Nội vụ nơi thường trú kèm một trong các giấy tờ theo quy định tại khoản 1 Điều 27 Nghị định số 131/2021/NĐ-CP.\n       Bước 2: Sở Nội vụ nơi cá nhân thường trú trong thời gian 12 ngày kể từ ngày nhận đủ giấy tờ, có trách nhiệm ban hành quyết định trợ cấp tuất hằng tháng đối với vợ hoặc chồng của liệt sĩ đã lấy chồng hoặc vợ khác theo Mẫu số 54 Phụ lục I Nghị định số 131/2021/NĐ-CP. Trường hợp hồ sơ của liệt sĩ do địa phương khác quản lý thì Sở Nội vụ nơi thường trú có văn bản đề nghị Sở Nội vụ nơi quản lý hồ sơ gốc cung cấp bản trích lục hồ sơ liệt sĩ kèm văn bản xác nhận chưa giải quyết chế độ trợ cấp ưu đãi.\n       Bước 3: Sở Nội vụ nơi quản lý hồ sơ gốc trong thời gian 05 ngày làm việc kể từ ngày nhận được văn bản đề nghị, có trách nhiệm cung cấp bản trích lục hồ sơ liệt sĩ theo Mẫu số 95 Phụ lục I Nghị định số 131/2021/NĐ-CP kèm văn bản xác nhận chưa giải quyết chế độ trợ cấp ưu đãi.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "17 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "."
+    },
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "12 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "12 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "17 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "- Đơn đề nghị Mẫu số 17 Phụ lục I Nghị định số 131/2021/NĐ-CP.",
+      "mẫu đơn, tờ khai": "Mus17PhlcINghnhs131.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Trường hợp nuôi con liệt sĩ đến tuổi trưởng thành: Văn bản đồng thuận của con liệt sĩ có xác nhận về chữ ký và nơi thường trú của Ủy ban nhân dân cấp xã.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Trường hợp chăm sóc bố, mẹ liệt sĩ khi còn sống: + Văn bản xác nhận của Ủy ban nhân dân cấp xã nơi bố, mẹ liệt sĩ thường trú khi còn sống + Biên bản họp đồng thuận của thân nhân liệt sĩ hoặc của những người thuộc hàng thừa kế thứ hai của liệt sĩ quy định tại điểm b khoản 1 Điều 651 Bộ luật Dân sự (ông nội, bà nội, ông ngoại, bà ngoại, anh ruột, chị ruột, em ruột của liệt sĩ; cháu ruột của liệt sĩ mà người chết là ông nội, bà nội, ông ngoại, bà ngoại) có xác nhận của Ủy ban nhân dân cấp xã nơi lập biên bản theo Mẫu số 80. + Biên bản họp đồng thuận của thân nhân liệt sĩ hoặc của những người thuộc hàng thừa kế thứ ba của liệt sĩ quy định tại điểm c khoản 1 Điều 651 Bộ luật Dân sự (cụ nội, cụ ngoại của người chết; bác ruột, chú ruột, cậu ruột, cô ruột, dì ruột của liệt sĩ; cháu ruột của người chết mà liệt sĩ là bác ruột, chú ruột, cậu ruột, cô ruột, dì ruột; chắt ruột của liệt sĩ mà liệt sĩ là cụ nội, cụ ngoại) nếu những người thuộc hàng thừa kế thứ hai của liệt sĩ không còn. + Văn bản đồng thuận có xác nhận về chữ ký và nơi thường trú của Ủy ban nhân dân cấp xã của những thành viên vắng mặt không dự họp.",
+      "mẫu đơn, tờ khai": "Mau so 80.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Trường hợp không chăm sóc được bố, mẹ liệt sĩ khi còn sống: + Các Biên bản đồng thuận của thân nhân liệt sĩ hoặc của những người thuộc hàng thừa kế thứ hai hoặc thứ ba của liệt sĩ.  + Một trong các giấy tờ chứng minh lý do không chăm sóc được bố, mẹ liệt sĩ vì hoạt động cách mạng: lý lịch cán bộ; lý lịch đảng viên; lý lịch quân nhân; hồ sơ bảo hiểm xã hội; các giấy tờ, tài liệu khác do cơ quan có thẩm quyền ban hành, xác nhận trong thời gian tham gia cách mạng.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam",
+  "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã, Sở Nội vụ",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Trung tâm Phục vụ hành chính công và Kiểm soát thủ tục hành chính, số 02 Chùa Chuông, TP. Hưng Yên, tỉnh Hưng Yên + Nộp hồ sơ: Điểm tiếp nhận hồ sơ: Sở Nội vụ + Nhận kết quả: Điểm trả kết quả tập trung",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định về việc trợ cấp tuất hằng tháng đối với vợ hoặc chồng liệt sĩ đã lấy chồng hoặc vợ khác",
+  "yeu_cau_dieu_kien": "không",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

@@ -1,0 +1,52 @@
+{
+  "ma_thu_tuc": "2.002826.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=424151",
+  "so_quyet_dinh": "76/QĐ-UBND",
+  "ten_thu_tuc": "Gia hạn Giấy phép hoạt động dịch vụ việc làm của doanh nghiệp hoạt động dịch vụ việc làm",
+  "cap_thuc_hien": "Cấp Tỉnh",
+  "loai_thu_tuc": "TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết",
+  "linh_vuc": "Việc làm",
+  "trinh_tu_thuc_hien": "Bước 1: Doanh nghiệp nộp 01 (một) bộ hồ sơ đề nghị gia hạn Giấy phép theo quy định trực tiếp hoặc thông qua dịch vụ bưu chính công ích hoặc qua thuê dịch vụ của doanh nghiệp, cá nhân hoặc qua ủy quyền đến Trung tâm Phục vụ hành chính công cấp tỉnh nơi đặt trụ sở chính thực hiện hoạt dịch vụ việc làm của doanh nghiệp hoặc trực tuyến tại Cổng Dịch vụ công quốc gia;\nBước 2: Trong thời hạn 03 (ba) ngày làm việc, kể từ ngày nhận được hồ sơ đề nghị gia hạn Giấy phép đầy đủ, hợp lệ, Cơ quan có thẩm quyền xem xét, gia hạn Giấy phép cho doanh nghiệp theo Mẫu số 01 Phụ lục II ban hành kèm theo Nghị định này. Trường hợp không gia hạn Giấy phép phải có văn bản trả lời và nêu rõ lý do.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "3 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Trực tiếp đến Trung tâm Phục vụ hành chính công tại địa phương"
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "3 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Trực tuyến qua Cổng Dịch vụ công quốc gia"
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "3 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Thông qua dịch vụ bưu chính công ích hoặc qua thuê dịch vụ của doanh nghiệp, cá nhân hoặc qua uỷ quyền đến Trung tâm Phục vụ hành chính công tại địa phương"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "+ Giấy chứng nhận quyền sở hữu nhà ở và tài sản khác gắn liền với đất hoặc Hợp đồng thuê trụ sở để tổ chức thực hiện hoạt động dịch vụ việc làm còn thời hạn tối thiểu 02 năm (24 tháng) tính đến thời điểm doanh nghiệp nộp hồ sơ đề nghị cấp Giấy phép (01 (một) bản sao hợp lệ (bao gồm bản sao được cấp từ sổ gốc hoặc bản sao chứng thực hoặc bản sao chứng thực điện tử hoặc bản sao đối chiếu với bản chính). Trường hợp đã có thông tin về Giấy chứng nhận quyền sở hữu nhà ở và tài sản gắn liền với đất trên Cơ sở dữ liệu quốc gia về đất đai thì không phải nộp bản sao Giấy chứng nhận.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "+ Giấy tờ chứng minh kinh nghiệm (quyết định bổ nhiệm hoặc hợp đồng lao động hoặc hợp đồng làm việc hoặc quá trình tham gia bảo hiểm xã hội hoặc giấy xác nhận kinh nghiệm của nơi đã làm việc) của người đại diện theo pháp luật của doanh nghiệp thực hiện hoạt động dịch vụ việc làm (01 (một) bản sao hợp lệ bằng cấp chuyên môn hoặc 01 (một) bản sao hợp lệ). Trường hợp giấy tờ chứng minh kinh nghiệm là văn bản của nước ngoài thì phải được dịch ra tiếng Việt, chứng thực và được hợp pháp hóa lãnh sự theo quy định pháp luật. Trường hợp đã có thông tin về hợp đồng lao động hoặc hợp đồng làm việc hoặc quá trình tham gia bảo hiểm xã hội của người đại diện theo pháp luật của doanh nghiệp thực hiện hoạt động dịch vụ việc làm trên cơ sở dữ liệu quốc gia về Bảo hiểm xã hội, cơ sở dữ liệu về người lao động thì không phải nộp giấy tờ chứng minh kinh nghiệm.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Doanh nghiệp",
+  "co_quan_thuc_hien": "Ủy ban nhân dân cấp tỉnh",
+  "co_quan_co_tham_quyen": "Ủy ban nhân dân cấp tỉnh",
+  "dia_chi_tiep_nhan": "Trung tâm Phục vụ hành chính công",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Giấy phép hoạt động dịch vụ việc làm theo Mẫu số 01 Phụ lục II ban hành kèm theo Nghị định 352/2025/NĐ-CP, Văn bản trả lời trong trường hợp không gia hạn Giấy phép và nêu rõ lý do",
+  "yeu_cau_dieu_kien": "- Đảm bảo các điều kiện quy định tại Điều 15 Nghị định số 352/2025/NĐ-CP, cụ thể như sau:\n+ Có trụ sở chính, chi nhánh của doanh nghiệp hoặc được doanh nghiệp thuê theo hợp đồng để tổ chức hoạt động dịch vụ việc làm còn thời hạn tối thiểu 02 năm (24 tháng) tính đến thời điểm doanh nghiệp nộp hồ sơ đề nghị cấp Giấy phép.\n+ Đã ký quỹ hoạt động dịch vụ việc làm 300.000.000 đồng (Ba trăm triệu đồng).\n+ Người đại diện theo pháp luật của doanh nghiệp thực hiện hoạt động dịch vụ việc làm là người không bị hạn chế hoặc mất năng lực hành vi dân sự; có trình độ từ đại học trở lên hoặc có ít nhất 02 năm (24 tháng) kinh nghiệm trong lĩnh vực dịch vụ việc làm hoặc cung ứng lao động.\n- Không thuộc trường hợp bị thu hồi Giấy phép theo quy định tại khoản 1 Điều 20 Nghị định số 352/2025/NĐ-CP; \n- Tuân thủ đầy đủ chế độ báo cáo quy định tại Nghị định số 352/2025/NĐ-CP; \n- Hồ sơ đề nghị gia hạn Giấy phép được gửi đến Cơ quan có thẩm quyền gia hạn Giấy phép trước thời điểm hết hạn của Giấy phép ít nhất 30 ngày làm việc.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "- Đảm bảo các điều kiện quy định tại Điều 15 Nghị định số 352/2025/NĐ-CP, cụ thể như sau:\n+ Có trụ sở chính, chi nhánh của doanh nghiệp hoặc được doanh nghiệp thuê theo hợp đồng để tổ chức hoạt động dịch vụ việc làm còn thời hạn tối thiểu 02 năm (24 tháng) tính đến thời điểm doanh nghiệp nộp hồ sơ đề nghị cấp Giấy phép.\n+ Đã ký quỹ hoạt động dịch vụ việc làm 300.000.000 đồng (Ba trăm triệu đồng).\n+ Người đại diện theo pháp luật của doanh nghiệp thực hiện hoạt động dịch vụ việc làm là người không bị hạn chế hoặc mất năng lực hành vi dân sự; có trình độ từ đại học trở lên hoặc có ít nhất 02 năm (24 tháng) kinh nghiệm trong lĩnh vực dịch vụ việc làm hoặc cung ứng lao động.\n- Không thuộc trường hợp bị thu hồi Giấy phép theo quy định tại khoản 1 Điều 20 Nghị định số 352/2025/NĐ-CP; \n- Tuân thủ đầy đủ chế độ báo cáo quy định tại Nghị định số 352/2025/NĐ-CP; \n- Hồ sơ đề nghị gia hạn Giấy phép được gửi đến Cơ quan có thẩm quyền gia hạn Giấy phép trước thời điểm hết hạn của Giấy phép ít nhất 30 ngày làm việc."
+}

@@ -1,0 +1,67 @@
+{
+  "ma_thu_tuc": "1.005132.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=296634",
+  "so_quyet_dinh": "856/QĐ-UBND",
+  "ten_thu_tuc": "Đăng ký hợp đồng nhận lao động thực tập dưới 90 ngày",
+  "cap_thuc_hien": "Cấp Tỉnh",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Quản lý lao động ngoài nước",
+  "trinh_tu_thuc_hien": "- Bước 1. Doanh nghiệp nộp 01 bộ hồ sơ trực tiếp hoặc qua dịch vụ bưu chính tới Cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh nơi doanh nghiệp đặt trụ sở chính.\n- Bước 2. Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh nơi doanh nghiệp đặt trụ sở chính trả lời bằng văn bản cho doanh nghiệp; trường hợp không chấp thuận phải nêu rõ lý do.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "05 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ"
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "05 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ"
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "05 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "- Văn bản đăng ký hợp đồng nhận lao động thực tập (theo Mẫu số 04 Phụ lục I ban hành kèm theo Thông tư số 21/2021/TT-BLĐTBXH);",
+      "mẫu đơn, tờ khai": "2.Mus04PhlcIbanhnhkmtheoThngts212021.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Bản sao hợp đồng nhận lao động thực tập kèm theo bản dịch tiếng Việt được chứng thực,",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "- Tài liệu chứng minh việc đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hình thức đào tạo, nâng cao trình độ, kỹ năng nghề phù hợp với pháp luật của nước tiếp nhận lao động theo quy định tại Điều 6 Thông tư số 21/2021/TT-BLĐTBXH, cụ thể gồm một trong các giấy tờ sau:   + 01 bản sao văn bản cho phép cơ sở tiếp nhận lao động thực tập được tiếp nhận lao động nước ngoài do cơ quan có thẩm quyền của nước sở tại cấp. + Giấy tờ khác thể hiện cơ sở tiếp nhận lao động thực tập được phép tiếp nhận người lao động theo quy định của nước sở tại,,",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "- Bản sao Giấy chứng nhận đăng ký doanh nghiệp,",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "- Giấy tờ chứng minh việc ký quỹ của doanh nghiệp theo Mẫu số 11 Phụ lục I ban hành kèm theo Nghị định 112/2020/NĐ-CP,",
+      "mẫu đơn, tờ khai": "2.Mus11PhlcIbanhnhkmtheoNghnh1122020.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Doanh nghiệp",
+  "co_quan_thuc_hien": "Sở Nội vụ",
+  "co_quan_co_tham_quyen": "Sở Nội vụ",
+  "dia_chi_tiep_nhan": "Trung tâm Phục vụ hành chính công và Kiểm soát thủ tục hành chính, số 02 Chùa Chuông, TP. Hưng Yên, tỉnh Hưng Yên + Nộp hồ sơ: Điểm tiếp nhận hồ sơ: Sở Nội vụ + Nhận kết quả: Điểm trả kết quả tập trung",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Văn bản trả lời;.",
+  "yeu_cau_dieu_kien": "Doanh nghiệp đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hình thức đào tạo, nâng cao trình độ, kỹ năng nghề đáp ứng điều kiện:\na) Có hợp đồng nhận lao động thực tập với cơ sở tiếp nhận thực tập ở nước ngoài để đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hình thức đào tạo, nâng cao trình độ, kỹ năng nghề phù hợp với quy định tại Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng đã được đăng ký với cơ quan nhà nước có thẩm quyền.\nb) Có tiền ký quỹ thực hiện hợp đồng nhận lao động thực tập theo quy định của Chính phủ.\nc) Chỉ được đưa người lao động có hợp đồng lao động và hợp đồng đào tạo nghề ở nước ngoài đi thực tập nâng cao tay nghề tại cơ sở tiếp nhận thực tập ở nước ngoài theo hợp đồng nhận lao động thực tập. \nd) Ngành, nghề, công việc cụ thể người lao động Việt Nam đi làm việc ở nước ngoài theo hình thức đào tạo, nâng cao trình độ, kỹ năng nghề phải phù hợp với lĩnh vực hoạt động của doanh nghiệp.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

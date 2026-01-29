@@ -8,3 +8,5 @@ dist
 
 database/data/backend/artifacts/*.geojson
 backend/artifacts/*.geojson
+artifacts/json/
+mount-data/

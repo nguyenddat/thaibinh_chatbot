@@ -1,0 +1,51 @@
+{
+  "ma_thu_tuc": "2.000908.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1761/QĐ-UBND",
+  "ten_thu_tuc": "Thủ tục cấp bản sao từ sổ gốc",
+  "cap_thuc_hien": "Cấp Bộ, Cấp Tỉnh, Cấp Xã, Cơ quan khác",
+  "loai_thu_tuc": "TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết",
+  "linh_vuc": "Chứng thực",
+  "trinh_tu_thuc_hien": "+ Trong trường hợp không tìm thấy sổ gốc hoặc trong sổ gốc không có thông tin về nội dung yêu cầu cấp bản sao thì cơ quan, tổ chức đang lưu giữ sổ gốc có trách nhiệm trả lời bằng văn bản cho người yêu cầu.\n+ Người yêu cầu cấp bản sao từ sổ gốc phải xuất trình các giấy tờ phục vụ cho yêu cầu cấp bản sao từ sổ gốc. Trường hợp người yêu cầu cấp bản sao từ sổ gốc gửi qua bưu điện thì phải gửi kèm theo bản sao có chứng thực giấy tờ theo quy định.\n+ Cơ quan, tổ chức căn cứ vào sổ gốc để cấp bản sao cho người yêu cầu; nội dung bản sao phải ghi theo đúng nội dung đã ghi trong sổ gốc.\n+ Người yêu cầu cấp bản sao từ sổ gốc nhận kết quả tại nơi nộp hồ sơ hoặc qua bưu điện (nếu nộp qua bưu điện).",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "1 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Trong ngày cơ quan, tổ chức tiếp nhận yêu cầu hoặc trong ngày làm việc tiếp theo, nếu tiếp nhận yêu cầu sau 15 giờ."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "1 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Trong trường hợp yêu cầu cấp bản sao từ sổ gốc được gửi qua bưu điện thì thời hạn được thực hiện ngay sau khi cơ quan, tổ chức nhận đủ hồ sơ hợp lệ theo dấu bưu điện đến."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "+ Một trong các giấy tờ sau: Căn cước điện tử; bản chính hoặc bản sao của Thẻ căn cước công dân hoặc Thẻ căn cước hoặc Giấy chứng nhận căn cước hoặc Hộ chiếu hoặc giấy tờ xuất nhập cảnh hoặc giấy tờ có giá trị đi lại quốc tế còn giá trị sử dụng;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "+ Bản chính hoặc bản sao có chứng thực giấy tờ chứng minh quan hệ với người được cấp bản chính trong trường hợp người yêu cầu là người đại diện theo pháp luật, người đại diện theo ủy quyền của cá nhân, tổ chức được cấp bản chính; cha, mẹ, con; vợ, chồng; anh, chị, em ruột; người thừa kế khác của người được cấp bản chính trong trường hợp người đó đã chết.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Lưu ý: Không yêu cầu người yêu cầu cấp bản sao từ sổ gốc nộp giấy tờ này khi cơ quan giải quyết thủ tục hành chính khai thác được thông tin về giấy khai sinh, giấy đăng ký kết hôn trên Cơ sở dữ liệu hộ tịch điện tử",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Cơ quan, tổ chức đang quản lý sổ gốc",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Cơ quan, tổ chức quản lý sổ gốc",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Bản sao được cấp từ sổ gốc",
+  "yeu_cau_dieu_kien": "Cơ quan, tổ chức căn cứ vào sổ gốc để cấp bản sao; nội dung bản sao phải đúng theo sổ gốc.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

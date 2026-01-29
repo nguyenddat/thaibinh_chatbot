@@ -1,0 +1,57 @@
+{
+  "ma_thu_tuc": "2.000629.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1551/QĐ-UBND",
+  "ten_thu_tuc": "Cấp sửa đổi, bổ sung Giấy phép sản xuất rượu thủ công nhằm mục đích kinh doanh",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết",
+  "linh_vuc": "Lưu thông hàng hóa trong nước",
+  "trinh_tu_thuc_hien": "Trường hợp chưa đủ hồ sơ hợp lệ, trong vòng 03 ngày làm việc kể từ ngày tiếp nhận hồ sơ, Phòng Kinh tế hoặc Phòng Kinh tế và Hạ tầng có văn bản yêu cầu bổ sung.\nTổ chức, cá nhân sản xuất rượu thủ công nhằm mục đích kinh doanh nộp 01 bộ hồ sơ đề nghị cấp sửa đổi, bổ sung Giấy phép sản xuất rượu thủ công nhằm mục đích kinh doanh cho Phòng Kinh tế hoặc Phòng Kinh tế và Hạ tầng\nTrong thời hạn 07 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan có thẩm quyền xem xét và cấp sửa đổi, bổ sung Giấy phép sản xuất rượu thủ công nhằm mục đích kinh doanh.Trường hợp từ chối cấp phải trả lời bằng văn bản và nêu rõ lý do.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "7 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": ""
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "7 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": ""
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "7 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": ""
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "- Đơn đề nghị cấp sửa đổi, bổ sung theo Mẫu số 02 ban hành kèm theo Nghị định số 17/2020/NĐ-CP;",
+      "mẫu đơn, tờ khai": "MẪU SỐ 02 RƯỢU.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Bản sao giấy phép đã được cấp;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "- Các tài liệu chứng minh nhu cầu sửa đổi, bổ sung.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Doanh nghiệp",
+  "co_quan_thuc_hien": "Ủy ban Nhân dân huyện, quận, thành phố trực thuộc tỉnh, thị xã.",
+  "co_quan_co_tham_quyen": "Ủy ban Nhân dân huyện, quận, thành phố trực thuộc tỉnh, thị xã.",
+  "dia_chi_tiep_nhan": "UBND huyện, thành phố trực thuộc tỉnh, thị xã",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Giấy phép sản xuất rượu thủ công nhằm mục đích kinh doanh (sửa đổi, bổ sung)",
+  "yeu_cau_dieu_kien": "Thương nhân có Giấy phép sản xuất rượu thủ công nhằm mục đích kinh doanh",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

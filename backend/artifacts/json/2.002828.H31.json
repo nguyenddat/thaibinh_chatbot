@@ -1,0 +1,47 @@
+{
+  "ma_thu_tuc": "2.002828.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=424173",
+  "so_quyet_dinh": "76/QĐ-UBND",
+  "ten_thu_tuc": "Rút tiền ký quỹ của doanh nghiệp hoạt động dịch vụ việc làm",
+  "cap_thuc_hien": "Cấp Tỉnh",
+  "loai_thu_tuc": "TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết",
+  "linh_vuc": "Việc làm",
+  "trinh_tu_thuc_hien": "Bước 1: Doanh nghiệp nộp 01 (một) bộ hồ sơ đề nghị rút tiền ký quỹ theo quy định trực tiếp hoặc thông qua dịch vụ bưu chính công ích hoặc qua thuê dịch vụ của doanh nghiệp, cá nhân hoặc qua ủy quyền đến Trung tâm Phục vụ hành chính công cấp tỉnh nơi đặt trụ sở chính thực hiện hoạt động dịch vụ việc làm của doanh nghiệp hoặc trực tuyến tại Cổng Dịch vụ công quốc gia;\nBước 2: Trong thời hạn 05 (năm) ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Cơ quan có thẩm quyền có trách nhiệm kiểm tra, xác thực hồ sơ, việc hoàn thành nghĩa vụ của doanh nghiệp đối với quy định tại điểm b khoản 3 Điều 16 Nghị định số 352/2025/NĐ-CP và có văn bản đồng ý việc rút tiền ký quỹ; phương án sử dụng tiền ký quỹ (nếu có) gửi doanh nghiệp và ngân hàng nhận ký quỹ. Trường hợp không đồng ý về việc rút tiền ký quỹ thì có văn bản trả lời doanh nghiệp và nêu rõ lý do.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "5 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Trực tiếp đến Trung tâm Phục vụ hành chính công tại địa phương"
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "5 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Trực tuyến qua Cổng Dịch vụ công quốc gia"
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "5 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Thông qua dịch vụ bưu chính công ích hoặc qua thuê dịch vụ của doanh nghiệp, cá nhân hoặc qua uỷ quyền đến Trung tâm Phục vụ hành chính công tại địa phương"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "+ Phương án sử dụng số tiền rút từ tài khoản ký quỹ gồm: lý do, mục đích rút tiền ký quỹ; danh sách người lao động, người sử dụng lao động, số tiền, thời gian, phương thức thanh toán.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Doanh nghiệp",
+  "co_quan_thuc_hien": "Ủy ban nhân dân cấp tỉnh",
+  "co_quan_co_tham_quyen": "Ủy ban nhân dân cấp tỉnh",
+  "dia_chi_tiep_nhan": "Trung tâm Phục vụ hành chính công",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Văn bản đồng ý việc rút tiền ký quỹ của Cơ quan có thẩm quyền, Văn bản trả lời trong trường hợp không đồng ý về việc rút tiền ký quỹ và nêu rõ lý do",
+  "yeu_cau_dieu_kien": "- Doanh nghiệp không được cấp Giấy phép;\n- Doanh nghiệp bị thu hồi Giấy phép hoặc không được gia hạn, cấp lại Giấy phép hoặc Giấy phép hết hạn;\n- Doanh nghiệp đã thực hiện ký quỹ tại một ngân hàng nhận ký quỹ khác;  \n- Doanh nghiệp gặp khó khăn, không đủ khả năng bồi thường cho người lao động, người sử dụng lao động do vi phạm quy định về dịch vụ việc làm sau thời hạn 60 (sáu mươi) ngày kể từ ngày đến thời hạn bồi thường theo quy định của pháp luật.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "- Doanh nghiệp không được cấp Giấy phép;\n- Doanh nghiệp bị thu hồi Giấy phép hoặc không được gia hạn, cấp lại Giấy phép hoặc Giấy phép hết hạn;\n- Doanh nghiệp đã thực hiện ký quỹ tại một ngân hàng nhận ký quỹ khác;  \n- Doanh nghiệp gặp khó khăn, không đủ khả năng bồi thường cho người lao động, người sử dụng lao động do vi phạm quy định về dịch vụ việc làm sau thời hạn 60 (sáu mươi) ngày kể từ ngày đến thời hạn bồi thường theo quy định của pháp luật."
+}

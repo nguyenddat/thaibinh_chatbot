@@ -1,0 +1,75 @@
+{
+  "ma_thu_tuc": "1.010092.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1604/QĐ-UBND",
+  "ten_thu_tuc": "Trợ cấp tiền tuất, tai nạn (đối với trường hợp tai nạn suy giảm khả năng lao động từ 5% trở lên) cho lực lượng xung kích phòng chống thiên tai cấp xã chưa tham gia bảo hiểm xã hội",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Quản lý Đê điều và Phòng, chống thiên tai",
+  "trinh_tu_thuc_hien": "Bước 1: Người tham gia lực lượng xung kích phòng chống thiên tai cấp xã hoặc người đại diện hợp pháp lập 01 bộ hồ sơ gửi Ủy ban nhân dân xã.\nBước 2: Trong thời hạn 10 ngày làm việc, kể từ ngày nhận đơn đề nghị, Ủy ban nhân dân cấp xã lập 01 bộ hồ sơ trình Chủ tịch Ủy ban nhân dân cấp huyện.\nBước 3: Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ do Chủ tịch Ủy ban nhân dân xã trình, Ủy ban nhân dân cấp huyện lập 01 bộ hồ sơ trình Chủ tịch Ủy ban nhân dân cấp tỉnh\nBước 4: Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ do Chủ tịch Ủy ban nhân dân cấp huyện trình, Chủ tịch Ủy ban nhân dân tỉnh quyết định trợ cấp tai nạn, bị chết cho người tham gia lực lượng xung kích.\nBước 5: Trong thời hạn 10 ngày làm việc, kể từ ngày có quyết định trợ cấp, Ủy ban nhân dân cấp xã có trách nhiệm thực hiện chi trả trợ cấp cho đối tượng được hưởng; việc chi trả bằng hình thức chuyển khoản hoặc qua đường bưu chính hoặc trực tiếp nhận ở cấp xã.\nĐối với trường hợp không đủ điều kiện, hóa đơn, giấy tờ theo quy định hoặc không hợp lệ, trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ đề nghị, cơ quan cấp tỉnh, huyện, xã phải có văn bản hướng dẫn gửi người nộp đơn để bổ sung, hoàn thiện.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "30 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "30 ngày làm việc, kể từ ngày nhận được đơn, hồ sơ theo quy định, cụ thể:\n- 10 ngày làm việc đối với Ủy ban nhân dân cấp xã;\n- 05 ngày làm việc đối Chủ tịch Ủy ban nhân dân cấp huyện;\n- 05 ngày làm việc đối với Chủ tịch Ủy ban nhân dân cấp tỉnh;\n- Ủy ban nhân dân cấp xã chi trả trợ cấp cho đối tượng được hưởng: 10 ngày làm việc.\nĐối với các trường hợp không đủ điều kiện, hóa đơn, giấy tờ theo quy định hoặc không hợp lệ, trong thời hạn 03 ngày làm việc kể từ ngày nhận được đơn đề nghị, cơ quan cấp tỉnh, huyện, cấp xã phải có văn bản hướng dẫn gửi người nộp đơn để bổ sung, hoàn thiện."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "- Trường hợp người tham gia lực lượng xung kích phòng chống thiên tai cấp xã hoặc người đại diện hợp pháp gửi hồ sơ về UBND cấp xã, thành phần hồ sơ gồm:",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "+ Đơn đề nghị trợ cấp tiền tuất theo mẫu số 02 Phụ lục ban hành kèm theo  Thông tư số 18/2025/TT-BNNMT ngày 19/6/2025 của Bộ Nông nghiệp và Môi  trường",
+      "mẫu đơn, tờ khai": "Mus02Phulc.doc",
+      "số lượng": "Bản chính: 1\nBản sao:"
+    },
+    {
+      "tên giấy tờ": "+ Giấy ra viện hoặc trích sao hồ sơ bệnh án hoặc bản sao giấy chứng tử  hoặc trích lục khai tử",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao:"
+    },
+    {
+      "tên giấy tờ": "+ Biên bản điều tra của cơ quan công an (trường hợp bị chết do tai nạn giao  thông).",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao:"
+    },
+    {
+      "tên giấy tờ": "- Trường hợp UBND cấp xã lập hồ sơ gửi UBND cấp tỉnh, thành phần hồ  sơ gồm",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: \nBản sao:"
+    },
+    {
+      "tên giấy tờ": "+ Tờ trình;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao:"
+    },
+    {
+      "tên giấy tờ": "+  Đơn đề nghị trợ cấp tiền tuất theo mẫu số 02 Phụ lục ban hành kèm theo Thông tư số 18/2025/TT-BNNMT ngày 19/6/2025 của Bộ Nông nghiệp và  Môi trường",
+      "mẫu đơn, tờ khai": "Mus02Phulc.doc",
+      "số lượng": "Bản chính: 1\nBản sao:"
+    },
+    {
+      "tên giấy tờ": "+ Giấy ra viện hoặc trích sao hồ sơ bệnh án hoặc bản sao giấy chứng tử  hoặc trích lục khai tử;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao:"
+    },
+    {
+      "tên giấy tờ": "+  Biên bản điều tra của cơ quan công an (trường hợp bị chết do tai nạn giao  thông)",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam",
+  "co_quan_thuc_hien": "Uỷ ban Nhân dân cấp xã, phường, thị trấn",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Bộ phận tiếp nhận và trả kết quả giải quyết TTHC cấp xã",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định trợ cấp tai nạn, tiền tuất cho đối tượng đươc hưởng",
+  "yeu_cau_dieu_kien": "- Lực lượng xung kích phòng chống thiên tai cấp xã bị tai nạn, bị chết trong thời gian thực hiện các nhiệm vụ phòng, chống thiên tai, tham gia huấn luyện, diễn tập phòng chống thiên tai và các nhiệm vụ khác theo sự điều động của cấp có thẩm quyền được trợ cấp theo khoản 3, Điều 35, Nghị định số 66/2021/NĐ-CP ngày 06/7/2021 của Chính phủ;\n- Lực lượng xung kích phòng chống thiên tai cấp xã bị tai nạn, bị chết do cố ý tự hủy hoại sức khỏe của bản thân, sử dụng các chất kích thích, chất ma túy, chất gây nghiện thì không được hưởng chế độ trợ cấp theo quy định tại khoản 3, Điều 35, Nghị định số 66/2021/NĐ-CP ngày 06/7/2021 của Chính phủ.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

@@ -1,0 +1,57 @@
+{
+  "ma_thu_tuc": "1.013840.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=392574",
+  "so_quyet_dinh": "1567/QĐ-UBND",
+  "ten_thu_tuc": "Đăng ký hoạt động Văn phòng công chứng hợp nhất",
+  "cap_thuc_hien": "Cấp Tỉnh",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Công chứng",
+  "trinh_tu_thuc_hien": "- Căn cứ quyết định cho phép hợp nhất của Ủy ban nhân dân cấp tỉnh, Văn phòng công chứng hợp nhất lập 01 bộ hồ sơ theo quy định, nộp trực tiếp hoặc qua dịch vụ bưu chính hoặc trực tuyến trên môi trường điện tử về Sở Tư pháp nơi Văn phòng công chứng đặt trụ sở.\n- Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp cấp giấy đăng ký hoạt động cho Văn phòng công chứng hợp nhất, thu hồi giấy đăng ký hoạt động của Văn phòng công chứng bị hợp nhất, trường hợp từ chối phải thông báo bằng văn bản có nêu rõ lý do.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "05 Ngày làm việc",
+      "phí, lệ phí": "Phí : 1.000.000 Đồng",
+      "mô tả": "kể từ ngày nhận đủ hồ sơ hợp lệ; trường hợp từ chối phải thông báo bằng văn bản có nêu rõ lý do"
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "05 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "kể từ ngày nhận đủ hồ sơ hợp lệ; trường hợp từ chối phải thông báo bằng văn bản có nêu rõ lý do"
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "05 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "kể từ ngày nhận đủ hồ sơ hợp lệ; trường hợp từ chối phải thông báo bằng văn bản có nêu rõ lý do"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Bản chính hoặc bản sao có chứng thực hoặc bản sao điện tử Giấy tờ chứng minh điều kiện về trụ sở của Văn phòng công chứng hợp nhất theo quy định tại Điều 18 của Nghị định số 104/2025/NĐ-CP",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Thẻ công chứng viên của các công chứng viên của Văn phòng công chứng hợp nhất",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Đơn đăng ký hoạt động của Văn phòng công chứng hợp nhất theo mẫu do Bộ trưởng Bộ Tư pháp quy định",
+      "mẫu đơn, tờ khai": "10.DondenghiDKHvcapTheCCVcuaVPCChopnhat.doc",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Sở Tư pháp tỉnh Tây Ninh",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Không có thông tin",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Giấy đăng ký hoạt động của văn phòng công chứng hợp nhất",
+  "yeu_cau_dieu_kien": "Các Văn phòng công chứng bị hợp nhất được tiếp tục hoạt động nhưng không được tiếp nhận các yêu cầu công chứng mới cho đến khi Văn phòng công chứng hợp nhất được cấp giấy đăng ký hoạt động. Văn phòng công chứng hợp nhất kế thừa toàn bộ quyền, nghĩa vụ, yêu cầu công chứng đang thực hiện tại các Văn phòng công chứng bị hợp nhất và có trách nhiệm lưu trữ toàn bộ hồ sơ công chứng của các Văn phòng công chứng bị hợp nhất.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

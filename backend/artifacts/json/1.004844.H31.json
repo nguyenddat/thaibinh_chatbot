@@ -1,0 +1,70 @@
+{
+  "ma_thu_tuc": "1.004844.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "2222/QĐ-UBND",
+  "ten_thu_tuc": "Cấp lại Giấy chứng nhận đăng ký phương tiện giao thông đường sắt",
+  "cap_thuc_hien": "Cấp Bộ, Cấp Tỉnh, Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Đường sắt",
+  "trinh_tu_thuc_hien": "a) Nộp hồ sơ TTHC:\nChủ sở hữu phương tiện nộp 01 bộ hồ sơ qua hình thức trực tiếp hoặc trực tuyến hoặc qua hệ thống bưu chính đến cơ quan nhà nước có thẩm quyền cấp lại Giấy chứng nhận đăng ký phương tiện (gọi tắt là cơ quan nhà nước có thẩm quyền), cụ thể:\n- Cục Đường sắt Việt Nam đối với đề nghị cấp lại Giấy chứng nhận đăng ký phương tiện trên đường sắt quốc gia.\n- Ủy ban nhân dân cấp tỉnh (nơi có đường sắt chuyên dùng, đường sắt đô thị) đối với cấp lại Giấy chứng nhận đăng ký phương tiện trên đường sắt chuyên dùng, đường sắt đô thị.\nb) Giải quyết TTHC:\n- Cơ quan nhà nước có thẩm quyền tiếp nhận và kiểm tra hồ sơ. Trường hợp hồ sơ không đúng theo quy định, trong thời hạn 01 ngày làm việc kể từ ngày tiếp nhận hồ sơ qua bộ phận một cửa hoặc qua cổng dịch vụ công trực tuyến; 02 ngày làm việc kể từ ngày tiếp nhận hồ sơ theo các hình thức khác, cơ quan cấp giấy phép lái tàu có trách nhiệm thông báo, hướng dẫn doanh nghiệp hoàn thiện hồ sơ theo quy định.\n- Trường hợp chuyển quyền sở hữu; phương tiện thay đổi tính năng sử dụng hoặc thay đổi các thông số kỹ thuật chủ yếu; Giấy chứng nhận đăng ký phương tiện bị hư hỏng: Trong thời hạn 03 ngày làm việc kể từ ngày tiếp nhận hồ sơ đầy đủ, đúng quy định, cơ quan nhà nước có thẩm quyền có trách nhiệm cấp lại Giấy chứng nhận đăng ký phương tiện. Chủ sở hữu có trách nhiệm nộp lệ phí theo quy định. Trường hợp được cấp lại Giấy chứng nhận đăng ký phương tiện, nếu chủ sở hữu đã nộp bản điện tử Giấy chứng nhận đăng ký phương tiện qua cổng dịch vụ công trực tuyến hoặc cổng dịch vụ công quốc gia thì có trách nhiệm nộp lại bản gốc cho cơ quan nhà nước có thẩm quyền. Trường hợp không cấp, cơ quan nhà nước có thẩm quyền có văn bản trả lời cho chủ sở hữu phương tiện và nêu rõ lý do.\n- Cấp lại Giấy chứng nhận đăng ký trong trường hợp bị mất. Trong thời hạn 01 ngày làm việc kể từ ngày tiếp nhận hồ sơ đầy đủ, đúng quy định, cơ quan nhà nước có thẩm quyền cấp cho chủ sở hữu Giấy xác nhận đã khai báo mất Giấy chứng nhận đăng ký phương tiện theo mẫu quy định. Thời gian cơ quan nhà nước có thẩm quyền xem xét cấp lại Giấy chứng nhận đăng ký phương tiện là 30 ngày kể từ ngày tiếp nhận hồ sơ đầy đủ, đúng quy định. Chủ sở hữu có trách nhiệm nộp lệ phí theo quy định. Trường hợp không cấp lại Giấy chứng nhận đăng ký phương tiện, trong thời hạn 30 ngày làm việc kể từ ngày tiếp nhận hồ sơ đầy đủ, đúng quy định, cơ quan nhà nước có thẩm quyền thông báo bằng văn bản cho chủ sở hữu và nêu rõ lý do.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "3 Ngày làm việc",
+      "phí, lệ phí": "Lệ phí : 120.000 đồng/01 lần cấp Đồng (Lệ phí cấp lại giấy chứng nhận đăng ký)",
+      "mô tả": "- Đối với cấp lại Giấy chứng nhận đăng ký trường hợp chuyển quyền sở hữu; phương tiện thay đổi tính năng sử dụng hoặc thay đổi các thông số kỹ thuật chủ yếu; Giấy chứng nhận đăng ký phương tiện bị hư hỏng và chủ sở hữu phương tiện đã hoàn thành nghĩa vụ tài chính."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "30 Ngày",
+      "phí, lệ phí": "Lệ phí : 120.000 đồng/01 lần cấp Đồng (Lệ phí cấp lại giấy chứng nhận đăng ký)",
+      "mô tả": "Trường hợp Cấp lại Giấy chứng nhận đăng ký trong trường hợp bị mất: Trong thời hạn 01 ngày làm việc kể từ ngày tiếp nhận hồ sơ đầy đủ, đúng quy định, cơ quan nhà nước có thẩm quyền cấp cho chủ sở hữu Giấy xác nhận đã khai báo mất Giấy chứng nhận đăng ký phương tiện theo mẫu quy định"
+    },
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "30 Ngày",
+      "phí, lệ phí": "Lệ phí : 120.000 đồng/01 lần cấp Đồng (Lệ phí cấp lại giấy chứng nhận đăng ký)",
+      "mô tả": "Trường hợp Cấp lại Giấy chứng nhận đăng ký trong trường hợp bị mất: Trong thời hạn 01 ngày làm việc kể từ ngày tiếp nhận hồ sơ đầy đủ, đúng quy định, cơ quan nhà nước có thẩm quyền cấp cho chủ sở hữu Giấy xác nhận đã khai báo mất Giấy chứng nhận đăng ký phương tiện theo mẫu quy định"
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "30 Ngày",
+      "phí, lệ phí": "Lệ phí : 120.000 đồng/01 lần cấp Đồng (Lệ phí cấp lại giấy chứng nhận đăng ký)",
+      "mô tả": "Trường hợp Cấp lại Giấy chứng nhận đăng ký trong trường hợp bị mất: Trong thời hạn 01 ngày làm việc kể từ ngày tiếp nhận hồ sơ đầy đủ, đúng quy định, cơ quan nhà nước có thẩm quyền cấp cho chủ sở hữu Giấy xác nhận đã khai báo mất Giấy chứng nhận đăng ký phương tiện theo mẫu quy định"
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "3 Ngày làm việc",
+      "phí, lệ phí": "Lệ phí : 120.000 đồng/01 lần cấp  (Lệ phí cấp lại giấy chứng nhận đăng ký)",
+      "mô tả": "- Đối với cấp lại Giấy chứng nhận đăng ký trường hợp chuyển quyền sở hữu; phương tiện thay đổi tính năng sử dụng hoặc thay đổi các thông số kỹ thuật chủ yếu; Giấy chứng nhận đăng ký phương tiện bị hư hỏng và chủ sở hữu phương tiện đã hoàn thành nghĩa vụ tài chính."
+    },
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "3 Ngày làm việc",
+      "phí, lệ phí": "Lệ phí : 120.000 đồng/01 lần cấp  (Lệ phí cấp lại giấy chứng nhận đăng ký)",
+      "mô tả": "- Đối với cấp lại Giấy chứng nhận đăng ký trường hợp chuyển quyền sở hữu; phương tiện thay đổi tính năng sử dụng hoặc thay đổi các thông số kỹ thuật chủ yếu; Giấy chứng nhận đăng ký phương tiện bị hư hỏng và chủ sở hữu phương tiện đã hoàn thành nghĩa vụ tài chính."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "- Bản chính hoặc bản điện tử đơn đề nghị cấp lại Giấy chứng nhận đăng ký phương tiện của chủ sở hữu theo mẫu quy định;",
+      "mẫu đơn, tờ khai": "nnghcplithayichshutnhnngsdng.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "- Bản gốc hoặc bản điện tử Giấy chứng nhận đăng ký phương tiện đã được cấp;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã",
+  "co_quan_thuc_hien": "Cục Đường sắt Việt Nam, Ủy ban nhân dân cấp tỉnh",
+  "co_quan_co_tham_quyen": "Cục Đường sắt Việt Nam, Ủy ban nhân dân cấp tỉnh",
+  "dia_chi_tiep_nhan": "+ Cục Đường sắt Việt Nam đối với đề nghị cấp lại Giấy chứng nhận đăng ký phương tiện trên đường sắt quốc gia. + Ủy ban nhân dân cấp tỉnh (nơi có đường sắt chuyên dùng, đường sắt đô thị) đối với cấp lại Giấy chứng nhận đăng ký phương tiện trên đường sắt chuyên dùng, đường sắt đô thị.",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Cấp giấy chứng nhận đăng ký phương tiện giao thông đường sắt",
+  "yeu_cau_dieu_kien": "Không có",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

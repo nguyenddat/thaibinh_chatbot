@@ -5,7 +5,9 @@ from fastapi import APIRouter, Depends, UploadFile, File, HTTPException
 from sqlalchemy.orm import Session
 
 from database import get_db
-from services import ProcedureService
+from core import openai_embeddings
+from services.qdrant.data_models import QdrantDocument
+from services import qdrant_service, ProcedureService
 
 router = APIRouter()
 
@@ -13,29 +15,39 @@ router = APIRouter()
 async def postProcedureJson(
     files: List[UploadFile] = File(...),
     db: Session = Depends(get_db)
-):
-    results = []
+):  
+    documents = []
+    embeddings = []
+
+    results = {"success": True, "success_files": [], "failed_files": []}
     for file in files:
         if not file.filename.endswith(".json"):
             continue
-
-        try:
-            content = await file.read()
-            data = json.loads(content)
-
-            proc_record = ProcedureService.createByJsonFile(data, db)
-            results.append({
-                "id": proc_record.id,
-                "filename": file.filename,
-                "success": True,
-                "ma_thu_tuc": proc_record.ma_thu_tuc
-            })
         
-        except Exception as err:
-            results.append({
-                "filename": file.filename,
-                "success": False,
-                "error": str(err)
-            })
-    db.commit()
+        # đọc file
+        content = await file.read()
+        data = json.loads(content)
+
+        # thêm vào db
+        proc_record = ProcedureService.createByJsonFile(data, db)
+        if proc_record is None:
+            results["failed_files"].append(file.filename)
+            continue
+        else:
+            # thêm vào vector db
+            document = QdrantDocument(
+                content=f"{proc_record.id}: {proc_record.ten_thu_tuc}, lĩnh vực {proc_record.linh_vuc}, {proc_record.co_quan_thuc_hien} thực hiện."
+            )
+            embedding = openai_embeddings.embed_query(document.content)
+            documents.append(document)
+            embeddings.append(embedding)
+            
+            results["success_files"].append(file.filename)
+    
+    if results["success_files"]:    
+        qdrant_service.insert_chunks(documents, embeddings)   
+        db.commit()
+    else:
+        results["success"] = False
+        
     return results

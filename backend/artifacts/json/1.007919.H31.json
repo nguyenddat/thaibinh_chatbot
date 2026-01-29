@@ -1,0 +1,57 @@
+{
+  "ma_thu_tuc": "1.007919.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1669/QĐ-UBND",
+  "ten_thu_tuc": "Thẩm định thiết kế, dự toán công trình lâm sinh hoặc thẩm định điều chỉnh thiết kế, dự toán công trình lâm sinh sử dụng vốn đầu tư công",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Lâm nghiệp",
+  "trinh_tu_thuc_hien": "c) Bước 3: Thẩm định\nTrong thời gian 07 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, cơ quan chuyên môn về nông nghiệp và môi trường cấp xã tổ chức thẩm định, trình Chủ tịch Ủy ban nhân dân cấp xã xem xét, quyết định;\nTrong thời gian 02 ngày làm việc kể từ ngày nhận được hồ sơ trình của cơ quan chuyên môn về nông nghiệp và môi trường cấp xã, Chủ tịch Ủy ban nhân dân cấp xã ký Báo cáo kết quả thẩm định thiết kế, dự toán công trình lâm sinh theo Mẫu số 16 Phụ lục I ban hành kèm theo Thông tư số 16/2025/TT-BNNMT ngày 19/6/2025 của Bộ trưởng Bộ Nông nghiệp và Môi trường và thông báo kết quả thẩm định đến chủ đầu tư; trường hợp không ký Báo cáo kết quả thẩm định thiết kế, dự toán công trình lâm sinh thì có ngay văn bản thông báo và nêu rõ lý do cho tổ chức, cá nhân.\na) Bước 1: Nộp hồ sơ\nChủ đầu tư nộp trực tiếp hoặc qua dịch vụ bưu chính hoặc qua môi trường điện tử 01 bộ hồ sơ đến Ủy ban nhân dân cấp xã.\nb) Bước 2: Tiếp nhận hồ sơ\nTrường hợp nộp hồ sơ trực tiếp: Ủy ban nhân dân cấp xã kiểm tra tính hợp lệ của hồ sơ; trả giấy tiếp nhận hoặc không tiếp nhận ngay cho chủ đầu tư.\nTrường hợp nộp hồ sơ qua dịch vụ bưu chính hoặc qua môi trường điện tử: Trong thời hạn 01 ngày làm việc, kể từ ngày nhận được hồ sơ, Ủy ban nhân dân cấp xã kiểm tra tính hợp lệ của hồ sơ; trả giấy tiếp nhận hoặc không tiếp nhận ngay cho chủ đầu tư.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "9 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "9 ngày kể từ ngày nhận được hồ sơ hợp lệ."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "9 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "9 ngày kể từ ngày nhận được hồ sơ hợp lệ."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "9 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "9 ngày kể từ ngày nhận được hồ sơ hợp lệ."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Tờ trình đề nghị phê duyệt thiết kế, dự toán theo Mẫu số 14 Phụ lục I ban hành kèm theo Thông tư số 16/2025/TT-BNNMT ngày 19/6/2025 của Bộ trưởng Bộ Nông nghiệp và Môi trường ;",
+      "mẫu đơn, tờ khai": "Mus14.doc",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Thuyết minh thiết kế, dự toán và bản đồ thiết kế công trình lâm sinh theo Mẫu số 15 Phụ lục I ban hành kèm theo Thông tư số 16/2025/TT-BNNMT ngày 19/6/2025 của Bộ trưởng Bộ Nông nghiệp và Môi trường;",
+      "mẫu đơn, tờ khai": "Mus15.doc",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Bản sao quyết định phê duyệt dự án đầu tư hoặc kế hoạch vốn được giao đối với hoạt động sử dụng kinh phí ngân sách nhà nước và các tài liệu khác có liên quan...",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Cán bộ, công chức, viên chức, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã",
+  "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã",
+  "co_quan_co_tham_quyen": "Chủ tịch Ủy ban nhân dân xã",
+  "dia_chi_tiep_nhan": "Không có thông tin",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Báo cáo kết quả thẩm định thiết kế, dự toán theo Mẫu số 16 Phụ lục I ban hành kèm theo Thông tư số 16/2025/TT-BNNMT ngày 19/6/2025 của Bộ trưởng Bộ Nông nghiệp và Môi trường.",
+  "yeu_cau_dieu_kien": ".",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

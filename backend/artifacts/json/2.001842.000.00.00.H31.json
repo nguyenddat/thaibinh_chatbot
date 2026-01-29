@@ -1,0 +1,56 @@
+{
+  "ma_thu_tuc": "2.001842.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1535/QĐ-UBND",
+  "ten_thu_tuc": "Cho phép trường tiểu học hoạt động giáo dục",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết",
+  "linh_vuc": "Giáo dục tiểu học",
+  "trinh_tu_thuc_hien": "a) Hiệu trưởng trường tiểu học có trách nhiệm lập hồ sơ đề nghị cho phép hoạt động giáo dục;\nb) Phòng Giáo dục và Đào tạo nhận hồ sơ, xem xét điều kiện cho phép hoạt động giáo dục theo quy định. Trong thời hạn 20 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Phòng Giáo dục và Đào tạo chủ trì, phối hợp với các phòng chuyên môn có liên quan có ý kiến thẩm định hồ sơ và thẩm định thực tế các điều kiện hoạt động của trường tiểu học. Nếu đủ điều kiện, Trưởng Phòng Giáo dục và Đào tạo quyết định cho phép nhà trường tổ chức hoạt động giáo dục; trường hợp chưa quyết định cho phép hoạt động giáo dục thì có văn bản thông báo cho trường nêu rõ lý do và hướng giải quyết",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "20 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Trong thời hạn 20 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ"
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "20 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Trong thời hạn 20 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Bản sao các văn bản pháp lý chứng minh quyền sử dụng đất, quyền sở hữu nhà hoặc hợp đồng thuê địa điểm trường tiểu học với thời hạn tối thiểu 05 năm",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "Văn bản pháp lý xác nhận về số tiền đầu tư do nhà trường đang quản lý, bảo đảm tính hợp pháp, phù hợp với quy mô dự kiến tại thời điểm đăng ký hoạt động giáo dục (Đối với trường tiểu học tư thục)",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Tờ trình đề nghị cho phép trường tiểu học hoạt động giáo dục (theo Mẫu số 03 Phụ lục II kèm theo Nghị định số 142/2025/NĐ-CP).",
+      "mẫu đơn, tờ khai": "Mus03_PL2.doc",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Quy chế tổ chức và hoạt động của nhà trường, gồm các nội dung chủ yếu sau đây: Vị trí pháp lý, nhiệm vụ, quyền hạn của nhà trường; tổ chức và quản lý nhà trường; tổ chức hoạt động giáo dục trong nhà trường; nhiệm vụ và quyền của đội ngũ cán bộ quản lý, giáo viên, nhân viên, người lao động và học sinh; tài chính và tài sản của nhà trường; các vấn đề khác liên quan đến tổ chức và hoạt động của nhà trường.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Ủy ban Nhân dân huyện, quận, thành phố trực thuộc tỉnh, thị xã.",
+  "co_quan_co_tham_quyen": "Ủy ban Nhân dân huyện, quận, thành phố trực thuộc tỉnh, thị xã.",
+  "dia_chi_tiep_nhan": "Bộ phận Một cửa cấp huyện",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định cho phép trường tiểu học hoạt động giáo dục của Chủ tịch Ủy ban nhân dân cấp xã.",
+  "yeu_cau_dieu_kien": "a)  Có đất đai, cơ sở vật chất, thiết bị đáp ứng các tiêu chuẩn về địa điểm, quy mô, diện tích và cơ sở vật chất tối thiểu đối với trường tiểu học theo quy định của Bộ Giáo dục và Đào tạo.\nĐối với khu vực nội thành của các đô thị loại đặc biệt, có thể thay thế diện tích khu đất xây dựng trường bằng diện tích sàn xây dựng và bảo đảm diện tích sàn xây dựng không thấp hơn diện tích đất bình quân tối thiểu cho một học sinh theo quy định.\nb)  Có chương trình giáo dục, tài liệu giảng dạy và học tập đáp ứng các yêu cầu của chương trình giáo dục phổ thông cấp tiểu học theo quy định của Bộ Giáo dục và Đào tạo.\nc) Có đội ngũ cán bộ quản lý, giáo viên, nhân viên và người lao động đủ về số lượng và đạt tiêu chuẩn để tổ chức hoạt động giáo dục đáp ứng các yêu cầu của chương trình giáo dục phổ thông cấp tiểu học theo quy định của Bộ Giáo dục và Đào tạo.\nd) Có đủ nguồn lực tài chính để bảo đảm duy trì và phát triển hoạt động giáo dục:\n- Đối với trường tiểu học tư thục, mức đầu tư ít nhất là 50 triệu đồng/học sinh (không bao gồm các chi phí sử dụng đất). Tổng số vốn đầu tư ít nhất được tính toán căn cứ thời điểm có quy mô dự kiến cao nhất, nhưng không thấp hơn 50 tỷ đồng. Kế hoạch vốn đầu tư phải phù hợp với quy mô dự kiến của từng giai đoạn. \nĐối với trường hợp trường tiểu học tư thục không xây dựng cơ sở vật chất mới mà chỉ thuê lại hoặc sử dụng cơ sở vật chất sẵn có để triển khai hoạt động giáo dục thì mức đầu tư ít nhất phải đạt 70% mức đầu tư quy định tại điểm a khoản 4 Điều 17 Nghị định số 125/2024/NĐ-CP.\n- Đối với trường tiểu học công lập, nguồn lực tài chính do cơ quan quản lý có thẩm quyền chịu trách nhiệm bảo đảm nhằm đáp ứng các yêu cầu của chương trình giáo dục tiểu học.\nđ) Có quy chế tổ chức và hoạt động của nhà trường.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

@@ -1,0 +1,77 @@
+{
+  "ma_thu_tuc": "1.010938.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1378/QĐ-UBND",
+  "ten_thu_tuc": "Công bố tổ chức, cá nhân đủ điều kiện cung cấp dịch vụ cai nghiện ma túy tự nguyện tại gia đình, cộng đồng",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Phòng, chống tệ nạn xã hội",
+  "trinh_tu_thuc_hien": "Bước 1: Nộp hồ sơ\nTổ chức, cá nhân đề nghị công bố đủ điều kiện cung cấp dịch vụ cai nghiện ma túy tự nguyện tại gia đình, cộng đồng gửi 01 bộ hồ sơ theo quy định tại Khoản 1 Điều 17 Nghị định số 116/2021/NĐ-CP đến Ủy ban nhân dân cấp huyện nơi tổ chức đóng trụ sở hoặc nơi cá nhân cư trú. Trường hợp gửi hồ sơ theo phương thức điện tử, tổ chức, cá nhân có trách nhiệm lưu giữ toàn bộ bản gốc của hồ sơ và chịu trách nhiệm trước pháp luật về tính chính xác, trung thực của hồ sơ.\nBước 2: Tiếp nhận hồ sơ\nỦy ban nhân dân huyện tiếp nhận hồ sơ trong giờ làm việc, nếu chưa hợp lệ phải cấp ngay phiếu hướng dẫn cho người hồ sơ.\nBước 3: Tổ chức thẩm định\nChủ tịch Ủy ban nhân dân cấp huyện có trách nhiệm tổ chức thẩm định hồ sơ, thẩm định các điều kiện công bố.\nBước 4: Quyết định công bố / không công bố\nTrong thời hạn 10 ngày làm việc, kể từ ngày nhận được hồ sơ đăng ký hợp lệ, Chủ tịch Ủy ban nhân dân cấp huyện tổ chức thẩm định và công bố tổ chức, cá nhân đủ điều kiện cung cấp dịch vụ cai nghiện ma túy tự nguyện tại gia đình, cộng đồng. Trường hợp không đủ điều kiện công bố phải trả lời bằng văn bản và nêu rõ lý do.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "10 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận đủ hồ sơ hợp lệ"
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "10 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận đủ hồ sơ hợp lệ"
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "10 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận đủ hồ sơ hợp lệ"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "- Văn bản đề nghị công bố đủ điều kiện cung cấp dịch vụ cai nghiện ma túy tự nguyện tại gia đình, cộng đồng của tổ chức, cá nhân đề nghị theo Mẫu số 13 Phụ lục II Nghị định số 116/2021/NĐ-CP.",
+      "mẫu đơn, tờ khai": "Mau so 13.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Bản sao quyết định thành lập, cho phép thành lập hoặc giấy chứng nhận đăng ký doanh nghiệp (đối với tổ chức cung cấp dịch vụ).",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "- Tài liệu chứng minh bảo đảm đủ các điều kiện cơ sở vật chất, trang thiết bị cung cấp dịch vụ theo quy định tại Khoản 2 Điều 16 Nghị định số 116/2021/NĐ-CP.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Danh sách nhân viên của cơ sở cai nghiện ma túy/cơ sở cung cấp dịch vụ cai nghiện ma túy tự nguyện (Mẫu số 03 Phụ lục II ban hành kèm theo Nghị định số 116/2021/NĐ-CP).",
+      "mẫu đơn, tờ khai": "Mau so 03.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "- 01 bản sao văn bằng, chứng chỉ, phiếu lý lịch tư pháp được cấp không quá 03 tháng tại thời điểm nộp hồ sơ của từng nhân viên.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "- Bản lý lịch tóm tắt của người đứng đầu hoặc người đại diện theo pháp luật của cơ sở cung cấp dịch vụ cai nghiện ma túy tự nguyện theo Mẫu số 04 Phụ lục II Nghị định số 116/2021/NĐ-CP.",
+      "mẫu đơn, tờ khai": "Mau so 04.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Bản dự kiến quy trình cung cấp dịch vụ cai nghiện ma túy tự nguyện tại gia đình, cộng đồng.",
+      "mẫu đơn, tờ khai": "Mau so 14.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Ủy ban nhân dân cấp Huyện",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Ủy ban nhân dân cấp huyện.",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định của Chủ tịch Ủy ban nhân dân cấp huyện công bố (công bố lại) cơ sở đủ điều kiện cung cấp dịch vụ cai nghiện ma túy tự nguyện tại gia đình, cộng đồng",
+  "yeu_cau_dieu_kien": "a) Yêu cầu về pháp lý:\nĐược thành lập, tổ chức, hoạt động theo quy định của pháp luật; cá nhân không trong thời gian bị truy cứu trách nhiệm hình sự, thời gian chấp hành bản án hình sự của tòa án; không trong thời hạn cấm hành nghề hoặc công việc.\nb) Yêu cầu về cơ sở vật chất, trang thiết bị:\n- Có cơ sở vật chất để thực hiện việc tiếp nhận, cung cấp dịch vụ cai nghiện theo phạm vi dịch vụ đăng ký. Trường hợp cung cấp dịch vụ nội trú thì cơ sở phải đáp ứng các điều kiện quy định tại điểm b Khoản 2 và Khoản 4 Điều 6 Nghị định số 116/2021/NĐ-CP;\n- Có trang thiết bị để thực hiện các dịch vụ cai nghiện theo quy định tại Mục A Phụ lục I kèm theo Nghị định số 116/2021/NĐ-CP.\nc) Yêu cầu về nhân sự:\n- Có ít nhất 01 người chịu trách nhiệm chính thực hiện việc cung cấp dịch vụ, có trình độ chuyên môn, ngành nghề đào tạo phù hợp;\n- Nhân sự phải đáp ứng điều kiện, tiêu chuẩn theo quy định tại Khoản 2 Điều 8 Nghị định số 116/2021/NĐ-CP.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

@@ -1,0 +1,46 @@
+{
+  "ma_thu_tuc": "2.001215.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1610/QĐ-UBND",
+  "ten_thu_tuc": "Đăng ký phương tiện hoạt động vui chơi, giải trí dưới nước lần đầu",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết",
+  "linh_vuc": "Hàng hải và đường thủy nội địa",
+  "trinh_tu_thuc_hien": "Nộp hồ sơ TTHC:\nTổ chức, cá nhân nộp hồ sơ đến ủy ban nhân dân cấp tỉnh hoặc Sở Giao thông vận tải, Ủy ban nhân dân cấp huyện, Ủy ban nhân dân cấp xã khi được phân công, phân cấp (sau đây gọi là cơ quan đăng ký).\nGiải quyết TTHC:\nCơ quan đăng ký phương tiện tiếp nhận, kiểm tra hồ sơ, trường hợp hồ sơ không hợp lệ thì hướng dẫn người nộp hoàn thiện hồ sơ theo quy định;\nTrong thời hạn 03 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ, cơ quan đăng ký phương tiện cấp Giấy chứng nhận đăng ký phương tiện cho chủ phương tiện; trường hợp không cấp phải có văn bản trả lời và nêu rõ lý do.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "3 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Nộp hồ sơ và trả kết quả trực tiếp hoặc qua hệ thống bưu chính hoặc hình thức phù hợp khác.\nTrong thời hạn 03 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ, cơ quan đăng ký phương tiện cấp Giấy chứng nhận đăng ký phương tiện cho chủ phương tiện."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "3 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Nộp hồ sơ và trả kết quả trực tiếp hoặc qua hệ thống bưu chính hoặc hình thức phù hợp khác.\nTrong thời hạn 03 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ, cơ quan đăng ký phương tiện cấp Giấy chứng nhận đăng ký phương tiện cho chủ phương tiện."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "+ Biên lai nộp lệ phí trước bạ (bản chính hoặc bản điện tử hoặc bản sao điện tử) đối với phương tiện thuộc diện phải nộp lệ phí trước bạ.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "+ Đơn đề nghị đăng ký phương tiện theo Mẫu;",
+      "mẫu đơn, tờ khai": "Mẫu đơn đề nghị ĐĂNG KÝ PHƯƠNG TIỆN VUI CHƠI GIẢI TRÍ DƯỚI NƯỚC.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã",
+  "co_quan_thuc_hien": "Sở Giao thông vận tải, Ủy ban Nhân dân tỉnh và thành phố trực thuộc trung ương., Ủy ban Nhân dân huyện, quận, thành phố trực thuộc tỉnh, thị xã., Ủy ban Nhân dân xã, phường, thị trấn.",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Bộ phận Một cửa cấp huyện",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Giấy chứng nhận đăng ký phương tiện",
+  "yeu_cau_dieu_kien": "Không có",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

@@ -1,0 +1,52 @@
+{
+  "ma_thu_tuc": "2.002620.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1724/QĐ-UBND",
+  "ten_thu_tuc": "Thông báo về việc thực hiện hoạt động bán hàng không tại địa điểm giao dịch thường xuyên",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết",
+  "linh_vuc": "bảo vệ quyền lợi người tiêu dùng",
+  "trinh_tu_thuc_hien": "1. Trình tự thực hiện\n- Tổ chức, cá nhân kinh doanh thực hiện thông báo đến Ủy ban nhân dân cấp xã tại nơi tổ chức bán sản phẩm, hàng hóa, cung cấp dịch vụ.\n- Hồ sơ thông báo phải được gửi đến Ủy ban nhân dân cấp xã tối thiểu 03 ngày làm việc trước khi thực hiện hoạt động (căn cứ theo ngày Ủy ban nhân dân cấp xã nhận ghi trên vận đơn bưu điện hoặc các hình thức có giá trị tương đương trong trường hợp gửi qua đường bưu điện, căn cứ theo ngày ghi trên giấy tiếp nhận hồ sơ trong trường hợp nộp trực tiếp, căn cứ theo thời gian ghi nhận trên hệ thống thư điện tử hoặc căn cứ theo ngày ghi nhận trên hệ thống trong trường hợp nộp qua hệ thống dịch vụ công trực tuyến).\n- Trường hợp sửa đổi, bổ sung nội dung hoạt động đã được thông báo đến Ủy ban nhân dân cấp xã trước đó, tổ chức, cá nhân kinh doanh thực hiện thông báo sửa đổi, bổ sung nội dung hoạt động đến Ủy ban nhân dân cấp xã nơi đã thông báo. \nUỷ ban nhân dân cấp xã công khai đầy đủ nội dung thông báo của tổ chức, cá nhân kinh doanh bằng hình thức phù hợp để người tiêu dùng tại địa bàn được biết. Việc công khai được thực hiện trước và trong thời gian thực hiện hoạt động bán hàng, cung cấp dịch vụ của tổ chức, cá nhân kinh doanh tại địa bàn.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "không quy định",
+      "phí, lệ phí": "",
+      "mô tả": "."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "không quy định",
+      "phí, lệ phí": "",
+      "mô tả": "."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "không quy định",
+      "phí, lệ phí": "",
+      "mô tả": ","
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "+) Lần đầu: 01 Thông báo thực hiện bán hàng không tại địa điểm giao dịch thường xuyên theo Mẫu số 10 Phụ lục ban hành kèm theo Nghị định số 55/2024/NĐ-CP.",
+      "mẫu đơn, tờ khai": "mẫu đơn số 10.doc",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "+) Trường hợp sửa đổi bổ sung thông báo: 01 thông báo sửa đổi, bổ sung theo Mẫu số 11 Phụ lục ban hành kèm theo Nghị định số 55/2024/NĐ-CP.",
+      "mẫu đơn, tờ khai": "mẫu đơn 11.doc",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Uỷ ban Nhân dân cấp xã, phường, thị trấn",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Bộ phận Một cửa cấp xã",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Tổ chức, cá nhân kinh doanh thực hiện hoạt động bán hàng không tại địa điểm giao dịch thường xuyên sau khi thông báo.",
+  "yeu_cau_dieu_kien": "- Tổ chức, cá nhân kinh doanh theo quy định tại Luật Bảo vệ quyền lợi người tiêu dùng. \n- Thực hiện hoạt động bán hàng không tại địa điểm giao dịch thường xuyên.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

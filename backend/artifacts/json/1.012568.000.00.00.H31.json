@@ -1,0 +1,88 @@
+{
+  "ma_thu_tuc": "1.012568.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1606/QĐ-UBND",
+  "ten_thu_tuc": "Giao tài sản kết cấu hạ tầng chợ do cấp xã quản lý",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Tài sản kết cấu hạ tầng chợ do Nhà nước đầu tư, quản lý",
+  "trinh_tu_thuc_hien": "- Bước 1: Chủ đầu tư dự án (đối với tài sản kết cấu hạ tầng chợ được đầu tư xây dựng mới), đơn vị chủ trì quản lý tài sản (đối với tài sản kết cấu hạ tầng chợ được xác lập quyền sở hữu toàn dân theo quy định tại Điều 106 Luật Quản lý, sử dụng tài sản công) có văn bản kèm theo hồ sơ về tài sản gửi cơ quan chuyên môn về tài sản kết cấu hạ tầng chợ cấp huyện. \n- Bước 2: Cơ quan chuyên môn về tài sản kết cấu hạ tầng chợ cấp huyện chủ trì, phối hợp với cơ quan, đơn vị có liên quan của địa phương trình Ủy ban nhân dân cấp huyện xem xét, quyết định giao tài sản. \n- Bước 3. Kể từ ngày có Quyết định giao tài sản kết cấu hạ tầng chợ của Ủy ban nhân dân cấp huyện, các cơ quan, đơn vị có liên quan thực hiện việc bàn giao, tiếp nhận tài sản.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "60 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "- Trong thời hạn 60 ngày, kể từ ngày nhận đủ hồ sơ cơ quan chuyên môn về tài sản kết cấu hạ tầng chợ cấp huyện chủ trì, phối hợp với cơ quan, đơn vị có liên quan của địa phương trình Ủy ban nhân dân cấp huyện xem xét, quyết định giao tài sản."
+    },
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "30 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "- Trong thời hạn 30 ngày, kể từ ngày có Quyết định giao tài sản kết cấu hạ tầng chợ của Ủy ban nhân dân cấp huyện, các cơ quan, đơn vị, doanh nghiệp có liên quan thực hiện việc bàn giao, tiếp nhận tài sản."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "60 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "- Trong thời hạn 60 ngày, kể từ ngày nhận đủ hồ sơ cơ quan chuyên môn về tài sản kết cấu hạ tầng chợ cấp huyện chủ trì, phối hợp với cơ quan, đơn vị có liên quan của địa phương trình Ủy ban nhân dân cấp huyện xem xét, quyết định giao tài sản."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "30 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "- Trong thời hạn 30 ngày, kể từ ngày có Quyết định giao tài sản kết cấu hạ tầng chợ của Ủy ban nhân dân cấp huyện, các cơ quan, đơn vị, doanh nghiệp có liên quan thực hiện việc bàn giao, tiếp nhận tài sản."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "- Tờ trình của chủ đầu tư dự án/đơn vị chủ trì quản lý tài sản về việc giao tài sản cho đối tượng quản lý: 01 bản chính",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Quyết định phê duyệt dự án đầu tư xây dựng: 01 bản chính",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Văn bản đề nghị được giao tài sản: 01 bản chính",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Danh mục tài sản đề nghị giao (tên tài sản, địa chỉ, loại hình công trình, năm xây dựng, năm đưa vào sử dụng, diện tích, số điểm kinh doanh tại chợ, giá trị tài sản, đánh giá tình trạng tài sản – nếu có): 01 bản chính",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Biên bản nghiệm thu đưa tài sản vào sử dụng (đối với tài sản được đầu tư xây dựng mới): 01 bản chính",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Quyết định xác lập quyền sở hữu toàn dân (đối với tài sản được xác lập quyền sở hữu toàn dân theo quy định tại Điều 106 Luật Quản lý, sử dụng tài sản công): 01 bản chính",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Hồ sơ hoàn công (đối với công trình đầu tư xây dựng mới)",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "- Giấy tờ khác có liên quan (nếu có)",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Doanh nghiệp",
+  "co_quan_thuc_hien": "Ủy ban nhân dân cấp Huyện, cơ quan chuyên môn về tài sản kết cấu hạ tầng chợ cấp huyện",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Bộ phận Một cửa cấp huyện",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định giao tài sản, Bàn giao, tiếp nhận tài sản kết cấu hạ tầng chợ do Nhà nước đầu tư, quản lý",
+  "yeu_cau_dieu_kien": "Không có",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

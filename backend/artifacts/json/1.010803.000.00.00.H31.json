@@ -1,0 +1,51 @@
+{
+  "ma_thu_tuc": "1.010803.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=301706",
+  "so_quyet_dinh": "1476/QĐ-UBND",
+  "ten_thu_tuc": "Giải quyết chế độ trợ cấp thờ cúng liệt sĩ.",
+  "cap_thuc_hien": "Cấp Tỉnh, Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Người có công",
+  "trinh_tu_thuc_hien": "Bước 1: Cá nhân làm đơn đề nghị theo Mẫu số 18 Phụ lục I Nghị định số 131/2021/NĐ-CP kèm văn bản ủy quyền của những người quy định tại điểm a, b, c khoản 6 Điều 28 Nghị định số 131/2021/NĐ-CP và bản sao được chứng thực từ Bằng “Tổ quốc ghi công” gửi Ủy ban nhân dân cấp xã nơi thường trú.\n       Bước 2: Ủy ban nhân dân cấp xã trong thời gian 05 ngày làm việc kể từ ngày tiếp nhận đủ giấy tờ, có trách nhiệm kiểm tra, xác nhận đơn đề nghị, lập danh sách kèm giấy tờ quy định tại khoản 1 Điều 28 Nghị định số 131/2021/NĐ- CP gửi Phòng Nội vụ\n        Bước 3: Phòng Nội vụ trong thời gian 07 ngày làm việc kể từ ngày nhận được giấy tờ, có trách nhiệm tổng hợp, lập danh sách gửi các giấy tờ theo quy định đến Sở Nội vụ.\n        Bước 4: Sở Nội vụ trong thời gian 12 ngày kể từ ngày tiếp nhận đủ giấy tờ, có trách nhiệm kiểm tra, đối chiếu hồ sơ của liệt sĩ đang quản lý, ban hành quyết định trợ cấp thờ cúng liệt sĩ theo Mẫu số 55 Phụ lục I Nghị định số 131/2021/NĐ-CP. Trường hợp hồ sơ gốc của liệt sĩ do địa phương khác quản lý thì Sở Lao động - Thương binh (nay là Sở Nội vụ) có văn bản đề nghị nơi quản lý hồ sơ thực hiện di chuyển hồ sơ liệt sĩ kèm văn bản xác nhận chưa được giải quyết chế độ trợ cấp thờ cúng liệt sĩ.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "24 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận đủ giấy tờ (Thời gian cụ thể được quy định tại từng bước của quy trình thực hiện)."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "24 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận đủ giấy tờ (Thời gian cụ thể được quy định tại từng bước của quy trình thực hiện)."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "- Đơn đề nghị Mẫu số 18 Phụ lục I Nghị định số 131/2021/NĐ-CP.",
+      "mẫu đơn, tờ khai": "Mauso18_ND131_2021.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Bản sao chứng thực từ Bằng “Tổ quốc ghi công”.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "- Văn bản ủy quyền.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam",
+  "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã, Sở Nội vụ, Phòng Nội vụ",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Bộ phận tiếp nhận hồ sơ và trả kết quả, UBND cấp xã",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định trợ cấp thờ cúng liệt sĩ",
+  "yeu_cau_dieu_kien": "Người được ủy quyền thờ cúng liệt sĩ hoặc cơ quan, đơn vị được giao thờ cúng liệt sĩ được xác định theo quy định khoản 6 Điều 28 Nghị định số 131/2021/NĐ-CP.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

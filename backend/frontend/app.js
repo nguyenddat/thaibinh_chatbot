@@ -1,12 +1,19 @@
 import { marked } from "https://cdn.jsdelivr.net/npm/marked@11.1.1/lib/marked.esm.js";
 
+/* -----------------------------------------------------
+   DOM
+------------------------------------------------------- */
 const chatWindow = document.querySelector("#chat-window");
-const form = document.querySelector("form");
-const questionInput = document.querySelector("textarea");
-const submitBtn = document.querySelector("button[type='submit']");
+const form = document.querySelector("#chat-form");
+const questionInput = document.querySelector("#question");
+const submitBtn = document.querySelector("#submit-btn");
 const clearBtn = document.querySelector("#clear-history");
 
+/* -----------------------------------------------------
+   CONFIG
+------------------------------------------------------- */
 const API_BASE = `${window.location.origin}/api/chat`;
+
 const state = {
   history: [],
 };
@@ -17,99 +24,83 @@ const ROLE_LABEL = {
   system: "Hệ thống",
 };
 
-// MARKED CONFIG
+/* -----------------------------------------------------
+   MARKDOWN CONFIG
+------------------------------------------------------- */
 marked.setOptions({
   gfm: true,
   breaks: true,
 });
 
 /* -----------------------------------------------------
-   FIX MARKDOWN
+   MARKDOWN HELPERS
 ------------------------------------------------------- */
 function normalizeMarkdown(text = "") {
-  if (!text) return "";
-  let normalized = text;
-
-  // Fix API returning literal "\n"
-  normalized = normalized.replace(/\\n/g, "\n");
-
-  return normalized.trim();
+  const safeText = text ? String(text) : "";
+  return safeText.replace(/\\n/g, "\n").trim();
 }
 
-/* -----------------------------------------------------
-   RENDER MARKDOWN
-------------------------------------------------------- */
 function renderMarkdown(text = "") {
   const clean = normalizeMarkdown(text);
-  const purifier = window?.DOMPurify;
   const html = marked.parse(clean);
-  return purifier ? purifier.sanitize(html) : html;
+  return window.DOMPurify ? DOMPurify.sanitize(html) : html;
 }
 
 /* -----------------------------------------------------
-   APPEND MESSAGE
+   UI HELPERS
 ------------------------------------------------------- */
 function appendMessage(role, message, recommendations = []) {
   const article = document.createElement("article");
   article.className = `chat-bubble ${role}`;
 
-  // Role Label
-  const roleSpan = document.createElement("div");
-  roleSpan.className = "role";
-  roleSpan.textContent = ROLE_LABEL[role] || role;
-  article.appendChild(roleSpan);
+  const roleDiv = document.createElement("div");
+  roleDiv.className = "role";
+  roleDiv.textContent = ROLE_LABEL[role] || role;
 
-  // Message Content
-  const messageDiv = document.createElement("div");
-  messageDiv.className = "message-content";
-  messageDiv.innerHTML = renderMarkdown(message);
-  article.appendChild(messageDiv);
+  const contentDiv = document.createElement("div");
+  contentDiv.className = "message-content";
+  contentDiv.innerHTML = renderMarkdown(message);
 
-  // Recommendations (Only for AI)
-  if (recommendations && recommendations.length > 0 && role === 'ai') {
-    const recContainer = document.createElement("div");
-    recContainer.className = "recommendations-container";
+  article.append(roleDiv, contentDiv);
 
-    const recLabel = document.createElement("span");
-    recLabel.className = "recommendations-label";
-    recLabel.textContent = "Gợi ý câu hỏi tiếp theo:";
-    recContainer.appendChild(recLabel);
+  if (role === "ai" && recommendations.length) {
+    const rec = document.createElement("div");
+    rec.className = "recommendations-container";
 
-    const chipsDiv = document.createElement("div");
-    chipsDiv.className = "recommendation-chips";
+    const label = document.createElement("span");
+    label.className = "recommendations-label";
+    label.textContent = "Gợi ý câu hỏi tiếp theo:";
 
-    recommendations.forEach(text => {
-      const chip = document.createElement("button");
-      chip.className = "recommendation-chip";
-      chip.textContent = text;
-      chip.type = "button";
-      chip.addEventListener("click", () => {
+    const chips = document.createElement("div");
+    chips.className = "recommendation-chips";
+
+    recommendations.forEach((text) => {
+      const btn = document.createElement("button");
+      btn.type = "button";
+      btn.className = "recommendation-chip";
+      btn.textContent = text;
+      btn.onclick = () => {
         questionInput.value = text;
         questionInput.focus();
-        // Optional: Auto-submit
-        // form.dispatchEvent(new Event('submit')); 
-      });
-      chipsDiv.appendChild(chip);
+      };
+      chips.appendChild(btn);
     });
 
-    recContainer.appendChild(chipsDiv);
-    article.appendChild(recContainer);
+    rec.append(label, chips);
+    article.appendChild(rec);
   }
 
   chatWindow.appendChild(article);
   chatWindow.scrollTop = chatWindow.scrollHeight;
 }
 
-/* -----------------------------------------------------
-   LOADING UI
-------------------------------------------------------- */
-function setLoading(isLoading) {
-  submitBtn.disabled = isLoading;
-  submitBtn.textContent = isLoading ? "..." : "Gửi";
+function setLoading(loading) {
+  submitBtn.disabled = loading;
+  submitBtn.textContent = loading ? "..." : "Gửi";
 }
 
 /* -----------------------------------------------------
-   POST JSON
+   API
 ------------------------------------------------------- */
 async function postJSON(url, payload) {
   const res = await fetch(url, {
@@ -123,44 +114,37 @@ async function postJSON(url, payload) {
 }
 
 /* -----------------------------------------------------
-   CHAT PIPELINE
+   CHAT PIPELINE (SIMPLE)
 ------------------------------------------------------- */
 async function runPipeline(question) {
-  const trimmedHistory = state.history.slice(-6);
-
-  // 1. Guardrail
-  const guardrail = await postJSON(`${API_BASE}/guardrail`, { question });
-  if (!guardrail.verified) throw new Error("Câu hỏi chưa hợp lệ, vui lòng diễn đạt lại.");
-
-  // 2. Analysis
-  const analysis = await postJSON(`${API_BASE}/analysis`, {
-    question,
-    chat_history: trimmedHistory,
+  const res = await postJSON(API_BASE, {
+    text: question,
+    chat_history: state.history,
   });
 
-  const payload = {
-    question,
-    intent: analysis.intent ?? "welcome",
-    tasks: analysis.tasks?.length ? analysis.tasks : undefined,
-    analysis_method: analysis.analysis_method,
-    analysis_params: analysis.analysis_params,
-  };
-
-  // 3. Chat Response
-  const chatResponse = await postJSON(API_BASE + "/", payload);
-  const output = chatResponse.output?.response?.[0];
+  const output = res?.output?.response?.[0] || {};
 
   return {
-    answer: output?.content ?? "Hệ thống chưa có phản hồi.",
-    recommendations: analysis.recommendations ?? output?.recommendations ?? [],
+    answer: (typeof output.content === 'string' ? output.content : JSON.stringify(output.content)) || "Hệ thống chưa có phản hồi.",
+    recommendations: Array.isArray(output.recommendations) ? output.recommendations : [],
   };
 }
 
 /* -----------------------------------------------------
+   ENTER TO SEND
+------------------------------------------------------- */
+questionInput.addEventListener("keydown", (e) => {
+  if (e.key === "Enter" && !e.shiftKey) {
+    e.preventDefault();
+    form.requestSubmit();
+  }
+});
+
+/* -----------------------------------------------------
    FORM SUBMIT
 ------------------------------------------------------- */
-form.addEventListener("submit", async (event) => {
-  event.preventDefault();
+form.addEventListener("submit", async (e) => {
+  e.preventDefault();
   const question = questionInput.value.trim();
   if (!question) return;
 
@@ -168,15 +152,15 @@ form.addEventListener("submit", async (event) => {
   questionInput.value = "";
   setLoading(true);
 
-  try {
-    const { answer, recommendations } = await runPipeline(question);
-    appendMessage("ai", answer, recommendations);
-    state.history.push({ human: question }, { ai: answer });
-  } catch (err) {
-    appendMessage("system", `Lỗi: ${err.message}`);
-  } finally {
-    setLoading(false);
-  }
+  const { answer, recommendations } = await runPipeline(question);
+  appendMessage("ai", answer, recommendations);
+
+  state.history.push(
+    { human: question },
+    { ai: answer }
+  );
+
+  setLoading(false);
 });
 
 /* -----------------------------------------------------
@@ -189,10 +173,14 @@ clearBtn.addEventListener("click", () => {
 });
 
 /* -----------------------------------------------------
-   INITIAL GREETING
+   INIT
 ------------------------------------------------------- */
 appendMessage(
   "ai",
-  "Xin chào! Tôi có thể giúp bạn tra cứu và tóm tắt các thủ tục hành chính tại Thái Bình. Hãy đặt câu hỏi để bắt đầu nhé.",
-  ["Thủ tục đăng ký khai sinh", "Làm thẻ căn cước công dân", "Đăng ký kết hôn"]
+  "Xin chào! Tôi có thể giúp bạn tra cứu và tóm tắt các thủ tục hành chính tại Phường Trà Lý, tỉnh Hưng Yên.",
+  [
+    "Thủ tục đăng ký khai sinh",
+    "Làm thẻ căn cước công dân",
+    "Đăng ký kết hôn",
+  ]
 );

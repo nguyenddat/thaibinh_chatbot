@@ -1,0 +1,62 @@
+{
+  "ma_thu_tuc": "1.000614.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=180807",
+  "so_quyet_dinh": "1619/QĐ-UBND",
+  "ten_thu_tuc": "Đăng ký hoạt động cho chi nhánh của Trung tâm tư vấn pháp luật",
+  "cap_thuc_hien": "Cấp Tỉnh",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Tư vấn pháp luật",
+  "trinh_tu_thuc_hien": "- Tổ chức chủ quản ra quyết định thành lập Chi nhánh của Trung tâm tư vấn pháp luật.\n- Chi nhánh của Trung tâm tư vấn pháp luật thực hiện đăng ký hoạt động tại Sở Tư pháp, nơi đặt trụ sở của Chi nhánh.\n- Trong thời hạn năm ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp nơi đặt trụ sở của Chi nhánh có trách nhiệm cấp Giấy đăng ký hoạt động cho Chi nhánh; trong trường hợp từ chối, phải thông báo lý do bằng văn bản cho người làm đơn.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "5 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Trong thời hạn năm ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "5 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Trong thời hạn năm ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "5 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Trong thời hạn năm ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Đơn đăng ký hoạt động",
+      "mẫu đơn, tờ khai": "MauTP-TVPL-02-s.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Bản sao có chứng thực Giấy đăng ký hoạt động của Trung tâm tư vấn pháp luật thành lập chi nhánh trong trường hợp nộp hồ sơ qua hệ thống bưu chính, hoặc bản sao Giấy đăng ký hoạt động của Trung tâm tư vấn pháp luật thành lập chi nhánh và xuất trình bản chính để đối chiếu trong trường hợp nộp hồ sơ trực tiếp",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "Quyết định của tổ chức chủ quản về việc thành lập Chi nhánh",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Bản sao có chứng thực Thẻ luật sư của luật sư hoặc Thẻ tư vấn viên pháp luật của người dự kiến làm Trưởng chi nhánh trong trường hợp nộp hồ sơ qua hệ thống bưu chính, hoặc bản sao Thẻ luật sư của luật sư hoặc Thẻ tư vấn viên pháp luật của người dự kiến làm Trưởng chi nhánh trong trường hợp nộp hồ sơ qua hệ thống bưu chính và xuất trình bản chính để đối chiếu trong trường hợp nộp hồ sơ trực tiếp",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Sở Tư pháp",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Trung tâm Phục vụ hành chính công và Kiểm soát TTHC tỉnh Hưng Yên, số 02 đường Chùa Chuông, phường Hiến Nam, thành phố Hưng Yên, tỉnh Hưng Yên + Nộp hồ sơ: điểm tiếp nhận hồ sơ Sở Tư pháp + Nhận kết quả: điểm trả kết quả tập trung",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Giấy đăng ký hoạt động của Chi nhánh Trung tâm tư vấn pháp luật",
+  "yeu_cau_dieu_kien": "Không",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

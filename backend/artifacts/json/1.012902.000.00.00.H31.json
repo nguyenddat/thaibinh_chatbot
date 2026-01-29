@@ -1,0 +1,52 @@
+{
+  "ma_thu_tuc": "1.012902.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=356563",
+  "so_quyet_dinh": "2241/QĐ-UBND",
+  "ten_thu_tuc": "Cấp lại giấy phép hoạt động của Sàn giao dịch bất động sản (trong trường hợp thay đổi thông tin của sàn)",
+  "cap_thuc_hien": "Cấp Tỉnh",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Kinh doanh bất động sản",
+  "trinh_tu_thuc_hien": "- Sở Xây dựng cấp lại Giấy phép hoạt động trong trường hợp sàn giao dịch bất động sản thay đổi thông tin theo quy định tại khoản 3 Điều 14 của Nghị định số 96/2024/NĐ-CP ngày 24/7/2024;\n- Sàn giao dịch bất động sản nộp 01 bộ hồ sơ đề nghị cấp lại giấy phép hoạt động của sàn giao dịch bất động sản đến Trung tâm hành chính công của tỉnh hoặc Bộ phận tiếp nhận và trả kết quả giải quyết thủ tục hành chính của Sở Xây dựng;\n- Sở Xây dựng sau khi nhận đủ hồ sơ hợp lệ, có trách nhiệm kiểm tra hồ sơ và cấp lại giấy phép hoạt động trong thời hạn 05 ngày làm việc. Giấy phép hoạt động được cấp lại được giữ nguyên số giấy phép đã cấp trước đây để duy trì liên kết với hồ sơ và dữ liệu.\n- Trường hợp từ chối cấp lại, cơ quan quản lý nhà nước về kinh doanh bất động sản cấp tỉnh phải thông báo bằng văn bản và nêu rõ lý do từ chối.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "5 Ngày làm việc",
+      "phí, lệ phí": "Phí : 0 Đồng (Không)",
+      "mô tả": "05 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "5 Ngày làm việc",
+      "phí, lệ phí": "Phí : 0 Đồng (Không)",
+      "mô tả": "05 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "5 Ngày làm việc",
+      "phí, lệ phí": "Phí : 0 Đồng (Không)",
+      "mô tả": "05 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Đơn đề nghị cấp lại giấy phép hoạt động của sàn giao dịch bất động sản theo mẫu tại phụ lục XIX ban hành kèm theo Nghị định số 96/2024/NĐ-CP ngày 24/7/2024 của Chính phủ quy định chi tiết một số điều của Luật Kinh doanh bất động sản;",
+      "mẫu đơn, tờ khai": "ĐƠN ĐỀ NGHỊ CẤP LẠI GIẤY PHÉP HOẠT ĐỘNG.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "Giấy phép hoạt động",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Sở Xây dựng",
+  "co_quan_co_tham_quyen": "Sở Xây dựng",
+  "dia_chi_tiep_nhan": "Trung tâm phục vụ hành chính công và Kiểm soát TTHC tỉnh Hưng Yên, số 02 đường Chùa Chuông, phường Hiến Nam, thành phố Hưng Yên, tỉnh Hưng Yên + Nộp hồ sơ: Điểm tiếp nhận hồ sơ Sở Xây dựng + Nhận kết quả: Điểm trả kết quả tập trung",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Giấy phép cấp lại hoạt động của Sàn giao dịch bất động sản.",
+  "yeu_cau_dieu_kien": "Không có yêu cầu điều kiện",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

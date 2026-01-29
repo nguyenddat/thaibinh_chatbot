@@ -1,0 +1,35 @@
+{
+  "ma_thu_tuc": "2.001904.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=388347",
+  "so_quyet_dinh": "1486/QĐ-UBND",
+  "ten_thu_tuc": "Tiếp nhận đối tượng học bổ túc trung học cơ sở",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết",
+  "linh_vuc": "Giáo dục trung học",
+  "trinh_tu_thuc_hien": "Đối tượng học bổ túc THCS cần ghi tên và nộp hồ sơ, học bạ (nếu có) tại các trung tâm giáo dục thường xuyên, các trường, lớp bổ túc văn hoá.\nTrường hợp không có hồ sơ, học bạ thì sở giáo dục và đào tạo tổ chức kiểm tra trình độ hai môn ngữ văn và toán. Căn cứ vào kết quả kiểm tra, Giám đốc sở giáo dục và đào tạo cấp giấy phép vào học tại lớp tương ứng với trình độ. Giấy cho phép vào học này là căn cứ đẻ thay học bạ các lớp dưới trong hồ sơ dự thi tốt nghiệp bổ túc THCS.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "Do sở giáo dục và đào tạo quy định",
+      "phí, lệ phí": "",
+      "mô tả": "Do sở giáo dục và đào tạo quy định"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Do sở giáo dục và đào tạo quy định Khác",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Cán bộ, công chức, viên chức",
+  "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Trụ sở cơ quan hành chính",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Giấy phép vào học tại lớp tương ứng với trình độ",
+  "yeu_cau_dieu_kien": "Không yêu cầu",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

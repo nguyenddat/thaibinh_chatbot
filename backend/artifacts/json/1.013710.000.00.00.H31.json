@@ -1,0 +1,80 @@
+{
+  "ma_thu_tuc": "1.013710.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1475/QĐ-UBND",
+  "ten_thu_tuc": "Hỗ trợ chi phí y tế và thu nhập thực tế bị mất hoặc giảm sút cho người đang trực tiếp tham gia hoạt động chữ thập đỏ bị tai nạn dẫn đến thiệt hại về sức khỏe",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Quản lý nhà nước về hội, quỹ",
+  "trinh_tu_thuc_hien": "- Bước 1: Trong thời hạn 10 ngày kể từ ngày người bị tai nạn đã được cứu chữa, phục hồi sức khỏe và chức năng bị mất hoặc giảm sút; Hội Chữ thập đỏ quản lý người bị tai nạn lập hồ sơ gửi Phòng Văn hóa - Xã hội thuộc Ủy ban nhân dân cấp xã cùng địa bàn để thẩm định.\n- Bước 2: Phòng Văn hóa - Xã hội thuộc Ủy ban nhân dân cấp xã phối hợp với cơ quan bảo hiểm xã hội, cơ quan có liên quan thẩm định và có văn bản trả lời Hội Chữ thập đỏ.\n- Bước 3: Hội Chữ thập đỏ xem xét, chi trả chi phí. Trường hợp không đồng ý phải có văn bản trả lời nêu rõ lý do.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "10 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận được văn bản thẩm định của Phòng Văn hoá - Xã hội thuộc Ủy ban nhân dân cấp xã, Hội Chữ thập đỏ xem xét, chi trả chi phí. Trường hợp không đồng ý, có văn bản trả lời nêu rõ lý do\nNộp hồ sơ trực tiếp hoặc qua bưu điện tại Hội Chữ thập đỏ quản lý người bị tai nạn."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "20 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận đủ hồ sơ theo quy định, Phòng Văn hoá - Xã hội thuộc Ủy ban nhân dân cấp xã phối hợp với cơ quan bảo hiểm xã hội, cơ quan có liên quan thẩm định và có văn bản trả lời Hội Chữ thập đỏ\nNộp hồ sơ trực tiếp hoặc qua bưu điện tại Hội Chữ thập đỏ quản lý người bị tai nạn."
+    },
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "10 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày người bị tai nạn đã được cứu chữa, phục hồi sức khỏe và chức năng bị mất hoặc giảm sút, Hội Chữ thập đỏ quản lý người bị tai nạn lập 01 bộ hồ sơ gửi Phòng Văn hoá - Xã hội thuộc Ủy ban nhân dân cấp xã cùng địa bàn để thẩm định.\nNộp hồ sơ trực tiếp hoặc qua bưu điện tại Hội Chữ thập đỏ quản lý người bị tai nạn."
+    },
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "20 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận đủ hồ sơ theo quy định, Phòng Văn hoá - Xã hội thuộc Ủy ban nhân dân cấp xã phối hợp với cơ quan bảo hiểm xã hội, cơ quan có liên quan thẩm định và có văn bản trả lời Hội Chữ thập đỏ\nNộp hồ sơ trực tiếp hoặc qua bưu điện tại Hội Chữ thập đỏ quản lý người bị tai nạn."
+    },
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "10 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận được văn bản thẩm định của Phòng Văn hoá - Xã hội thuộc Ủy ban nhân dân cấp xã, Hội Chữ thập đỏ xem xét, chi trả chi phí. Trường hợp không đồng ý, có văn bản trả lời nêu rõ lý do\nNộp hồ sơ trực tiếp hoặc qua bưu điện tại Hội Chữ thập đỏ quản lý người bị tai nạn."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "10 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày người bị tai nạn đã được cứu chữa, phục hồi sức khỏe và chức năng bị mất hoặc giảm sút, Hội Chữ thập đỏ quản lý người bị tai nạn lập 01 bộ hồ sơ gửi Phòng Văn hoá - Xã hội thuộc Ủy ban nhân dân cấp xã cùng địa bàn để thẩm định.\nNộp hồ sơ trực tiếp hoặc qua bưu điện tại Hội Chữ thập đỏ quản lý người bị tai nạn."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "- Biên bản xác nhận tình trạng của người bị tai nạn do Hội Chữ thập đỏ lập có xác nhận của Ủy ban nhân dân cấp xã nơi xảy ra tai nạn hoặc cơ quan công an nơi xảy ra tai nạn (bản chính hoặc bản sao có chứng thực nếu gửi qua bưu điện, bản phô tô và bản chính để đối chiếu nếu gửi trực tiếp)",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Giấy ra viện, hóa đơn thanh toán chi phí khám bệnh, chữa bệnh và những chi phí không nằm trong danh mục do bảo hiểm y tế chi trả với người lao động tham gia bảo hiểm y tế (bản chính hoặc bản sao có chứng thực nếu gửi qua đường bưu điện, bản sao và bản chính để đối chiếu nếu gửi trực tiếp)",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Văn bản, giấy tờ hợp lệ về thu nhập thực tế theo tiền lương, tiền công hằng tháng của người bị tai nạn có xác nhận của tổ chức hoặc cá nhân sử dụng người lao động để cơ quan nhà nước có thẩm quyền xác định thu nhập thực tế bị mất hoặc giảm sút (bản chính hoặc bản sao có chứng thực nếu gửi qua đường bưu điện, bản sao và bản chính để đối chiếu nếu gửi trực tiếp), gồm: Hợp đồng lao động, quyết định nâng lương của tổ chức hoặc cá nhân sử dụng người lao động hoặc bản kê có thu nhập thực tế của người bị tai nạn và các giấy tờ chứng minh thu nhập thực tế hợp pháp khác (nếu có)",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Công văn đề nghị thẩm định của Hội Chữ thập đỏ (bản chính)",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Người nước ngoài",
+  "co_quan_thuc_hien": "Hội chữ thập đỏ",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Hội Chữ thập đỏ",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Hội Chữ thập đỏ xem xét, chi trả chi phí. Trường hợp không đồng ý phải có văn bản trả lời nêu rõ lý do.",
+  "yeu_cau_dieu_kien": "- Người đang trực tiếp tham gia hoạt động chữ thập đỏ là công dân Việt Nam, người nước ngoài được Hội Chữ thập đỏ Việt Nam hoặc Hội Chữ thập đỏ các tỉnh, thành phố trực thuộc Trung ương hướng dẫn tham gia các hoạt động chữ thập đỏ tại Việt Nam theo quy định tại Khoản 1 hoặc Khoản 2 Điều 2 Nghị định số 03/2011/NĐ-CP ngày 07 tháng 01 năm 2011 của Chính phủ quy định chi tiết và biện pháp thi hành Luật Hoạt động chữ thập đỏ;\n- Tai nạn dẫn đến thiệt hại về sức khỏe là tai nạn gây tổn thương cho bất kỳ bộ phận, chức năng nào của cơ thể người đang trực tiếp tham gia hoạt động chữ thập đỏ.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

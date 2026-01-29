@@ -1,0 +1,57 @@
+{
+  "ma_thu_tuc": "1.004082.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "846/QĐ-UBND",
+  "ten_thu_tuc": "Xác nhận Hợp đồng tiếp cận nguồn gen và chia sẻ lợi ích (Cấp Xã)",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Bảo tồn thiên nhiên và Đa dạng sinh học",
+  "trinh_tu_thuc_hien": "Bước 1: Nộp hồ sơ\nTổ chức, cá nhân sau khi thực hiện thỏa thuận, ký Hợp đồng tiếp cận nguồn gen và chia sẻ lợi ích với Bên cung cấp, nộp hồ sơ tới Ủy ban nhân dân cấp xã để xem xét xác nhận hợp đồng.\nBước 2: Kiểm tra xem xét xác nhận Hợp đồng\nỦy ban nhân dân cấp xã nơi có nguồn gen ngoài tự nhiên hoặc nơi đăng ký trụ sở của Bên cung cấp có trách nhiệm xác nhận Hợp đồng do tổ chức, cá nhân đề nghị.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "3 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Không quá ba (03) ngày làm việc, kể từ ngày nhận được hồ sơ."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "3 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Không quá ba (03) ngày làm việc, kể từ ngày nhận được hồ sơ."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "3 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Không quá ba (03) ngày làm việc, kể từ ngày nhận được hồ sơ."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Bản sao văn bản xác nhận đăng ký tiếp cận nguồn gen được Bộ Nông nghiệp và Môi trường cấp",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "Hợp đồng đã ký giữa các bên liên quan theo Mẫu số 03 ban hành kèm theo Nghị định số 59/2017/NĐ-CP ngày 12 tháng 5 năm 2017 của Chính phủ",
+      "mẫu đơn, tờ khai": "Mauso03_MauHopdongtiepcannguongen.doc",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Xuất trình bản chính một trong các giấy tờ là hộ chiếu/thẻ Căn cước công dân/thẻ Căn cước/Căn cước điện tử/số định danh cá nhân/số giấy chứng nhận căn cước hoặc giấy tờ khác có dán ảnh và thông tin cá nhân do cơ quan có thẩm quyền cấp, còn giá trị sử dụng để chứng minh về nhân thân của người đề nghị xác nhận Hợp đồng tiếp cận nguồn gen và chia sẻ lợi ích",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã",
+  "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Bộ phận tiếp nhận và trả kết quả giải quyết TTHC cấp xã",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Xác nhận vào Hợp đồng tiếp cận nguồn gen và chia sẻ lợi ích.",
+  "yeu_cau_dieu_kien": "Người đề nghị xác nhận Hợp đồng tiếp cận nguồn gen và chia sẻ lợi ích cung cấp một trong các giấy tờ là hộ chiếu, Chứng minh nhân dân/số thẻ Căn cước công dân/số định danh cá nhân hoặc giấy tờ khác có dán ảnh và thông tin cá nhân do cơ quan có thẩm quyền cấp, còn giá trị sử dụng để chứng minh về nhân thân.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

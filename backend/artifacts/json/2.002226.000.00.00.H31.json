@@ -1,0 +1,45 @@
+{
+  "ma_thu_tuc": "2.002226.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1474/QĐ-UBND",
+  "ten_thu_tuc": "Thông báo thành lập/thay đổi tổ hợp tác",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết",
+  "linh_vuc": "Thành lập và hoạt động của tổ hợp tác",
+  "trinh_tu_thuc_hien": "Bước 1: Nộp hồ sơ\nTổ trưởng tổ hợp tác hoặc người đại diện theo ủy quyền của tổ hợp tác gửi thông báo thành lập tổ hợp tác đến Ủy ban nhân dân cấp xã, nơi tổ hợp tác dự định thành lập.\nBước 2: Tiếp nhận hồ sơ\nỦy ban nhân dân cấp xã tiếp nhận hồ sơ thông báo thành lập tổ hợp tác.\nBước 3: Xử lý hồ sơ\nSau khi tiếp nhận hồ sơ thông báo thành lập tổ hợp tác, Ủy ban nhân dân cấp xã cập nhật vào Sổ theo dõi về việc thành lập và hoạt động của tổ hợp tác các thông tin có liên quan.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "Ngay tại thời điểm nhận hồ sơ.",
+      "phí, lệ phí": "Lệ phí :   (Không có)",
+      "mô tả": "Trực tiếp."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "(3) Biên bản cuộc họp tổ hợp tác về việc bầu tổ trưởng.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "1) Giấy thông báo thành lập tổ hợp tác;",
+      "mẫu đơn, tờ khai": "MausoIV.1.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "(2) Hợp đồng hợp tác;",
+      "mẫu đơn, tờ khai": "MausoIV.2.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Ủy ban Nhân dân xã, phường, thị trấn.",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "trụ sở cơ quan",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Cập nhật thông tin trong Sổ theo dõi về việc thành lập và hoạt động của tổ hợp tác",
+  "yeu_cau_dieu_kien": "- Ngành, nghề sản xuất, kinh doanh mà pháp luật không cấm; trừ trường hợp kinh doanh ngành, nghề yêu cầu phải có điều kiện;\n- Tên của tổ hợp tác được đặt theo quy định tại Điều 13 của Nghị định 77/2019/NĐ-CP: \n“1. Tổ hợp tác có quyền chọn tên, biểu tượng của mình phù hợp với quy định tại khoản 2 Điều này và không trùng lặp với tên, biểu tượng của tổ hợp tác khác trong địa bàn cấp xã. \n2. Tên của tổ hợp tác chỉ bao gồm hai thành tố sau đây:\na) Loại hình “Tổ hợp tác”;\nb) Tên riêng của tổ hợp tác. Tên riêng được viết bằng các chữ cái trong bảng chữ cái tiếng Việt, các chữ F, J, Z, W, có thể kèm theo chữ số, ký hiệu. Không được sử dụng từ ngữ, ký hiệu vi phạm truyền thống lịch sử, văn hóa, đạo đức và thuần phong mỹ tục của dân tộc để đặt tên riêng cho tổ hợp tác. Không được sử dụng các cụm từ gây nhầm lẫn với các loại hình tổ chức khác theo quy định của pháp luật Việt Nam để đặt tên tổ hợp tác.”\n- Hồ sơ thông báo thành lập có đầy đủ giấy tờ và nội dung các giấy tờ đó được kê khai đầy đủ theo quy định của pháp luật.",
+  "tu_khoa": "Thành lập tổ hợp tác",
+  "mo_ta": "Không có thông tin"
+}

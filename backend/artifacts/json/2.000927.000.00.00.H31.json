@@ -1,0 +1,40 @@
+{
+  "ma_thu_tuc": "2.000927.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1761/QĐ-UBND",
+  "ten_thu_tuc": "Sửa lỗi sai sót trong giao dịch",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết",
+  "linh_vuc": "Chứng thực",
+  "trinh_tu_thuc_hien": "Người yêu cầu chứng thực nộp 01 bộ hồ sơ.\nViệc sửa lỗi sai sót trong khi ghi chép, đánh máy, in hợp đồng, giao dịch đã được chứng thực được thực hiện theo thỏa thuận bằng văn bản của các bên tham gia hợp đồng, giao dịch, nếu không làm ảnh hưởng đến quyền, nghĩa vụ của các bên và được thực hiện tại cơ quan đã chứng thực hợp đồng, giao dịch.\nNgười thực hiện chứng thực gạch chân lỗi sai sót cần sửa, đóng dấu của cơ quan thực hiện chứng thực và ghi vào bên lề của hợp đồng, giao dịch nội dung đã sửa, họ tên, chữ ký của người sửa, ngày tháng năm sửa.\nNgười yêu cầu chứng thực nhận kết quả tại nơi nộp hồ sơ.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "1 Ngày làm việc",
+      "phí, lệ phí": "Phí : 25.000 Đồng (25.000 đồng/hợp đồng, giao dịch.)\nFile đính kèm: VanBanGoc_226-2016-TT-BTC.pdf",
+      "mô tả": "Thời hạn thực hiện yêu cầu chứng thực phải được bảo đảm ngay trong ngày cơ quan, tổ chức tiếp nhận yêu cầu hoặc trong ngày làm việc tiếp theo, nếu tiếp nhận yêu cầu sau 15 giờ. Trường hợp trả kết quả trong ngày làm việc tiếp theo thì người tiếp nhận hồ sơ phải có phiếu hẹn ghi rõ thời gian (giờ, ngày) trả kết quả cho người yêu cầu chứng thực."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Văn bản thỏa thuận về việc sửa lỗi sai sót trong giao dịch đã được chứng thực",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Giao dịch đã  được chứng thực",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Ủy ban Nhân dân huyện, quận, thành phố trực thuộc tỉnh, thị xã., Ủy ban Nhân dân xã, phường, thị trấn.",
+  "co_quan_co_tham_quyen": "Ủy ban Nhân dân huyện, quận, thành phố trực thuộc tỉnh, thị xã., Ủy ban Nhân dân xã, phường, thị trấn.",
+  "dia_chi_tiep_nhan": "Bộ phận tiếp nhận hồ sơ và trả kết quả UBND cấp huyện cấp xã .",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Giao dịch được sửa lỗi sai sót",
+  "yeu_cau_dieu_kien": "Không có",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

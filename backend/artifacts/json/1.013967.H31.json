@@ -1,0 +1,65 @@
+{
+  "ma_thu_tuc": "1.013967.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=399870",
+  "so_quyet_dinh": "1656/QĐ-UBND",
+  "ten_thu_tuc": "Giải quyết tranh chấp đất đai thuộc thẩm quyền của Chủ tịch Ủy ban nhân dân cấp xã",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Đất đai",
+  "trinh_tu_thuc_hien": "Bước 1: Người có đơn yêu cầu giải quyết tranh chấp đất đai nộp đơn đến Trung tâm Phục vụ hành chính công hoặc Ủy ban nhân dân cấp xã.\nTrường hợp Trung tâm Phục vụ hành chính công tiếp nhận hồ sơ thì chuyển hồ sơ đến Ủy ban nhân dân cấp xã.\nBước 2: Chủ tịch Ủy ban nhân dân cấp xã có trách nhiệm:\n- Trong thời hạn 05 ngày làm việc kể từ ngày nhận được đơn phải thông báo bằng văn bản cho các bên tranh chấp đất đai và Văn phòng đăng ký đất đai hoặc Chi nhánh Văn phòng đăng ký đất đai về việc thụ lý đơn yêu cầu giải quyết tranh chấp đất đai, trường hợp không thụ lý thì phải thông báo bằng văn bản và nêu rõ lý do. \n- Giao trách nhiệm cho cơ quan tham mưu giải quyết. \nBước 3: Cơ quan tham mưu có nhiệm vụ thẩm tra, xác minh vụ việc, tổ chức hòa giải giữa các bên tranh chấp, tổ chức cuộc họp các ban, ngành có liên quan để tư vấn giải quyết tranh chấp đất đai (nếu cần thiết) và hoàn chỉnh hồ sơ trình Chủ tịch Ủy ban nhân dân cấp tỉnh ban hành quyết định giải quyết tranh chấp đất đai. \nBước 4: Chủ tịch Ủy ban nhân dân cấp có thẩm quyền ban hành quyết định giải quyết tranh chấp và gửi cho các bên tranh chấp, các tổ chức, cá nhân có quyền và nghĩa vụ liên quan.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "45 Ngày",
+      "phí, lệ phí": "Phí :  Đồng (Theo quy định của Luật phí và lệ phí và các văn bản quy phạm pháp luật hướng dẫn Luật phí và lệ phí.)",
+      "mô tả": "Không quá 45 ngày kể từ ngày thụ lý đơn yêu cầu giải quyết tranh chấp đất đai."
+    },
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "60 Ngày",
+      "phí, lệ phí": "Phí :  Đồng (Theo quy định của Luật phí và lệ phí và các văn bản quy phạm pháp luật hướng dẫn Luật phí và lệ phí.)",
+      "mô tả": "Đối với các xã miền núi, biên giới; đảo; vùng có điều kiện kinh tế - xã hội khó khăn; vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn không quá 60 ngày."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "45 Ngày",
+      "phí, lệ phí": "Phí :  Đồng (Theo quy định của Luật phí và lệ phí và các văn bản quy phạm pháp luật hướng dẫn Luật phí và lệ phí.)",
+      "mô tả": "Không quá 45 ngày kể từ ngày thụ lý đơn yêu cầu giải quyết tranh chấp đất đai."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "60 Ngày",
+      "phí, lệ phí": "Phí :  Đồng (Theo quy định của Luật phí và lệ phí và các văn bản quy phạm pháp luật hướng dẫn Luật phí và lệ phí.)",
+      "mô tả": "Đối với các xã miền núi, biên giới; đảo; vùng có điều kiện kinh tế - xã hội khó khăn; vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn không quá 60 ngày."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "45 Ngày",
+      "phí, lệ phí": "Phí :  Đồng (Theo quy định của Luật phí và lệ phí và các văn bản quy phạm pháp luật hướng dẫn Luật phí và lệ phí.)",
+      "mô tả": "Không quá 45 ngày kể từ ngày thụ lý đơn yêu cầu giải quyết tranh chấp đất đai."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "60 Ngày",
+      "phí, lệ phí": "Phí :  Đồng (Theo quy định của Luật phí và lệ phí và các văn bản quy phạm pháp luật hướng dẫn Luật phí và lệ phí.)",
+      "mô tả": "Đối với các xã miền núi, biên giới; đảo; vùng có điều kiện kinh tế - xã hội khó khăn; vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn không quá 60 ngày."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Đơn yêu cầu giải quyết tranh chấp đất đai",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam",
+  "co_quan_thuc_hien": "Chủ tịch Ủy ban nhân dân xã",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Không có thông tin",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định giải quyết tranh chấp đất đai",
+  "yeu_cau_dieu_kien": "khi có Đơn yêu cầu giải quyết tranh chấp đất đai.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

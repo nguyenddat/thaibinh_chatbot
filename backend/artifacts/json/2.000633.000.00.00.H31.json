@@ -1,0 +1,62 @@
+{
+  "ma_thu_tuc": "2.000633.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1551/QĐ-UBND",
+  "ten_thu_tuc": "Cấp Giấy phép sản xuất rượu thủ công nhằm mục đích kinh doanh",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết",
+  "linh_vuc": "Lưu thông hàng hóa trong nước",
+  "trinh_tu_thuc_hien": "Tổ chức, cá nhân sản xuất rượu thủ công nhằm mục đích kinh doanh nộp 01 bộ hồ sơ đề nghị cấp Giấy phép sản xuất rượu thủ công nhằm mục đích kinh doanh trực tiếp hoặc qua đường bưu điện hoặc trực tuyến (nếu đủ điều kiện áp dụng) cho Phòng Kinh tế hoặc Phòng Kinh tế và Hạ tầng.\nTrong thời hạn 10 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Phòng Kinh tế hoặc Phòng Kinh tế và Hạ tầng xem xét, thẩm định và cấp Giấy phép sản xuất rượu thủ công nhằm mục đích kinh doanh. Trường hợp từ chối cấp phải trả lời bằng văn bản và nêu rõ lý do;\nTrường hợp chưa đủ hồ sơ hợp lệ, trong vòng 03 ngày làm việc kể từ ngày tiếp nhận hồ sơ, Phòng Kinh tế hoặc Phòng Kinh tế và Hạ tầng có văn bản yêu cầu bổ sung.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "10 Ngày làm việc",
+      "phí, lệ phí": "Mức giá : Theo quy định của Bộ tài chính",
+      "mô tả": ""
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "10 Ngày làm việc",
+      "phí, lệ phí": "Mức giá : Theo quy định của Bộ tài chính",
+      "mô tả": ""
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "10 Ngày làm việc",
+      "phí, lệ phí": "Mức giá : Theo quy định của Bộ tài chính",
+      "mô tả": ""
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "- Đơn đề nghị cấp Giấy phép sản xuất rượu thủ công nhằm mục đích kinh doanh theo Mẫu số 01 ban hành kèm theo Nghị định số 105/2017/NĐ-CP",
+      "mẫu đơn, tờ khai": "RTC01.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Bản sao Bản công bố sản phẩm rượu hoặc bản sao Giấy tiếp nhận bản công bố hợp quy hoặc Giấy xác nhận công bố phù hợp quy định an toàn thực phẩm (đối với rượu chưa có quy chuẩn kỹ thuật); bản sao Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm, trừ trường hợp đối với cơ sở thuộc loại kinh doanh thực phẩm nhỏ lẻ theo quy định của pháp luật về an toàn thực phẩm.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Bản liệt kê tên hàng hóa rượu kèm theo bản sao nhãn hàng hóa rượu mà tổ chức, cá nhân sản xuất hoặc dự kiến sản xuất.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "- Bản sao Giấy chứng nhận đăng ký doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã hoặc hộ kinh doanh. Cơ quan giải quyết TTHC khai thác, sử dụng thông tin đã có trong Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp để thay thế thành phần hồ sơ Bản sao giấy chứng nhận đăng ký doanh nghiệp.  Trường hợp Cơ quan giải quyết TTHC không khai thác được hoặc khai thác không đầy đủ dữ liệu doanh nghiệp trên Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp, Cơ quan giải quyết TTHC yêu cầu doanh nghiệp bổ sung Bản sao Giấy chứng nhận đăng ký doanh nghiệp theo quy định tại Điều 8 Nghị quyết 66.7/2025/NQ-CP ngày 15/11/2025 của Chính phủ quy định cắt giảm, đơn giản hóa thủ tục hành chính dựa trên dữ liệu",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Doanh nghiệp, Hợp tác xã",
+  "co_quan_thuc_hien": "Ủy ban Nhân dân huyện, quận, thành phố trực thuộc tỉnh, thị xã.",
+  "co_quan_co_tham_quyen": "Ủy ban Nhân dân huyện, quận, thành phố trực thuộc tỉnh, thị xã.",
+  "dia_chi_tiep_nhan": "UBND huyện, thành phố trực thuộc tỉnh, thị xã",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Giấy phép sản xuất rượu thủ công nhằm mục đích kinh doanh",
+  "yeu_cau_dieu_kien": "Thương nhân đáp ứng được các điều kiện theo quy định tại Điều 9 Nghị định số 105/2017/NĐ-CP",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

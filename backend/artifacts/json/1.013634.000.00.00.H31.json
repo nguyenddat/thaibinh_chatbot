@@ -1,0 +1,52 @@
+{
+  "ma_thu_tuc": "1.013634.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=380258",
+  "so_quyet_dinh": "1139/QĐ-UBND",
+  "ten_thu_tuc": "Thay đổi nội dung đăng ký hoạt động của chi nhánh doanh nghiệp đấu giá tài sản",
+  "cap_thuc_hien": "Cấp Tỉnh",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Đấu giá tài sản",
+  "trinh_tu_thuc_hien": "- Trường hợp chi nhánh doanh nghiệp đấu giá tài sản thay đổi địa chỉ trụ sở trong phạm vi tỉnh, thành phố trực thuộc Trung ương, thay đổi Trưởng chi nhánh thì thực hiện như sau:\n+ Trong thời hạn 10 ngày làm việc kể từ ngày quyết định thay đổi, doanh nghiệp đấu giá tài sản gửi giấy đề nghị thay đổi đến Sở Tư pháp nơi chi nhánh của doanh nghiệp đăng ký hoạt động; trường hợp thay đổi Trưởng chi nhánh thì gửi kèm theo bản sao có chứng thực, bản sao chứng thực điện tử hoặc bản sao kèm bản chính để đối chiếu Chứng chỉ hành nghề đấu giá của Trưởng chi nhánh.\n+ Trong thời hạn 05 ngày làm việc kể từ ngày nhận được giấy đề nghị thay đổi, Sở Tư pháp quyết định thay đổi nội dung đăng ký hoạt động và cấp lại Giấy đăng ký hoạt động cho chi nhánh của doanh nghiệp đấu giá tài sản; trường hợp từ chối thì phải thông báo lý do bằng văn bản. Doanh nghiệp bị từ chối thay đổi nội dung đăng ký hoạt động cho chi nhánh có quyền khiếu nại, khởi kiện theo quy định của pháp luật.\n-  Trường hợp chi nhánh của doanh nghiệp đấu giá tài sản thay đổi địa chỉ trụ sở từ tỉnh, thành phố trực thuộc Trung ương này sang tỉnh, thành phố trực thuộc Trung ương khác thì thực hiện như sau:\n+ Trong thời hạn 10 ngày làm việc kể từ ngày quyết định thay đổi, doanh nghiệp đấu giá tài sản gửi thông báo thay đổi địa chỉ trụ sở của chi nhánh cho Sở Tư pháp nơi chi nhánh đăng ký hoạt động và gửi giấy đề nghị thay đổi địa chỉ trụ sở kèm theo bản sao có chứng thực, bản sao chứng thực điện tử hoặc bản sao kèm bản chính để đối chiếu Giấy đăng ký hoạt động của chi nhánh đã được cấp;\n+ Trong thời hạn 05 ngày làm việc kể từ ngày nhận được giấy đề nghị thay đổi, Sở Tư pháp quyết định thay đổi nội dung đăng ký hoạt động và cấp lại Giấy đăng ký hoạt động cho chi nhánh của doanh nghiệp đấu giá tài sản; trường hợp từ chối thì phải thông báo lý do bằng văn bản. Doanh nghiệp bị từ chối thay đổi nội dung đăng ký hoạt động cho chi nhánh có quyền khiếu nại, khởi kiện theo quy định của pháp luật.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "05 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận được hồ sơ hợp lệ"
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "05 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận được hồ sơ hợp lệ"
+    },
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "05 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận được hồ sơ hợp lệ"
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Giấy đề nghị thay đổi đăng ký hoạt động của chi nhánh doanh nghiệp đấu giá tài sản (Mẫu TP-ĐGTS-09 ban hành kèm theo Thông tư số 19/2024/TT-BTP)",
+      "mẫu đơn, tờ khai": "Giynghthayinidung_MuTP09.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "Bản sao có chứng thực, bản sao chứng thực điện tử hoặc bản sao kèm bản chính để đối chiếu Giấy đăng ký hoạt động của chi nhánh đã được cấp",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 0\nBản sao: 1"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Doanh nghiệp",
+  "co_quan_thuc_hien": "Sở Tư pháp",
+  "co_quan_co_tham_quyen": "Sở Tư pháp",
+  "dia_chi_tiep_nhan": "Không có thông tin",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Giấy đăng ký hoạt động của Chi nhánh doanh nghiệp đấu giá tài sản, Quyết định thay đổi nội dung đăng ký hoạt động của chi nhánh doanh nghiệp đấu giá tài sản",
+  "yeu_cau_dieu_kien": "Doanh nghiệp đấu giá tài sản thực hiện thủ tục thay đổi nội dung đăng ký hoạt động của chi nhánh doanh nghiệp đấu giá tài sản khi chi nhánh doanh nghiệp đấu giá tài sản có thay đổi về địa chỉ trụ sở trong phạm vi tỉnh, thành phố trực thuộc Trung ương, thay đổi Trưởng chi nhánh; hoặc thay đổi địa chỉ trụ sở từ tỉnh, thành phố trực thuộc Trung ương này sang tỉnh, thành phố trực thuộc Trung ương khác.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

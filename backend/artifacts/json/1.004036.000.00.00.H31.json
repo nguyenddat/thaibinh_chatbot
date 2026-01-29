@@ -1,0 +1,62 @@
+{
+  "ma_thu_tuc": "1.004036.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1659/QĐ-UBND",
+  "ten_thu_tuc": "Đăng ký lại phương tiện trong trường hợp chuyển từ cơ quan đăng ký khác sang cơ quan đăng ký phương tiện thủy nội địa",
+  "cap_thuc_hien": "Cấp Tỉnh, Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Hàng hải và đường thủy nội địa",
+  "trinh_tu_thuc_hien": "a) Nộp hồ sơ TTHC:\nTổ chức, cá nhân nộp hồ sơ đề nghị đến cơ quan đăng ký phương tiện:\n- Cục Hàng hải và Đường thủy Việt Nam và các Chi cục hàng hải và đường thủy tổ chức, thực hiện đăng ký phương tiện mang cấp VR-SB của tổ chức, cá nhân.\n- Sở Xây dựng các tỉnh, thành phố trực thuộc Trung ương, Sở Giao thông công chánh TP Hồ Chí Minh:\n+ Thực hiện đăng ký phương tiện mang cấp VR-SB, phương tiện không có động cơ trọng tải toàn phần trên 15 tấn, phương tiện có động cơ tổng công suất máy chính trên 15 sức ngựa, phương tiện có sức chở trên 12 người của tổ chức, cá nhân có trụ sở hoặc nơi đăng ký hộ khẩu thường trú tại tỉnh, thành phố trực thuộc Trung ương đó.\n+ Tổ chức, thực hiện đăng ký phương tiện thuộc thẩm quyền đăng ký phương tiện của Cơ quan quản lý giao thông cấp huyện, cấp xã.\n- Cơ quan quản lý giao thông cấp huyện:\n+ Thực hiện đăng ký phương tiện có động cơ tổng công suất máy chính từ 05 sức ngựa đến 15 sức ngựa hoặc có sức chở từ 05 người đến 12 người của tổ chức, cá nhân có trụ sở hoặc nơi đăng ký hộ khẩu thường trú tại địa bàn quản lý.\n+ Tổ chức, thực hiện đăng ký phương tiện thuộc thẩm quyền đăng ký phương tiện cấp xã.\n- Cấp xã thực hiện đăng ký phương tiện không có động cơ trọng tải toàn phần từ 01 tấn đến 15 tấn hoặc có sức chở từ 05 người đến 12 người, phương tiện có động cơ công suất máy chính dưới 05 sức ngựa hoặc có sức chở dưới 05 người của tổ chức, cá nhân có trụ sở hoặc nơi đăng ký hộ khẩu thường trú tại địa bàn quản lý.\nb) Giải quyết TTHC:\nCơ quan đăng ký phương tiện tiếp nhận, kiểm tra hồ sơ và xử lý như sau:\n- Trường hợp hồ sơ nộp trực tiếp, nếu hồ sơ đầy đủ thì cấp giấy biên nhận hồ sơ và hẹn trả kết quả theo thời hạn quy định; nếu hồ sơ không đầy đủ theo quy định thì trả lại và hướng dẫn tổ chức, cá nhân hoàn thiện lại hồ sơ;\n- Trường hợp hồ sơ nhận qua hệ thống bưu chính hoặc qua hệ thống dịch vụ công trực tuyến, trong thời hạn 02 (hai) ngày làm việc kể từ ngày nhận được hồ sơ, cơ quan đăng ký phương tiện thực hiện kiểm tra thành phần hồ sơ; nếu hồ sơ đầy đủ theo quy định thì tiếp nhận hồ sơ và thông báo thời hạn trả kết quả, nếu hồ sơ không đầy đủ theo quy định thì có văn bản gửi tổ chức, cá nhân hoàn thiện hồ sơ;\n- Trong thời hạn 03 (ba) ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định và tổ chức, cá nhân đã hoàn thành nghĩa vụ tài chính (nếu có), cơ quan đăng ký cấp giấy chứng nhận và gửi trực tiếp hoặc qua hệ thống bưu chính hoặc qua hệ thống dịch vụ công trực tuyến cho chủ phương tiện. Trường hợp không cấp phải có văn bản trả lời và nêu rõ lý do.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "3 Ngày làm việc",
+      "phí, lệ phí": "Lệ phí : 70000 Đồng (70.000 đồng/Giấy chứng nhận.)",
+      "mô tả": "Trong thời hạn 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "3 Ngày làm việc",
+      "phí, lệ phí": "Lệ phí : 70000 Đồng (70.000 đồng/Giấy chứng nhận.)",
+      "mô tả": "Trong thời hạn 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "3 Ngày làm việc",
+      "phí, lệ phí": "Lệ phí : 70000 Đồng (70.000 đồng/Giấy chứng nhận.)",
+      "mô tả": "Trong thời hạn 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường của phương tiện còn hiệu lực đối với phương tiện thuộc diện đăng kiểm;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "Hợp đồng mua bán phương tiện hoặc giấy tờ khác chứng minh phương tiện được cho, tặng, thừa kế theo quy định của pháp luật đối với phương tiện thuộc diện đăng kiểm;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "Giấy tờ chứng minh được phép hoạt động và có trụ sở tại Việt Nam đối với tổ chức nước ngoài hoặc giấy tờ chứng minh được phép cư trú tại Việt Nam đối với cá nhân nước ngoài;",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    },
+    {
+      "tên giấy tờ": "Hợp đồng cho thuê tài chính đối với trường hợp tổ chức cho thuê tài chính đề nghị được đăng ký phương tiện tại nơi đăng ký hộ khẩu thường trú hoặc tạm trú của bên thuê.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 1"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã",
+  "co_quan_thuc_hien": "Cục Đường thủy nội địa Việt Nam, Sở Xây dựng, Chi cục đường thủy nội địa",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Trung tâm Phục vụ hành chính công và Kiểm soát thủ tục hành chính, số 02 Chùa Chuông, TP. Hưng Yên, tỉnh Hưng Yên + Nộp hồ sơ: Điểm tiếp nhận hồ sơ: Sở Xây dựng + Nhận kết quả: Điểm trả kết quả tập trung",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Giấy chứng nhận đăng ký phương tiện thủy nội địa.",
+  "yeu_cau_dieu_kien": "Phương tiện phải được đăng ký lại trong các trường hợp sau:\n- Chuyển quyền sở hữu;\n- Thay đổi tên, tính năng kỹ thuật;\n- Trụ sở hoặc nơi đăng ký thường trú của chủ phương tiện chuyển sang đơn vị hành chính cấp tỉnh khác;\n- Chuyển từ cơ quan đăng ký khác sang cơ quan đăng ký phương tiện thủy nội địa.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

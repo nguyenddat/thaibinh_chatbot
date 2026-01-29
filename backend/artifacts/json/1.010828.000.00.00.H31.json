@@ -1,0 +1,41 @@
+{
+  "ma_thu_tuc": "1.010828.000.00.00.H31",
+  "duong_dan": "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=301729",
+  "so_quyet_dinh": "912/QĐ-UBND",
+  "ten_thu_tuc": "Cấp trích lục hoặc sao hồ sơ người có công với cách mạng",
+  "cap_thuc_hien": "Cấp Tỉnh",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Người có công",
+  "trinh_tu_thuc_hien": "Bước 1: Cá nhân, cơ quan, tổ chức có đơn hoặc văn bản nêu rõ lý do đề nghị cấp trích lục hoặc sao một số giấy tờ trong hồ sơ hoặc toàn bộ hồ sơ người có công gửi đến Sở Nội vụ.\n      Bước 2: Sở Nội vụ trong thời gian 12 ngày kể từ ngày tiếp nhận đơn hoặc văn bản đề nghị, có trách nhiệm kiểm tra, đối chiếu lý do theo quy định để cấp trích lục hồ sơ, sao một số giấy tờ trong hồ sơ hoặc toàn bộ hồ sơ gửi đến nơi đề nghị; lập phiếu theo dõi theo Mẫu số 92 Phụ lục I Nghị định số 131/2021/NĐ-CP.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "12 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận đủ giấy tờ theo quy định."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "12 Ngày",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận đủ giấy tờ theo quy định."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Đơn đề nghị hoặc văn bản đề nghị cấp trích lục hoặc sao một số giấy tờ trong hồ sơ hoặc toàn bộ hồ sơ người có công.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam",
+  "co_quan_thuc_hien": "Sở Nội vụ",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Trung tâm Phục vụ hành chính công và Kiểm soát thủ tục hành chính, số 02 Chùa Chuông, TP. Hưng Yên, tỉnh Hưng Yên + Nộp hồ sơ: Điểm tiếp nhận hồ sơ: Sở Nội vụ + Nhận kết quả: Điểm trả kết quả tập trung",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "- Cấp trích lục hồ sơ, sao một số giấy tờ hoặc toàn bộ hồ sơ người có công. - Phiếu theo dõi sao hồ sơ người có công",
+  "yeu_cau_dieu_kien": "- Cấp trích lục hồ sơ người có công hoặc sao một số giấy tờ trong hồ sơ người có công theo đề nghị của người có công hoặc thân nhân để giải quyết chế độ có liên quan đến nội dung đề nghị.\nThân nhân đang hưởng trợ cấp tuất hằng tháng thay đổi nơi thường trú mà vẫn còn thân nhân khác đang hưởng trợ cấp tuất hằng tháng tại nơi đi thì Sở Lao động - Thương binh và Xã hội cấp bản trích lục hồ sơ người có công kèm bản sao y quyết định hưởng trợ cấp tuất hàng tháng đến nơi thường trú mới.\n- Cấp trích lục hoặc sao hồ sơ người có công theo đề nghị của cơ quan, tổ chức để giải quyết vụ việc có liên quan.",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

@@ -1,0 +1,47 @@
+{
+  "ma_thu_tuc": "1.012085.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "2828/QĐ-UBND",
+  "ten_thu_tuc": "Thủ tục hủy bỏ Quyết định cấm tiếp xúc theo đơn đề nghị",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Gia đình",
+  "trinh_tu_thuc_hien": "- Cơ quan, tổ chức, cá nhân đề nghị ra quyết định cấm tiếp xúc hoặc người bị bạo lực gia đình, người giám hộ, người đại diện theo pháp luật của người bị bạo lực gia đình không đồng ý với quyết định cấm tiếp xúc gửi đơn đến Chủ tịch Ủy ban nhân dân cấp xã (Chủ tịch Ủy ban nhân dân cấp huyện đối với địa phương không tổ chức chính quyền cấp xã) đã ra quyết định cấm tiếp xúc để đề nghị hủy bỏ quyết định này theo Mẫu số 10 của phụ lục ban hành kèm theo Nghị định 76.\n- Trong thời hạn 12 giờ kể từ khi nhận được đề nghị hủy bỏ quyết định cấm tiếp xúc, Chủ tịch Ủy ban nhân dân cấp xã (Chủ tịch Ủy ban nhân dân cấp huyện đối với địa phương không tổ chức chính quyền cấp xã) sẽ quyết định hủy bỏ hay không hủy bỏ quyết định cấm tiếp xúc. Trường hợp không ra quyết định thì phải trả lời bằng văn bản và nêu rõ lý do. \n- Công chức Văn hóa - Xã hội hoặc Trưởng cơ quan chuyên môn về văn hóa, thể thao và du lịch cấp huyện đối với địa phương không tổ chức chính quyền cấp xã sẽ tham mưu Chủ tịch Ủy ban nhân dân ban hành Quyết định hủy bỏ quyết định cấm tiếp xúc theo mẫu số 11 của phụ lục ban hành kèm theo Nghị định 76.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "12 Giờ",
+      "phí, lệ phí": "Phí : 0 Đồng",
+      "mô tả": "Kể từ khi nhận được đơn đề nghị hủy bỏ quyết định cấm tiếp xúc."
+    },
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "12 Giờ",
+      "phí, lệ phí": "Phí : 0 Đồng",
+      "mô tả": "Kể từ khi nhận được đơn đề nghị hủy bỏ quyết định cấm tiếp xúc."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "12 Giờ",
+      "phí, lệ phí": "Phí : 0 Đồng",
+      "mô tả": "Kể từ khi nhận được đơn đề nghị hủy bỏ quyết định cấm tiếp xúc."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "Đơn đề nghị về việc hủy bỏ Quyết định cấm tiếp xúc (Mẫu số 10 Nghị định 76).",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Cán bộ, công chức, viên chức, Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Chủ tịch Ủy ban nhân dân xã",
+  "co_quan_co_tham_quyen": "Chủ tịch Ủy ban nhân dân xã",
+  "dia_chi_tiep_nhan": "Không có thông tin",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Quyết định của Chủ tịch Ủy ban nhân dân cấp xã về việc hủy bỏ Quyết định cấm tiếp xúc",
+  "yeu_cau_dieu_kien": "Không có yêu cầu, điều kiện",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}

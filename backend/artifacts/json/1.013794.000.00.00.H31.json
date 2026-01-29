@@ -1,0 +1,52 @@
+{
+  "ma_thu_tuc": "1.013794.000.00.00.H31",
+  "duong_dan": "",
+  "so_quyet_dinh": "1473/QĐ-TAM",
+  "ten_thu_tuc": "Thủ tục gia hạn giấy chứng nhận đủ điều kiện hoạt động điểm cung cấp dịch vụ trò chơi điện tử công cộng",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Phát thanh, truyền hình và thông tin điện tử",
+  "trinh_tu_thuc_hien": "- Chậm nhất 30 ngày trước khi hết hạn Giấy chứng nhận đã được cấp, tổ chức, doanh nghiệp, cá nhân muốn gia hạn Giấy chứng nhận nộp 01 bộ hồ sơ đề nghị gia hạn Giấy chứng nhận đủ điều kiện hoạt động điểm cung cấp dịch vụ trò chơi điện tử công cộng tới Ủy ban nhân dân cấp xã hoạt động trên địa bàn.\n- Trong thời hạn 05 ngày làm việc, Ủy ban nhân dân cấp xã thẩm định và cấp gia hạn Giấy chứng nhận đủ điều kiện hoạt động điểm cung cấp dịch vụ trò chơi điện tử công cộng theo Mẫu số 54 tại Phụ lục ban hành kèm theo Nghị định số 147/2024/NĐ-CP. \n- Trường hợp từ chối, Ủy ban nhân dân cấp xã có văn bản trả lời và nêu rõ lý do.\n- Giấy chứng nhận đủ điều kiện hoạt động điểm cung cấp dịch vụ trò chơi điện tử công cộng được gia hạn 01 lần và không quá 02 năm. Trong thời hạn được gia hạn Giấy chứng nhận, tổ chức, doanh nghiệp, cá nhân có thể nộp hồ sơ đề nghị cấp Giấy chứng nhận theo quy định.",
+  "cach_thuc_thuc_hien": [
+    {
+      "hình thức nộp": "Trực tuyến",
+      "thời hạn giải quyết": "5 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận đủ hồ sơ hợp lệ."
+    },
+    {
+      "hình thức nộp": "Dịch vụ bưu chính",
+      "thời hạn giải quyết": "5 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận đủ hồ sơ hợp lệ."
+    },
+    {
+      "hình thức nộp": "Trực tiếp",
+      "thời hạn giải quyết": "5 Ngày làm việc",
+      "phí, lệ phí": "",
+      "mô tả": "Kể từ ngày nhận đủ hồ sơ hợp lệ."
+    }
+  ],
+  "thanh_phan_ho_so": [
+    {
+      "tên giấy tờ": "(1) Đơn đề nghị gia hạn giấy chứng nhận đủ điều kiện hoạt động điểm cung cấp dịch vụ trò chơi điện tử công cộng theo quy định tại Mẫu số 53a hoặc Mẫu số 53b tại Phụ lục ban hành kèm theo Nghị định số 147/2024/NĐ-CP.",
+      "mẫu đơn, tờ khai": "Dondenghi53a53b.docx",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    },
+    {
+      "tên giấy tờ": "(2) Xuất trình  chứng minh nhân dân/căn cước/căn cước công dân/hộ chiếu của chủ điểm cung cấp dịch vụ trò chơi điện tử công cộng đối với trường hợp chủ điểm là cá nhân; bản sao chứng minh nhân dân/căn cước/căn cước công dân/hộ chiếu của cá nhân đại diện cho tổ chức, doanh nghiệp trực tiếp quản lý điểm cung cấp dịch vụ trò chơi điện tử công cộng đối với trường hợp chủ điểm là tổ chức, doanh nghiệp trong trường hợp không tra cứu được trên hệ thống cơ sở dữ liệu quốc gia về dân cư.",
+      "mẫu đơn, tờ khai": "",
+      "số lượng": "Bản chính: 1\nBản sao: 0"
+    }
+  ],
+  "doi_tuong_thuc_hien": "Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)",
+  "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã",
+  "co_quan_co_tham_quyen": "Không có thông tin",
+  "dia_chi_tiep_nhan": "Không có thông tin",
+  "co_quan_duoc_uy_quyen": "Không có thông tin",
+  "co_quan_phoi_hop": "Không có thông tin",
+  "ket_qua_thuc_hien": "Giấy chứng nhận đủ điều kiện hoạt động điểm cung cấp dịch vụ trò chơi điện tử công cộng.",
+  "yeu_cau_dieu_kien": "Không quy định",
+  "tu_khoa": "Không có thông tin",
+  "mo_ta": "Không có thông tin"
+}
