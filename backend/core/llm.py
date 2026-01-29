@@ -6,5 +6,5 @@ load_dotenv()
 
 llm = ChatOpenAI(model_name="gpt-4.1-mini", temperature=0)
 
-# bm25_embeddings = SparseTextEmbedding("Qdrant/bm25")
+bm25_embeddings = SparseTextEmbedding("Qdrant/bm25")
 openai_embeddings = OpenAIEmbeddings(model="text-embedding-3-small", dimensions=1024)

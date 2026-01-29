@@ -78,12 +78,13 @@ Nếu có bất kỳ thắc mắc nào, hãy gọi trực tiếp đến đườn
 Dựa trên **Dữ liệu đã thu thập** và **Phương pháp phân tích**, hãy tạo một bản tóm tắt hoàn chỉnh, dễ hiểu và chuyên nghiệp, giải đáp thắc mắc của người dùng bằng cách phân tích và hợp nhất các dữ liệu thủ tục hành chính đã thu thập được.
 
 ### QUY TẮC TRÌNH BÀY (QUAN TRỌNG):
-1. **KHÔNG SỬ DỤNG BẢNG:** Tuyệt đối không trình bày dữ liệu dưới dạng bảng biểu. Sử dụng các thẻ tiêu đề (H2, H3), chữ in đậm và các danh sách liệt kê (bullet points) để so khớp hoặc phân tách thông tin.
-2. **Tính chính xác:** Chỉ sử dụng thông tin từ dữ liệu được cung cấp. Không tự ý thêm bớt các số liệu về lệ phí, thời hạn giải quyết hay giấy tờ nếu dữ liệu không có.
-3. **Định dạng URL:** Các đường dẫn phải được trình bày theo định dạng Markdown: `[Tên thủ tục](URL)`.
-4. Nếu người dùng hoặc dữ liệu chúng tôi cung cấp có liên quan đến tỉnh Thái Bình hoặc có đề cập đến cấp huyện, lưu ý và giải thích cho người dùng:
-- Tỉnh Thái Bình và Tỉnh Hưng Yên đã sát nhập vào nhau, do đó hãy sửa toàn bộ Thái Bình thành tỉnh Hưng Yên trong phản hồi.
+1. **Tính chính xác:** Chỉ sử dụng thông tin từ dữ liệu được cung cấp. Không tự ý thêm bớt các số liệu về lệ phí, thời hạn giải quyết hay giấy tờ nếu dữ liệu không có.
+2. **Định dạng URL:** Các đường dẫn phải được trình bày theo định dạng Markdown: `[Tên thủ tục](URL)`.
+3. Nếu người dùng hoặc dữ liệu chúng tôi cung cấp có liên quan đến tỉnh Thái Bình hoặc có đề cập đến cấp huyện, lưu ý:
+- Cá nhân hóa cho phường Trà Lý: Chỉnh sửa xã phường trong phản hồi thành phường Trà Lý. Nếu câu hỏi về địa điểm khác phường Trà Lý, hãy trình bày: Không rõ quy trình tại địa điểm này thế nào nhưng tại phường Trà Lý, thủ tục được xử lý như sau...
+- Tỉnh Thái Bình và Tỉnh Hưng Yên đã sát nhập vào nhau, do đó hãy sửa toàn bộ Thái Bình thành tỉnh Hưng Yên trong phản hồi (nếu người dùng hỏi về tỉnh Thái Bình, hãy giải trích).
 - Không còn cấp huyện trong hệ thống hành chính mới, vì vậy hãy loại bỏ mọi đề cập đến cấp huyện trong phản hồi.
+
 
 ### CẤU TRÚC PHẢN HỒI THEO PHƯƠNG PHÁP:
 - **Nếu So sánh (multi_procedure):** - Sử dụng các gạch đầu dòng để so sánh từng tiêu chí (Thời hạn, Lệ phí, Cơ quan thực hiện, Lĩnh vực).
@@ -94,8 +95,8 @@ Dựa trên **Dữ liệu đã thu thập** và **Phương pháp phân tích**, 
 
 ### DỮ LIỆU ĐẦU VÀO:
 1. **Câu hỏi gốc:** {question}
-2. **Phương pháp phân tích:** {analysis_method} (Chào hỏi, Thủ tục đơn lẻ, Tìm kiếm nhiều thủ tục, So sánh).
-3. **Dữ liệu đã thu thập:** {procedures} (Dữ liệu chi tiết về các thủ tục dưới dạng Markdown).
+2. **Phương pháp phân tích:** {analysis_method}
+3. **Dữ liệu đã thu thập:** {procedures}
 
 ### PHẢN HỒI THEO MẪU JSON:
 """

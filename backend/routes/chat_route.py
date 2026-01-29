@@ -51,10 +51,6 @@ def full_chat(req: GuardrailRequestBody, db: Session = Depends(get_db)):
         
         # Nếu cần thêm
         if analysis_response["intent"] == Intent.MORE_INFORMATION:
-            # content = (
-            #     f"Hiện tại chúng tôi không tìm thấy thủ tục nào hoàn toàn phù hợp với yêu cầu của bạn hoặc câu hỏi hiện tại còn khá chung chung. "
-            #     "Cho phép chúng tôi hỏi thêm rõ hơn về câu hỏi của bạn. Đây là một số thủ tục có thể liên quan để bạn tham khảo:\n\n"
-            # )
             response = ChatService.ask_again(req.text, "\n".join(analysis_response["recommendations"]))                    
             content = response["response"]
             recommendations = analysis_response["recommendations"]

@@ -1529,3 +1529,269 @@ Trân trọng kính mời Anh/Chị đến trong giờ hành chính từ Thứ H
 765: Cấp lại giấy chứng nhận căn cước, lĩnh vực Cấp, quản lý căn cước, Công an Xã thực hiện.
 200: Đây là thủ tục **Đổi, cấp lại Giấy xác nhận khuyết tật** thuộc lĩnh vực **Bảo trợ xã hội** do **Ủy ban Nhân dân xã, phường, thị trấn.** thực hiện.
 2026-01-29 08:17:04,628 - fastapi_app - INFO - 	--> 761
+2026-01-29 10:03:01,233 - fastapi_app - INFO - [Guardrail] question: Thủ tục đăng ký khai sinh
+2026-01-29 10:03:01,233 - fastapi_app - INFO - [Rewrite] question: Thủ tục đăng ký khai sinh
+2026-01-29 10:03:01,865 - fastapi_app - INFO - 	--> True
+2026-01-29 10:03:02,573 - fastapi_app - INFO - 	--> Thủ tục đăng ký khai sinh là gì và các bước thực hiện thủ tục này như thế nào?
+2026-01-29 10:03:02,574 - fastapi_app - INFO - [Analysis] question: Thủ tục đăng ký khai sinh là gì và các bước thực hiện thủ tục này như thế nào?
+2026-01-29 10:03:04,906 - fastapi_app - INFO - 	--> Intent.SINGLE_PROCEDURE
+2026-01-29 10:03:04,907 - fastapi_app - INFO - [GetProcedureInfo] question: Thủ tục đăng ký khai sinh, query_params: ['thoi_han_giai_quyet', 'ten_thu_tuc', 'ma_thu_tuc', 'can_cu_phap_ly', 'co_quan_thuc_hien', 'trinh_tu_thuc_hien', 'linh_vuc_thuc_hien', 'le_phi', 'doi_tuong_thuc_hien', 'duong_dan']
+2026-01-29 10:03:05,220 - fastapi_app - INFO - --> docs: 
+52: Thủ tục đăng ký khai sinh kết hợp đăng ký nhận cha, mẹ, con có yếu tố nước ngoài, lĩnh vực Hộ tịch, Uỷ ban Nhân dân cấp xã, phường, thị trấn thực hiện.
+26: Thủ tục đăng ký khai sinh kết hợp đăng ký nhận cha, mẹ, con, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+33: Thủ tục đăng ký khai sinh có yếu tố nước ngoài cho người đã có hồ sơ, giấy tờ cá nhân, lĩnh vực Hộ tịch, Uỷ ban Nhân dân cấp xã, phường, thị trấn thực hiện.
+40: Thủ tục đăng ký khai sinh, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+112: Thủ tục đăng ký khai sinh cho người đã có hồ sơ, giấy tờ cá nhân, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+2026-01-29 10:03:05,770 - fastapi_app - INFO - 	--> 40
+2026-01-29 10:06:49,613 - fastapi_app - INFO - [Guardrail] question: Thủ tục đăng ký khai sinh
+2026-01-29 10:06:49,615 - fastapi_app - INFO - [Rewrite] question: Thủ tục đăng ký khai sinh
+2026-01-29 10:06:50,315 - fastapi_app - INFO - 	--> True
+2026-01-29 10:06:50,784 - fastapi_app - INFO - 	--> Thủ tục đăng ký khai sinh là gì và các bước thực hiện thủ tục này như thế nào?
+2026-01-29 10:06:50,785 - fastapi_app - INFO - [Analysis] question: Thủ tục đăng ký khai sinh là gì và các bước thực hiện thủ tục này như thế nào?
+2026-01-29 10:06:53,049 - fastapi_app - INFO - 	--> Intent.SINGLE_PROCEDURE
+2026-01-29 10:06:53,050 - fastapi_app - INFO - [GetProcedureInfo] question: Thủ tục đăng ký khai sinh, query_params: ['thoi_han_giai_quyet', 'ten_thu_tuc', 'ma_thu_tuc', 'can_cu_phap_ly', 'co_quan_thuc_hien', 'trinh_tu_thuc_hien', 'linh_vuc_thuc_hien', 'le_phi', 'doi_tuong_thuc_hien', 'duong_dan']
+2026-01-29 10:06:53,672 - fastapi_app - INFO - --> docs: 
+52: Thủ tục đăng ký khai sinh kết hợp đăng ký nhận cha, mẹ, con có yếu tố nước ngoài, lĩnh vực Hộ tịch, Uỷ ban Nhân dân cấp xã, phường, thị trấn thực hiện.
+26: Thủ tục đăng ký khai sinh kết hợp đăng ký nhận cha, mẹ, con, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+33: Thủ tục đăng ký khai sinh có yếu tố nước ngoài cho người đã có hồ sơ, giấy tờ cá nhân, lĩnh vực Hộ tịch, Uỷ ban Nhân dân cấp xã, phường, thị trấn thực hiện.
+40: Thủ tục đăng ký khai sinh, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+112: Thủ tục đăng ký khai sinh cho người đã có hồ sơ, giấy tờ cá nhân, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+2026-01-29 10:06:54,239 - fastapi_app - INFO - 	--> 40
+2026-01-29 10:10:34,626 - fastapi_app - INFO - [Guardrail] question: Thủ tục đăng ký khai sinh
+2026-01-29 10:10:34,627 - fastapi_app - INFO - [Rewrite] question: Thủ tục đăng ký khai sinh
+2026-01-29 10:10:36,399 - fastapi_app - INFO - 	--> True
+2026-01-29 10:10:36,786 - fastapi_app - INFO - 	--> Thủ tục đăng ký khai sinh bao gồm những bước thực hiện như thế nào?
+2026-01-29 10:10:36,787 - fastapi_app - INFO - [Analysis] question: Thủ tục đăng ký khai sinh bao gồm những bước thực hiện như thế nào?
+2026-01-29 10:10:38,856 - fastapi_app - INFO - 	--> Intent.SINGLE_PROCEDURE
+2026-01-29 10:10:38,857 - fastapi_app - INFO - [GetProcedureInfo] question: Thủ tục đăng ký khai sinh, query_params: ['duong_dan', 'doi_tuong_thuc_hien', 'le_phi', 'trinh_tu_thuc_hien', 'co_quan_thuc_hien', 'linh_vuc_thuc_hien', 'can_cu_phap_ly', 'thoi_han_giai_quyet', 'ma_thu_tuc', 'ten_thu_tuc']
+2026-01-29 10:10:39,170 - fastapi_app - INFO - --> docs: 
+52: Thủ tục đăng ký khai sinh kết hợp đăng ký nhận cha, mẹ, con có yếu tố nước ngoài, lĩnh vực Hộ tịch, Uỷ ban Nhân dân cấp xã, phường, thị trấn thực hiện.
+26: Thủ tục đăng ký khai sinh kết hợp đăng ký nhận cha, mẹ, con, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+33: Thủ tục đăng ký khai sinh có yếu tố nước ngoài cho người đã có hồ sơ, giấy tờ cá nhân, lĩnh vực Hộ tịch, Uỷ ban Nhân dân cấp xã, phường, thị trấn thực hiện.
+40: Thủ tục đăng ký khai sinh, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+112: Thủ tục đăng ký khai sinh cho người đã có hồ sơ, giấy tờ cá nhân, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+2026-01-29 10:10:39,710 - fastapi_app - INFO - 	--> 40
+2026-01-29 10:11:17,650 - fastapi_app - INFO - [Guardrail] question: Thủ tục đăng ký khai sinh đăng ký ở Hà Nội thì thế nào?
+2026-01-29 10:11:17,650 - fastapi_app - INFO - [Rewrite] question: Thủ tục đăng ký khai sinh đăng ký ở Hà Nội thì thế nào?
+2026-01-29 10:11:18,422 - fastapi_app - INFO - 	--> True
+2026-01-29 10:11:18,617 - fastapi_app - INFO - 	--> Cơ quan thực hiện thủ tục đăng ký khai sinh tại Hà Nội là cơ quan nào và quy trình thực hiện như thế nào?
+2026-01-29 10:11:18,618 - fastapi_app - INFO - [Analysis] question: Cơ quan thực hiện thủ tục đăng ký khai sinh tại Hà Nội là cơ quan nào và quy trình thực hiện như thế nào?
+2026-01-29 10:11:20,371 - fastapi_app - INFO - 	--> Intent.SINGLE_PROCEDURE
+2026-01-29 10:11:20,372 - fastapi_app - INFO - [GetProcedureInfo] question: Thủ tục đăng ký khai sinh, query_params: ['duong_dan', 'doi_tuong_thuc_hien', 'le_phi', 'trinh_tu_thuc_hien', 'co_quan_thuc_hien', 'linh_vuc_thuc_hien', 'can_cu_phap_ly', 'thoi_han_giai_quyet', 'ma_thu_tuc', 'ten_thu_tuc']
+2026-01-29 10:11:20,658 - fastapi_app - INFO - --> docs: 
+52: Thủ tục đăng ký khai sinh kết hợp đăng ký nhận cha, mẹ, con có yếu tố nước ngoài, lĩnh vực Hộ tịch, Uỷ ban Nhân dân cấp xã, phường, thị trấn thực hiện.
+26: Thủ tục đăng ký khai sinh kết hợp đăng ký nhận cha, mẹ, con, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+33: Thủ tục đăng ký khai sinh có yếu tố nước ngoài cho người đã có hồ sơ, giấy tờ cá nhân, lĩnh vực Hộ tịch, Uỷ ban Nhân dân cấp xã, phường, thị trấn thực hiện.
+40: Thủ tục đăng ký khai sinh, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+112: Thủ tục đăng ký khai sinh cho người đã có hồ sơ, giấy tờ cá nhân, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+2026-01-29 10:11:21,325 - fastapi_app - INFO - 	--> 40
+2026-01-29 10:14:23,310 - fastapi_app - INFO - [Guardrail] question: tôi người Hà Nội, đăng ký kết hôn thế nào?
+2026-01-29 10:14:23,311 - fastapi_app - INFO - [Rewrite] question: tôi người Hà Nội, đăng ký kết hôn thế nào?
+2026-01-29 10:14:24,745 - fastapi_app - INFO - 	--> True
+2026-01-29 10:14:26,514 - fastapi_app - INFO - 	--> Quy trình thực hiện thủ tục đăng ký kết hôn cho người cư trú tại Hà Nội như thế nào?
+2026-01-29 10:14:26,515 - fastapi_app - INFO - [Analysis] question: Quy trình thực hiện thủ tục đăng ký kết hôn cho người cư trú tại Hà Nội như thế nào?
+2026-01-29 10:14:31,156 - fastapi_app - INFO - 	--> Intent.SINGLE_PROCEDURE
+2026-01-29 10:14:31,156 - fastapi_app - INFO - [GetProcedureInfo] question: Thủ tục đăng ký kết hôn, query_params: ['thoi_han_giai_quyet', 'ten_thu_tuc', 'duong_dan', 'cach_thuc_thuc_hien', 'yeu_cau_dieu_kien', 'linh_vuc_thuc_hien', 'co_quan_thuc_hien', 'so_luong_bo_ho_so', 'can_cu_phap_ly', 'can_cu_phap_ly_chi_tiet', 'thanh_phan_ho_so', 'ma_thu_tuc', 'le_phi', 'trinh_tu_thuc_hien', 'doi_tuong_thuc_hien', 'bieu_mau_dinh_kem']
+2026-01-29 10:14:31,466 - fastapi_app - INFO - --> docs: 
+34: Thủ tục đăng ký kết hôn, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+22: Thủ tục đăng ký kết hôn lưu động, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+529: Thủ tục đăng ký kết hôn có yếu tố nước ngoài, lĩnh vực Hộ tịch, Uỷ ban Nhân dân cấp xã, phường, thị trấn thực hiện.
+507: Thủ tục đăng ký lại kết hôn có yếu tố nước ngoài, lĩnh vực Hộ tịch, Uỷ ban Nhân dân cấp xã, phường, thị trấn thực hiện.
+683: Thủ tục đăng ký lại kết hôn, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn thực hiện.
+2026-01-29 10:14:32,120 - fastapi_app - INFO - 	--> 34
+2026-01-29 10:15:28,313 - fastapi_app - INFO - [Guardrail] question: Làm thẻ căn cước công dân
+2026-01-29 10:15:28,314 - fastapi_app - INFO - [Rewrite] question: Làm thẻ căn cước công dân
+2026-01-29 10:15:29,057 - fastapi_app - INFO - 	--> Quy trình thực hiện thủ tục làm thẻ căn cước công dân gồm những bước nào?
+2026-01-29 10:15:29,067 - fastapi_app - INFO - 	--> True
+2026-01-29 10:15:29,068 - fastapi_app - INFO - [Analysis] question: Quy trình thực hiện thủ tục làm thẻ căn cước công dân gồm những bước nào?
+2026-01-29 10:15:30,945 - fastapi_app - INFO - 	--> Intent.SINGLE_PROCEDURE
+2026-01-29 10:15:30,950 - fastapi_app - INFO - [GetProcedureInfo] question: Thủ tục làm thẻ căn cước công dân, query_params: ['thoi_han_giai_quyet', 'ten_thu_tuc', 'duong_dan', 'linh_vuc_thuc_hien', 'co_quan_thuc_hien', 'can_cu_phap_ly', 'ma_thu_tuc', 'le_phi', 'trinh_tu_thuc_hien', 'doi_tuong_thuc_hien']
+2026-01-29 10:15:31,323 - fastapi_app - INFO - --> docs: 
+33: Thủ tục đăng ký khai sinh có yếu tố nước ngoài cho người đã có hồ sơ, giấy tờ cá nhân, lĩnh vực Hộ tịch, Uỷ ban Nhân dân cấp xã, phường, thị trấn thực hiện.
+57: Thủ tục đăng ký khai tử có yếu tố nước ngoài, lĩnh vực Hộ tịch, Uỷ ban Nhân dân cấp xã, phường, thị trấn thực hiện.
+25: Thủ tục đăng ký khai tử, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+508: Thủ tục đăng ký lại khai sinh có yếu tố nước ngoài, lĩnh vực Hộ tịch, Ủy ban nhân dân cấp xã thực hiện.
+506: Thủ tục đăng ký lại khai tử có yếu tố nước ngoài, lĩnh vực Hộ tịch, Uỷ ban Nhân dân cấp xã, phường, thị trấn thực hiện.
+2026-01-29 10:15:32,054 - fastapi_app - INFO - 	--> 
+2026-01-29 10:15:55,503 - fastapi_app - INFO - [Guardrail] question: Đăng ký kết hôn
+2026-01-29 10:15:55,504 - fastapi_app - INFO - [Rewrite] question: Đăng ký kết hôn
+2026-01-29 10:15:56,405 - fastapi_app - INFO - 	--> Thủ tục đăng ký kết hôn bao gồm những bước nào và cần chuẩn bị những giấy tờ gì?
+2026-01-29 10:15:56,434 - fastapi_app - INFO - 	--> True
+2026-01-29 10:15:56,435 - fastapi_app - INFO - [Analysis] question: Thủ tục đăng ký kết hôn bao gồm những bước nào và cần chuẩn bị những giấy tờ gì?
+2026-01-29 10:15:58,184 - fastapi_app - INFO - 	--> Intent.SINGLE_PROCEDURE
+2026-01-29 10:15:58,186 - fastapi_app - INFO - [GetProcedureInfo] question: Thủ tục đăng ký kết hôn, query_params: ['thoi_han_giai_quyet', 'ten_thu_tuc', 'duong_dan', 'linh_vuc_thuc_hien', 'co_quan_thuc_hien', 'can_cu_phap_ly', 'thanh_phan_ho_so', 'ma_thu_tuc', 'le_phi', 'trinh_tu_thuc_hien', 'doi_tuong_thuc_hien']
+2026-01-29 10:15:58,730 - fastapi_app - INFO - --> docs: 
+34: Thủ tục đăng ký kết hôn, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+22: Thủ tục đăng ký kết hôn lưu động, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+529: Thủ tục đăng ký kết hôn có yếu tố nước ngoài, lĩnh vực Hộ tịch, Uỷ ban Nhân dân cấp xã, phường, thị trấn thực hiện.
+507: Thủ tục đăng ký lại kết hôn có yếu tố nước ngoài, lĩnh vực Hộ tịch, Uỷ ban Nhân dân cấp xã, phường, thị trấn thực hiện.
+683: Thủ tục đăng ký lại kết hôn, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn thực hiện.
+2026-01-29 10:15:59,420 - fastapi_app - INFO - 	--> 34
+2026-01-29 10:16:53,653 - fastapi_app - INFO - [Guardrail] question: nam hưng yên, nữ hà nội thì đăng ký kết hôn thế nào?
+2026-01-29 10:16:53,653 - fastapi_app - INFO - [Rewrite] question: nam hưng yên, nữ hà nội thì đăng ký kết hôn thế nào?
+2026-01-29 10:16:54,313 - fastapi_app - INFO - 	--> True
+2026-01-29 10:16:55,038 - fastapi_app - INFO - 	--> Thủ tục đăng ký kết hôn cho trường hợp nam ở Hưng Yên và nữ ở Hà Nội được thực hiện như thế nào?
+2026-01-29 10:16:55,039 - fastapi_app - INFO - [Analysis] question: Thủ tục đăng ký kết hôn cho trường hợp nam ở Hưng Yên và nữ ở Hà Nội được thực hiện như thế nào?
+2026-01-29 10:16:59,424 - fastapi_app - INFO - 	--> Intent.SINGLE_PROCEDURE
+2026-01-29 10:16:59,426 - fastapi_app - INFO - [GetProcedureInfo] question: Thủ tục đăng ký kết hôn có yếu tố nước ngoài, query_params: ['thoi_han_giai_quyet', 'ten_thu_tuc', 'duong_dan', 'cach_thuc_thuc_hien', 'yeu_cau_dieu_kien', 'linh_vuc_thuc_hien', 'co_quan_thuc_hien', 'so_luong_bo_ho_so', 'can_cu_phap_ly', 'can_cu_phap_ly_chi_tiet', 'thanh_phan_ho_so', 'ma_thu_tuc', 'le_phi', 'trinh_tu_thuc_hien', 'doi_tuong_thuc_hien', 'bieu_mau_dinh_kem']
+2026-01-29 10:16:59,710 - fastapi_app - INFO - --> docs: 
+529: Thủ tục đăng ký kết hôn có yếu tố nước ngoài, lĩnh vực Hộ tịch, Uỷ ban Nhân dân cấp xã, phường, thị trấn thực hiện.
+507: Thủ tục đăng ký lại kết hôn có yếu tố nước ngoài, lĩnh vực Hộ tịch, Uỷ ban Nhân dân cấp xã, phường, thị trấn thực hiện.
+22: Thủ tục đăng ký kết hôn lưu động, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+33: Thủ tục đăng ký khai sinh có yếu tố nước ngoài cho người đã có hồ sơ, giấy tờ cá nhân, lĩnh vực Hộ tịch, Uỷ ban Nhân dân cấp xã, phường, thị trấn thực hiện.
+57: Thủ tục đăng ký khai tử có yếu tố nước ngoài, lĩnh vực Hộ tịch, Uỷ ban Nhân dân cấp xã, phường, thị trấn thực hiện.
+2026-01-29 10:17:00,574 - fastapi_app - INFO - 	--> 529
+2026-01-29 10:18:42,837 - fastapi_app - INFO - [Guardrail] question: Thủ tục đăng ký khai sinh
+2026-01-29 10:18:42,838 - fastapi_app - INFO - [Rewrite] question: Thủ tục đăng ký khai sinh
+2026-01-29 10:18:43,532 - fastapi_app - INFO - 	--> True
+2026-01-29 10:18:43,647 - fastapi_app - INFO - 	--> Thủ tục đăng ký khai sinh là gì và các bước thực hiện thủ tục này như thế nào?
+2026-01-29 10:18:43,648 - fastapi_app - INFO - [Analysis] question: Thủ tục đăng ký khai sinh là gì và các bước thực hiện thủ tục này như thế nào?
+2026-01-29 10:18:49,544 - fastapi_app - INFO - 	--> Intent.SINGLE_PROCEDURE
+2026-01-29 10:18:49,546 - fastapi_app - INFO - [GetProcedureInfo] question: Thủ tục đăng ký khai sinh, query_params: ['le_phi', 'trinh_tu_thuc_hien', 'duong_dan', 'ma_thu_tuc', 'doi_tuong_thuc_hien', 'bieu_mau_dinh_kem', 'linh_vuc_thuc_hien', 'thanh_phan_ho_so', 'can_cu_phap_ly', 'yeu_cau_dieu_kien', 'thoi_han_giai_quyet', 'cach_thuc_thuc_hien', 'ten_thu_tuc', 'co_quan_thuc_hien']
+2026-01-29 10:18:49,921 - fastapi_app - INFO - --> docs: 
+52: Thủ tục đăng ký khai sinh kết hợp đăng ký nhận cha, mẹ, con có yếu tố nước ngoài, lĩnh vực Hộ tịch, Uỷ ban Nhân dân cấp xã, phường, thị trấn thực hiện.
+26: Thủ tục đăng ký khai sinh kết hợp đăng ký nhận cha, mẹ, con, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+33: Thủ tục đăng ký khai sinh có yếu tố nước ngoài cho người đã có hồ sơ, giấy tờ cá nhân, lĩnh vực Hộ tịch, Uỷ ban Nhân dân cấp xã, phường, thị trấn thực hiện.
+40: Thủ tục đăng ký khai sinh, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+112: Thủ tục đăng ký khai sinh cho người đã có hồ sơ, giấy tờ cá nhân, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+2026-01-29 10:18:50,437 - fastapi_app - INFO - 	--> 40
+2026-01-29 10:21:38,515 - fastapi_app - INFO - [Guardrail] question: Thủ tục đăng ký khai sinh
+2026-01-29 10:21:38,515 - fastapi_app - INFO - [Rewrite] question: Thủ tục đăng ký khai sinh
+2026-01-29 10:21:39,497 - fastapi_app - INFO - 	--> Thủ tục đăng ký khai sinh là gì và các bước thực hiện thủ tục này như thế nào?
+2026-01-29 10:21:39,758 - fastapi_app - INFO - 	--> True
+2026-01-29 10:21:39,759 - fastapi_app - INFO - [Analysis] question: Thủ tục đăng ký khai sinh là gì và các bước thực hiện thủ tục này như thế nào?
+2026-01-29 10:21:42,861 - fastapi_app - INFO - 	--> Intent.SINGLE_PROCEDURE
+2026-01-29 10:21:42,862 - fastapi_app - INFO - [GetProcedureInfo] question: Thủ tục đăng ký khai sinh, query_params: ['ten_thu_tuc', 'ma_thu_tuc', 'thoi_han_giai_quyet', 'doi_tuong_thuc_hien', 'co_quan_thuc_hien', 'duong_dan', 'can_cu_phap_ly', 'linh_vuc_thuc_hien', 'le_phi', 'trinh_tu_thuc_hien']
+2026-01-29 10:21:43,171 - fastapi_app - INFO - --> docs: 
+52: Thủ tục đăng ký khai sinh kết hợp đăng ký nhận cha, mẹ, con có yếu tố nước ngoài, lĩnh vực Hộ tịch, Uỷ ban Nhân dân cấp xã, phường, thị trấn thực hiện.
+26: Thủ tục đăng ký khai sinh kết hợp đăng ký nhận cha, mẹ, con, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+33: Thủ tục đăng ký khai sinh có yếu tố nước ngoài cho người đã có hồ sơ, giấy tờ cá nhân, lĩnh vực Hộ tịch, Uỷ ban Nhân dân cấp xã, phường, thị trấn thực hiện.
+40: Thủ tục đăng ký khai sinh, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+112: Thủ tục đăng ký khai sinh cho người đã có hồ sơ, giấy tờ cá nhân, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+2026-01-29 10:21:43,719 - fastapi_app - INFO - 	--> 40
+2026-01-29 10:23:41,918 - fastapi_app - INFO - [Guardrail] question: tôi người hà nội đăng ký khai sinh thế nào?
+2026-01-29 10:23:41,918 - fastapi_app - INFO - [Rewrite] question: tôi người hà nội đăng ký khai sinh thế nào?
+2026-01-29 10:23:42,659 - fastapi_app - INFO - 	--> True
+2026-01-29 10:23:42,912 - fastapi_app - INFO - 	--> Quy trình thực hiện thủ tục đăng ký khai sinh cho người dân tại Hà Nội được thực hiện như thế nào?
+2026-01-29 10:23:42,913 - fastapi_app - INFO - [Analysis] question: Quy trình thực hiện thủ tục đăng ký khai sinh cho người dân tại Hà Nội được thực hiện như thế nào?
+2026-01-29 10:23:46,491 - fastapi_app - INFO - 	--> Intent.SINGLE_PROCEDURE
+2026-01-29 10:23:46,492 - fastapi_app - INFO - [GetProcedureInfo] question: Thủ tục đăng ký khai sinh, query_params: ['ten_thu_tuc', 'yeu_cau_dieu_kien', 'ma_thu_tuc', 'thoi_han_giai_quyet', 'doi_tuong_thuc_hien', 'can_cu_phap_ly_chi_tiet', 'co_quan_thuc_hien', 'duong_dan', 'can_cu_phap_ly', 'linh_vuc_thuc_hien', 'bieu_mau_dinh_kem', 'cach_thuc_thuc_hien', 'thanh_phan_ho_so', 'so_luong_bo_ho_so', 'le_phi', 'trinh_tu_thuc_hien']
+2026-01-29 10:23:46,786 - fastapi_app - INFO - --> docs: 
+52: Thủ tục đăng ký khai sinh kết hợp đăng ký nhận cha, mẹ, con có yếu tố nước ngoài, lĩnh vực Hộ tịch, Uỷ ban Nhân dân cấp xã, phường, thị trấn thực hiện.
+26: Thủ tục đăng ký khai sinh kết hợp đăng ký nhận cha, mẹ, con, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+33: Thủ tục đăng ký khai sinh có yếu tố nước ngoài cho người đã có hồ sơ, giấy tờ cá nhân, lĩnh vực Hộ tịch, Uỷ ban Nhân dân cấp xã, phường, thị trấn thực hiện.
+40: Thủ tục đăng ký khai sinh, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+112: Thủ tục đăng ký khai sinh cho người đã có hồ sơ, giấy tờ cá nhân, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+2026-01-29 10:23:47,296 - fastapi_app - INFO - 	--> 40
+2026-01-29 10:24:54,795 - fastapi_app - INFO - [Guardrail] question: tôi người hà nội đăng ký khai sinh thế nào?
+2026-01-29 10:24:54,796 - fastapi_app - INFO - [Rewrite] question: tôi người hà nội đăng ký khai sinh thế nào?
+2026-01-29 10:24:55,828 - fastapi_app - INFO - 	--> True
+2026-01-29 10:24:56,309 - fastapi_app - INFO - 	--> Quy trình thực hiện thủ tục đăng ký khai sinh cho người dân tại Hà Nội như thế nào?
+2026-01-29 10:24:56,312 - fastapi_app - INFO - [Analysis] question: Quy trình thực hiện thủ tục đăng ký khai sinh cho người dân tại Hà Nội như thế nào?
+2026-01-29 10:25:00,936 - fastapi_app - INFO - 	--> Intent.SINGLE_PROCEDURE
+2026-01-29 10:25:00,937 - fastapi_app - INFO - [GetProcedureInfo] question: Thủ tục đăng ký khai sinh, query_params: ['can_cu_phap_ly', 'thoi_han_giai_quyet', 'can_cu_phap_ly_chi_tiet', 'co_quan_thuc_hien', 'thanh_phan_ho_so', 'duong_dan', 'bieu_mau_dinh_kem', 'le_phi', 'cach_thuc_thuc_hien', 'ten_thu_tuc', 'ma_thu_tuc', 'doi_tuong_thuc_hien', 'so_luong_bo_ho_so', 'linh_vuc_thuc_hien', 'yeu_cau_dieu_kien', 'trinh_tu_thuc_hien']
+2026-01-29 10:25:01,209 - fastapi_app - INFO - --> docs: 
+52: Thủ tục đăng ký khai sinh kết hợp đăng ký nhận cha, mẹ, con có yếu tố nước ngoài, lĩnh vực Hộ tịch, Uỷ ban Nhân dân cấp xã, phường, thị trấn thực hiện.
+26: Thủ tục đăng ký khai sinh kết hợp đăng ký nhận cha, mẹ, con, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+33: Thủ tục đăng ký khai sinh có yếu tố nước ngoài cho người đã có hồ sơ, giấy tờ cá nhân, lĩnh vực Hộ tịch, Uỷ ban Nhân dân cấp xã, phường, thị trấn thực hiện.
+40: Thủ tục đăng ký khai sinh, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+112: Thủ tục đăng ký khai sinh cho người đã có hồ sơ, giấy tờ cá nhân, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+2026-01-29 10:25:01,746 - fastapi_app - INFO - 	--> 40
+2026-01-29 10:26:40,774 - fastapi_app - INFO - [Guardrail] question: tôi người hà nội đăng ký khai sinh thế nào?
+2026-01-29 10:26:40,774 - fastapi_app - INFO - [Rewrite] question: tôi người hà nội đăng ký khai sinh thế nào?
+2026-01-29 10:26:41,444 - fastapi_app - INFO - 	--> True
+2026-01-29 10:26:41,702 - fastapi_app - INFO - 	--> Quy trình thực hiện thủ tục đăng ký khai sinh cho người dân tại Hà Nội như thế nào?
+2026-01-29 10:26:41,703 - fastapi_app - INFO - [Analysis] question: Quy trình thực hiện thủ tục đăng ký khai sinh cho người dân tại Hà Nội như thế nào?
+2026-01-29 10:26:45,837 - fastapi_app - INFO - 	--> Intent.SINGLE_PROCEDURE
+2026-01-29 10:26:45,838 - fastapi_app - INFO - [GetProcedureInfo] question: Thủ tục đăng ký khai sinh, query_params: ['doi_tuong_thuc_hien', 'can_cu_phap_ly', 'bieu_mau_dinh_kem', 'linh_vuc_thuc_hien', 'thanh_phan_ho_so', 'so_luong_bo_ho_so', 'co_quan_thuc_hien', 'ma_thu_tuc', 'trinh_tu_thuc_hien', 'le_phi', 'thoi_han_giai_quyet', 'yeu_cau_dieu_kien', 'cach_thuc_thuc_hien', 'duong_dan', 'ten_thu_tuc', 'can_cu_phap_ly_chi_tiet']
+2026-01-29 10:26:46,191 - fastapi_app - INFO - --> docs: 
+52: Thủ tục đăng ký khai sinh kết hợp đăng ký nhận cha, mẹ, con có yếu tố nước ngoài, lĩnh vực Hộ tịch, Uỷ ban Nhân dân cấp xã, phường, thị trấn thực hiện.
+26: Thủ tục đăng ký khai sinh kết hợp đăng ký nhận cha, mẹ, con, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+33: Thủ tục đăng ký khai sinh có yếu tố nước ngoài cho người đã có hồ sơ, giấy tờ cá nhân, lĩnh vực Hộ tịch, Uỷ ban Nhân dân cấp xã, phường, thị trấn thực hiện.
+40: Thủ tục đăng ký khai sinh, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+112: Thủ tục đăng ký khai sinh cho người đã có hồ sơ, giấy tờ cá nhân, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+2026-01-29 10:26:46,794 - fastapi_app - INFO - 	--> 40
+2026-01-29 10:27:45,793 - fastapi_app - INFO - [Guardrail] question: tôi người hà nội đăng ký khai sinh thế nào?
+2026-01-29 10:27:45,793 - fastapi_app - INFO - [Rewrite] question: tôi người hà nội đăng ký khai sinh thế nào?
+2026-01-29 10:27:46,430 - fastapi_app - INFO - 	--> True
+2026-01-29 10:27:46,793 - fastapi_app - INFO - 	--> Quy trình thực hiện thủ tục đăng ký khai sinh cho người dân tại Hà Nội như thế nào?
+2026-01-29 10:27:46,794 - fastapi_app - INFO - [Analysis] question: Quy trình thực hiện thủ tục đăng ký khai sinh cho người dân tại Hà Nội như thế nào?
+2026-01-29 10:27:50,995 - fastapi_app - INFO - 	--> Intent.SINGLE_PROCEDURE
+2026-01-29 10:27:50,996 - fastapi_app - INFO - [GetProcedureInfo] question: Thủ tục đăng ký khai sinh, query_params: ['duong_dan', 'bieu_mau_dinh_kem', 'ma_thu_tuc', 'thanh_phan_ho_so', 'ten_thu_tuc', 'le_phi', 'cach_thuc_thuc_hien', 'trinh_tu_thuc_hien', 'co_quan_thuc_hien', 'can_cu_phap_ly_chi_tiet', 'thoi_han_giai_quyet', 'yeu_cau_dieu_kien', 'so_luong_bo_ho_so', 'can_cu_phap_ly', 'doi_tuong_thuc_hien', 'linh_vuc_thuc_hien']
+2026-01-29 10:27:51,417 - fastapi_app - INFO - --> docs: 
+52: Thủ tục đăng ký khai sinh kết hợp đăng ký nhận cha, mẹ, con có yếu tố nước ngoài, lĩnh vực Hộ tịch, Uỷ ban Nhân dân cấp xã, phường, thị trấn thực hiện.
+26: Thủ tục đăng ký khai sinh kết hợp đăng ký nhận cha, mẹ, con, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+33: Thủ tục đăng ký khai sinh có yếu tố nước ngoài cho người đã có hồ sơ, giấy tờ cá nhân, lĩnh vực Hộ tịch, Uỷ ban Nhân dân cấp xã, phường, thị trấn thực hiện.
+40: Thủ tục đăng ký khai sinh, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+112: Thủ tục đăng ký khai sinh cho người đã có hồ sơ, giấy tờ cá nhân, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+2026-01-29 10:27:52,657 - fastapi_app - INFO - 	--> 40
+2026-01-29 10:28:39,248 - fastapi_app - INFO - [Guardrail] question: Thủ tục đăng ký khai sinh
+2026-01-29 10:28:39,249 - fastapi_app - INFO - [Rewrite] question: Thủ tục đăng ký khai sinh
+2026-01-29 10:28:40,264 - fastapi_app - INFO - 	--> True
+2026-01-29 10:28:40,332 - fastapi_app - INFO - 	--> Thủ tục đăng ký khai sinh là gì và các bước thực hiện thủ tục này như thế nào?
+2026-01-29 10:28:40,333 - fastapi_app - INFO - [Analysis] question: Thủ tục đăng ký khai sinh là gì và các bước thực hiện thủ tục này như thế nào?
+2026-01-29 10:28:42,471 - fastapi_app - INFO - 	--> Intent.SINGLE_PROCEDURE
+2026-01-29 10:28:42,472 - fastapi_app - INFO - [GetProcedureInfo] question: Thủ tục đăng ký khai sinh, query_params: ['duong_dan', 'ma_thu_tuc', 'ten_thu_tuc', 'le_phi', 'trinh_tu_thuc_hien', 'co_quan_thuc_hien', 'thoi_han_giai_quyet', 'can_cu_phap_ly', 'doi_tuong_thuc_hien', 'linh_vuc_thuc_hien']
+2026-01-29 10:28:42,802 - fastapi_app - INFO - --> docs: 
+52: Thủ tục đăng ký khai sinh kết hợp đăng ký nhận cha, mẹ, con có yếu tố nước ngoài, lĩnh vực Hộ tịch, Uỷ ban Nhân dân cấp xã, phường, thị trấn thực hiện.
+26: Thủ tục đăng ký khai sinh kết hợp đăng ký nhận cha, mẹ, con, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+33: Thủ tục đăng ký khai sinh có yếu tố nước ngoài cho người đã có hồ sơ, giấy tờ cá nhân, lĩnh vực Hộ tịch, Uỷ ban Nhân dân cấp xã, phường, thị trấn thực hiện.
+40: Thủ tục đăng ký khai sinh, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+112: Thủ tục đăng ký khai sinh cho người đã có hồ sơ, giấy tờ cá nhân, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+2026-01-29 10:28:43,420 - fastapi_app - INFO - 	--> 40
+2026-01-29 10:29:12,242 - fastapi_app - INFO - [Guardrail] question: hà nội, đăng ký khai sinh thế nào?
+2026-01-29 10:29:12,242 - fastapi_app - INFO - [Rewrite] question: hà nội, đăng ký khai sinh thế nào?
+2026-01-29 10:29:13,059 - fastapi_app - INFO - 	--> True
+2026-01-29 10:29:13,519 - fastapi_app - INFO - 	--> Quy trình đăng ký khai sinh tại Hà Nội được thực hiện như thế nào?
+2026-01-29 10:29:13,520 - fastapi_app - INFO - [Analysis] question: Quy trình đăng ký khai sinh tại Hà Nội được thực hiện như thế nào?
+2026-01-29 10:29:18,153 - fastapi_app - INFO - 	--> Intent.SINGLE_PROCEDURE
+2026-01-29 10:29:18,156 - fastapi_app - INFO - [GetProcedureInfo] question: Thủ tục đăng ký khai sinh, query_params: ['duong_dan', 'ma_thu_tuc', 'thanh_phan_ho_so', 'ten_thu_tuc', 'le_phi', 'trinh_tu_thuc_hien', 'cach_thuc_thuc_hien', 'co_quan_thuc_hien', 'thoi_han_giai_quyet', 'can_cu_phap_ly', 'doi_tuong_thuc_hien', 'linh_vuc_thuc_hien']
+2026-01-29 10:29:18,445 - fastapi_app - INFO - --> docs: 
+52: Thủ tục đăng ký khai sinh kết hợp đăng ký nhận cha, mẹ, con có yếu tố nước ngoài, lĩnh vực Hộ tịch, Uỷ ban Nhân dân cấp xã, phường, thị trấn thực hiện.
+26: Thủ tục đăng ký khai sinh kết hợp đăng ký nhận cha, mẹ, con, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+33: Thủ tục đăng ký khai sinh có yếu tố nước ngoài cho người đã có hồ sơ, giấy tờ cá nhân, lĩnh vực Hộ tịch, Uỷ ban Nhân dân cấp xã, phường, thị trấn thực hiện.
+40: Thủ tục đăng ký khai sinh, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+112: Thủ tục đăng ký khai sinh cho người đã có hồ sơ, giấy tờ cá nhân, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+2026-01-29 10:29:19,081 - fastapi_app - INFO - 	--> 40
+2026-01-29 10:29:52,779 - fastapi_app - INFO - [Guardrail] question: tôi người hà nội thì đăng ký khai sinh thế nào?
+2026-01-29 10:29:52,779 - fastapi_app - INFO - [Rewrite] question: tôi người hà nội thì đăng ký khai sinh thế nào?
+2026-01-29 10:29:53,450 - fastapi_app - INFO - 	--> True
+2026-01-29 10:29:53,926 - fastapi_app - INFO - 	--> Quy trình thực hiện thủ tục đăng ký khai sinh cho người dân tại Hà Nội như thế nào?
+2026-01-29 10:29:53,927 - fastapi_app - INFO - [Analysis] question: Quy trình thực hiện thủ tục đăng ký khai sinh cho người dân tại Hà Nội như thế nào?
+2026-01-29 10:29:57,949 - fastapi_app - INFO - 	--> Intent.SINGLE_PROCEDURE
+2026-01-29 10:29:57,950 - fastapi_app - INFO - [GetProcedureInfo] question: Thủ tục đăng ký khai sinh, query_params: ['duong_dan', 'bieu_mau_dinh_kem', 'ma_thu_tuc', 'thanh_phan_ho_so', 'ten_thu_tuc', 'le_phi', 'cach_thuc_thuc_hien', 'trinh_tu_thuc_hien', 'co_quan_thuc_hien', 'can_cu_phap_ly_chi_tiet', 'thoi_han_giai_quyet', 'yeu_cau_dieu_kien', 'so_luong_bo_ho_so', 'can_cu_phap_ly', 'doi_tuong_thuc_hien', 'linh_vuc_thuc_hien']
+2026-01-29 10:29:58,271 - fastapi_app - INFO - --> docs: 
+52: Thủ tục đăng ký khai sinh kết hợp đăng ký nhận cha, mẹ, con có yếu tố nước ngoài, lĩnh vực Hộ tịch, Uỷ ban Nhân dân cấp xã, phường, thị trấn thực hiện.
+26: Thủ tục đăng ký khai sinh kết hợp đăng ký nhận cha, mẹ, con, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+33: Thủ tục đăng ký khai sinh có yếu tố nước ngoài cho người đã có hồ sơ, giấy tờ cá nhân, lĩnh vực Hộ tịch, Uỷ ban Nhân dân cấp xã, phường, thị trấn thực hiện.
+40: Thủ tục đăng ký khai sinh, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+112: Thủ tục đăng ký khai sinh cho người đã có hồ sơ, giấy tờ cá nhân, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+2026-01-29 10:29:58,842 - fastapi_app - INFO - 	--> 40
+2026-01-29 10:49:30,900 - fastapi_app - INFO - [Guardrail] question: đổi tên trường cần làm gì
+2026-01-29 10:49:30,900 - fastapi_app - INFO - [Rewrite] question: đổi tên trường cần làm gì
+2026-01-29 10:49:31,812 - fastapi_app - INFO - 	--> True
+2026-01-29 10:49:32,319 - fastapi_app - INFO - 	--> Quy trình và các bước cần thực hiện để đổi tên trường là gì?
+2026-01-29 10:49:32,320 - fastapi_app - INFO - [Analysis] question: Quy trình và các bước cần thực hiện để đổi tên trường là gì?
+2026-01-29 10:49:35,287 - fastapi_app - INFO - 	--> Intent.SINGLE_PROCEDURE
+2026-01-29 10:49:35,288 - fastapi_app - INFO - [GetProcedureInfo] question: Đổi tên trường trung cấp, trung tâm giáo dục nghề nghiệp có vốn đầu tư nước ngoài, lĩnh vực Giáo dục nghề nghiệp (G07-LĐ06), query_params: ['ten_thu_tuc', 'le_phi', 'thoi_han_giai_quyet', 'co_quan_thuc_hien', 'cach_thuc_thuc_hien', 'thanh_phan_ho_so', 'yeu_cau_dieu_kien', 'can_cu_phap_ly', 'duong_dan', 'doi_tuong_thuc_hien', 'ma_thu_tuc', 'trinh_tu_thuc_hien', 'linh_vuc_thuc_hien']
+2026-01-29 10:49:35,632 - fastapi_app - INFO - --> docs: 
+19: Đổi tên trường trung cấp, trung tâm giáo dục nghề nghiệp có vốn đầu tư nước ngoài, lĩnh vực Giáo dục nghề nghiệp (G07-LĐ06), Sở Giáo dục và Đào tạo thực hiện.
+16: Công nhận trường trung cấp, trung tâm giáo dục nghề nghiệp tư thục; trường trung cấp, trung tâm giáo dục nghề nghiệp có vốn đầu tư nước ngoài chuyển sang hoạt động không vì lợi nhuận, lĩnh vực Giáo dục nghề nghiệp (G07-LĐ06), Sở Giáo dục và Đào tạo thực hiện.
+20: Giải thể trường trung cấp, trung tâm giáo dục nghề nghiệp có vốn đầu tư nước ngoài; chấm dứt hoạt động phân hiệu của trường trung cấp có vốn đầu tư nước ngoài, lĩnh vực Giáo dục nghề nghiệp (G07-LĐ06), Sở Giáo dục và Đào tạo thực hiện.
+2: Cho phép thành lập phân hiệu của trường trung cấp có vốn đầu tư nước ngoài, lĩnh vực Giáo dục nghề nghiệp (G07-LĐ06), Cơ quan chức năng do Ủy ban nhân dân cấp tỉnh chỉ định thực hiện.
+1: Chia, tách, sáp nhập trường trung cấp, trung tâm giáo dục nghề nghiệp có vốn đầu tư nước ngoài, lĩnh vực Giáo dục nghề nghiệp (G07-LĐ06), Cơ quan chức năng do Ủy ban nhân dân cấp tỉnh chỉ định thực hiện.
+2026-01-29 10:49:36,304 - fastapi_app - INFO - 	--> 19
+2026-01-29 10:51:38,869 - fastapi_app - INFO - [Guardrail] question: đăng ký kết hôn đợi bao lâu
+2026-01-29 10:51:38,869 - fastapi_app - INFO - [Rewrite] question: đăng ký kết hôn đợi bao lâu
+2026-01-29 10:51:39,789 - fastapi_app - INFO - 	--> True
+2026-01-29 10:51:40,209 - fastapi_app - INFO - 	--> Thời gian giải quyết của thủ tục đăng ký kết hôn là bao lâu?
+2026-01-29 10:51:40,210 - fastapi_app - INFO - [Analysis] question: Thời gian giải quyết của thủ tục đăng ký kết hôn là bao lâu?
+2026-01-29 10:51:41,936 - fastapi_app - INFO - 	--> Intent.SINGLE_PROCEDURE
+2026-01-29 10:51:41,937 - fastapi_app - INFO - [GetProcedureInfo] question: Thủ tục đăng ký kết hôn, query_params: ['ten_thu_tuc', 'le_phi', 'thoi_han_giai_quyet', 'co_quan_thuc_hien', 'can_cu_phap_ly', 'duong_dan', 'doi_tuong_thuc_hien', 'ma_thu_tuc', 'linh_vuc_thuc_hien']
+2026-01-29 10:51:42,339 - fastapi_app - INFO - --> docs: 
+34: Thủ tục đăng ký kết hôn, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+22: Thủ tục đăng ký kết hôn lưu động, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+111: Thủ tục đăng ký lại kết hôn, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+26: Thủ tục đăng ký khai sinh kết hợp đăng ký nhận cha, mẹ, con, lĩnh vực Hộ tịch, Ủy ban Nhân dân xã, phường, thị trấn. thực hiện.
+52: Thủ tục đăng ký khai sinh kết hợp đăng ký nhận cha, mẹ, con có yếu tố nước ngoài, lĩnh vực Hộ tịch, Uỷ ban Nhân dân cấp xã, phường, thị trấn thực hiện.
+2026-01-29 10:51:43,216 - fastapi_app - INFO - 	--> 34

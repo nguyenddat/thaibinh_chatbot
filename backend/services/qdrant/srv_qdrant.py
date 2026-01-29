@@ -3,10 +3,10 @@ from typing import List, Optional, Literal
 
 from qdrant_client import QdrantClient
 from qdrant_client.models import VectorParams, Distance, \
-    PointStruct, Filter, FieldCondition, MatchValue, MatchAny, \
-    SearchParams
+    PointStruct, SparseVectorParams, SearchParams, \
+    Prefetch, Fusion, FusionQuery
 
-from core import setting, openai_embeddings
+from core import setting, openai_embeddings, bm25_embeddings
 from .data_models import QdrantDocument
 
 @dataclass
@@ -22,16 +22,24 @@ class QdrantService:
         self._ensure_collection()
     
     def insert_chunks(self, documents: List[QdrantDocument], embeddings: List[List[float]]):
+        # BM25
+        sparse_embeddings = list(bm25_embeddings.embed([
+            document.content for document in documents
+        ]))
+        
         if len(documents) != len(embeddings):
             raise ValueError("Số lượng documents và embeddings phải bằng nhau.")
         
         points: List[PointStruct] = []
-        for doc, embedding in zip(documents, embeddings):
+        for doc, embedding, sparse_embedding in zip(documents, embeddings, sparse_embeddings):
             payload = doc.model_dump(exclude={"id"})
             points.append(
                 PointStruct(
                     id=doc.id,
-                    vector=embedding,
+                    vector={
+                        "dense": embedding,
+                        "bm25": sparse_embedding.as_object()
+                    },
                     payload=payload,
                 )
             )
@@ -44,13 +52,18 @@ class QdrantService:
     
     def search(self, query: str, top_k: int = 10):
         query_embedding = openai_embeddings.embed_query(query)
+        sparse_query = list(bm25_embeddings.embed([query]))[0].as_object()
         
         results = self.client.query_points(
-            collection_name=self.collection_name,
-            query=query_embedding,
+        collection_name=self.collection_name,
+            prefetch=[
+                Prefetch(query=query_embedding, using="dense", limit=top_k),
+                Prefetch(query=sparse_query, using="bm25", limit=top_k),
+            ],
+            query=FusionQuery(fusion=Fusion.RRF),
             limit=top_k,
-            search_params=SearchParams(hnsw_ef=128),
         )
+
         return [
             {
                 "score": r.score,
@@ -69,10 +82,15 @@ class QdrantService:
 
         self.client.create_collection(
             collection_name=self.collection_name,
-            vectors_config=VectorParams(
-                size=self.vector_size,
-                distance=self.distance,
-            ),
+            vectors_config={
+                "dense": VectorParams(
+                    size=self.vector_size,
+                    distance=self.distance
+                ) 
+            },
+            sparse_vectors_config={
+                "bm25": SparseVectorParams()
+            }
         )
         
 qdrant_service = QdrantService(
